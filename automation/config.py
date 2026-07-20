@@ -36,7 +36,7 @@ GMAIL_PROCESSED_LABEL = "NewsDigest/Processed"
 #   "gmail_address": "your-address@gmail.com"
 #   "gmail_app_password": "xxxx xxxx xxxx xxxx"  (App Password from Google)
 GMAIL_ADDRESS: str | None = _secrets.get("gmail_address")
-GMAIL_APP_PASSWORD: str | None = _secrets.get("gmail_app_password")
+GMAIL_APP_PASSWORD: str | None = _secrets.get("gmail_app_password") or _secrets.get("gmail_password")
 
 # Cheap-model summarization: headless Claude Code CLI, --safe-mode (NOT --bare,
 # which forces API-key auth and bypasses the logged-in subscription).
