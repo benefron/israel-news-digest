@@ -121,30 +121,47 @@ def _fetch_rss(feed_url: str) -> list[dict]:
     return items
 
 
+# Below this, scraped anchor text is reliably nav/menu/category/byline
+# chrome (observed max ~28 chars across several sites' homepages); real
+# headlines observed were all 50+ chars. There's no separating this by any
+# other cheap signal, so a length floor is the whole filter.
+MIN_SCRAPE_TITLE_CHARS = 30
+
+
 def _fetch_scrape_fallback(source_key: str, page_url: str) -> list[dict]:
     soup = BeautifulSoup(_http_get(page_url), "html.parser")
 
-    items = []
-    seen_urls = set()
+    # A single article is often wrapped by more than one <a> to the same
+    # URL — e.g. a big card anchor (badge + headline + teaser, all
+    # concatenated with no whitespace in the source HTML) alongside a
+    # smaller anchor around just the headline. Keep the shortest
+    # (still-above-floor) candidate per URL rather than whichever anchor
+    # the DOM happens to list first, since the concise one is reliably just
+    # the headline.
+    candidates: dict[str, dict] = {}
+    order: list[str] = []
     for a in soup.find_all("a", href=True):
-        text = a.get_text(strip=True)
-        if not text or len(text) < 8:
+        text = a.get_text(" ", strip=True)
+        if not text or len(text) < MIN_SCRAPE_TITLE_CHARS:
             continue
         url = urljoin(page_url, a["href"])
         if not url.startswith("http"):
             continue
         canon = canonicalize_url(url)
-        if canon in seen_urls:
-            continue
-        seen_urls.add(canon)
 
         img_el = a.find("img") or (a.parent.find("img") if a.parent else None)
         image_url = urljoin(page_url, img_el["src"]) if img_el and img_el.get("src") else None
 
-        items.append({"title": text, "url": url, "published_at": None, "image_url": image_url})
-        if len(items) >= 30:
-            break
-    return items
+        existing = candidates.get(canon)
+        if existing is None:
+            candidates[canon] = {"title": text, "url": url, "published_at": None, "image_url": image_url}
+            order.append(canon)
+        elif len(text) < len(existing["title"]):
+            existing["title"] = text
+            if image_url:
+                existing["image_url"] = image_url
+
+    return [candidates[c] for c in order[:30]]
 
 
 def fetch_source(source_key: str, sources_dict: dict | None = None) -> tuple[list[dict], bool]:

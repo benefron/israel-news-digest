@@ -80,13 +80,28 @@ def select_curated_subset(
     selected: dict[str, dict] = {}
 
     def take(label: str, cap: int):
-        count = 0
+        # Group candidates by source (in pool order) and pick round-robin
+        # across sources, rather than walking the pool in order and taking
+        # the first `cap` matches — pool order always puts every
+        # scrape-fallback source (no RSS published_at) after every RSS
+        # source, so a naive first-N scan would let 5-6 RSS sources fill the
+        # whole cap before a scrape-fallback source's turn ever comes up.
+        by_source: dict[str, list[str]] = {}
         for hid, labels in labels_by_id.items():
-            if count >= cap:
-                break
-            if label in labels and hid in by_id:
+            if label in labels and hid in by_id and hid not in selected:
+                by_source.setdefault(by_id[hid]["source"], []).append(hid)
+
+        count = 0
+        while count < cap and by_source:
+            for source_key in list(by_source.keys()):
+                if count >= cap:
+                    break
+                queue = by_source[source_key]
+                hid = queue.pop(0)
                 selected[hid] = by_id[hid]
                 count += 1
+                if not queue:
+                    del by_source[source_key]
 
     take("top_general", top_general_cap)
     take("security_war", security_cap)
