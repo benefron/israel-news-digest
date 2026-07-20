@@ -5,33 +5,73 @@
       "type": "object",
       "properties": {
         "summary_en": { "type": "string" },
-        "headline_ids": { "type": "array", "items": { "type": "string" } }
+        "headlines": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id":       { "type": "string" },
+              "title_en": { "type": "string" }
+            },
+            "required": ["id", "title_en"]
+          }
+        }
       },
-      "required": ["summary_en", "headline_ids"]
+      "required": ["summary_en", "headlines"]
     },
     "belgium": {
       "type": "object",
       "properties": {
         "summary_en": { "type": "string" },
-        "headline_ids": { "type": "array", "items": { "type": "string" } }
+        "headlines": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id":       { "type": "string" },
+              "title_en": { "type": "string" }
+            },
+            "required": ["id", "title_en"]
+          }
+        }
       },
-      "required": ["summary_en", "headline_ids"]
+      "required": ["summary_en", "headlines"]
     },
     "europe": {
       "type": "object",
       "properties": {
         "summary_en": { "type": "string" },
-        "headline_ids": { "type": "array", "items": { "type": "string" } }
+        "headlines": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id":       { "type": "string" },
+              "title_en": { "type": "string" }
+            },
+            "required": ["id", "title_en"]
+          }
+        }
       },
-      "required": ["summary_en", "headline_ids"]
+      "required": ["summary_en", "headlines"]
     },
     "world_top": {
       "type": "object",
       "properties": {
         "summary_en": { "type": "string" },
-        "headline_ids": { "type": "array", "items": { "type": "string" } }
+        "headlines": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id":       { "type": "string" },
+              "title_en": { "type": "string" }
+            },
+            "required": ["id", "title_en"]
+          }
+        }
       },
-      "required": ["summary_en", "headline_ids"]
+      "required": ["summary_en", "headlines"]
     }
   },
   "required": ["israel_jewish", "belgium", "europe", "world_top"]

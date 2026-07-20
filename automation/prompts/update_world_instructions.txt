@@ -11,6 +11,12 @@ For each section:
 
 Output the same four sections (israel_jewish, belgium, europe, world_top) with updated or unchanged content.
 
+IMPORTANT — headline output format:
+For each section, `headlines` is an array of objects `{id, title_en}`. For every headline id included (both existing and newly added), provide:
+- id: the exact id
+- title_en: the English title. For existing English headlines copy the title as-is. For newly added Dutch or other-language headlines, provide a fluent English translation of the title only.
+
+
 Section assignment rules — same as for full generation:
 - israel_jewish: Israel, IDF, Gaza, West Bank, antisemitism, Jewish communities, Israeli diplomacy
 - belgium: Belgium, Flemish, Brussels, Leuven, Belgian politics or climate

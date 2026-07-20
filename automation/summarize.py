@@ -167,9 +167,21 @@ def _structured_to_world_digest(structured: dict, by_id: dict) -> dict:
     sections = {}
     for key in ("israel_jewish", "belgium", "europe", "world_top"):
         sec = structured.get(key, {})
+        resolved = []
+        for item in sec.get("headlines", []):
+            if isinstance(item, dict):
+                hid = item.get("id")
+                if hid and hid in by_id:
+                    h = dict(by_id[hid])
+                    title_en = (item.get("title_en") or "").strip()
+                    if title_en:
+                        h["title"] = title_en  # replace original (possibly Dutch) title
+                    resolved.append(h)
+            elif isinstance(item, str) and item in by_id:
+                resolved.append(by_id[item])
         sections[key] = {
             "summary_en": sec.get("summary_en", PLACEHOLDER_SUMMARY_EN),
-            "headlines": _resolve_ids(sec.get("headline_ids", []), by_id),
+            "headlines": resolved,
         }
     return {**sections, "degraded": False}
 
@@ -223,7 +235,8 @@ def update_world_incrementally(
         sec = existing_world.get(key, {})
         existing_for_prompt[key] = {
             "summary_en": sec.get("summary_en", ""),
-            "headline_ids": [h["id"] for h in sec.get("headlines", [])],
+            # Include title so the LLM can re-emit it in title_en without needing to re-translate
+            "headlines": [{"id": h["id"], "title_en": h["title"]} for h in sec.get("headlines", [])],
         }
 
     scratch_input = {

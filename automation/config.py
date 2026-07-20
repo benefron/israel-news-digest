@@ -188,11 +188,6 @@ WORLD_SOURCES = {
         "rss": ["https://www.politico.eu/feed/"],
         "scrape_fallback_url": "https://www.politico.eu/",
     },
-    "times_of_israel": {
-        "label_en": "Times of Israel",
-        "rss": ["https://www.timesofisrael.com/feed/"],
-        "scrape_fallback_url": "https://www.timesofisrael.com/",
-    },
     "jta": {
         "label_en": "JTA",
         "rss": ["https://www.jta.org/feed"],

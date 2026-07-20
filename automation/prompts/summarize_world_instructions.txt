@@ -20,3 +20,8 @@ Rules:
 - Never return an empty string for summary_en.
 - headline_ids: select ids of the headlines used for that section. These MUST be real ids from the input — never invent an id.
 - A headline may appear in only one section.
+
+IMPORTANT — headline output format:
+For each section, `headlines` is an array of objects `{id, title_en}`. For every headline id you select, provide:
+- id: the exact id from the input
+- title_en: the headline title translated to clear English. If the original is already in English, copy it exactly. If it is in Dutch or another language, provide a fluent English translation of the title only — do not summarise, do not add context.
