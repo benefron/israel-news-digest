@@ -152,6 +152,59 @@ SOURCES = {
         ],
         "scrape_fallback_url": "https://news.walla.co.il/",
     },
+    "globes": {
+        "label_he": "גלובס",
+        "rss": [
+            "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
+        ],
+        "scrape_fallback_url": "https://www.globes.co.il/",
+    },
+    "themarker": {
+        "label_he": "TheMarker",
+        "rss": [
+            "https://www.themarker.com/cmlink/1.145",
+        ],
+        "scrape_fallback_url": "https://www.themarker.com/",
+    },
+    "times_of_israel": {
+        "label_he": "Times of Israel",
+        "rss": [
+            "https://www.timesofisrael.com/feed/",
+        ],
+        "scrape_fallback_url": "https://www.timesofisrael.com/",
+    },
+    # These four (plus israel_hayom and kan above) plain-403 on both their RSS
+    # endpoints and homepage from httpx — Cloudflare/Akamai reject its TLS
+    # fingerprint even with browser-like headers. sources.py's _http_get()
+    # retries a 403 via tls_client (real Chrome TLS/JA3 fingerprint), which
+    # clears it for all of these except maariv, which returns
+    # `cf-mitigated: challenge` — an actual Cloudflare Turnstile JS
+    # challenge, not just a fingerprint check, so it needs a real headless
+    # browser (or stays a known-failing source).
+    "maariv": {
+        "label_he": "מעריב",
+        "rss": [],
+        "scrape_fallback_url": "https://www.maariv.co.il/",
+    },
+    "makor_rishon": {
+        "label_he": "מקור ראשון",
+        "rss": [],
+        "scrape_fallback_url": "https://www.makorrishon.co.il/",
+    },
+    "reshet13": {
+        "label_he": "חדשות 13",
+        "rss": [],
+        "scrape_fallback_url": "https://13tv.co.il/news/",
+    },
+    "i24": {
+        "label_he": "i24NEWS",
+        # Homepage is a client-rendered React SPA; a plain fetch returns the
+        # shell with only a handful of server-rendered links, not a real
+        # headline list, but does include a couple of real server-rendered
+        # headlines mixed in with nav chrome — good enough as a fallback.
+        "rss": [],
+        "scrape_fallback_url": "https://www.i24news.tv/he",
+    },
 }
 
 # World/Belgium sources — verified live 2026-07-20.

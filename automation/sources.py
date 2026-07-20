@@ -6,6 +6,7 @@ from urllib.parse import urljoin, urlparse, urlunparse, parse_qsl, urlencode
 
 import feedparser
 import httpx
+import tls_client
 from bs4 import BeautifulSoup
 
 import config
@@ -67,15 +68,38 @@ def headline_id(url: str) -> str:
     return hashlib.sha1(canonicalize_url(url).encode("utf-8")).hexdigest()[:10]
 
 
+def _fetch_via_tls_client(url: str) -> bytes:
+    """Some sites (Cloudflare/Akamai-fronted) 403 plain httpx requests
+    because its TLS handshake doesn't look like a real browser, even with
+    browser-like headers. tls_client spoofs an actual Chrome TLS/JA3
+    fingerprint, which clears that check without needing a full headless
+    browser. Only worth the overhead as a fallback after httpx's 403."""
+    session = tls_client.Session(client_identifier="chrome_120", random_tls_extension_order=True)
+    resp = session.get(url, headers=config.REQUEST_HEADERS, timeout_seconds=config.REQUEST_TIMEOUT_SECONDS)
+    if resp.status_code >= 400:
+        raise ValueError(f"tls_client fallback got HTTP {resp.status_code} for {url}")
+    return resp.content
+
+
+def _http_get(url: str) -> bytes:
+    try:
+        resp = httpx.get(
+            url,
+            headers=config.REQUEST_HEADERS,
+            timeout=config.REQUEST_TIMEOUT_SECONDS,
+            follow_redirects=True,
+        )
+        resp.raise_for_status()
+        return resp.content
+    except httpx.HTTPStatusError as exc:
+        if exc.response.status_code != 403:
+            raise
+        log.info("url=%s got 403 via httpx, retrying via tls_client", url)
+        return _fetch_via_tls_client(url)
+
+
 def _fetch_rss(feed_url: str) -> list[dict]:
-    resp = httpx.get(
-        feed_url,
-        headers=config.REQUEST_HEADERS,
-        timeout=config.REQUEST_TIMEOUT_SECONDS,
-        follow_redirects=True,
-    )
-    resp.raise_for_status()
-    parsed = feedparser.parse(resp.content)
+    parsed = feedparser.parse(_http_get(feed_url))
     if not parsed.entries:
         raise ValueError(f"no entries in feed: {feed_url}")
 
@@ -98,14 +122,7 @@ def _fetch_rss(feed_url: str) -> list[dict]:
 
 
 def _fetch_scrape_fallback(source_key: str, page_url: str) -> list[dict]:
-    resp = httpx.get(
-        page_url,
-        headers=config.REQUEST_HEADERS,
-        timeout=config.REQUEST_TIMEOUT_SECONDS,
-        follow_redirects=True,
-    )
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
+    soup = BeautifulSoup(_http_get(page_url), "html.parser")
 
     items = []
     seen_urls = set()
