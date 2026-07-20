@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "properties": {
+    "top_general_summary": { "type": "string" },
+    "security_war_summary": { "type": "string" },
+    "subjects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "key": { "type": "string" },
+          "summary": { "type": "string" }
+        },
+        "required": ["key", "summary"]
+      }
+    }
+  },
+  "required": ["top_general_summary", "security_war_summary", "subjects"]
+}

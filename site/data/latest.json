@@ -1,94 +1,73 @@
 {
-  "generated_at": "2026-07-20T18:34:08.048984+00:00",
+  "generated_at": "2026-07-20T19:11:11.193690+00:00",
   "date": "2026-07-20",
   "degraded": false,
   "top_general": {
-    "summary_he": "אנדי ברנהאם הושבע לראש ממשלת בריטניה, וג'יי די ואנס הפך לאב לראשונה מאז כניסתו לתפקיד סגן נשיא ארה\"ב, כאשר רפובליקאים שמרנים מביעים חשש מזיקתו לימין הקיצוני. בישראל התפרסמו תוצאות פריימריז הדמוקרטים, כאשר לזימי, קריב ורייטן זכו במקומות הראשונים, ואיפא\"ק פועלת נגד דמוקרטים שתמכו בביטול הסיוע לישראל. בזירה המקומית התפרסמו דיווחים על מתיחות בין נתניהו לטראמפ סביב אפשרות מעצר, ועל ניסיון אנשי ואנס לסכל פגישה בין השניים.",
+    "summary_he": "יום של התמודדות עם מתחים בחו\"ל ועם עימותים פוליטיים בתוך הארץ. על רקע עשרות פצועים בקרב אמריקאים בירדן בעקבות התקיפות האיראניות, ישראל צופה בסקרי בחירות המראים שינוי בסף הכניסה לכנסת, בעוד בן גביר מעורער בעקבות חילוקי דעות שיפוטיים. לעומת זאת, האוכלוסייה כולה עצרה לקראת גמר המונדיאל, בשעה שמחאה נדירה בהודו החרידה את סדר הדברים בתת-היבשת.",
     "headlines": [
       {
-        "id": "6c9e93fd75",
-        "title": "השביעי בתוך עשור: אנדי ברנהאם הושבע לראש ממשלת בריטניה",
-        "url": "https://news.walla.co.il/item/3854924",
-        "source": "walla",
-        "source_label_he": "וואלה",
-        "published_at": "2026-07-20T15:08:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/8/4078043-46.jpg"
-      },
-      {
-        "id": "496af656b4",
-        "title": "86% הצבעה בפריימריז \"הדמוקרטים\": אלו המועמדים שבצמרת הרשימה",
-        "url": "https://news.walla.co.il/item/3854981",
-        "source": "walla",
-        "source_label_he": "וואלה",
-        "published_at": "2026-07-20T19:18:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079210-46.jpeg"
-      },
-      {
-        "id": "9418637921",
-        "title": "הרפובליקאים השמרנים בארה\"ב חוששים שוואנס קורץ לימין הקיצוני והאנטישמי",
-        "url": "https://www.haaretz.co.il/news/world/america/2026-07-20/ty-article/.premium/0000019f-7a8b-d723-af9f-fbfb4de20000",
+        "id": "e50a38b2a6",
+        "title": "מקורות בארה\"ב: עשרות חיילים נפצעו בתקיפות של איראן בשבוע שעבר בירדן, הפנטגון הסתיר זאת",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7ed4-d48b-ab9f-7eff1f6b0000",
         "source": "haaretz",
+        "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-20T03:00:40+00:00",
+        "published_at": "2026-07-20T09:24:55+00:00",
         "image_url": null
       },
       {
-        "id": "d0b8b026c6",
-        "title": "המהלך של איפא\"ק נגד דמוקרטים שתמכו בביטול הסיוע לישראל",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-6bba932709e7f91027.htm",
-        "source": "mako",
-        "source_label_he": "N12",
-        "published_at": "2026-07-20T08:08:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/07/20/GettyImages-1138390768_re_autoOrient_i.jpg"
+        "id": "2606a2e448",
+        "title": "סקר כאן 11: הנדל וטרופר עוברים את אחוז החסימה; לאופוזיציה יש רוב, לאופוזיציה היהודית אין",
+        "url": "https://www.haaretz.co.il/news/elections/2026-07-19/ty-article/.premium/0000019f-7bc8-dd9d-abbf-7fcfc8810000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-19T19:55:15+00:00",
+        "image_url": null
       },
       {
-        "id": "f879bc22bf",
-        "title": "הדמוקרטים מסרבים לאפשר לערוץ 14 לסקר את אירוע הפריימריז הערב",
-        "url": "https://www.haaretz.co.il/news/elections/2026-07-20/ty-article/0000019f-7ee7-d316-a9df-7eef7e410000",
+        "id": "6e3e39b746",
+        "title": "היועמ\"שית לבג\"ץ: אי אפשר לגבש הסכמות עם בן גביר, אין מנוס מהתערבות שיפוטית",
+        "url": "https://www.haaretz.co.il/news/law/2026-07-20/ty-article/0000019f-7e23-d723-af9f-ff730bed0000",
         "source": "haaretz",
+        "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-20T10:02:57+00:00",
+        "published_at": "2026-07-20T06:14:40+00:00",
+        "image_url": null
+      },
+      {
+        "id": "0f966b6009",
+        "title": "ישראל עמדה מלכת לכבוד גמר המונדיאל: הכבישים התרוקנו - והאוכל זרם במשלוחים",
+        "url": "https://www.ynet.co.il/news/article/rypr8vjegg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-20T13:23:13+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/27/SyblnSr4eGe/SyblnSr4eGe_0_238_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "5147671c7d",
+        "title": "מחאה נדירה בהודו: אלפי סטודנטים וצעירים צעדו אל הפרלמנט בניו דלהי ונהדפו",
+        "url": "https://www.haaretz.co.il/news/world/asia/2026-07-20/ty-article/0000019f-7ed6-d0c2-af9f-7ffe20b60000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-20T11:09:40+00:00",
         "image_url": null
       }
     ]
   },
   "security_war": {
-    "summary_he": "דיווחים מצביעים על כך שאיראן ניצלה את הסרת המצור לרווחים כלכליים ניכרים, בעוד תקיפותיה בירדן הורחבו ופצעו עשרות חיילים אמריקאים, לפי מקורות בארה\"ב הטוענים כי הפנטגון הסתיר זאת. ארה\"ב תקפה שוב באיראן, וטראמפ מסר כי הפגיעה הייתה בעוצמה רבה. בעזה נבחר חליל אל-חיה למנהיג חדש של חמאס, וצה\"ל מסרב להבהיר את נסיבות הריגתם של בני משפחה, ובהם ילדה בת 8. במקביל דווח על מצור מתמשך של מתנחלים על משפחה בג'אלוד, על צעדה גדולה למען התיישבות בעזה, ועל הרג שני פלסטינים בגדה בזמן שמתנחלים גנבו משם צאן.",
+    "summary_he": "בזירת הביטחון, תוך השפלת איראן, ארה\"ב תקפה אתרים איראניים בעוצמה, כשטראמפ טוען כי צפויה הכאה נוספת. מצידה, איראן הרחיבה את התקיפות גם לירדן, כשהמסר הועבר גם ללבנון, ועשרות חיילים אמריקאים נפצעו בהתקפות שהפנטגון הסתיר. בחזיתות קרובות יותר, החות'ים הודיעו על מצור ימי חדש על סעודיה, ובגדה המערבית מתנחלים פעילים במשטר של סגר ותקיפות נגד פלסטינים, וישראל שומרת על ביטחון ברצועת עזה.",
     "headlines": [
       {
-        "id": "f96990d275",
-        "title": "עורק הנשימה למשטר: איראן ניצלה את הסרת המצור - והרוויחה כ-6 מיליארד דולר",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-691e81116397f91027.htm",
-        "source": "mako",
-        "source_label_he": "N12",
-        "published_at": "2026-07-19T17:07:00+00:00",
-        "image_url": "https://img.mako.co.il/2024/07/31/egfrqwevbrqwebrmqwevbmrvqwemrhjgr_re_autoOrient_i.jpg"
-      },
-      {
-        "id": "d21b15fdee",
-        "title": "מתנחלים מטילים מצור על משפחה בג'אלוד במשך יותר משבועיים, על אף נוכחות הצבא באזור",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-19/ty-article/.premium/0000019f-6b1a-d34a-a99f-7ffb8c030000",
+        "id": "c8aa81218b",
+        "title": "ארה\"ב תקפה באיראן; טראמפ: פגענו בהם שוב בעוצמה הלילה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/0000019f-7cb2-dd8b-a1bf-fef23cfd0000",
         "source": "haaretz",
+        "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-19T17:16:17+00:00",
-        "image_url": null
-      },
-      {
-        "id": "3fd79c7b8c",
-        "title": "בלעדי | האזרחים ממדינות המפרץ בריאיון ל-N12: \"מה שאיראן עושה מסוכן מאוד, אי אפשר לשתוק עליו\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-5d7d3649b5b7f91026.htm",
-        "source": "mako",
-        "source_label_he": "N12",
-        "published_at": "2026-07-19T18:20:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/06/26/FDFSDSFD_autoOrient_i.jpg"
-      },
-      {
-        "id": "5c211440b1",
-        "title": "אלפים השתתפו בצעדה למען התנחלות בעזה; דניאלה וייס: לא יהיו שם יותר ערבים",
-        "url": "https://www.haaretz.co.il/news/politi/2026-07-19/ty-article/.premium/0000019f-7b40-d723-af9f-fb72c9950000",
-        "source": "haaretz",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-19T18:53:16+00:00",
+        "published_at": "2026-07-19T23:30:09+00:00",
         "image_url": null
       },
       {
@@ -96,26 +75,69 @@
         "title": "איראן אומנם הרחיבה את התקיפות בירדן, אבל המסר היה מיועד גם ללבנון",
         "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7be5-dd5a-a5df-7be752650000",
         "source": "haaretz",
+        "source_label": "הארץ",
         "source_label_he": "הארץ",
         "published_at": "2026-07-20T03:00:51+00:00",
         "image_url": null
       },
       {
-        "id": "875544c44c",
-        "title": "צה\"ל מסרב להבהיר את נסיבות הריגתם של חמישה בני משפחה בעזה, ובהם ילדה בת 8",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7bc6-d490-a59f-7ff781b40000",
+        "id": "e50a38b2a6",
+        "title": "מקורות בארה\"ב: עשרות חיילים נפצעו בתקיפות של איראן בשבוע שעבר בירדן, הפנטגון הסתיר זאת",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7ed4-d48b-ab9f-7eff1f6b0000",
         "source": "haaretz",
+        "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-20T04:57:29+00:00",
+        "published_at": "2026-07-20T09:24:55+00:00",
         "image_url": null
       },
       {
-        "id": "c8aa81218b",
-        "title": "ארה\"ב תקפה באיראן; טראמפ: פגענו בהם שוב בעוצמה הלילה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/0000019f-7cb2-dd8b-a1bf-fef23cfd0000",
+        "id": "4176e2153c",
+        "title": "החות'ים הודיעו על מצור ימי חדש על סעודיה",
+        "url": "https://news.walla.co.il/item/3854922",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-20T15:10:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/1/7/4017337-46.jpg"
+      },
+      {
+        "id": "b2e458d132",
+        "title": "ישראל לא ממהרת למלחמה, ומחכה לעילה ולטראמפ: \"ירצה - נצטרף, לא - נשב בשקט\"",
+        "url": "https://www.ynet.co.il/news/article/rkt5poi4ml",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-20T16:29:17+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/11/30/S13y8DZHwo/S13y8DZHwo_126_249_486_274_0_medium.jpg"
+      },
+      {
+        "id": "5c211440b1",
+        "title": "אלפים השתתפו בצעדה למען התנחלות בעזה; דניאלה וייס: לא יהיו שם יותר ערבים",
+        "url": "https://www.haaretz.co.il/news/politi/2026-07-19/ty-article/.premium/0000019f-7b40-d723-af9f-fb72c9950000",
         "source": "haaretz",
+        "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-19T23:30:09+00:00",
+        "published_at": "2026-07-19T18:53:16+00:00",
+        "image_url": null
+      },
+      {
+        "id": "3866e1c546",
+        "title": "אלפי הצועדים בדיונות של זיקים קראו להקים התנחלויות בעזה \"עוד לפני הבחירות\"",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7d85-d316-a9df-7fcf49740000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-20T05:58:56+00:00",
+        "image_url": null
+      },
+      {
+        "id": "d21b15fdee",
+        "title": "מתנחלים מטילים מצור על משפחה בג'אלוד במשך יותר משבועיים, על אף נוכחות הצבא באזור",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-19/ty-article/.premium/0000019f-6b1a-d34a-a99f-7ffb8c030000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-19T17:16:17+00:00",
         "image_url": null
       },
       {
@@ -123,8 +145,19 @@
         "title": "דיווחים פלסטיניים: צה\"ל הרג שני פלסטינים בכפר בגדה בזמן שמתנחלים גנבו משם צאן",
         "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/0000019f-7c50-d316-a9df-7e5fc5150000",
         "source": "haaretz",
+        "source_label": "הארץ",
         "source_label_he": "הארץ",
         "published_at": "2026-07-19T21:52:18+00:00",
+        "image_url": null
+      },
+      {
+        "id": "875544c44c",
+        "title": "צה\"ל מסרב להבהיר את נסיבות הריגתם של חמישה בני משפחה בעזה, ובהם ילדה בת 8",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7bc6-d490-a59f-7ff781b40000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-20T04:57:29+00:00",
         "image_url": null
       }
     ]
@@ -133,86 +166,118 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "התפרסמו תוצאות סופיות בפריימריז הדמוקרטים בישראל, עם לזימי, קריב ורייטן בראש הרשימה, כשהדמוקרטים סירבו לאפשר לערוץ 14 לסקר את האירוע. בליכוד מדווח על מתיחות פנימית סביב נתניהו, ויאיר גולן הציע מדיניות ברוח הסכמי אוסלו. עוצמה יהודית השיקה קמפיין להצגת פעילותו של בן גביר, והיועמ\"שית מסרה כי אין מנוס מהתערבות שיפוטית מולו.",
+      "summary_he": "סקר כאן 11 הראה שהנדל וטרופר עוברים את אחוז החסימה, בעוד האופוזיציה היהודית נשארת ללא רוב. בן גביר נתון בלחץ בעקבות עמדת היועמ\"שית, הטוענת כי לא ניתן להגיע להסכמות איתו וכי נדרשת התערבות שיפוטית. יועצו של בן גביר התפטר, והוא עשוי להתמודד ברשימת עוצמה יהודית. בחו\"ל, הרפובליקאים השמרנים בארה\"ב חוששים שוואנס קורץ ימינה וייתפס כאנטישמי, ובבריטניה אנדי ברנהאם הפך לראש הממשלה.",
       "headlines": [
         {
-          "id": "496af656b4",
-          "title": "86% הצבעה בפריימריז \"הדמוקרטים\": אלו המועמדים שבצמרת הרשימה",
-          "url": "https://news.walla.co.il/item/3854981",
-          "source": "walla",
-          "source_label_he": "וואלה",
-          "published_at": "2026-07-20T19:18:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079210-46.jpeg"
-        },
-        {
-          "id": "2387c90697",
-          "title": "עוצמה יהודית משיקה קמפיין: מציגה את מהלכי בן גביר - ותוקפת את מבקריו",
-          "url": "https://news.walla.co.il/item/3854991",
-          "source": "walla",
-          "source_label_he": "וואלה",
-          "published_at": "2026-07-20T19:46:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/9/4/3994841-46.jpg"
+          "id": "2606a2e448",
+          "title": "סקר כאן 11: הנדל וטרופר עוברים את אחוז החסימה; לאופוזיציה יש רוב, לאופוזיציה היהודית אין",
+          "url": "https://www.haaretz.co.il/news/elections/2026-07-19/ty-article/.premium/0000019f-7bc8-dd9d-abbf-7fcfc8810000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-19T19:55:15+00:00",
+          "image_url": null
         },
         {
           "id": "6e3e39b746",
           "title": "היועמ\"שית לבג\"ץ: אי אפשר לגבש הסכמות עם בן גביר, אין מנוס מהתערבות שיפוטית",
           "url": "https://www.haaretz.co.il/news/law/2026-07-20/ty-article/0000019f-7e23-d723-af9f-ff730bed0000",
           "source": "haaretz",
+          "source_label": "הארץ",
           "source_label_he": "הארץ",
           "published_at": "2026-07-20T06:14:40+00:00",
           "image_url": null
         },
         {
-          "id": "f879bc22bf",
-          "title": "הדמוקרטים מסרבים לאפשר לערוץ 14 לסקר את אירוע הפריימריז הערב",
-          "url": "https://www.haaretz.co.il/news/elections/2026-07-20/ty-article/0000019f-7ee7-d316-a9df-7eef7e410000",
+          "id": "258ba2332d",
+          "title": "יועצו של בן גביר התפטר ובעוצמה יהודית מעריכים כי יתמודד ברשימת המפלגה",
+          "url": "https://www.haaretz.co.il/news/elections/2026-07-20/ty-article/.premium/0000019f-7e0e-d490-a59f-7f7f1f530000",
           "source": "haaretz",
+          "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-07-20T10:02:57+00:00",
+          "published_at": "2026-07-20T07:04:28+00:00",
           "image_url": null
+        },
+        {
+          "id": "9418637921",
+          "title": "הרפובליקאים השמרנים בארה\"ב חוששים שוואנס קורץ לימין הקיצוני והאנטישמי",
+          "url": "https://www.haaretz.co.il/news/world/america/2026-07-20/ty-article/.premium/0000019f-7a8b-d723-af9f-fbfb4de20000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-20T03:00:40+00:00",
+          "image_url": null
+        },
+        {
+          "id": "e67378963b",
+          "title": "\"מלך הצפון\" שיהפוך היום לראש ממשלת בריטניה: מי אתה אנדי ברנהאם?",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-b7071a7da4e7f91026.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-07-20T10:48:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/06/22/andy22061_re_autoOrient_i.jpg"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "ישראל כולה עצרה לכבוד גמר המונדיאל, בשעה שהכבישים התרוקנו והאוכל זרם במשלוחים.",
+      "headlines": [
+        {
+          "id": "0f966b6009",
+          "title": "ישראל עמדה מלכת לכבוד גמר המונדיאל: הכבישים התרוקנו - והאוכל זרם במשלוחים",
+          "url": "https://www.ynet.co.il/news/article/rypr8vjegg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-07-20T13:23:13+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/27/SyblnSr4eGe/SyblnSr4eGe_0_238_3000_1689_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "הודו הייתה עדה למחאה נדירה, כשאלפי סטודנטים וצעירים צעדו אל הפרלמנט בניו דלהי במחאה נגד תוכנית קוואטות, והשוטרים הגיבו בעוצמה והיכו מפגינים באלות.",
+      "headlines": [
+        {
+          "id": "5147671c7d",
+          "title": "מחאה נדירה בהודו: אלפי סטודנטים וצעירים צעדו אל הפרלמנט בניו דלהי ונהדפו",
+          "url": "https://www.haaretz.co.il/news/world/asia/2026-07-20/ty-article/0000019f-7ed6-d0c2-af9f-7ffe20b60000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-20T11:09:40+00:00",
+          "image_url": null
+        },
+        {
+          "id": "20cc06c68e",
+          "title": "\"מחאת הג'וקים\" בהודו: אלפים צעדו לפרלמנט, שוטרים היכו מפגינים באלות",
+          "url": "https://www.ynet.co.il/news/article/ryd54ioeze",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-07-20T14:22:18+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/BkoGnsjNfe/BkoGnsjNfe_0_0_850_479_0_medium.jpg"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "בישראל עלתה סוגיית ההפרדה המגדרית ומימונה על ידי המדינה, כאשר חמישה חברים במל\"ג התפטרו במחאה על אישור החוק להרחבתה באקדמיה. במקביל דווח על צעדה למען התיישבות ומצור מתמשך על משפחה פלסטינית באזור ג'אלוד.",
+      "summary_he": "הציבור התוודע לנושא ההפרדה המגדרית, כשעדות קוראות לכך שלא תהיה על חשבון המדינה.",
       "headlines": [
         {
           "id": "4679a06f02",
           "title": "הפרדה מגדרית – לא על חשבון המדינה",
           "url": "https://www.ynet.co.il/news/article/rkq4cis4mx",
           "source": "ynet",
+          "source_label": "Ynet",
           "source_label_he": "Ynet",
           "published_at": "2026-07-20T14:36:22+00:00",
           "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2012/07/12/4038280/4038280_0_0_1000_667_0_medium.jpg"
-        },
-        {
-          "id": "5c211440b1",
-          "title": "אלפים השתתפו בצעדה למען התנחלות בעזה; דניאלה וייס: לא יהיו שם יותר ערבים",
-          "url": "https://www.haaretz.co.il/news/politi/2026-07-19/ty-article/.premium/0000019f-7b40-d723-af9f-fb72c9950000",
-          "source": "haaretz",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-19T18:53:16+00:00",
-          "image_url": null
-        },
-        {
-          "id": "d21b15fdee",
-          "title": "מתנחלים מטילים מצור על משפחה בג'אלוד במשך יותר משבועיים, על אף נוכחות הצבא באזור",
-          "url": "https://www.haaretz.co.il/news/politics/2026-07-19/ty-article/.premium/0000019f-6b1a-d34a-a99f-7ffb8c030000",
-          "source": "haaretz",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-19T17:16:17+00:00",
-          "image_url": null
-        },
-        {
-          "id": "e876efff84",
-          "title": "חמישה חברים במל\"ג הודיעו על התפטרותם במחאה על אישור החוק להרחבת ההפרדה המגדרית באקדמיה",
-          "url": "https://www.haaretz.co.il/news/education/2026-07-20/ty-article/0000019f-7e8b-d316-a9df-7ecf2d700000",
-          "source": "haaretz",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-20T08:01:47+00:00",
-          "image_url": null
         }
       ]
     }
@@ -226,5 +291,178 @@
   "sources_failed": [
     "israel_hayom",
     "kan"
-  ]
+  ],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israeli-Palestinian tensions escalated with reports of West Bank violence involving settlers and military forces. Gaza peace negotiations continue sluggishly due to both Israeli politics and Hamas resistance. Internally, a senior Haredi rabbi accused religious soldiers of committing murder, prompting rare criticism from the prime minister. Israel is also asserting diplomatic influence abroad, opposing UK Labour's Palestine policy as new political movements reshape the country's left wing.",
+      "headlines": [
+        {
+          "id": "2714d1874b",
+          "title": "‘Israeli settlers are in partnership with the army,’ say Palestinians after two shot dead in West Bank",
+          "url": "https://www.theguardian.com/world/2026/jul/20/israeli-settlers-partnership-army-palestinians-bury-dead-west-bank",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-20T17:53:28+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/cd95ddd8a76d0e9517dd1021c7c7c2f394789079/81_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=5033ae3b8c0072e66c09e47198dfb6af"
+        },
+        {
+          "id": "695a35c114",
+          "title": "Slowed by Hamas’s grip and Israeli politics, Gaza plan advancing in ‘baby steps,’ officials say",
+          "url": "https://www.timesofisrael.com/slowed-by-hamass-grip-and-israeli-politics-gaza-plan-said-advancing-in-baby-steps/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_en": "Times of Israel",
+          "published_at": "2026-07-20T17:45:37+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26193570528530-1024x640.jpg"
+        },
+        {
+          "id": "c516d229ca",
+          "title": "Top Haredi rabbi says religious soldiers committing murder; PM issues rare criticism",
+          "url": "https://www.timesofisrael.com/top-haredi-rabbi-says-religious-soldiers-committing-murder-pm-issues-rare-criticism/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_en": "Times of Israel",
+          "published_at": "2026-07-20T16:30:56+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/04/Screenshot-2026-04-26-at-8.02.43-PM-1-1024x640.png"
+        },
+        {
+          "id": "6dab538aba",
+          "title": "Israel criticises Labor’s draft Palestine policy in rare foreign intervention ahead of party conference",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/20/israel-intervention-labor-national-conference-draft-policy-platform-palestine-ntwnfb",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-20T08:59:50+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/97abf24f2c013d711fdfc6e5e8815065fdd44059/0_467_5409_4327/master/5409.jpg?width=700&quality=85&auto=format&fit=max&s=d7f9464a72d197ea325b4cac7599a0c1"
+        },
+        {
+          "id": "f8b67ed7f9",
+          "title": "Trump rejects Mamdani vow to arrest Netanyahu in NYC",
+          "url": "https://www.jta.org/2026/07/20/politics/trump-rejects-mamdani-vow-to-arrest-netanyahu-in-nyc",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-20T19:05:04+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/GettyImages-2247216347.jpg"
+        },
+        {
+          "id": "ae27e754c1",
+          "title": "Naama Lazimi wins No. 2 spot after Yair Golan in left-wing Democrats’ primary",
+          "url": "https://www.timesofisrael.com/naama-lazimi-wins-no-2-spot-after-yair-golan-in-left-wing-democrats-primary/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_en": "Times of Israel",
+          "published_at": "2026-07-20T18:53:52+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260720AVS11-e1784569412273-1024x640.jpg"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium celebrates a historic World Cup championship in 2026, with over a million supporters gathered for celebrations in Madrid as coach Rudi Garcia steps down from his position. The country's national holiday is marked by elaborate decorations, with 12,500 Belgian flowers adorning the royal palace, while Brussels permits fireworks celebrations despite drought concerns. Regional festivities continue across the country, with the Gentse Feesten in Ghent reporting fewer violent incidents compared to the previous year.",
+      "headlines": [
+        {
+          "id": "3ee309e38f",
+          "title": "Rudi Garcia niet langer bondscoach van Rode Duivels: ‘Ik laat België achter bij de acht beste ploegen ter wereld’",
+          "url": "https://www.demorgen.be/snelnieuws/rudi-garcia-niet-langer-bondscoach-van-rode-duivels-ik-laat-belgie-achter-bij-de-acht-beste-ploegen-ter-wereld~b44e7f69/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-20T14:46:00+00:00",
+          "image_url": "https://image.demorgen.be/275795525/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "5afaeeb558",
+          "title": "WK voetbal 2026LIVEBLOGRuim miljoen mensen voor kampioenenviering in Madrid, Rudi Garcia bondscoach af4 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/ruim-miljoen-mensen-voor-kampioenenviering-in-madrid-rudi-garci~1783653761646/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/2e13c579-9ae0-4685-8345-30d1f5bae915.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "f4750a15da",
+          "title": "KIJK. 12.500 Belgische bloemen sieren koninklijk paleis tijdens nationale feestdag: “Absolute top”",
+          "url": "https://www.hln.be/binnenland/kijk-12-500-belgische-bloemen-sieren-koninklijk-paleis-tijdens-nationale-feestdag-absolute-top~ae8a7565/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-20T18:25:28+00:00",
+          "image_url": "https://images.hln.be/ZTNiZjQxMDczMGI4Y2RiZWM5N2QvZGlvLzI3NjEwNjU3NC9maXQtd2lkdGgvNDAw/bloemen-koninklijk-paleis"
+        },
+        {
+          "id": "95ddcdb209",
+          "title": "RegioBrussel (Stad)Vuurwerk tijdens viering nationale feestdag in Brussel mag doorgaan, ondanks droogte44 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/vuurwerk-nationale-feestdag/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/c56f1838-448c-4d04-86dc-487ace56fb0c.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "4f78627a1d",
+          "title": "RegioGentMinder vechtpartijen dan vorig jaar tijdens Gentse Feesten: \"Sociale media geven vertekend beeld\"6 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/gentse-feesten-minder-vechtpartijen-bezoekers/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/a2f9766e-dc8a-49c7-9b46-b351c349a707.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "Andrew Burnham becomes the UK's seventh prime minister in a decade, signaling potential policy shifts including a tougher stance on Israel. In Hungary, chess legend Judit Polgár declined the country's presidential nomination, saying she feels unable to unite a divided nation. France and Iran face a diplomatic crisis following the detention of Iranian officers and alleged physical abuse of French diplomats.",
+      "headlines": [
+        {
+          "id": "ceafff126f",
+          "title": "Andy Burnham becomes 7th UK PM in a decade, is expected to take tougher stance on Israel",
+          "url": "https://www.timesofisrael.com/andy-burnham-becomes-7th-uk-pm-in-a-decade-is-expected-to-take-tougher-stance-on-israel/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_en": "Times of Israel",
+          "published_at": "2026-07-20T13:52:15+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26201458078029-1024x640.jpg"
+        },
+        {
+          "id": "59744db421",
+          "title": "EuropaSchaaklegende Judit Polgár weigert Hongaars presidentschap: \"Niet sterk genoeg om verdeelde natie te verenigen\"49 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/judit-polgar-wijst-presidentschap-af/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/19/cb1c883c-5204-48d7-87b0-102291126831.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "033ba699a4",
+          "title": "France says Iranian officers detained two of its diplomats, ‘physically abused’ one",
+          "url": "https://www.timesofisrael.com/france-says-iranian-officers-detained-two-of-its-diplomats-physically-abused-one/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_en": "Times of Israel",
+          "published_at": "2026-07-20T18:50:47+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26119674466938-1-1024x640.jpg"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "In the United States, a proposed statue honoring Charlie Kirk, a murdered Trump supporter, has failed to secure funding for its construction, reflecting ongoing political divisions in American culture.",
+      "headlines": [
+        {
+          "id": "442679e8dc",
+          "title": "Verenigde StatenNiemand heeft geld over voor standbeeld van vermoorde Trumpaanhanger Charlie Kirk in New York5 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/standbeeld-charlie-kirk-geen-geld/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/425b88b4-cafe-4629-96ca-9f7f19ae17c5.png?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "degraded": false
+  }
 }

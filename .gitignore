@@ -1,5 +1,6 @@
 automation/state/
 automation/logs/
+automation/secrets.local.json
 .venv/
 __pycache__/
 *.pyc

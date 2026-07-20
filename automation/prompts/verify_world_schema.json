@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "israel_jewish_summary": { "type": "string" },
+    "belgium_summary":       { "type": "string" },
+    "europe_summary":        { "type": "string" },
+    "world_top_summary":     { "type": "string" }
+  },
+  "required": ["israel_jewish_summary", "belgium_summary", "europe_summary", "world_top_summary"]
+}

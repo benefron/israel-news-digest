@@ -7,9 +7,12 @@ import llm_runner
 log = logging.getLogger(__name__)
 
 PLACEHOLDER_SUMMARY = "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות."
+PLACEHOLDER_SUMMARY_EN = "Automatic summary unavailable — raw headlines shown below."
 
 _SUMMARIZE_SCHEMA_PATH = config.PROMPTS_DIR / "summarize_schema.json"
 _UPDATE_SCHEMA_PATH = config.PROMPTS_DIR / "update_schema.json"
+_SUMMARIZE_WORLD_SCHEMA_PATH = config.PROMPTS_DIR / "summarize_world_schema.json"
+_UPDATE_WORLD_SCHEMA_PATH = config.PROMPTS_DIR / "update_world_schema.json"
 
 
 def _degraded_result(headlines: list[dict], subjects: list[dict]) -> dict:
@@ -145,3 +148,109 @@ def update_incrementally(
     except Exception as exc:  # noqa: BLE001
         log.warning("incremental update failed, keeping existing digest: %s", exc)
         return existing_digest
+
+
+# ── World / Belgium / Europe pipeline ─────────────────────────────────────────
+
+def _degraded_world_result(headlines: list[dict]) -> dict:
+    top = headlines[:6]
+    return {
+        "israel_jewish": {"summary_en": PLACEHOLDER_SUMMARY_EN, "headlines": top},
+        "belgium":       {"summary_en": PLACEHOLDER_SUMMARY_EN, "headlines": []},
+        "europe":        {"summary_en": PLACEHOLDER_SUMMARY_EN, "headlines": []},
+        "world_top":     {"summary_en": PLACEHOLDER_SUMMARY_EN, "headlines": []},
+        "degraded": True,
+    }
+
+
+def _structured_to_world_digest(structured: dict, by_id: dict) -> dict:
+    sections = {}
+    for key in ("israel_jewish", "belgium", "europe", "world_top"):
+        sec = structured.get(key, {})
+        sections[key] = {
+            "summary_en": sec.get("summary_en", PLACEHOLDER_SUMMARY_EN),
+            "headlines": _resolve_ids(sec.get("headline_ids", []), by_id),
+        }
+    return {**sections, "degraded": False}
+
+
+def summarize_world(headlines: list[dict]) -> dict:
+    """Full world digest from scratch."""
+    by_id = {h["id"]: h for h in headlines}
+
+    config.STATE_DIR.mkdir(parents=True, exist_ok=True)
+    scratch_input = {
+        "headlines": [
+            {"id": h["id"], "source": h.get("source_label_en", h.get("source_label", "")),
+             "title": h["title"], "published_at": h["published_at"]}
+            for h in headlines
+        ],
+    }
+    scratch_path = config.STATE_DIR / "summarize_world_input.json"
+    scratch_path.write_text(json.dumps(scratch_input, ensure_ascii=False, indent=2))
+
+    instructions = (config.PROMPTS_DIR / "summarize_world_instructions.txt").read_text()
+    schema = json.loads(_SUMMARIZE_WORLD_SCHEMA_PATH.read_text())
+
+    try:
+        structured = llm_runner.run_with_schema(
+            instructions=instructions,
+            input_path=scratch_path,
+            schema=schema,
+            claude_model=config.SUMMARIZE_MODEL,
+            claude_max_budget=config.SUMMARIZE_MAX_BUDGET_USD,
+            copilot_fallback_model=config.COPILOT_FALLBACK_SUMMARIZE_MODEL,
+        )
+        return _structured_to_world_digest(structured, by_id)
+    except Exception as exc:  # noqa: BLE001
+        log.error("summarize_world failed, degrading: %s", exc)
+        return _degraded_world_result(headlines)
+
+
+def update_world_incrementally(
+    existing_world: dict,
+    new_headlines: list[dict],
+    all_headlines: list[dict],
+) -> dict:
+    """Lightweight world update for small batches of new headlines."""
+    by_id = {h["id"]: h for h in all_headlines}
+
+    config.STATE_DIR.mkdir(parents=True, exist_ok=True)
+    scratch_path = config.STATE_DIR / "update_world_input.json"
+
+    existing_for_prompt = {}
+    for key in ("israel_jewish", "belgium", "europe", "world_top"):
+        sec = existing_world.get(key, {})
+        existing_for_prompt[key] = {
+            "summary_en": sec.get("summary_en", ""),
+            "headline_ids": [h["id"] for h in sec.get("headlines", [])],
+        }
+
+    scratch_input = {
+        "existing_world": existing_for_prompt,
+        "new_headlines": [
+            {"id": h["id"], "source": h.get("source_label_en", h.get("source_label", "")),
+             "title": h["title"], "published_at": h["published_at"]}
+            for h in new_headlines
+        ],
+    }
+    scratch_path.write_text(json.dumps(scratch_input, ensure_ascii=False, indent=2))
+
+    instructions = (config.PROMPTS_DIR / "update_world_instructions.txt").read_text()
+    schema = json.loads(_UPDATE_WORLD_SCHEMA_PATH.read_text())
+
+    try:
+        structured = llm_runner.run_with_schema(
+            instructions=instructions,
+            input_path=scratch_path,
+            schema=schema,
+            claude_model=config.SUMMARIZE_MODEL,
+            claude_max_budget=config.SUMMARIZE_MAX_BUDGET_USD,
+            copilot_fallback_model=config.COPILOT_FALLBACK_SUMMARIZE_MODEL,
+        )
+        updated = _structured_to_world_digest(structured, by_id)
+        log.info("world incremental update applied (%d new headlines)", len(new_headlines))
+        return updated
+    except Exception as exc:  # noqa: BLE001
+        log.warning("world incremental update failed, keeping existing: %s", exc)
+        return existing_world

@@ -1,0 +1,10 @@
+Below are English-language summary paragraphs written by a small AI model for an international news digest. Your task is light proofreading only:
+
+1. Fix spelling and grammar errors.
+2. Ensure each sentence reads naturally and clearly in English. If a sentence is broken or awkward, rephrase it cleanly without changing the meaning.
+3. Do NOT add facts, names, numbers, or details not present in the original text. This is proofreading, not content rewriting.
+4. Maintain a neutral, journalistic tone as in the original.
+5. Do not refer in any way to headlines, links, or identifiers — you have received only the summary paragraphs themselves.
+
+Input: a JSON file with fields israel_jewish_summary, belgium_summary, europe_summary, world_top_summary.
+Output: corrected versions of those same four fields with identical structure.

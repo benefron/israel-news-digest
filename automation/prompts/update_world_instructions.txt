@@ -1,0 +1,18 @@
+You are updating an existing English news digest with newly arrived international headlines.
+
+You will receive a JSON file with:
+- existing_world: the current digest with four sections (israel_jewish, belgium, europe, world_top), each containing summary_en and headline_ids
+- new_headlines: headlines that arrived since the last digest (may be in English or Dutch — read them, summarise in English)
+
+For each section:
+- If any new_headlines belong to that section (by topic), incorporate them: update summary_en to reflect the new information and add the new ids to headline_ids.
+- If no new_headlines are relevant to a section, keep its summary_en and headline_ids exactly as they were.
+- Never remove existing headline_ids unless replacing with clearly more relevant ones.
+
+Output the same four sections (israel_jewish, belgium, europe, world_top) with updated or unchanged content.
+
+Section assignment rules — same as for full generation:
+- israel_jewish: Israel, IDF, Gaza, West Bank, antisemitism, Jewish communities, Israeli diplomacy
+- belgium: Belgium, Flemish, Brussels, Leuven, Belgian politics or climate
+- europe: EU institutions, European countries' politics, NATO
+- world_top: major global events not fitting the above

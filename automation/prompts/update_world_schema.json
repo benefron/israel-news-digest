@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "properties": {
+    "israel_jewish": {
+      "type": "object",
+      "properties": {
+        "summary_en": { "type": "string" },
+        "headline_ids": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["summary_en", "headline_ids"]
+    },
+    "belgium": {
+      "type": "object",
+      "properties": {
+        "summary_en": { "type": "string" },
+        "headline_ids": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["summary_en", "headline_ids"]
+    },
+    "europe": {
+      "type": "object",
+      "properties": {
+        "summary_en": { "type": "string" },
+        "headline_ids": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["summary_en", "headline_ids"]
+    },
+    "world_top": {
+      "type": "object",
+      "properties": {
+        "summary_en": { "type": "string" },
+        "headline_ids": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["summary_en", "headline_ids"]
+    }
+  },
+  "required": ["israel_jewish", "belgium", "europe", "world_top"]
+}

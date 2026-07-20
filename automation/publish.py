@@ -9,7 +9,8 @@ log = logging.getLogger(__name__)
 
 
 def write_latest(
-    digest: dict, date_str: str, run_id: str, sources_fetched: list[str], sources_failed: list[str]
+    digest: dict, date_str: str, run_id: str, sources_fetched: list[str], sources_failed: list[str],
+    world_digest: dict | None = None,
 ) -> dict:
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
@@ -21,6 +22,8 @@ def write_latest(
         "sources_fetched": sources_fetched,
         "sources_failed": sources_failed,
     }
+    if world_digest is not None:
+        payload["world"] = world_digest
     json_text = json.dumps(payload, ensure_ascii=False, indent=2)
     config.LATEST_JSON.write_text(json_text)
 

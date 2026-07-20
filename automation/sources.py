@@ -130,10 +130,12 @@ def _fetch_scrape_fallback(source_key: str, page_url: str) -> list[dict]:
     return items
 
 
-def fetch_source(source_key: str) -> tuple[list[dict], bool]:
+def fetch_source(source_key: str, sources_dict: dict | None = None) -> tuple[list[dict], bool]:
     """Returns (items, ok). ok=False means every RSS candidate and the
     scrape fallback failed for this source."""
-    source = config.SOURCES[source_key]
+    if sources_dict is None:
+        sources_dict = config.SOURCES
+    source = sources_dict[source_key]
 
     for feed_url in source.get("rss", []):
         try:
@@ -185,6 +187,7 @@ def fetch_all_headlines() -> dict:
                 "title": item["title"],
                 "url": canonicalize_url(item["url"]),
                 "source": source_key,
+                "source_label": source["label_he"],
                 "source_label_he": source["label_he"],
                 "published_at": item["published_at"],
                 "image_url": image_url,
@@ -195,6 +198,51 @@ def fetch_all_headlines() -> dict:
         return (not has_security_kw, h["published_at"] is None, h["published_at"] or "")
 
     all_headlines.sort(key=sort_key)
+    capped = all_headlines[: config.MAX_HEADLINES_TO_LLM]
+
+    return {"headlines": capped, "sources_fetched": fetched, "sources_failed": failed}
+
+
+def fetch_world_headlines() -> dict:
+    """Fetch headlines from WORLD_SOURCES. Returns same structure as
+    fetch_all_headlines() but uses source_label_en (English source names)."""
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=config.HEADLINE_LOOKBACK_HOURS)
+    fetched, failed = [], []
+    all_headlines = []
+    seen_ids = set()
+
+    for source_key, source in config.WORLD_SOURCES.items():
+        items, ok = fetch_source(source_key, sources_dict=config.WORLD_SOURCES)
+        if not ok:
+            failed.append(source_key)
+            continue
+        fetched.append(source_key)
+
+        for item in items:
+            if item["published_at"]:
+                published = datetime.fromisoformat(item["published_at"])
+                if published < cutoff:
+                    continue
+            hid = headline_id(item["url"])
+            if hid in seen_ids:
+                continue
+            seen_ids.add(hid)
+            image_url = item.get("image_url")
+            if image_url:
+                image_url = _upgrade_image_size(source_key, image_url)
+            all_headlines.append({
+                "id": hid,
+                "title": item["title"],
+                "url": canonicalize_url(item["url"]),
+                "source": source_key,
+                "source_label": source["label_en"],
+                "source_label_en": source["label_en"],
+                "published_at": item["published_at"],
+                "image_url": image_url,
+            })
+
+    # World headlines: sort by published_at, most recent first; no security priority.
+    all_headlines.sort(key=lambda h: (h["published_at"] is None, h["published_at"] or ""), reverse=True)
     capped = all_headlines[: config.MAX_HEADLINES_TO_LLM]
 
     return {"headlines": capped, "sources_fetched": fetched, "sources_failed": failed}

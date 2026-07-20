@@ -93,6 +93,7 @@ def main() -> int:
         enabled_subjects = [s for s in prefs["subjects"] if s.get("enabled")]
         subject_keys = [s["key"] for s in enabled_subjects]
 
+        # ── Israel digest ────────────────────────────────────────────────────
         fetched = sources.fetch_all_headlines()
         headlines = fetched["headlines"]
         if not headlines:
@@ -107,8 +108,6 @@ def main() -> int:
             log.warning("local curation failed, falling back to raw capped headlines: %s", exc)
             reduced = headlines
 
-        # Incremental update path: if only a few new headlines arrived since
-        # the last digest, cheaply update rather than regenerating from scratch.
         last_headline_ids: set[str] = set(state.get("last_digest_headline_ids", []))
         new_ids = [h for h in reduced if h["id"] not in last_headline_ids]
         existing_digest = None
@@ -142,13 +141,57 @@ def main() -> int:
 
         digest = verify_text.verify_summaries(digest)
 
-        publish.write_latest(digest, today, run_id, fetched["sources_fetched"], fetched["sources_failed"])
+        # ── World / Belgium / Europe digest ───────────────────────────────────
+        world_fetched = sources.fetch_world_headlines()
+        world_headlines = world_fetched["headlines"]
+        world_digest = None
+
+        if world_headlines:
+            try:
+                world_labels = curate_local.curate_world_all(world_headlines)
+                world_reduced = curate_local.select_world_subset(world_headlines, world_labels)
+                log.info("world curation: %d → %d headlines", len(world_headlines), len(world_reduced))
+            except Exception as exc:  # noqa: BLE001
+                log.warning("world curation failed, using all world headlines: %s", exc)
+                world_reduced = world_headlines
+
+            last_world_ids: set[str] = set(state.get("last_world_headline_ids", []))
+            new_world_ids = [h for h in world_reduced if h["id"] not in last_world_ids]
+            existing_world = (existing_digest or {}).get("world") if existing_digest else None
+
+            if (
+                existing_world
+                and not existing_world.get("degraded")
+                and last_world_ids
+                and len(new_world_ids) < config.MIN_NEW_HEADLINES_FOR_FULL_REGEN
+            ):
+                log.info("world incremental update: %d new", len(new_world_ids))
+                if new_world_ids:
+                    world_digest = summarize.update_world_incrementally(existing_world, new_world_ids, world_reduced)
+                else:
+                    log.info("no new world headlines, keeping existing world digest")
+                    world_digest = existing_world
+            else:
+                log.info("world full regen: %d headlines", len(world_reduced))
+                world_digest = summarize.summarize_world(world_reduced)
+
+            world_digest = verify_text.verify_world_summaries(world_digest)
+            state["last_world_headline_ids"] = [h["id"] for h in world_reduced]
+        else:
+            log.warning("no world headlines fetched, skipping world digest")
+
+        publish.write_latest(
+            digest, today, run_id,
+            fetched["sources_fetched"], fetched["sources_failed"],
+            world_digest=world_digest,
+        )
 
         if not args.no_push:
             publish.commit_and_push(run_id)
 
         state["last_success_at"] = datetime.now(timezone.utc).isoformat()
         state["last_digest_headline_ids"] = [h["id"] for h in reduced]
+        # last_world_headline_ids already saved above if world pipeline ran
         _save_state(state)
         log.info("run complete for %s", run_id)
         return 0

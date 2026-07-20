@@ -153,3 +153,49 @@ SOURCES = {
         "scrape_fallback_url": "https://news.walla.co.il/",
     },
 }
+
+# World/Belgium sources — verified live 2026-07-20.
+# These produce English-language output (LLM reads Dutch and summarises in English).
+WORLD_SOURCES = {
+    "vrt": {
+        "label_en": "VRT NWS",
+        # VRT's RSS feeds return text/html (bot-blocked). Scrape the homepage instead.
+        "rss": [],
+        "scrape_fallback_url": "https://www.vrt.be/vrtnws/nl/",
+    },
+    "de_morgen": {
+        "label_en": "De Morgen",
+        "rss": ["https://www.demorgen.be/rss.xml"],
+        "scrape_fallback_url": "https://www.demorgen.be/",
+    },
+    "hln": {
+        "label_en": "HLN",
+        "rss": ["https://www.hln.be/rss.xml"],
+        "scrape_fallback_url": "https://www.hln.be/",
+    },
+    "bbc_world": {
+        "label_en": "BBC World",
+        "rss": ["https://feeds.bbci.co.uk/news/world/rss.xml"],
+        "scrape_fallback_url": "https://www.bbc.com/news/world",
+    },
+    "guardian_world": {
+        "label_en": "The Guardian",
+        "rss": ["https://www.theguardian.com/world/rss"],
+        "scrape_fallback_url": "https://www.theguardian.com/world",
+    },
+    "politico_eu": {
+        "label_en": "Politico Europe",
+        "rss": ["https://www.politico.eu/feed/"],
+        "scrape_fallback_url": "https://www.politico.eu/",
+    },
+    "times_of_israel": {
+        "label_en": "Times of Israel",
+        "rss": ["https://www.timesofisrael.com/feed/"],
+        "scrape_fallback_url": "https://www.timesofisrael.com/",
+    },
+    "jta": {
+        "label_en": "JTA",
+        "rss": ["https://www.jta.org/feed"],
+        "scrape_fallback_url": "https://www.jta.org/",
+    },
+}
