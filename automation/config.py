@@ -77,6 +77,14 @@ OLLAMA_BATCH_SIZE = 40
 HEADLINE_LOOKBACK_HOURS = 26
 MAX_HEADLINES_TO_LLM = 150
 
+# Some feeds (Haaretz, TheMarker) return ~100 raw entries per pull while
+# others return a dozen or fewer; without a per-source ceiling the
+# highest-volume RSS feeds fill the whole MAX_HEADLINES_TO_LLM cap before
+# lower-volume or scrape-fallback sources (no published_at, so they always
+# sort last) get a look-in. Cap each source's contribution to the shared
+# pool so raw feed volume can't crowd out other sources.
+MAX_HEADLINES_PER_SOURCE = 20
+
 # Runs up to 7x/day (07:00, 10:00, 12:00, 15:00, 17:00, 19:00, 21:00 — see
 # scripts/install_launchd.sh), each slot catching up on next wake if the Mac
 # was asleep/off. The smallest gap between consecutive slots is 2h (e.g. 10→12);

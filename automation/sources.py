@@ -187,7 +187,7 @@ def fetch_all_headlines() -> dict:
             continue
         fetched.append(source_key)
 
-        for item in items:
+        for item in items[: config.MAX_HEADLINES_PER_SOURCE]:
             if item["published_at"]:
                 published = datetime.fromisoformat(item["published_at"])
                 if published < cutoff:
