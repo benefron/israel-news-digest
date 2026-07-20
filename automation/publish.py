@@ -8,7 +8,9 @@ import config
 log = logging.getLogger(__name__)
 
 
-def write_latest(digest: dict, date_str: str, sources_fetched: list[str], sources_failed: list[str]) -> dict:
+def write_latest(
+    digest: dict, date_str: str, run_id: str, sources_fetched: list[str], sources_failed: list[str]
+) -> dict:
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "date": date_str,
@@ -19,11 +21,20 @@ def write_latest(digest: dict, date_str: str, sources_fetched: list[str], source
         "sources_fetched": sources_fetched,
         "sources_failed": sources_failed,
     }
-    config.LATEST_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=2))
+    json_text = json.dumps(payload, ensure_ascii=False, indent=2)
+    config.LATEST_JSON.write_text(json_text)
 
+    # Mirror into site/data/ so the PWA (served from site/) can fetch it at
+    # the expected relative path "data/latest.json".
+    site_data_dir = config.REPO_ROOT / "site" / "data"
+    site_data_dir.mkdir(parents=True, exist_ok=True)
+    (site_data_dir / "latest.json").write_text(json_text)
+
+    # run_id (not just date_str) since this can run several times a day —
+    # each slot keeps its own archive snapshot instead of clobbering the last.
     config.ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
-    archive_path = config.ARCHIVE_DIR / f"{date_str}.json"
-    archive_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2))
+    archive_path = config.ARCHIVE_DIR / f"{run_id}.json"
+    archive_path.write_text(json_text)
 
     return payload
 
@@ -34,20 +45,21 @@ def _run_git(*args: str) -> subprocess.CompletedProcess:
     )
 
 
-def commit_and_push(date_str: str) -> bool:
+def commit_and_push(run_id: str) -> bool:
     """Returns True if a commit was made and pushed, False if there was
     nothing to commit."""
-    archive_path = config.ARCHIVE_DIR / f"{date_str}.json"
-    paths = [str(config.LATEST_JSON), str(archive_path), str(config.PREFERENCES_JSON)]
+    archive_path = config.ARCHIVE_DIR / f"{run_id}.json"
+    site_latest = config.REPO_ROOT / "site" / "data" / "latest.json"
+    paths = [str(config.LATEST_JSON), str(archive_path), str(config.PREFERENCES_JSON), str(site_latest)]
 
     _run_git("add", *paths)
 
     status = _run_git("status", "--porcelain", "--", *paths)
     if not status.stdout.strip():
-        log.info("nothing to commit for %s", date_str)
+        log.info("nothing to commit for %s", run_id)
         return False
 
-    _run_git("commit", "-m", f"עדכון חדשות יומי — {date_str}")
+    _run_git("commit", "-m", f"עדכון חדשות — {run_id}")
     _run_git("push", "origin", "main")
-    log.info("pushed digest for %s", date_str)
+    log.info("pushed digest for %s", run_id)
     return True

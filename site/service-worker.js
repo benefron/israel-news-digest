@@ -1,4 +1,4 @@
-const CACHE_NAME = "newsdigest-shell-v1";
+const CACHE_NAME = "newsdigest-shell-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
