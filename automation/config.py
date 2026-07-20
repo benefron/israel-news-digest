@@ -31,6 +31,13 @@ PREFERENCE_EMAIL_SENDER_ALLOWLIST: list[str] = [_wife_email] if _wife_email else
 PREFERENCE_EMAIL_SUBJECT_TAG = "[NewsDigestUpdate]"
 GMAIL_PROCESSED_LABEL = "NewsDigest/Processed"
 
+# Gmail IMAP credentials for direct Python access (fallback when Claude MCP
+# is unavailable). Add to automation/secrets.local.json:
+#   "gmail_address": "your-address@gmail.com"
+#   "gmail_app_password": "xxxx xxxx xxxx xxxx"  (App Password from Google)
+GMAIL_ADDRESS: str | None = _secrets.get("gmail_address")
+GMAIL_APP_PASSWORD: str | None = _secrets.get("gmail_app_password")
+
 # Cheap-model summarization: headless Claude Code CLI, --safe-mode (NOT --bare,
 # which forces API-key auth and bypasses the logged-in subscription).
 SUMMARIZE_MODEL = "claude-haiku-4-5-20251001"

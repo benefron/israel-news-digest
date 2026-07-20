@@ -1,5 +1,6 @@
 import hashlib
 import logging
+import re
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urljoin, urlparse, urlunparse, parse_qsl, urlencode
 
@@ -10,6 +11,49 @@ from bs4 import BeautifulSoup
 import config
 
 log = logging.getLogger(__name__)
+
+IMG_TAG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.IGNORECASE)
+SIZED_FIELD_RE = re.compile(r"image(\d+)x(\d+)")
+
+
+def _extract_image(entry: dict) -> str | None:
+    """Every source here exposes article images differently — Media RSS,
+    a plain enclosure, custom sized fields, or just an <img> buried in the
+    HTML summary — so try each in turn rather than assume one convention."""
+    media_content = entry.get("media_content")
+    if media_content:
+        best = max(media_content, key=lambda m: int(m.get("width") or 0))
+        if best.get("url"):
+            return best["url"]
+
+    for enc in entry.get("enclosures", []):
+        href = enc.get("href") or enc.get("url")
+        if href and enc.get("type", "").startswith("image"):
+            return href
+
+    sized = []
+    for key, value in entry.items():
+        m = SIZED_FIELD_RE.fullmatch(key)
+        if m and value:
+            sized.append((int(m.group(1)) * int(m.group(2)), value))
+    if sized:
+        sized.sort(key=lambda t: t[0], reverse=True)
+        return sized[0][1]
+
+    html = entry.get("summary") or entry.get("description") or ""
+    match = IMG_TAG_RE.search(html)
+    if match:
+        return match.group(1)
+
+    return None
+
+
+def _upgrade_image_size(source_key: str, image_url: str) -> str | None:
+    # Haaretz CDN URLs (img.haarets.co.il/bs/…) consistently return 404 for
+    # unauthenticated requests. Suppress rather than expose a broken image.
+    if source_key == "haaretz":
+        return None
+    return image_url
 
 
 def canonicalize_url(url: str) -> str:
@@ -44,7 +88,12 @@ def _fetch_rss(feed_url: str) -> list[dict]:
         published_at = None
         if entry.get("published_parsed"):
             published_at = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc).isoformat()
-        items.append({"title": title.strip(), "url": url.strip(), "published_at": published_at})
+        items.append({
+            "title": title.strip(),
+            "url": url.strip(),
+            "published_at": published_at,
+            "image_url": _extract_image(entry),
+        })
     return items
 
 
@@ -71,7 +120,11 @@ def _fetch_scrape_fallback(source_key: str, page_url: str) -> list[dict]:
         if canon in seen_urls:
             continue
         seen_urls.add(canon)
-        items.append({"title": text, "url": url, "published_at": None})
+
+        img_el = a.find("img") or (a.parent.find("img") if a.parent else None)
+        image_url = urljoin(page_url, img_el["src"]) if img_el and img_el.get("src") else None
+
+        items.append({"title": text, "url": url, "published_at": None, "image_url": image_url})
         if len(items) >= 30:
             break
     return items
@@ -124,6 +177,9 @@ def fetch_all_headlines() -> dict:
             if hid in seen_ids:
                 continue
             seen_ids.add(hid)
+            image_url = item.get("image_url")
+            if image_url:
+                image_url = _upgrade_image_size(source_key, image_url)
             all_headlines.append({
                 "id": hid,
                 "title": item["title"],
@@ -131,6 +187,7 @@ def fetch_all_headlines() -> dict:
                 "source": source_key,
                 "source_label_he": source["label_he"],
                 "published_at": item["published_at"],
+                "image_url": image_url,
             })
 
     def sort_key(h):

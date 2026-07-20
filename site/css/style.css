@@ -138,6 +138,41 @@ main {
   border-color: var(--security-border);
 }
 
+.hero-headline {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 0.7rem;
+  background: var(--bg);
+}
+
+.hero-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: var(--border);
+}
+
+.hero-headline-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: 0.65rem 0.1rem 0.1rem;
+}
+
+.hero-headline.no-image .hero-headline-text {
+  padding-top: 0.1rem;
+}
+
+.hero-title {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
 .card-summary {
   margin: 0 0 0.7rem;
   line-height: 1.6;
@@ -192,6 +227,22 @@ main {
   color: var(--brand);
   text-decoration: none;
 }
+
+.see-more-btn {
+  display: block;
+  width: 100%;
+  margin-top: 0.5rem;
+  padding: 0.4rem 0;
+  background: none;
+  border: none;
+  border-top: 1px dashed var(--border);
+  color: var(--brand);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+}
+.see-more-btn:hover { color: var(--brand-dark); }
 
 .card-footer {
   display: flex;
