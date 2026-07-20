@@ -1,18 +1,48 @@
 {
-  "generated_at": "2026-07-20T20:34:25.469685+00:00",
+  "generated_at": "2026-07-20T20:47:47.069903+00:00",
   "date": "2026-07-20",
   "degraded": false,
   "top_general": {
-    "summary_he": "אנדי ברנהאם התמנה לראש ממשלת בריטניה תוך הצהרות על מודל כלכלי חדש, כאשר קיימים בישראל חששות מפני סנקציות אפשריות. בארצות הברית, הפריימריז הדמוקרטיים נמצאים בעיצומם, כשתוכניות רבות תלויות בתוצאותיהם. בישראל, אזרחים עמדו בהתרגשות לקראת גמר תחרות המונדיאל, עם זרימה משמעותית של משלוחי מזון. בנק הפועלים הזהיר כי לבחירות עלולה להיות השפעה משמעותית על השווקים הפיננסיים.",
+    "summary_he": "חמאס מינה את חליל אל־חיה למנהיג החדש של הארגון, וצה\"ל החל בפיילוט לנסיגת כוחות מכפרים בדרום לבנון. במקביל התפרסמו תוצאות הפריימריז של הדמוקרטים בארה\"ב, ובבריטניה הבטיח ראש הממשלה הנכנס אנדי ברנהאם מודל כלכלי חדש. בישראל דווח על ילדה בת שמונה שנפצעה קשה מירי בצפון הארץ.",
     "headlines": [
       {
-        "id": "39999d6084",
-        "title": "אנדי ברנהאם התמנה לראש ממשלת בריטניה; אלו חמשת האתגרים הגדולים שלו",
-        "url": "https://www.haaretz.co.il/news/world/europe/2026-07-20/ty-article/0000019f-7e8e-dffc-abbf-febf1afa0000",
+        "id": "d85af95267",
+        "title": "חמאס הודיע כי חליל אל־חיה נבחר למנהיג החדש של הארגון במקום סינוואר",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/0000019f-7f38-ddd1-ab9f-ffbad4760000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-20T11:36:19+00:00",
+        "published_at": "2026-07-20T11:16:17+00:00",
+        "image_url": null
+      },
+      {
+        "id": "bddc172ce1",
+        "title": "צה\"ל: החל הפיילוט לנסיגתם של הכוחות מהכפרים בדרום לבנון",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7fa2-d48b-ab9f-7fafc8b70000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-20T13:09:30+00:00",
+        "image_url": null
+      },
+      {
+        "id": "86f8507aaf",
+        "title": "התוצאות הסופיות בפריימריז: זו רשימת הדמוקרטים",
+        "url": "https://www.ynet.co.il/news/article/sk7fmtiefg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-20T16:14:18+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/BJOKiCj4fe/BJOKiCj4fe_1_46_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "8cbc3c14ef",
+        "title": "תוצאות הפריימריז בדמוקרטים: לזימי, קריב ורייטן בשלושת המקומות הראשונים",
+        "url": "https://www.haaretz.co.il/news/elections/2026-07-20/ty-article/.premium/0000019f-804b-d316-a9df-a24fe7910000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-20T17:09:17+00:00",
         "image_url": null
       },
       {
@@ -26,100 +56,20 @@
         "image_url": "https://img.haarets.co.il/bs/0000019f-8006-d316-a9df-a24fd16b0000/6e/2b/8e8c9327426f91870305107b9f65/857228.jpg?height=81"
       },
       {
-        "id": "933fe983fa",
-        "title": "מהפכת ההלאמות - והאיום בסנקציות על ישראל: ברנהאם התמנה לראש ממשלת בריטניה",
-        "url": "https://www.ynet.co.il/news/article/rkcw7hjefx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-20T12:00:36+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/HkrKKqoEMl/HkrKKqoEMl_0_31_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "cc3e690005",
-        "title": "תקוות רבות נתלות היום בפריימריז של הדמוקרטים, האם יישארו עד הבחירות?",
-        "url": "https://www.haaretz.co.il/news/elections/2026-07-20/ty-article-magazine/.premium/0000019f-7bf5-dd8b-a1bf-fff5a3760000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T03:00:47+00:00",
-        "image_url": null
-      },
-      {
-        "id": "0f966b6009",
-        "title": "ישראל עמדה מלכת לכבוד גמר המונדיאל: הכבישים התרוקנו - והאוכל זרם במשלוחים",
-        "url": "https://www.ynet.co.il/news/article/rypr8vjegg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-20T13:23:13+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/27/SyblnSr4eGe/SyblnSr4eGe_0_238_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "4e972e4c88",
-        "title": "בנק הפועלים מזהיר כי \"לבחירות עשויה להיות השפעה משמעותית על השווקים\"",
-        "url": "https://www.themarker.com/markets/2026-07-20/ty-article/.premium/0000019f-7de8-d723-af9f-fdfab5ff0000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-07-20T06:13:44+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000019f-7e1b-d316-a9df-7e5fc3880001/b3/78/472797214d6397204efd22c7cb0a/142834.jpg?height=81"
+        "id": "60e7287ace",
+        "title": "בת שמונה נורתה בצפון הארץ - מצבה קשה",
+        "url": "https://news.walla.co.il/item/3854995",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-20T20:25:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079213-46.jpeg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "באזור מתרחשות התפתחויות ביטחוניות משמעותיות. ארצות הברית תקפה את איראן, וממקורות אמריקאיים דווח על עשרות חיילים שנפצעו בתקיפות איראניות בירדן, דיווחים שהוכחשו על ידי הפנטגון. חמאס הודיע על מינוי מנהיגו החדש, והחות'ים הכריזו על מצור ימי נגד סעודיה, במהלך המעלה את המתיחות האזורית. בגדה ובעזה מתנהלות התנחלויות ופעולות צבאיות עם דיווחים על הרוגים אזרחיים; המדינה תומכת בהקמת התנחלויות בעזה, בעוד עולים דיווחים על פגיעה בקטינים. ארצות הברית הודיעה על הפעלת פעילות פיילוט בדרום לבנון.",
+    "summary_he": "חמאס הודיע על מינויו של חליל אל־חיה כמנהיג חדש תחת סינוואר, כאשר בהארץ מציינים שהבחירה משקפת המשך ההישענות על איראן. צה\"ל החל בפיילוט לנסיגה מכפרים בדרום לבנון, אך המתיחות עם חיזבאללה נותרה בעינה. במקביל נמשכת האש במפרץ, ארה\"ב מזהירה את איראן מפני שליטה במיצר הורמוז ותוקפת שוב יעדים איראניים, וירדן דווחה כי היא נתונה תחת אש. צה\"ל חיסל מחבל שפיקד על חטיפת ענבר הימן, וילדה בת שמונה נפצעה קשה מירי בצפון הארץ.",
     "headlines": [
-      {
-        "id": "c8aa81218b",
-        "title": "ארה\"ב תקפה באיראן; טראמפ: פגענו בהם שוב בעוצמה הלילה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/0000019f-7cb2-dd8b-a1bf-fef23cfd0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-19T23:30:09+00:00",
-        "image_url": null
-      },
-      {
-        "id": "d1499521e5",
-        "title": "איראן אומנם הרחיבה את התקיפות בירדן, אבל המסר היה מיועד גם ללבנון",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7be5-dd5a-a5df-7be752650000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T03:00:51+00:00",
-        "image_url": null
-      },
-      {
-        "id": "e50a38b2a6",
-        "title": "מקורות בארה\"ב: עשרות חיילים נפצעו בתקיפות של איראן בשבוע שעבר בירדן, הפנטגון הסתיר זאת",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7ed4-d48b-ab9f-7eff1f6b0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T09:24:55+00:00",
-        "image_url": null
-      },
-      {
-        "id": "d94ab203d8",
-        "title": "החותים הודיעו כי הטילו מצור ימי על סעודיה",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-20/ty-article/.premium/0000019f-7f6c-d723-af9f-ff7e31fa0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T12:07:06+00:00",
-        "image_url": null
-      },
-      {
-        "id": "e6709b1722",
-        "title": "החות'ים הכריזו על \"מצור ימי\" נגד סעודיה: \"משוואת עין תחת עין, מתקרבים למלחמה כוללת\"",
-        "url": "https://www.ynet.co.il/news/article/rkl8e5o4gl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-20T12:12:56+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/03/rkB4XdB7fx/rkB4XdB7fx_0_0_850_479_0_medium.jpg"
-      },
       {
         "id": "d85af95267",
         "title": "חמאס הודיע כי חליל אל־חיה נבחר למנהיג החדש של הארגון במקום סינוואר",
@@ -131,74 +81,84 @@
         "image_url": null
       },
       {
-        "id": "50de5e2c3f",
-        "title": "דיווחים פלסטיניים: צה\"ל הרג שני פלסטינים בכפר בגדה בזמן שמתנחלים גנבו משם צאן",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/0000019f-7c50-d316-a9df-7e5fc5150000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-19T21:52:18+00:00",
-        "image_url": null
-      },
-      {
-        "id": "875544c44c",
-        "title": "צה\"ל מסרב להבהיר את נסיבות הריגתם של חמישה בני משפחה בעזה, ובהם ילדה בת 8",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7bc6-d490-a59f-7ff781b40000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T04:57:29+00:00",
-        "image_url": null
-      },
-      {
-        "id": "4d6c5bc0b5",
-        "title": "ילדה בת שמונה נפצעה קשה מירי בדיר חנא שבגליל",
-        "url": "https://www.haaretz.co.il/news/law/2026-07-20/ty-article/.premium/0000019f-80a4-d316-a9df-a2ef4aac0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T18:09:26+00:00",
-        "image_url": null
-      },
-      {
-        "id": "5c211440b1",
-        "title": "אלפים השתתפו בצעדה למען התנחלות בעזה; דניאלה וייס: לא יהיו שם יותר ערבים",
-        "url": "https://www.haaretz.co.il/news/politi/2026-07-19/ty-article/.premium/0000019f-7b40-d723-af9f-fb72c9950000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-19T18:53:16+00:00",
-        "image_url": null
-      },
-      {
-        "id": "3866e1c546",
-        "title": "אלפי הצועדים בדיונות של זיקים קראו להקים התנחלויות בעזה \"עוד לפני הבחירות\"",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7d85-d316-a9df-7fcf49740000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T05:58:56+00:00",
-        "image_url": null
-      },
-      {
-        "id": "481febcb9f",
-        "title": "\"פיצוצים - וצחוק של ילדים\": עיר החוף בלבנון שחיזבאללה התחבא בה חוזרת לשגרה",
-        "url": "https://www.ynet.co.il/news/article/by7fiwongg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-20T11:15:02+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/S1ZGXGdjNGg/S1ZGXGdjNGg_0_30_961_541_0_medium.jpg"
-      },
-      {
         "id": "bddc172ce1",
-        "title": "ארה\"ב הודיעה על תחילת יישום הפיילוט בשלושה כפרים בדרום לבנון",
+        "title": "צה\"ל: החל הפיילוט לנסיגתם של הכוחות מהכפרים בדרום לבנון",
         "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7fa2-d48b-ab9f-7fafc8b70000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
         "published_at": "2026-07-20T13:09:30+00:00",
         "image_url": null
+      },
+      {
+        "id": "37e6950f43",
+        "title": "האש במפרץ לא עוצרת, ארה\"ב: \"אם איראן מתעקשת לשלוט בהורמוז - נצטרך להגיב\"",
+        "url": "https://www.ynet.co.il/news/article/skv9hijefl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-20T14:23:13+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/04/rkGSmlZ8RZx/rkGSmlZ8RZx_0_0_1223_689_0_medium.jpg"
+      },
+      {
+        "id": "9df1d56c90",
+        "title": "הבחירה באל־חיה להנהגת חמאס מעידה שהארגון עוד נשען על הברית עם איראן",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7fd4-d316-a9df-7fdf747c0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-20T15:37:33+00:00",
+        "image_url": null
+      },
+      {
+        "id": "0a9e4e7b4d",
+        "title": "צה\"ל חיסל את המחבל שפיקד על חטיפת ענבר הימן: \"מפלצת, שיגיעו גם לשאר\"",
+        "url": "https://www.ynet.co.il/news/article/rkbudps4gl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-20T16:25:25+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/15/HJ11KHo11T3We/HJ11KHo11T3We_1_34_1080_608_0_medium.jpg"
+      },
+      {
+        "id": "527187e1aa",
+        "title": "יותר קיצוני מסינוואר: המנהיג החדש של חמאס - והדיל שמגן עליו",
+        "url": "https://news.walla.co.il/item/3854960",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-20T17:36:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/5/8/3958520-46.jpg"
+      },
+      {
+        "id": "32bb2b5589",
+        "title": "הפיילוט מתחיל - אבל זה לא הסוף בלבנון: המתיחות בחיזבאללה והשאלות הפתוחות",
+        "url": "https://www.ynet.co.il/news/article/hkpwcionfg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-20T17:51:45+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/rkeKaP7rEMe/rkeKaP7rEMe_1_0_3000_1688_0_medium.jpg"
+      },
+      {
+        "id": "5c1639db4f",
+        "title": "ירדן תחת אש, ארה\"ב שוב תוקפת באיראן: \"תשלם הרבה פעמים על כל חייל שנהרג\"",
+        "url": "https://www.ynet.co.il/news/article/b1y0d13ngl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-20T19:14:01+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/SJW1gbe2Ezg/SJW1gbe2Ezg_530_379_906_510_0_medium.jpg"
+      },
+      {
+        "id": "60e7287ace",
+        "title": "בת שמונה נורתה בצפון הארץ - מצבה קשה",
+        "url": "https://news.walla.co.il/item/3854995",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-20T20:25:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079213-46.jpeg"
       }
     ]
   },
@@ -206,94 +166,64 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "הזירה הפוליטית בארה\"ב נוטה, כשהפריימריז הדמוקרטי מתנהל מול דאגות קונסרבטיביות מנוגדות. בישראל, תוכניות ההתנחלויות בעזה זכו לתמיכה המונית, בעוד הממשלה מתמודדת עם אתגרים נוספים, כולל טענות על השפעה מדינית של גופים דתיים על מדיניות הביטחון. בתחום זכויות הנשים, מתנהלות התמודדויות סביב חוקים מוצעים.",
+      "summary_he": "בארה\"ב פורסמו התוצאות הסופיות של הפריימריז אצל הדמוקרטים, עם לזימי, קריב ורייטן בשלושת המקומות הראשונים. בישראל, נתניהו מתואר כ\"חלום בלהות\" עבור מתמודדי הליכוד, יאיר גולן דיבר על אפשרות למדיניות ברוח הסכמי אוסלו, ועוצמה יהודית השיקה קמפיין המציג את פעילות בן גביר.",
       "headlines": [
         {
-          "id": "cc3e690005",
-          "title": "תקוות רבות נתלות היום בפריימריז של הדמוקרטים, האם יישארו עד הבחירות?",
-          "url": "https://www.haaretz.co.il/news/elections/2026-07-20/ty-article-magazine/.premium/0000019f-7bf5-dd8b-a1bf-fff5a3760000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-20T03:00:47+00:00",
-          "image_url": null
-        },
-        {
-          "id": "9418637921",
-          "title": "הרפובליקאים השמרנים בארה\"ב חוששים שוואנס קורץ לימין הקיצוני והאנטישמי",
-          "url": "https://www.haaretz.co.il/news/world/america/2026-07-20/ty-article/.premium/0000019f-7a8b-d723-af9f-fbfb4de20000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-20T03:00:40+00:00",
-          "image_url": null
-        },
-        {
-          "id": "5c211440b1",
-          "title": "אלפים השתתפו בצעדה למען התנחלות בעזה; דניאלה וייס: לא יהיו שם יותר ערבים",
-          "url": "https://www.haaretz.co.il/news/politi/2026-07-19/ty-article/.premium/0000019f-7b40-d723-af9f-fb72c9950000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-19T18:53:16+00:00",
-          "image_url": null
-        },
-        {
-          "id": "3866e1c546",
-          "title": "אלפי הצועדים בדיונות של זיקים קראו להקים התנחלויות בעזה \"עוד לפני הבחירות\"",
-          "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7d85-d316-a9df-7fcf49740000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-20T05:58:56+00:00",
-          "image_url": null
-        },
-        {
-          "id": "37cc4a36ca",
-          "title": "הרב לנדו: המדינה יוצאת למלחמות לא רק לשם הצלה, אלא לשם כבודה. \"הכיפות הסרוגות\" מסיתים לרצח",
-          "url": "https://www.haaretz.co.il/news/elections/2026-07-19/ty-article/.premium/0000019f-7b97-d723-af9f-fbf720540000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-19T19:03:54+00:00",
-          "image_url": null
-        },
-        {
-          "id": "63427c1f98",
-          "title": "המל\"ג משותקת: חמישה חברים התפטרו במחאה על החוק להפרדה מגדרית",
-          "url": "https://www.themarker.com/news/education/2026-07-20/ty-article/.premium/0000019f-7e66-d490-a59f-7f7795580000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T07:44:30+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-7e99-d490-a59f-7ffd980b0001/d4/d0/006acddb414fb03e3198ccadf259/414335.jpg?height=81"
-        },
-        {
-          "id": "f879bc22bf",
-          "title": "הדמוקרטים מסרבים לאפשר לערוץ 14 לסקר את אירוע הפריימריז הערב",
-          "url": "https://www.haaretz.co.il/news/elections/2026-07-20/ty-article/0000019f-7ee7-d316-a9df-7eef7e410000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-20T10:02:57+00:00",
-          "image_url": null
-        },
-        {
-          "id": "e036b632a9",
-          "title": "טראמפ עונה לממדאני: נתניהו לא ייעצר",
-          "url": "https://www.ynet.co.il/news/article/sy20frjefx",
+          "id": "86f8507aaf",
+          "title": "התוצאות הסופיות בפריימריז: זו רשימת הדמוקרטים",
+          "url": "https://www.ynet.co.il/news/article/sk7fmtiefg",
           "source": "ynet",
           "source_label": "Ynet",
           "source_label_he": "Ynet",
-          "published_at": "2026-07-20T16:57:40+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/B1ZsB0oNfx/B1ZsB0oNfx_0_0_850_479_0_medium.jpg"
+          "published_at": "2026-07-20T16:14:18+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/BJOKiCj4fe/BJOKiCj4fe_1_46_3000_1689_0_medium.jpg"
+        },
+        {
+          "id": "8cbc3c14ef",
+          "title": "תוצאות הפריימריז בדמוקרטים: לזימי, קריב ורייטן בשלושת המקומות הראשונים",
+          "url": "https://www.haaretz.co.il/news/elections/2026-07-20/ty-article/.premium/0000019f-804b-d316-a9df-a24fe7910000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-20T17:09:17+00:00",
+          "image_url": null
+        },
+        {
+          "id": "3eed21598e",
+          "title": "סוף עידן המתפקדים: נתניהו הפך לחלום הבלהות של מתמודדי הליכוד",
+          "url": "https://news.walla.co.il/item/3854937",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-20T16:30:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/5/9/4059704-46.jpg"
+        },
+        {
+          "id": "1c2c7a5ecb",
+          "title": "יאיר גולן: ניתן להגיע למדיניות ברוח הסכמי אוסלו - גם עם בנט וליברמן",
+          "url": "https://news.walla.co.il/item/3854964",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-20T17:55:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/1/4071408-46.jpeg"
+        },
+        {
+          "id": "2387c90697",
+          "title": "עוצמה יהודית משיקה קמפיין: מציגה את מהלכי בן גביר - ותוקפת את מבקריו",
+          "url": "https://news.walla.co.il/item/3854991",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-20T19:46:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/9/4/3994841-46.jpg"
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "הכלכלה הראתה סימנים מעורבים. עבור בעלי מסעדות הוכרזו הנחות רגולטוריות דרמטיות בעלויות השכירות והארנונה. מגזר המזון המשיך לצמוח במהירות, עם עלויות השקעה גבוהות לפתיחת מקומות אכילה. עם זאת, אזהרות בנקאיות הצביעו על סיכונים פוטנציאליים הנובעים מתהליכים פוליטיים. בשוק הנדל\"ן הבינלאומי, מתעוררים אתגרים בשוקי השכירות העירוניים.",
+      "summary_he": "דווח על הקלות דרמטיות ברגולציה שיפחיתו את עלויות השכירות והארנונה עבור מסעדנים.",
       "headlines": [
         {
           "id": "4fd2f7bc1e",
@@ -304,150 +234,50 @@
           "source_label_he": "גלובס",
           "published_at": "2026-07-20T13:00:00+00:00",
           "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1666705716/direct/shutterstock_741884605_xylbzu.jpg"
-        },
-        {
-          "id": "f431157984",
-          "title": "\"לפתוח מעדנייה זה לפחות מיליון שקל\": תחום המזון שצמח ב–50% בשלוש שנים",
-          "url": "https://www.themarker.com/consumer/2026-07-20/ty-article-magazine/.premium/0000019f-7a91-dd9d-abbf-7f9fe1770000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T03:04:05+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-7adf-d316-a9df-7adf99270000/b4/42/477a76e0489ba4abcf160a53042e/848556.jpg?height=81"
-        },
-        {
-          "id": "4e972e4c88",
-          "title": "בנק הפועלים מזהיר כי \"לבחירות עשויה להיות השפעה משמעותית על השווקים\"",
-          "url": "https://www.themarker.com/markets/2026-07-20/ty-article/.premium/0000019f-7de8-d723-af9f-fdfab5ff0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T06:13:44+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-7e1b-d316-a9df-7e5fc3880001/b3/78/472797214d6397204efd22c7cb0a/142834.jpg?height=81"
-        },
-        {
-          "id": "210cbb0425",
-          "title": "ראש ממשלת בריטניה הנכנס אנדי ברנהאם מבטיח \"מודל כלכלי חדש\". האם הוא יצליח לייצב את הממלכה?",
-          "url": "https://www.themarker.com/wallstreet/2026-07-20/ty-article/.premium/0000019f-7ff1-d587-a9df-7ff9342b0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T15:50:03+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-8006-d316-a9df-a24fd16b0000/6e/2b/8e8c9327426f91870305107b9f65/857228.jpg?height=81"
-        },
-        {
-          "id": "39999d6084",
-          "title": "אנדי ברנהאם התמנה לראש ממשלת בריטניה; אלו חמשת האתגרים הגדולים שלו",
-          "url": "https://www.haaretz.co.il/news/world/europe/2026-07-20/ty-article/0000019f-7e8e-dffc-abbf-febf1afa0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-20T11:36:19+00:00",
-          "image_url": null
-        },
-        {
-          "id": "d0d52dab1a",
-          "title": "\"מי שיכול למכור, ימכור\": למה בעלי בתים בלונדון בורחים משוק השכירות?",
-          "url": "https://www.themarker.com/wallstreet/2026-07-20/ty-article/.premium/0000019f-7aa6-d130-a1ff-faee24770000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T06:48:04+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-7b52-d723-af9f-fb72d0090000/ed/77/b011113443f3a687155b959ca3f5/765343.jpg?height=81"
-        },
-        {
-          "id": "a319178728",
-          "title": "‘Economic warfare?’ In the West Bank, too much cash is breaking the Palestinian economy",
-          "url": "https://www.timesofisrael.com/economic-warfare-in-the-west-bank-too-much-cash-is-breaking-the-palestinian-economy/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-07-20T17:43:32+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26188558864346-1024x640.jpg"
         }
       ]
     },
     {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "בנושאי חברה ודת, עלו טענות בנוגע לקשר שבין אידאולוגיה דתית למדיניות הביטחון של המדינה. בתחום זכויות הנשים, מתנהלות התמודדויות סביב הפרדה מגדרית בחוקים חדשים. מקרים פליליים הכוללים תוכן מיני פסול ושחיתות מעוררים אף הם תגובות ציבוריות.",
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "לוקהיד מרטין מנסה להוזיל בחצי את עלויות מערכת יירוט הפטריוט, ואנבידיה השיקה כלי לזיהוי סרטונים שנוצרו בבינה מלאכותית לקראת הבחירות.",
       "headlines": [
         {
-          "id": "37cc4a36ca",
-          "title": "הרב לנדו: המדינה יוצאת למלחמות לא רק לשם הצלה, אלא לשם כבודה. \"הכיפות הסרוגות\" מסיתים לרצח",
-          "url": "https://www.haaretz.co.il/news/elections/2026-07-19/ty-article/.premium/0000019f-7b97-d723-af9f-fbf720540000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-19T19:03:54+00:00",
-          "image_url": null
-        },
-        {
-          "id": "63427c1f98",
-          "title": "המל\"ג משותקת: חמישה חברים התפטרו במחאה על החוק להפרדה מגדרית",
-          "url": "https://www.themarker.com/news/education/2026-07-20/ty-article/.premium/0000019f-7e66-d490-a59f-7f7795580000",
+          "id": "059f634c69",
+          "title": "מיירטים בחצי מחיר: לוקהיד מרטין מנסה להפוך את העלויות של פטריוט לתחרותיות",
+          "url": "https://www.themarker.com/news/security/2026-07-20/ty-article/.premium/0000019f-7fe3-de59-a5bf-7fefb41e0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T07:44:30+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-7e99-d490-a59f-7ffd980b0001/d4/d0/006acddb414fb03e3198ccadf259/414335.jpg?height=81"
+          "published_at": "2026-07-20T15:04:29+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-8001-d48b-ab9f-f62f8db30000/9f/6f/9e5718b846f4b9cf9516adb4e50e/863801.jpg?height=81"
         },
         {
-          "id": "e0e701cf2b",
-          "title": "\"היא חסרת גבולות\": גרסת הסב החשוד בפגיעה מינית בנכדותיו",
-          "url": "https://news.walla.co.il/item/3854941",
+          "id": "3aa24fa5fc",
+          "title": "מענה לפייק ניוז בבחירות? אנבידיה השיקה כלי לזיהוי סרטונים שנוצרו ע\"י AI",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001549896",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-07-20T15:00:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1767625216/AP25304375509160_ecetea.jpg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "גל חום כבד פוקד את הארץ עם טמפרטורות שמתקרבות ל-45 מעלות, כאשר השיא עדיין צפוי להגיע.",
+      "headlines": [
+        {
+          "id": "4bf5820b01",
+          "title": "כמעט 45 מעלות בצהריים: גל החום הכבד כאן - והשיא עוד לפנינו",
+          "url": "https://news.walla.co.il/item/3854976",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-07-20T16:35:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/4/3/4043102-46.jpg"
-        },
-        {
-          "id": "70dfe81bc4",
-          "title": "פרשת סלייס: \"כרטיס פרימיום לניו יורק, בזמן שלקורבנותיה אין כסף לממן כרטיס נסיעה באוטובוס\"",
-          "url": "https://www.themarker.com/markets/2026-07-20/ty-article/.highlight/0000019f-7efa-d48b-ab9f-7effb3ba0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T10:24:57+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-7f0b-d723-af9f-ff7b153b0001/e5/ae/73b1ca7c4fc0976f42a5d6b5b2c0/349810.jpg?height=81"
-        }
-      ]
-    },
-    {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "מגזר הנדל\"ן הפגין פעילות ערה, עם עסקאות נכסים גדולות ושינויים בשוק. רפורמות רגולטוריות נועדו להפחית את עלויות הדיור והנכסים עבור עסקים. בשוקי השכירות של הערים הגדולות מתרחשים שינויים מבניים, כשבעלי נכסים חוזרים ומשתתפים בשוק.",
-      "headlines": [
-        {
-          "id": "d0d52dab1a",
-          "title": "\"מי שיכול למכור, ימכור\": למה בעלי בתים בלונדון בורחים משוק השכירות?",
-          "url": "https://www.themarker.com/wallstreet/2026-07-20/ty-article/.premium/0000019f-7aa6-d130-a1ff-faee24770000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T06:48:04+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-7b52-d723-af9f-fb72d0090000/ed/77/b011113443f3a687155b959ca3f5/765343.jpg?height=81"
-        },
-        {
-          "id": "3fcca03f90",
-          "title": "בית המשפט אישר: מכללת ארזים תימכר לצבי ביכלר ב-1.3 מיליון שקל",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001549950",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-20T16:29:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1613887858/old/1465721.jpg"
-        },
-        {
-          "id": "4fd2f7bc1e",
-          "title": "בשורה למסעדנים: הקלות דרמטיות ברגולציה יחתכו את עלויות השכירות והארנונה",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001549873",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-20T13:00:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1666705716/direct/shutterstock_741884605_xylbzu.jpg"
+          "published_at": "2026-07-20T19:02:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/5/7/0/3570871-46.jpeg"
         }
       ]
     }
@@ -471,17 +301,17 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israel's domestic legislation reforms affecting media oversight and judicial independence are advancing as Palestinian-Israeli tensions persist in the West Bank, with Palestinians reporting Israeli settlers operating alongside military forces. Internationally, the new British Prime Minister faces scrutiny over his positions on Israel and antisemitism, while American pro-Israel voters grapple with their political loyalties in contested races. Hamas has appointed Khalil al-Hayya as its new leader, and the Trump administration has firmly rejected any possibility of prosecuting Israeli Prime Minister Netanyahu in New York.",
+      "summary_en": "Recent developments in Israel and Jewish diaspora politics include Hamas naming Khalil al-Hayya as its new overall leader, continued tensions over the Israeli military presence in the West Bank where two Palestinians were shot dead amid accusations of settler-army collusion, and significant changes to Israeli legislation affecting the media and the judiciary. Meanwhile, U.S. political dynamics around Israel remain contested, with pro-Israel Jewish voters in Michigan facing questions about their Democratic loyalty, and members of the Syrian Jewish diaspora advocating for the lifting of U.S. sanctions on Syria. In international diplomacy, President Trump has stated that Prime Minister Netanyahu will not face arrest if he comes to the United States.",
       "headlines": [
         {
-          "id": "3cc7d6a0cd",
-          "title": "Where does Andy Burnham, the new British prime minister, stand on Israel and antisemitism?",
-          "url": "https://www.jta.org/2026/07/20/global/where-does-andy-burnham-the-new-british-prime-minister-stand-on-israel-and-antisemitism",
+          "id": "db76d9a4f5",
+          "title": "As Israel urged caution, these Syrian Jews lobbied the U.S. to lift sanctions on Syria",
+          "url": "https://www.jta.org/2026/07/20/global/as-israel-urged-caution-these-syrian-jews-lobbied-the-u-s-to-lift-sanctions-on-syria",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-07-20T20:23:17+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/AndyBurnhamPM.jpg"
+          "published_at": "2026-07-20T20:36:17+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-13-at-07.25.45.jpeg"
         },
         {
           "id": "2714d1874b",
@@ -492,6 +322,16 @@
           "source_label_en": "The Guardian",
           "published_at": "2026-07-20T17:53:28+00:00",
           "image_url": "https://i.guim.co.uk/img/media/cd95ddd8a76d0e9517dd1021c7c7c2f394789079/81_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=5033ae3b8c0072e66c09e47198dfb6af"
+        },
+        {
+          "id": "c1e0b4332d",
+          "title": "Live - Trump opposes arrest of Netanyahu in US following Mamdani statement: 'He will not be arrested in any way'",
+          "url": "https://www.demorgen.be/snelnieuws/live-hamas-benoemt-khalil-al-hayya-tot-nieuwe-leider-libanees-leger-herneemt-controle-over-drie-dorpen~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-20T17:04:00+00:00",
+          "image_url": "https://image.demorgen.be/275593078/roi/320/320/691.1999999999999/529.2/afbeelding"
         },
         {
           "id": "31d7234489",
@@ -522,25 +362,15 @@
           "source_label_en": "De Morgen",
           "published_at": "2026-07-20T12:00:21+00:00",
           "image_url": "https://image.demorgen.be/275983040/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "f8b67ed7f9",
-          "title": "Trump rejects Mamdani vow to arrest Netanyahu in NYC",
-          "url": "https://www.jta.org/2026/07/20/politics/trump-rejects-mamdani-vow-to-arrest-netanyahu-in-nyc",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-07-20T19:05:04+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/GettyImages-2247216347.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium's King Filip's July 21 national holiday address sparked discussion, particularly regarding his remarks on foreign leaders Putin and Trump and his position on Israel. The national holiday festivities in Brussels, including fireworks, proceeded despite drought conditions. Travel disruptions occurred when an airport official confiscated an e-ID, and Belgium's fire department unveiled new specialized clothing designed to improve comfort and performance during natural-fire response operations.",
+      "summary_en": "Belgium's national football team enters a new era after coach Rudi Garcia stepped down, having guided the Red Devils to the World Cup final. As Belgium prepares for its national holiday celebrations, Brussels will feature fireworks following a French tradition rather than a Belgian one. On the domestic front, a Belgian resident's e-ID was unexpectedly confiscated at the airport, raising concerns about travel document procedures.",
       "headlines": [
         {
           "id": "baeff4c665",
-          "title": "Gilles, 37, sees his wife and children leave on trip alone after his e-ID is suddenly confiscated at airport",
+          "title": "Gilles (37) sees his wife and children leave alone on vacation after his e-ID is suddenly confiscated at the airport",
           "url": "https://www.hln.be/haaltert/gilles-37-ziet-zijn-vrouw-en-kinderen-alleen-op-reis-vertrekken-nadat-zijn-e-id-plots-in-beslag-wordt-genomen-op-luchthaven~a4df61a0/",
           "source": "hln",
           "source_label": "HLN",
@@ -549,18 +379,8 @@
           "image_url": "https://images.hln.be/NTg0OGU5MmU1OTc1NWRjYjNiOTAvZGlvLzI3NjEwMzYxMi9maXQtd2lkdGgvNDAw/gilles-met-zijn-gezin"
         },
         {
-          "id": "9a51aa0650",
-          "title": "Did King Filip sneer at Putin and Trump in his July 21 speech? Did he condemn Israel?",
-          "url": "https://www.hln.be/royalty/sneerde-koning-filip-naar-poetin-en-trump-in-zijn-21-juli-toespraak-veroordeelde-hij-israel~a9b9896e/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-07-20T17:00:00+00:00",
-          "image_url": "https://images.hln.be/YTMzNmJkMjY2ZWVjZTY4NjYyNGIvZGlvLzI3NjA5NjA3Ny9maXQtd2lkdGgvNDAw/toespraak-van-koning-filip-voor-de-nationale-feestdag-van-2026"
-        },
-        {
           "id": "95ddcdb209",
-          "title": "Fireworks during national holiday celebration in Brussels allowed to continue despite drought",
+          "title": "Fireworks during national holiday celebration in Brussels may go ahead despite drought",
           "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/vuurwerk-nationale-feestdag/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -569,19 +389,29 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/c56f1838-448c-4d04-86dc-487ace56fb0c.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "4a840cc0d7",
-          "title": "New intervention clothing for firefighters in natural fires: 'Much more comfortable, especially in hot weather'",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/07/20/video-brandweer-nieuwe-uniformen/",
+          "id": "a8d9a6f4a6",
+          "title": "Fireworks on national holiday in Brussels are French: 'They don't light Belgian fireworks at the Eiffel Tower either'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/vuurwerkfederatie-vuurwerk-nationale-feestdag0/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/03195740-29a4-423a-b5f5-f147d98607ed.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2023/07/20/130d9adf-2711-11ee-91d7-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "3ee309e38f",
+          "title": "Rudi Garcia no longer coach of the Red Devils: 'I leave Belgium among the eight best teams in the world'",
+          "url": "https://www.demorgen.be/snelnieuws/rudi-garcia-niet-langer-bondscoach-van-rode-duivels-ik-laat-belgie-achter-bij-de-acht-beste-ploegen-ter-wereld~b44e7f69/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-20T14:46:00+00:00",
+          "image_url": "https://image.demorgen.be/275795525/feature-crop/320/320/afbeelding"
         }
       ]
     },
     "europe": {
-      "summary_en": "Chess legend Judit Polgár declined Hungary's presidential nomination, citing her inability to unite the deeply divided nation. In the United Kingdom, new Prime Minister Andy Burnham unveiled his cabinet with pledges to restore public hope and confidence. France reported that its embassy personnel were detained and mistreated by Iranian authorities, highlighting escalating tensions in the region.",
+      "summary_en": "Britain's new Labour government under Andy Burnham is reshaping its cabinet with significant personnel changes, including the removal of the Brexit Minister from key positions. Across the EU, regulators have taken a strong stance against e-commerce violations, imposing a record €550 million fine on China's Alibaba for selling illegal products on its platform. Hungary's legendary chess champion Judit Polgár has declined the country's presidential nomination, citing concerns about her ability to unite a politically divided nation. The European Parliament is also addressing emerging governance challenges related to the use of artificial intelligence among its deputies.",
       "headlines": [
         {
           "id": "59744db421",
@@ -594,59 +424,89 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2026/07/19/cb1c883c-5204-48d7-87b0-102291126831.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "6b4fe53edf",
-          "title": "Andy Burnham vows to 'bring back hope' as he unveils his cabinet",
-          "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-vows-to-bring-back-hope-as-he-unveils-his-cabinet",
+          "id": "8ea7c64a91",
+          "title": "Andy Burnham's first Labour cabinet: who's in and who's out?",
+          "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-labour-cabinet-profiles",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-07-20T19:51:02+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/87d11ce35595cd450f22a0c40d4f3e988095b9ed/1118_0_5602_4480/master/5602.jpg?width=700&quality=85&auto=format&fit=max&s=94ae965525f986130f2a14536295afa4"
+          "published_at": "2026-07-20T19:58:44+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/ad724ce97e350f477f3529fbef44f7d047add04a/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=67517233481ea22f4d70576254c646cf"
         },
         {
-          "id": "be28dd1f9d",
-          "title": "Trump: Iran 'will pay' for every dead American soldier • France: embassy staff detained and mistreated in Iran",
-          "url": "https://www.demorgen.be/snelnieuws/live-trump-iran-zal-boeten-voor-iedere-gedode-amerikaanse-soldaat-frankrijk-ambassadepersoneel-vastgehouden-en-mishandeld-in-iran~be9c4f82/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-20T19:17:00+00:00",
-          "image_url": "https://image.demorgen.be/276087264/roi/320/320/2805/1918.28/afbeelding"
+          "id": "4134ab0049",
+          "title": "Britain's Brexit Minister Nick Thomas-Symonds axed in reshuffle",
+          "url": "https://www.politico.eu/article/eu-relations-minister-nick-thomas-symonds-reshuffle/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-07-20T17:24:58+00:00",
+          "image_url": null
+        },
+        {
+          "id": "f66f7aa433",
+          "title": "Concerned about AI usage by MPs, the European Parliament has a solution",
+          "url": "https://www.politico.eu/article/inquiet-des-usages-de-lia-par-les-deputes-le-parlement-europeen-a-une-solution/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-07-20T15:00:30+00:00",
+          "image_url": null
+        },
+        {
+          "id": "542bcfa181",
+          "title": "EU hits China's Alibaba with €550M record fine over illegal products",
+          "url": "https://www.politico.eu/article/eu-hits-chinas-alibaba-with-record-fine-of-e550m-over-illegal-products/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-07-20T10:00:00+00:00",
+          "image_url": null
         }
       ]
     },
     "world_top": {
-      "summary_en": "A suspect has been arrested in connection with an explosion at an FBI building in New York. The Tate brothers appeared in U.S. federal court for extradition proceedings in an ongoing high-profile international criminal case. Spain celebrated its 2026 World Cup victory with over one million people gathering in Madrid, though national team coach Rudi Garcia has been dismissed from his position.",
+      "summary_en": "The Middle East is escalating as the U.S. military launches additional strikes on Iran following the deaths of American soldiers, with President Trump vowing severe retaliation and warning that Iran will pay \"many times over\" for the losses. Global attention is also turning to the impacts of climate change, with Australian ski resorts experiencing unprecedented July temperatures—up to 12 degrees Celsius above average—highlighting the rapid acceleration of warming across the Southern Hemisphere. In sports, legendary English footballer Kevin Keegan, a two-time Ballon d'Or winner and Premier League icon, has passed away at 75.",
       "headlines": [
         {
-          "id": "2cdfee0731",
-          "title": "Suspect in custody named following explosion at FBI building in New York",
-          "url": "https://www.theguardian.com/us-news/2026/jul/20/new-york-explosion-fbi-ice",
+          "id": "34bb5fbcad",
+          "title": "US military launches further strikes on Iran after Trump says Tehran 'will pay' for killing soldiers – Middle East crisis live",
+          "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-07-20T19:37:45+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/973eeb8736463ae8c756e6a9a643afbc09565f8d/210_0_2501_2000/master/2501.jpg?width=700&quality=85&auto=format&fit=max&s=6816de4539d55da50012d9c0ca5cce69"
+          "published_at": "2026-07-20T20:29:51+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/2744295b846430734be9b965f7fcd1c7ecd639fb/464_0_4989_3991/master/4989.jpg?width=700&quality=85&auto=format&fit=max&s=d177603bef19029d9002d4e3d55072dd"
         },
         {
-          "id": "1853e3f6b4",
-          "title": "Tate brothers appear in US court for extradition proceedings",
-          "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
+          "id": "9a7f8b7533",
+          "title": "Trump warns Iran will pay 'many times over' for deaths of US soldiers",
+          "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-07-20T19:05:50+00:00",
+          "published_at": "2026-07-20T20:14:57+00:00",
           "image_url": null
         },
         {
-          "id": "5afaeeb558",
-          "title": "Over one million people for championship celebration in Madrid; national coach Rudi Garcia dismissed",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/ruim-miljoen-mensen-voor-kampioenenviering-in-madrid-rudi-garci~1783653761646/",
+          "id": "519a9db034",
+          "title": "Australian ski resorts smash July climate records with temperatures 12C above average",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/21/australian-ski-resorts-smash-july-climate-records-with-temperatures-12c-above-average",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-20T15:00:45+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/131c554edf85ad909e0148c084d105539b1f23f0/271_97_1308_1046/master/1308.jpg?width=700&quality=85&auto=format&fit=max&s=cdf52e4e6b524058f2bc52a4d2063e07"
+        },
+        {
+          "id": "faca938782",
+          "title": "Premier League English football icon and two-time Ballon d'Or winner Kevin Keegan deceased at age 75",
+          "url": "https://sporza.be/nl/2026/07/20/engels-voetbalicoon-en-tweevoudig-gouden-bal-winnaar-kevin-keegan-op-75-jarige-leeftijd-overleden~1784557538718/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/2e13c579-9ae0-4685-8345-30d1f5bae915.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/01/07/505fe3e5-c989-4fcf-a8c3-6a2b8051ae21.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
