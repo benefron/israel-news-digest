@@ -1,0 +1,16 @@
+[
+  { "key": "politics", "label_he": "פוליטיקה וממשל" },
+  { "key": "cost_of_living", "label_he": "יוקר המחיה וכלכלה" },
+  { "key": "health", "label_he": "בריאות ורפואה" },
+  { "key": "tech", "label_he": "טכנולוגיה והייטק" },
+  { "key": "culture_entertainment", "label_he": "תרבות ובידור" },
+  { "key": "sports", "label_he": "ספורט" },
+  { "key": "environment", "label_he": "סביבה ואקלים" },
+  { "key": "education", "label_he": "חינוך" },
+  { "key": "local_city", "label_he": "חדשות מקומיות ועיריות" },
+  { "key": "religion_society", "label_he": "דת וחברה" },
+  { "key": "law_courts", "label_he": "משפט ובתי משפט" },
+  { "key": "transportation", "label_he": "תחבורה ותשתיות" },
+  { "key": "real_estate", "label_he": "נדל\"ן ודיור" },
+  { "key": "consumer", "label_he": "צרכנות" }
+]

@@ -1,0 +1,31 @@
+{
+  "type": "object",
+  "properties": {
+    "found": { "type": "boolean" },
+    "message_id": { "type": "string" },
+    "diff": {
+      "type": "object",
+      "properties": {
+        "changes": {
+          "type": "object",
+          "properties": {
+            "add_subjects": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": { "key": { "type": "string" }, "label_he": { "type": "string" } },
+                "required": ["key", "label_he"]
+              }
+            },
+            "remove_subject_keys": { "type": "array", "items": { "type": "string" } },
+            "enable_subject_keys": { "type": "array", "items": { "type": "string" } },
+            "disable_subject_keys": { "type": "array", "items": { "type": "string" } }
+          },
+          "required": ["add_subjects", "remove_subject_keys", "enable_subject_keys", "disable_subject_keys"]
+        }
+      },
+      "required": ["changes"]
+    }
+  },
+  "required": ["found"]
+}

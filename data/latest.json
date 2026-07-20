@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-07-20T07:00:00+03:00",
+  "date": "2026-07-20",
+  "degraded": true,
+  "top_general": {
+    "summary_he": "זהו תוכן לדוגמה בלבד. לאחר הפעלת האוטומציה היומית, כאן יופיע סיכום קצר של הכותרות המרכזיות מהיום, שנאסף אוטומטית מאתרי החדשות.",
+    "headlines": [
+      { "id": "demo0000a1", "title": "כותרת לדוגמה: עדכון כללי ראשון", "url": "https://www.ynet.co.il", "source": "ynet", "source_label_he": "Ynet", "published_at": "2026-07-20T06:00:00+03:00" },
+      { "id": "demo0000a2", "title": "כותרת לדוגמה: עדכון כללי שני", "url": "https://www.haaretz.co.il", "source": "haaretz", "source_label_he": "הארץ", "published_at": "2026-07-20T05:40:00+03:00" }
+    ]
+  },
+  "security_war": {
+    "summary_he": "זהו תוכן לדוגמה בלבד. סעיף זה תמיד יוצג ראשון ויכלול עדכונים בנושאי ביטחון ומלחמה, ללא קשר לתחומי העניין שנבחרו.",
+    "headlines": [
+      { "id": "demo0000b1", "title": "כותרת לדוגמה: עדכון ביטחוני", "url": "https://www.kan.org.il", "source": "kan", "source_label_he": "כאן 11", "published_at": "2026-07-20T06:15:00+03:00" }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "תוכן לדוגמה לנושא פוליטיקה וממשל. כאן יופיע סיכום קצר בעברית עם קישורים לכתבות המלאות.",
+      "headlines": [
+        { "id": "demo0000c1", "title": "כותרת לדוגמה בנושא פוליטיקה", "url": "https://www.n12.co.il", "source": "n12", "source_label_he": "N12", "published_at": "2026-07-20T06:30:00+03:00" }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "תוכן לדוגמה לנושא יוקר המחיה וכלכלה. הסיכום האמיתי ייכתב אוטומטית בכל ריצה יומית.",
+      "headlines": [
+        { "id": "demo0000d1", "title": "כותרת לדוגמה בנושא כלכלה", "url": "https://news.walla.co.il", "source": "walla", "source_label_he": "וואלה", "published_at": "2026-07-20T06:10:00+03:00" }
+      ]
+    },
+    {
+      "key": "health",
+      "label_he": "בריאות ורפואה",
+      "summary_he": "תוכן לדוגמה לנושא בריאות ורפואה.",
+      "headlines": [
+        { "id": "demo0000e1", "title": "כותרת לדוגמה בנושא בריאות", "url": "https://www.israelhayom.co.il", "source": "israel_hayom", "source_label_he": "ישראל היום", "published_at": "2026-07-20T05:50:00+03:00" }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "תוכן לדוגמה לנושא תרבות ובידור.",
+      "headlines": [
+        { "id": "demo0000f1", "title": "כותרת לדוגמה בנושא תרבות", "url": "https://www.ynet.co.il", "source": "ynet", "source_label_he": "Ynet", "published_at": "2026-07-20T06:05:00+03:00" }
+      ]
+    }
+  ],
+  "sources_fetched": [],
+  "sources_failed": []
+}

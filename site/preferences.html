@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>תחומי עניין — עדכון חדשות יומי</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icons/icon-192.png" />
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#2142ad" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-row">
+      <div class="brand">
+        <img src="icons/icon-192.png" alt="" />
+        <h1>תחומי עניין</h1>
+      </div>
+      <div class="header-actions">
+        <a class="icon-btn" href="index.html">📰 חזרה לעדכון</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <p class="pref-intro">
+      סמני את הנושאים שמעניינים אותך — בנוסף, כותרות ביטחון ומלחמה וכותרות כלליות תמיד יופיעו קודם.
+      אפשר גם להוסיף נושא משלך שלא ברשימה. בסיום, לחצי על "שלח עדכון" — זה יפתח הודעת מייל מוכנה, פשוט לשלוח אותה.
+    </p>
+
+    <ul class="pref-list" id="prefList">
+      <li class="loading-state">טוען נושאים…</li>
+    </ul>
+
+    <div>
+      <p style="font-weight:600; margin-bottom:0.5rem;">נושא אחר שמעניין אותך?</p>
+      <div class="custom-subject-row">
+        <input type="text" id="customSubjectInput" placeholder="לדוגמה: טניס, בישול, נדל&quot;ן בחו&quot;ל..." />
+        <button type="button" id="addCustomBtn">הוספה</button>
+      </div>
+      <ul class="custom-list" id="customList"></ul>
+    </div>
+
+    <div class="send-update-box">
+      <button type="button" class="primary-btn" id="sendUpdateBtn">✉️ שלח עדכון</button>
+      <p>ייפתח מייל מוכן מראש — רק צריך לבדוק ולשלוח.</p>
+      <p class="confirmation-note" id="confirmationNote">נפתחה אפליקציית המייל שלך עם העדכון 🎉</p>
+    </div>
+  </main>
+
+  <script src="js/storage.js"></script>
+  <script src="js/preferences.js"></script>
+  <script src="js/install-prompt.js"></script>
+  <script src="js/sw-register.js"></script>
+</body>
+</html>
