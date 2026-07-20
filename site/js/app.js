@@ -112,10 +112,19 @@
   }
 
   // ── Card builders ──────────────────────────────────────────────────────────
+  // Feature the first headline that has an image as the hero, so image-less
+  // sources (e.g. Haaretz) don't leave the card without a picture. Falls back
+  // to the top-ranked headline when none in the card has an image.
+  function splitHero(headlines) {
+    const idx = headlines.findIndex((h) => h && h.image_url);
+    const heroIdx = idx > 0 ? idx : 0;
+    return [headlines[heroIdx], headlines.filter((_, i) => i !== heroIdx)];
+  }
+
   function alwaysOnCard({ title, cssClass, data, summaryField }) {
     if (!data || !data.headlines || !data.headlines.length) return "";
     const sf = summaryField || "summary_he";
-    const [lead, ...rest] = data.headlines;
+    const [lead, rest] = splitHero(data.headlines);
     return `
       <div class="card ${cssClass || ""}">
         <div class="card-title-row"><h3>${title}</h3></div>
@@ -126,7 +135,7 @@
   }
 
   function subjectCard(subject) {
-    const [lead, ...rest] = subject.headlines;
+    const [lead, rest] = splitHero(subject.headlines);
     return `
       <div class="card" data-subject-card="${subject.key}">
         <div class="card-title-row">

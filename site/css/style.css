@@ -263,6 +263,9 @@ main {
   text-decoration: none;
 }
 
+/* higher specificity than .headline-list's display:flex so the hidden attr wins */
+.headline-list-extra[hidden] { display: none; }
+
 .see-more-btn {
   display: block;
   width: 100%;
