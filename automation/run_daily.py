@@ -11,6 +11,7 @@ import publish
 import sources
 import summarize
 import sync_preferences_from_email
+import verify_text
 
 log = logging.getLogger("run_daily")
 
@@ -61,13 +62,19 @@ def main() -> int:
     parser.add_argument("--no-push", action="store_true", help="write data files but skip git commit/push")
     args = parser.parse_args()
 
-    today = datetime.now(timezone.utc).astimezone().date().isoformat()
+    now_local = datetime.now(timezone.utc).astimezone()
+    today = now_local.date().isoformat()
+    run_id = now_local.strftime("%Y-%m-%d_%H%M")
     _setup_logging(today)
 
     state = _load_state()
-    if not args.force and state.get("last_success_date") == today:
-        log.info("already ran successfully today (%s), exiting", today)
-        return 0
+    last_success_at = state.get("last_success_at")
+    if not args.force and last_success_at:
+        elapsed_hours = (datetime.now(timezone.utc) - datetime.fromisoformat(last_success_at)).total_seconds() / 3600
+        if elapsed_hours < config.MIN_HOURS_BETWEEN_RUNS:
+            log.info("last successful run was %.1fh ago (< %sh minimum), exiting",
+                      elapsed_hours, config.MIN_HOURS_BETWEEN_RUNS)
+            return 0
 
     if not _acquire_lock():
         log.warning("another run appears to be in progress, exiting")
@@ -100,17 +107,50 @@ def main() -> int:
             log.warning("local curation failed, falling back to raw capped headlines: %s", exc)
             reduced = headlines
 
-        digest = summarize.summarize(reduced, enabled_subjects)
+        # Incremental update path: if only a few new headlines arrived since
+        # the last digest, cheaply update rather than regenerating from scratch.
+        last_headline_ids: set[str] = set(state.get("last_digest_headline_ids", []))
+        new_ids = [h for h in reduced if h["id"] not in last_headline_ids]
+        existing_digest = None
+        if config.LATEST_JSON.exists():
+            try:
+                existing_digest = json.loads(config.LATEST_JSON.read_text())
+            except Exception:  # noqa: BLE001
+                existing_digest = None
 
-        publish.write_latest(digest, today, fetched["sources_fetched"], fetched["sources_failed"])
+        if (
+            existing_digest
+            and not existing_digest.get("degraded")
+            and last_headline_ids
+            and len(new_ids) < config.MIN_NEW_HEADLINES_FOR_FULL_REGEN
+        ):
+            log.info(
+                "incremental update: %d new headlines (< %d threshold), skipping full regen",
+                len(new_ids), config.MIN_NEW_HEADLINES_FOR_FULL_REGEN,
+            )
+            if new_ids:
+                digest = summarize.update_incrementally(existing_digest, new_ids, reduced, enabled_subjects)
+            else:
+                log.info("no new headlines at all, nothing to update")
+                return 0
+        else:
+            log.info(
+                "full regen: %d new headlines (>= %d threshold or no prior digest)",
+                len(new_ids), config.MIN_NEW_HEADLINES_FOR_FULL_REGEN,
+            )
+            digest = summarize.summarize(reduced, enabled_subjects)
+
+        digest = verify_text.verify_summaries(digest)
+
+        publish.write_latest(digest, today, run_id, fetched["sources_fetched"], fetched["sources_failed"])
 
         if not args.no_push:
-            publish.commit_and_push(today)
+            publish.commit_and_push(run_id)
 
-        state["last_success_date"] = today
         state["last_success_at"] = datetime.now(timezone.utc).isoformat()
+        state["last_digest_headline_ids"] = [h["id"] for h in reduced]
         _save_state(state)
-        log.info("run complete for %s", today)
+        log.info("run complete for %s", run_id)
         return 0
 
     finally:

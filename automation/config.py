@@ -1,6 +1,8 @@
+import json
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
+SECRETS_LOCAL_JSON = Path(__file__).resolve().parent / "secrets.local.json"
 DATA_DIR = REPO_ROOT / "data"
 ARCHIVE_DIR = DATA_DIR / "archive"
 STATE_DIR = Path(__file__).resolve().parent / "state"
@@ -15,8 +17,17 @@ LAST_RUN_STATE = STATE_DIR / "last_run.json"
 SUMMARIZE_INPUT_SCRATCH = STATE_DIR / "summarize_input.json"
 RUN_LOCK = STATE_DIR / "run.lock"
 
-# Fill in once known — see plan §"Preference sync from email".
-PREFERENCE_EMAIL_SENDER_ALLOWLIST: list[str] = []
+# Wife's email is PII and this repo is public — kept out of git entirely in
+# automation/secrets.local.json (gitignored), loaded here at runtime only.
+def _load_secrets() -> dict:
+    if SECRETS_LOCAL_JSON.exists():
+        return json.loads(SECRETS_LOCAL_JSON.read_text())
+    return {}
+
+
+_secrets = _load_secrets()
+_wife_email = _secrets.get("wife_email")
+PREFERENCE_EMAIL_SENDER_ALLOWLIST: list[str] = [_wife_email] if _wife_email else []
 PREFERENCE_EMAIL_SUBJECT_TAG = "[NewsDigestUpdate]"
 GMAIL_PROCESSED_LABEL = "NewsDigest/Processed"
 
@@ -25,13 +36,46 @@ GMAIL_PROCESSED_LABEL = "NewsDigest/Processed"
 SUMMARIZE_MODEL = "claude-haiku-4-5-20251001"
 SUMMARIZE_MAX_BUDGET_USD = "0.50"
 
+# Haiku writes the summaries; Sonnet does one pass afterward to check Hebrew
+# spelling/grammar/sense only (never touches headlines/urls, so it can't
+# introduce a hallucinated link). Non-fatal — Haiku's text is used as-is if
+# this fails.
+VERIFY_MODEL = "claude-sonnet-5"
+VERIFY_MAX_BUDGET_USD = "0.30"
+
+# When the Claude CLI is unavailable (credit exhausted, auth failure, timeout),
+# fall back to the GitHub Copilot chat completions API. Auth uses `gh auth token`
+# (the gh CLI must be authenticated). claude-sonnet-5 is available on the Copilot
+# subscription and speaks fluent Hebrew.
+COPILOT_API_BASE = "https://api.githubcopilot.com"
+COPILOT_INTEGRATION_ID = "vscode-chat"
+COPILOT_FALLBACK_SUMMARIZE_MODEL = "claude-sonnet-5"
+COPILOT_FALLBACK_VERIFY_MODEL = "claude-sonnet-5"
+
+# Incremental update: if fewer than this many new headlines have appeared
+# since the last successful digest, do a lightweight incremental pass
+# (adjust existing summaries) rather than regenerating from scratch.
+MIN_NEW_HEADLINES_FOR_FULL_REGEN = 12
+
 # Local curation pass via Ollama, before any cloud call.
+# qwen3.5:9b (reasoning model) was tried first but doesn't reliably honor
+# structured JSON output even in simple "json" mode, and its default
+# chain-of-thought makes schema-constrained calls time out. qwen2.5-coder:7b
+# is not a reasoning model and empirically follows the JSON schema format
+# correctly and quickly — verified live during setup.
 OLLAMA_BASE_URL = "http://localhost:11434"
-OLLAMA_CURATION_MODEL = "qwen3.5:9b"
+OLLAMA_CURATION_MODEL = "qwen2.5-coder:7b"
 OLLAMA_BATCH_SIZE = 40
 
 HEADLINE_LOOKBACK_HOURS = 26
 MAX_HEADLINES_TO_LLM = 150
+
+# Runs up to 7x/day (07:00, 10:00, 12:00, 15:00, 17:00, 19:00, 21:00 — see
+# scripts/install_launchd.sh), each slot catching up on next wake if the Mac
+# was asleep/off. The smallest gap between consecutive slots is 2h (e.g. 10→12);
+# 1.5h keeps legitimate slots from blocking each other while still absorbing
+# near-duplicate wake-catchup fires.
+MIN_HOURS_BETWEEN_RUNS = 1.5
 
 REQUEST_HEADERS = {
     "User-Agent": (

@@ -1,0 +1,34 @@
+{
+  "type": "object",
+  "properties": {
+    "top_general": {
+      "type": "object",
+      "properties": {
+        "summary_he": { "type": "string" },
+        "headline_ids": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["summary_he", "headline_ids"]
+    },
+    "security_war": {
+      "type": "object",
+      "properties": {
+        "summary_he": { "type": "string" },
+        "headline_ids": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["summary_he", "headline_ids"]
+    },
+    "subjects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "key": { "type": "string" },
+          "summary_he": { "type": "string" },
+          "headline_ids": { "type": "array", "items": { "type": "string" } }
+        },
+        "required": ["key", "summary_he", "headline_ids"]
+      }
+    }
+  },
+  "required": ["top_general", "security_war", "subjects"]
+}
