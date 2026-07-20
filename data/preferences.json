@@ -1,21 +1,94 @@
 {
   "version": 1,
-  "updated_at": "2026-07-20T09:00:00+03:00",
-  "always_on": { "top_general": true, "security_war": true },
+  "updated_at": "2026-07-20T16:00:54.135017+00:00",
+  "always_on": {
+    "top_general": true,
+    "security_war": true
+  },
   "subjects": [
-    { "key": "politics", "label_he": "פוליטיקה וממשל", "enabled": true, "source": "seed" },
-    { "key": "cost_of_living", "label_he": "יוקר המחיה וכלכלה", "enabled": true, "source": "seed" },
-    { "key": "health", "label_he": "בריאות ורפואה", "enabled": true, "source": "seed" },
-    { "key": "tech", "label_he": "טכנולוגיה והייטק", "enabled": false, "source": "seed" },
-    { "key": "culture_entertainment", "label_he": "תרבות ובידור", "enabled": true, "source": "seed" },
-    { "key": "sports", "label_he": "ספורט", "enabled": false, "source": "seed" },
-    { "key": "environment", "label_he": "סביבה ואקלים", "enabled": false, "source": "seed" },
-    { "key": "education", "label_he": "חינוך", "enabled": false, "source": "seed" },
-    { "key": "local_city", "label_he": "חדשות מקומיות ועיריות", "enabled": false, "source": "seed" },
-    { "key": "religion_society", "label_he": "דת וחברה", "enabled": false, "source": "seed" },
-    { "key": "law_courts", "label_he": "משפט ובתי משפט", "enabled": false, "source": "seed" },
-    { "key": "transportation", "label_he": "תחבורה ותשתיות", "enabled": false, "source": "seed" },
-    { "key": "real_estate", "label_he": "נדל\"ן ודיור", "enabled": false, "source": "seed" },
-    { "key": "consumer", "label_he": "צרכנות", "enabled": false, "source": "seed" }
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "enabled": true,
+      "source": "seed"
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "enabled": true,
+      "source": "seed"
+    },
+    {
+      "key": "health",
+      "label_he": "בריאות ורפואה",
+      "enabled": true,
+      "source": "seed"
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "enabled": true,
+      "source": "seed"
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "enabled": true,
+      "source": "seed"
+    },
+    {
+      "key": "sports",
+      "label_he": "ספורט",
+      "enabled": false,
+      "source": "seed"
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "enabled": true,
+      "source": "seed"
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "enabled": true,
+      "source": "seed"
+    },
+    {
+      "key": "local_city",
+      "label_he": "חדשות מקומיות ועיריות",
+      "enabled": false,
+      "source": "seed"
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "enabled": true,
+      "source": "seed"
+    },
+    {
+      "key": "law_courts",
+      "label_he": "משפט ובתי משפט",
+      "enabled": false,
+      "source": "seed"
+    },
+    {
+      "key": "transportation",
+      "label_he": "תחבורה ותשתיות",
+      "enabled": false,
+      "source": "seed"
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "enabled": true,
+      "source": "seed"
+    },
+    {
+      "key": "consumer",
+      "label_he": "צרכנות",
+      "enabled": false,
+      "source": "seed"
+    }
   ]
 }
