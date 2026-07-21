@@ -1,254 +1,64 @@
 {
-  "generated_at": "2026-07-20T21:22:45.875670+00:00",
-  "date": "2026-07-20",
+  "generated_at": "2026-07-21T05:35:43.718557+00:00",
+  "date": "2026-07-21",
   "degraded": false,
   "top_general": {
-    "summary_he": "עיקר החדשות הסתובב סביב הסלמה משמעותית בעימות בין ארצות הברית לאיראן, כאשר וושינגטון פתחה בגלי תקיפות על מטרות בתחומה של איראן. בהשלכה על המדינה, ישראל הודיעה כי החלה בפיילוט של נסיגת כוחותיה מכפרים בדרום לבנון. בנושא פנימי, נבחר חליל אל-חיה לתפקיד מנהיג חמאס במקום יחיא סינוואר, ובארץ נרשם גל חום חריג כשנמדדו 44.7 מעלות צלזיוס.",
+    "summary_he": "בשבוע זה התפרסמו תוצאות הפריימריז בדמוקרטים בארה״ב עם זכייתם של שלושה מועמדים במקומות קדמיים. לראשונה מאז 2009 צפויה פגישה בין נשיא לבנון לנשיא ארה״ב בבית הלבן. בארץ התבררו פערים בין הבטחותיו של בן גביר לבין המציאות בנושא הוראות הפתיחה. טרגדיה בכביש 4: דניאל ברהנו נהרג בעת שניסה להציל נפגעי תאונה.",
     "headlines": [
       {
-        "id": "6b0b4af940",
-        "title": "ארה\"ב הודיעה כי פתחה בגל תקיפות נוסף באיראן",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-20/ty-article/0000019f-8130-d490-a59f-a775b6410000",
+        "id": "8cbc3c14ef",
+        "title": "תוצאות הפריימריז בדמוקרטים: לזימי, קריב ורייטן בשלושת המקומות הראשונים",
+        "url": "https://www.haaretz.co.il/news/elections/2026-07-20/ty-article/.premium/0000019f-804b-d316-a9df-a24fe7910000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-20T20:25:31+00:00",
+        "published_at": "2026-07-20T17:09:17+00:00",
         "image_url": null
       },
       {
-        "id": "e23c46e7f9",
-        "title": "פיקוד המרכז של צבא ארה\"ב: פתחנו בסבב תקיפות נוסף באיראן",
-        "url": "https://www.kan.org.il/content/kan-news/defense/live-1079399/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
+        "id": "dba35efbec",
+        "title": "לראשונה מ־2009, נשיאי לבנון וארה\"ב ייפגשו בבית הלבן",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-21/ty-article/.premium/0000019f-8057-d48b-ab9f-f67fcab10000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-20T22:40:15+00:00",
         "image_url": null
       },
       {
-        "id": "5c1639db4f",
-        "title": "ירדן תחת אש, ארה\"ב שוב תוקפת באיראן: \"טראמפ יחליט תוך ימים אם להרחיב\"",
-        "url": "https://www.ynet.co.il/news/article/b1y0d13ngl",
+        "id": "2719884c0e",
+        "title": "הוראות פתיחה באשליות: מה נשאר מההבטחות של בן גביר",
+        "url": "https://www.ynet.co.il/news/article/rjlwzz24me",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-07-20T19:14:01+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/SJW1gbe2Ezg/SJW1gbe2Ezg_530_379_906_510_0_medium.jpg"
+        "published_at": "2026-07-21T04:50:35+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/30/BkgHMb5ZmGx/BkgHMb5ZmGx_0_0_850_479_0_medium.jpg"
       },
       {
-        "id": "bddc172ce1",
-        "title": "צה\"ל: החל הפיילוט לנסיגתם של הכוחות מהכפרים בדרום לבנון",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7fa2-d48b-ab9f-7fafc8b70000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T13:09:30+00:00",
-        "image_url": null
-      },
-      {
-        "id": "d85af95267",
-        "title": "חמאס הודיע כי חליל אל־חיה נבחר למנהיג החדש של הארגון במקום סינוואר",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/0000019f-7f38-ddd1-ab9f-ffbad4760000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T11:16:17+00:00",
-        "image_url": null
-      },
-      {
-        "id": "995212d352",
-        "title": "היום הכי חם השנה: 44.7° נמדדו בארץ | התחזית - ומתי תגיע ההקלה",
-        "url": "https://www.ynet.co.il/news/article/rjf9jij4zg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-20T16:00:28+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/28/Bye00wONHibx/Bye00wONHibx_0_241_1280_721_0_medium.jpg"
+        "id": "1b184040cc",
+        "title": "דניאל ברהנו עצר לעזור לנפגעי תאונה בכביש 4 - ונהרג בעצמו: כך התרחשה הטרגדיה",
+        "url": "https://news.walla.co.il/item/3855010",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-20T21:51:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079166-46.jpeg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "הסלמה משמעותית באזור: ארצות הברית פתחה בגלי תקיפות נוספות על מטרות בעומק אדמת איראן, וטראמפ התייחס לתוכנית להפלת המשטר האיראני ואמר כי תוך ימים יחליט על הרחבת התוקפנות. מצידה, איראן הכריזה כי היא נמצאת במלחמה בקנה מידה מלא עם ארצות הברית, וגורמים ביטחוניים צפו להסלמה נוספת בימים הקרובים. במקביל, ישראל החלה בפיילוט של נסיגת כוחות מכפרים בדרום לבנון, תוך הבהרה כי אין מדובר בסיום הסכסוך עם חזבאללה, וצה\"ל חיסל מחבלים שביצעו חטיפות בפסטיבל נובה בשביעי באוקטובר. בחזית הים, החות'ים הודיעו על הטלת מצור ימי על סעודיה, והטילו סנקציות נגד כל מי שנמנע מחצייה במצרי הורמוז.",
+    "summary_he": "בחזית הביטחון, ארה״ב השלימה גל תקיפות נוסף באיראן, וישראל מעריכה כי איראן העבירה אלפי צנטריפוגות להר המכוש. איראן גם ירתה לעבר ירדן, וישראל מודיעה על כוננות צה״ל. בנושא חמאס, התרחש קרב מחנות שהוכרע לטובתו, ובחירת אל־חיה להנהגה מעידה על המשך הברית עם איראן. בדיר חנא נפצעה ילדה מירי.",
     "headlines": [
       {
-        "id": "6b0b4af940",
-        "title": "ארה\"ב הודיעה כי פתחה בגל תקיפות נוסף באיראן",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-20/ty-article/0000019f-8130-d490-a59f-a775b6410000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T20:25:31+00:00",
-        "image_url": null
-      },
-      {
-        "id": "e23c46e7f9",
-        "title": "פיקוד המרכז של צבא ארה\"ב: פתחנו בסבב תקיפות נוסף באיראן",
-        "url": "https://www.kan.org.il/content/kan-news/defense/live-1079399/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "5c1639db4f",
-        "title": "ירדן תחת אש, ארה\"ב שוב תוקפת באיראן: \"טראמפ יחליט תוך ימים אם להרחיב\"",
-        "url": "https://www.ynet.co.il/news/article/b1y0d13ngl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-20T19:14:01+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/SJW1gbe2Ezg/SJW1gbe2Ezg_530_379_906_510_0_medium.jpg"
-      },
-      {
-        "id": "7019491993",
-        "title": "טראמפ שוקל: תוכנית תקיפה שיכולה לערער את המשטר באיראן",
-        "url": "https://www.kan.org.il/content/kan-news/politic/1079336/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": "https://www.kan.org.il/media/wtqhg3hf/עיצוב-ללא-שם-39.jpg?rxy=0.5378700346627356,0.5197014079183596&width=490&height=272&v=1dced0f38e89050"
-      },
-      {
-        "id": "060aee99ca",
-        "title": "Iran says it’s in ‘full-scale war’ with US as mediators said to proffer 10-day truce",
-        "url": "https://www.timesofisrael.com/iran-says-its-in-full-scale-war-with-us-as-mediators-proffer-10-day-truce/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-07-20T14:27:10+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26200681217399-e1784504968940-1024x640.jpg"
-      },
-      {
-        "id": "aa4a276eff",
-        "title": "בכיר איראני: המתווכות הציעו הפסקת אש של עשרה ימים כדי להחיות את הסכם הביניים עם ארה\"ב",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-20/ty-article/.premium/0000019f-7f56-ddd1-ab9f-ffde737e0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T12:40:55+00:00",
-        "image_url": null
-      },
-      {
-        "id": "d7ea378e07",
-        "title": "גורמים ביטחוניים ל-i24NEWS: תיתכן הסלמה נוספת בפעילות האמריקניות באיראן בימים הקרובים קרא עוד..",
-        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-ecad4e26",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": "https://cdn.i24news.tv/uploads/f7/ad/83/0f/57/76/98/0e/e0/88/3f/c2/3d/73/74/a3/f7ad830f5776980ee0883fc23d7374a3.jpeg?width=750"
-      },
-      {
-        "id": "bddc172ce1",
-        "title": "צה\"ל: החל הפיילוט לנסיגתם של הכוחות מהכפרים בדרום לבנון",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7fa2-d48b-ab9f-7fafc8b70000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T13:09:30+00:00",
-        "image_url": null
-      },
-      {
-        "id": "32bb2b5589",
-        "title": "הפיילוט מתחיל - אבל זה לא הסוף בלבנון: המתיחות בחיזבאללה והשאלות הפתוחות",
-        "url": "https://www.ynet.co.il/news/article/hkpwcionfg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-20T17:51:45+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/rkeKaP7rEMe/rkeKaP7rEMe_1_0_3000_1688_0_medium.jpg"
-      },
-      {
-        "id": "0a9e4e7b4d",
-        "title": "צה\"ל חיסל את המחבל שפיקד על חטיפת ענבר הימן: \"מפלצת, שיגיעו גם לשאר\"",
-        "url": "https://www.ynet.co.il/news/article/rkbudps4gl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-20T16:25:25+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/15/HJ11KHo11T3We/HJ11KHo11T3We_1_34_1080_608_0_medium.jpg"
-      },
-      {
-        "id": "cdd8f9d7a9",
-        "title": "צה\"ל: חוסל המחבל שפיקד על חטיפתה של ענבר היימן",
-        "url": "https://news.walla.co.il/item/3854974",
+        "id": "e36b16e506",
+        "title": "ארה\"ב השלימה גל תקיפות נוסף באיראן - יעדים צבאיים הושמדו",
+        "url": "https://news.walla.co.il/item/3855040",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-07-20T19:02:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/3/3/3833679-46.jpg"
-      },
-      {
-        "id": "d94ab203d8",
-        "title": "החותים הודיעו כי הטילו מצור ימי על סעודיה",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-20/ty-article/.premium/0000019f-7f6c-d723-af9f-ff7e31fa0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T12:07:06+00:00",
-        "image_url": null
-      },
-      {
-        "id": "ad683969d0",
-        "title": "סעודיה: אל מול איומי החות'ים, החלנו לנקוט בצעדים להגנה על השיט במצר באב אל-מנדב",
-        "url": "https://www.kan.org.il/content/kan-news/global/1079173/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "37e6950f43",
-        "title": "האש במפרץ לא עוצרת, ארה\"ב: \"אם איראן מתעקשת לשלוט בהורמוז - נצטרך להגיב\"",
-        "url": "https://www.ynet.co.il/news/article/skv9hijefl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-20T14:23:13+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/04/rkGSmlZ8RZx/rkGSmlZ8RZx_0_0_1223_689_0_medium.jpg"
-      },
-      {
-        "id": "ad5c15303e",
-        "title": "בכיר אמריקאי: \"תחילת יישום תוכנית אזורי הפיילוט בלבנון - התקדמות ממשית בשטח\"",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001549850",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-07-20T20:00:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1775992892/direct/AP26102349416139_gquohb.jpg"
-      },
-      {
-        "id": "10d6e57f5a",
-        "title": "ישראל מאשרת: הפיילוט בלבנון החל - כך הוא יראה",
-        "url": "https://news.walla.co.il/item/3855015",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-07-20T22:36:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/5/7/4057840-46.png"
-      },
-      {
-        "id": "eab6ac08d4",
-        "title": "2 דקות ביטחוני מבחן ריבונות בלבנון: החל פיילוט \"מרחב בטוח\" בשלושה כפרים בדרום התוכנית בשיתוף ארה\"ב נועדה לפירוז חיזבאללה • דובר צה\"ל הבהיר: \"צה\"ל יפעל בעוצמה נגד כל הפרה של ההסכם\" • צבא לבנון יידרש להוכיח כי הוא הגורם היחיד המחזיק בנשק במרחב | כל הפרטים זמן קריאה: 2 דקות.",
-        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-527349c6",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": "https://cdn.i24news.tv/uploads/8d/54/6b/d7/3b/03/20/c7/09/59/90/ae/6a/00/78/bc/8d546bd73b0320c7095990ae6a0078bc.jpeg?width=350"
-      },
-      {
-        "id": "b2e458d132",
-        "title": "ישראל לא ממהרת למלחמה, ומחכה לעילה ולטראמפ: \"ירצה - נצטרף, לא - נשב בשקט\"",
-        "url": "https://www.ynet.co.il/news/article/rkt5poi4ml",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-20T16:29:17+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/11/30/S13y8DZHwo/S13y8DZHwo_126_249_486_274_0_medium.jpg"
+        "published_at": "2026-07-21T04:31:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/4/4074870-46.png"
       },
       {
         "id": "75c7ad2705",
@@ -261,23 +71,73 @@
         "image_url": null
       },
       {
-        "id": "16cf1a80e8",
-        "title": "23:22 לילה עשירי ברצף: צבא ארה\"ב החל גל תקיפת מטרות באיראן",
-        "url": "https://13tv.co.il/news/news-flash/",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
+        "id": "4974c66493",
+        "title": "איראן העבירה צנטריפוגות לעומק \"הר המכוש\" | דיווח",
+        "url": "https://www.israelhayom.co.il/news/defense/article/21025909",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "90d787f765",
+        "title": "דיווח: ישראל מעריכה שאיראן העבירה צנטריפוגות להר המכוש",
+        "url": "https://www.kan.org.il/content/kan-news/defense/1079469/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
         "published_at": null,
         "image_url": null
       },
       {
         "id": "d8a0eea79d",
-        "title": "דיווח: תקיפה בעיר שיראז שבדרום איראן קרא עוד..",
+        "title": "דיווח: בישראל סבורים כי איראן העבירה אלפי צנטריפוגות לעומק הר המכוש",
         "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
         "source": "i24",
         "source_label": "i24NEWS",
         "source_label_he": "i24NEWS",
         "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "32f0c4ab72",
+        "title": "איראן יורה לירדן - והסיבה לכך צריכה להטריד את ישראל",
+        "url": "https://www.makorrishon.co.il/news/middleeast/article/352593",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "9df1d56c90",
+        "title": "הבחירה באל־חיה להנהגת חמאס מעידה שהארגון עוד נשען על הברית עם איראן",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7fd4-d316-a9df-7fdf747c0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-20T15:37:33+00:00",
+        "image_url": null
+      },
+      {
+        "id": "e0c5fbab65",
+        "title": "אמרו לא ל\"כניעה\": קרב המחנות בחמאס שהוכרע על חודו של קול",
+        "url": "https://www.ynet.co.il/news/article/bkpkz3ovfg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-20T21:11:55+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/rkd00xnj4zx/rkd00xnj4zx_36_0_1214_684_0_medium.jpg"
+      },
+      {
+        "id": "4d6c5bc0b5",
+        "title": "ילדה בת שמונה נפצעה קשה מירי בדיר חנא שבגליל",
+        "url": "https://www.haaretz.co.il/news/law/2026-07-20/ty-article/.premium/0000019f-80a4-d316-a9df-a2ef4aac0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-20T18:09:26+00:00",
         "image_url": null
       }
     ]
@@ -286,28 +146,8 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בבחירות לכנסת, סקר מחודש הראה כי איזנקוט מוביל במנדטים על הליכוד, ובשלב זה לאופוזיציה היהודית אין רוב ללא תמיכת הרשימה הערבית. מעבר לכך, הדמוקרטים ערכו פריימריז בשיעור הצבעה גבוה של 86%, כשזימי הובילה, קריב במקום השני ובריטן במקום השלישי. בחו\"ל, אנדי ברנהאם התמנה לראש ממשלת בריטניה כשהוא ניצב מול אתגרים כלכליים רבים, וכן הודיעו כי אד מילבנד יהיה שר החוץ החדש.",
+      "summary_he": "במישור הפוליטי, בארה״ב התפרסמו תוצאות הפריימריז בדמוקרטים. בארץ בוחן חוקר את הפער בין הבטחותיו של בן גביר למציאות. בזירה הבינלאומית צפויה פגישה היסטורית בין נשיא לבנון לנשיא ארה״ב, ובקולומביה נבחר נשיא שטען כי קיימת מזימה להתנקש בו.",
       "headlines": [
-        {
-          "id": "0973f4c7bf",
-          "title": "סקר חדשות 12: איזנקוט מוביל במנדט על הליכוד, לאופוזיציה היהודית עדיין אין רוב ללא הערבים",
-          "url": "https://www.haaretz.co.il/news/elections/2026-07-20/ty-article/.premium/0000019f-80c3-d6fb-abff-8cf7a44c0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-20T18:56:46+00:00",
-          "image_url": null
-        },
-        {
-          "id": "496af656b4",
-          "title": "86% הצבעה בפריימריז \"הדמוקרטים\": אלו המועמדים שבצמרת הרשימה",
-          "url": "https://news.walla.co.il/item/3854981",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-07-20T19:18:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079210-46.jpeg"
-        },
         {
           "id": "8cbc3c14ef",
           "title": "תוצאות הפריימריז בדמוקרטים: לזימי, קריב ורייטן בשלושת המקומות הראשונים",
@@ -319,263 +159,143 @@
           "image_url": null
         },
         {
-          "id": "184d7a0714",
-          "title": "הח\"כים בפנים, נאור נרקיס בחוץ: הדמוקרטים בחרו רשימה",
-          "url": "https://www.kan.org.il/content/kan-news/politic/1078984/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/yexlzjze/f260720avs301.jpg?width=490&height=272&v=1dd1893488ad4a0"
+          "id": "2719884c0e",
+          "title": "הוראות פתיחה באשליות: מה נשאר מההבטחות של בן גביר",
+          "url": "https://www.ynet.co.il/news/article/rjlwzz24me",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-07-21T04:50:35+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/30/BkgHMb5ZmGx/BkgHMb5ZmGx_0_0_850_479_0_medium.jpg"
         },
         {
-          "id": "39999d6084",
-          "title": "אנדי ברנהאם התמנה לראש ממשלת בריטניה; אלו חמשת האתגרים הגדולים שלו",
-          "url": "https://www.haaretz.co.il/news/world/europe/2026-07-20/ty-article/0000019f-7e8e-dffc-abbf-febf1afa0000",
+          "id": "dba35efbec",
+          "title": "לראשונה מ־2009, נשיאי לבנון וארה\"ב ייפגשו בבית הלבן",
+          "url": "https://www.haaretz.co.il/news/politics/2026-07-21/ty-article/.premium/0000019f-8057-d48b-ab9f-f67fcab10000",
           "source": "haaretz",
           "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-07-20T11:36:19+00:00",
+          "published_at": "2026-07-20T22:40:15+00:00",
           "image_url": null
         },
         {
-          "id": "d316768234",
-          "title": "Jewish former Labour leader Ed Miliband tapped as new British foreign secretary",
-          "url": "https://www.timesofisrael.com/jewish-former-labour-leader-ed-miliband-tapped-as-new-british-foreign-secretary/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-07-20T20:30:42+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26201601466049-e1784573317196-1024x640.jpg"
-        },
-        {
-          "id": "2387c90697",
-          "title": "עוצמה יהודית משיקה קמפיין: מציגה את מהלכי בן גביר - ותוקפת את מבקריו",
-          "url": "https://news.walla.co.il/item/3854991",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-07-20T19:46:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/9/4/3994841-46.jpg"
-        },
-        {
-          "id": "8127c7df1c",
-          "title": "בן גביר מבקש להחליף את האחראי לאכיפה נגד בנייה לא חוקית בעודו במילואים",
-          "url": "https://www.haaretz.co.il/news/law/2026-07-20/ty-article/.premium/0000019f-7ef4-ddd1-ab9f-fefe52130000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-20T15:31:34+00:00",
-          "image_url": null
+          "id": "ed1e910fbe",
+          "title": "נשיא קולומביה הנבחר: \"יש מזימה להתנקש בי לפני ההשבעה\"",
+          "url": "https://www.ynet.co.il/news/article/rkztemn4gx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-07-21T03:07:09+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/22/SkgNnzZLfGx/SkgNnzZLfGx_0_17_800_450_0_medium.jpg"
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "וול סטריט ירדה בעקבות איומי טראמפ על איראן, כשהנפט עלה בכ-1%. בעוד זאת, פעולות כלכליות שונות התרחשו: מיטב השלימה את מחיקת פנינסולה מהמסחר, ובית משפט בארה\"ב הקפיא את מיזוג הענק של וורנר ברדרס ופרמאונט. בזירה המקומית, רשות התחרות התנגדה לרכישת קניון הזהב על ידי מליסרון, שביטלה את העסקה, וכן הודיעו על הקלות דרמטיות בחוקים לתעשיית המסעדות שיחתכו עלויות של שכירות וארנונה.",
+      "summary_he": "בנושא כלכלה ויוקר המחיה, נדחית המהפכה בהיטל ההשבחה לאחר שלוש שנים, וקבלנים מביעים אכזבה. דיווחים על השקעה בנכסים להשכרה כחלק מאסטרטגיית השקעה ארוכת טווח. מחיר הנפט חווה ירידה קלה בעקבות סיכויים להפסקת אש בחו״ל.",
       "headlines": [
         {
-          "id": "ef3b54b8ab",
-          "title": "וול סטריט ננעלה בירידות לאחר איום של טראמפ על איראן; הנפט עלה ב-1%",
-          "url": "https://www.themarker.com/wallstreet/2026-07-20/ty-article-live/0000019f-7422-d4cc-abbf-76aeb19e0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T20:01:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000017f-e0af-d568-ad7f-f3efe1200000/7d/01/e110c51d62d9f048764566330502/1089061754.jpg?height=81"
-        },
-        {
-          "id": "8609f21381",
-          "title": "וול סטריט ננעלה בירידות, על רקע ההסלמה בין ארה\"ב ואיראן",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001549851",
+          "id": "bbfedc7e75",
+          "title": "ישבו 3 שנים ולא הכריעו: המהפכה בהיטל ההשבחה נדחית, והקבלנים מאוכזבים",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001549930",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-07-20T20:10:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg"
+          "published_at": "2026-07-20T16:00:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1728292218/direct/%D7%A7%D7%A8%D7%93%D7%99%D7%98_%D7%9C%D7%99%D7%90%D7%95%D7%A8_%D7%A4%D7%AA%D7%90%D7%9C_1_vzyyqv.jpg"
         },
         {
-          "id": "3d726f739d",
-          "title": "מיטב השלימה את מחיקת פנינסולה מהמסחר",
-          "url": "https://www.themarker.com/markets/2026-07-20/ty-article/.premium/0000019f-8046-d316-a9df-a24fc7790000",
+          "id": "1982210f06",
+          "title": "\"תמיד אשאיר כסף בשוק ההון, אבל אני שואף שיהיו לי גם חמישה־שישה נכסים להשכרה\"",
+          "url": "https://www.themarker.com/markets/newinvestors/2026-07-21/ty-article-magazine/.highlight/0000019f-7eab-dbf3-af9f-ffbb9f510002",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T16:16:01+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-804b-d6fb-abff-8c7ff35b0000/9c/1b/272a53db4f11ba1137992863b8c7/151660.jpg?height=81"
+          "published_at": "2026-07-21T03:00:50+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-7eb9-d723-af9f-fffb94620001/33/d1/f9fc4361417c92648f220c2f8630/homepage.jpg?height=81"
         },
         {
-          "id": "c33dd87b2a",
-          "title": "בית המשפט בארה\"ב הקפיא את מיזוג הענק של וורנר ברדרס ופרמאונט",
-          "url": "https://www.themarker.com/wallstreet/2026-07-20/ty-article/.premium/0000019f-80a8-d6fb-abff-8cfd87f40000",
+          "id": "6aca7bfbe1",
+          "title": "סיכוי להפסקת אש מקפיץ את סיאול וטוקיו; ירידה קלה במחיר הנפט",
+          "url": "https://www.themarker.com/wallstreet/2026-07-21/ty-article-live/0000019f-7422-d4cc-abbf-76aeb19e0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T17:53:50+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-809c-d48b-ab9f-f6bf74610000/bc/1d/f499f6284a38af4281c836f297d8/788017.jpg?height=81"
+          "published_at": "2026-07-21T02:53:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000017f-f31f-d497-a1ff-f39f95f90000/06/04/8b064cfd13565366f0a46a845934/432680322.jpg?height=81"
         },
         {
-          "id": "022c7d8bb7",
-          "title": "מכשול משפטי לעסקת המדיה הענקית: צו מניעה זמני להקפאת מיזוג פרמאונט וורנר ברוס",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001549954",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-20T18:03:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765292927/direct/AP25140032092815_twzdmz.jpg"
-        },
-        {
-          "id": "55bbf26644",
-          "title": "רשות התחרות התנגדה, ומליסרון ביטלה את העסקה לרכישת קניון הזהב",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001549951",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-20T16:39:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1737284207/direct/%D7%A7%D7%A0%D7%99%D7%95%D7%9F_%D7%94%D7%96%D7%94%D7%91_hypp6r.jpg"
-        },
-        {
-          "id": "92d41fb64d",
-          "title": "רשות התחרות הודיעה שתתנגד לרכישה — ומליסרון ביטלה את עסקת קניון הזהב בראשון לציון",
-          "url": "https://www.themarker.com/markets/2026-07-20/ty-article/.premium/0000019f-8068-d490-a59f-a77dff960000",
+          "id": "33e51567b0",
+          "title": "ללמוד מחצי חינם: היכרות ארוכת שנים לא מונעת סכסוכים בין שותפים",
+          "url": "https://www.themarker.com/agents/2026-07-21/ty-article/.premium/0000019f-7f06-ddd1-ab9f-ff9e9f4f0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T16:45:17+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000017f-db0f-df62-a9ff-dfdf21a50000/52/3b/d8be8dbbefe514516ec022a5b120/1416624467.jpg?height=81"
-        },
-        {
-          "id": "4fd2f7bc1e",
-          "title": "בשורה למסעדנים: הקלות דרמטיות ברגולציה יחתכו את עלויות השכירות והארנונה",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001549873",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-20T13:00:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1666705716/direct/shutterstock_741884605_xylbzu.jpg"
-        },
-        {
-          "id": "f75c473993",
-          "title": "שוחד במיליונים, במשך 20 שנה: הפרשה שמסעירה את רשות המסים",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001549901",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-20T15:43:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1669728942/old/1439822_596e16.jpg"
-        },
-        {
-          "id": "6a6b9520a8",
-          "title": "מוכנים לעבוד על ספינה שחוצה את מצר הורמוז? תקבלו בונוס של שש משכורות",
-          "url": "https://www.themarker.com/wallstreet/2026-07-20/ty-article/.premium/0000019f-80a8-d48b-ab9f-f6afc0dd0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T19:01:58+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-80af-d490-a59f-a7ffb25c0000/a7/c0/389ed8de4cf19eefda05d5edd2d4/804905.jpg?height=81"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "ישראל הודיעה על הקצאת 100 מיליון שקל לתשתיות מחקר ופיתוח בתחום המחשוב הקוונטי, בעוד אנבידיה השיקה כלי לזיהוי סרטונים שנוצרו בעזרת בינה מלאכותית, במטרה להילחם בחדשות מזויפות בבחירות.",
-      "headlines": [
-        {
-          "id": "d2f4e7cc4c",
-          "title": "Israel earmarks NIS 100 million for national quantum computing R&D infrastructure",
-          "url": "https://www.timesofisrael.com/israel-earmarks-nis-100-million-for-national-quantum-computing-rd-infrastructure/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-07-20T15:35:06+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2021/04/iStock-870578342-e1618215572500-1024x640.jpg"
-        },
-        {
-          "id": "3aa24fa5fc",
-          "title": "מענה לפייק ניוז בבחירות? אנבידיה השיקה כלי לזיהוי סרטונים שנוצרו ע\"י AI",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001549896",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-20T15:00:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1767625216/AP25304375509160_ecetea.jpg"
-        },
-        {
-          "id": "f541aeeecf",
-          "title": "חמישה סיפורים על ההפרעה הדו־קוטבית של ההשקעה בבינה מלאכותית",
-          "url": "https://www.themarker.com/wallstreet/2026-07-20/ty-article/0000019f-7ec0-d490-a59f-7ff5cf3e0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-20T11:57:09+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-7ec4-dc5f-ad9f-fef7447f0000/30/c2/c9b0f32843a9b6b2c74c3cf02afa/840977.jpg?height=81"
+          "published_at": "2026-07-21T05:00:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-80d1-d316-a9df-a2df08760001/7d/6b/783599674256adcb26d1feb39069/ist-17053-04966.jpg?height=81"
         }
       ]
     },
     {
       "key": "health",
       "label_he": "בריאות ורפואה",
-      "summary_he": "הארץ חוותה גל חום חריג כשנמדדו 44.7 מעלות צלזיוס, החום הכבד ביותר השנה, והתחזיות צופות המשך התופעה בימים הקרובים.",
+      "summary_he": "בנושא בריאות, דווח על מקרה של גוש החוסם את הקיבה שטופל בדיאט קולה. כמו כן דווח על פציעתה של ילדה בת שמונה מירי בדיר חנא שבגליל.",
       "headlines": [
         {
-          "id": "995212d352",
-          "title": "היום הכי חם השנה: 44.7° נמדדו בארץ | התחזית - ומתי תגיע ההקלה",
-          "url": "https://www.ynet.co.il/news/article/rjf9jij4zg",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-07-20T16:00:28+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/28/Bye00wONHibx/Bye00wONHibx_0_241_1280_721_0_medium.jpg"
+          "id": "de9801c70c",
+          "title": "גוש חסם את קיבתה - והרופאים הציעו טיפול ייחודי בדיאט קולה",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21025978",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
         },
         {
-          "id": "4bf5820b01",
-          "title": "כמעט 45 מעלות בצהריים: גל החום הכבד כאן - והשיא עוד לפנינו",
-          "url": "https://news.walla.co.il/item/3854976",
+          "id": "4d6c5bc0b5",
+          "title": "ילדה בת שמונה נפצעה קשה מירי בדיר חנא שבגליל",
+          "url": "https://www.haaretz.co.il/news/law/2026-07-20/ty-article/.premium/0000019f-80a4-d316-a9df-a2ef4aac0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-20T18:09:26+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "בתחום התרבות והבידור, התפרסמו ביקורות חיוביות על סדרה חדשה שצברה עניין רב. כמו כן דווח על טיפ בישול לשיפור טעם סלט הפסטה.",
+      "headlines": [
+        {
+          "id": "26efb263ab",
+          "title": "הסדרה הזאת כל כך מצחיקה, לא הרגשתי איך שלושה פרקים שלמים חלפו",
+          "url": "https://e.walla.co.il/item/3854615",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-07-20T19:02:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/5/7/0/3570871-46.jpeg"
+          "published_at": "2026-07-21T00:00:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/8/4078555-46.png"
+        },
+        {
+          "id": "385db5f451",
+          "title": "סלט הפסטה יצא הרבה יותר טעים אם תקפידו על חוק 5 הדקות",
+          "url": "https://news.walla.co.il/item/3854887",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-21T00:07:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079077-46.jpg"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "אלפי חרדים התפרעו מול כלא 10 בהפגנה נגד גיוס לצה\"ל, כשחלקם ניסו לפרוץ לתוך המתקן, בעוד שופטים עליונים בישראל התבטאו על סוגיות של זכויות דתיות והפרדה מגדרית בהשכלה הגבוהה.",
+      "summary_he": "בנושא דת וחברה, שופט בית המשפט העליון שטיין התייחס לטענות בדבר אפרטהייד בישראל. כמו כן דווח על אגדת שחמט יהודייה שסירבה לתפקיד נשיאת הונגריה.",
       "headlines": [
-        {
-          "id": "4284f94759",
-          "title": "\"העסק קורס\": אלפי חרדים מפגינים נגד גיוס לצה\"ל מול כלא 10",
-          "url": "https://13tv.co.il/item/news/domestic/internal/ceiy2-905273755/?pid=62&refc=902992383",
-          "source": "reshet13",
-          "source_label": "חדשות 13",
-          "source_label_he": "חדשות 13",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "e2d86241fa",
-          "title": "דוחק בהפגנת אלפי חרדים בבית ליד; המשטרה: חלק ניסו לפרוץ לכלא",
-          "url": "https://www.ynet.co.il/news/article/ryliwknefg",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-07-20T20:04:15+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/ry4JQik24Mx/ry4JQik24Mx_0_0_1280_721_0_medium.jpg"
-        },
-        {
-          "id": "c516d229ca",
-          "title": "Top Haredi rabbi says religious soldiers committing murder; PM issues rare criticism",
-          "url": "https://www.timesofisrael.com/top-haredi-rabbi-says-religious-soldiers-committing-murder-pm-issues-rare-criticism/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-07-20T16:30:56+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/04/Screenshot-2026-04-26-at-8.02.43-PM-1-1024x640.png"
-        },
         {
           "id": "540a652d40",
           "title": "שופט העליון שטיין: למי שקורא לישראל מדינת אפרטהייד אין מקום לדרוך בה",
@@ -587,31 +307,41 @@
           "image_url": null
         },
         {
-          "id": "672d533a20",
-          "title": "Five members of top higher education authority quit over new gender segregation law",
-          "url": "https://www.timesofisrael.com/five-members-of-top-higher-education-authority-quit-over-new-gender-segregation-law/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-07-20T15:32:56+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/F251104LM013-1024x640.jpg"
+          "id": "8ccc4ef852",
+          "title": "אגדת השחמט היהודייה שסירבה להפוך לנשיאת הונגריה",
+          "url": "https://news.walla.co.il/item/3855038",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-21T06:00:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079275-46.jpg"
         }
       ]
     },
     {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "חמישה חברים בהנהגת הגוף להשכלה הגבוהה הודיעו על התפטרותם בהתנגדות לחוק החדש שמטיל הפרדה מגדרית במוסדות הלימוד.",
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "בנושא נדל״ן ודיור, דיווחים על אסטרטגיית השקעה בנכסים להשכרה כחלק מתיק השקעות מגוון. כמו כן דווח על עובד סוציאלי העוסק בבניינים נטושים.",
       "headlines": [
         {
-          "id": "672d533a20",
-          "title": "Five members of top higher education authority quit over new gender segregation law",
-          "url": "https://www.timesofisrael.com/five-members-of-top-higher-education-authority-quit-over-new-gender-segregation-law/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-07-20T15:32:56+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/F251104LM013-1024x640.jpg"
+          "id": "1982210f06",
+          "title": "\"תמיד אשאיר כסף בשוק ההון, אבל אני שואף שיהיו לי גם חמישה־שישה נכסים להשכרה\"",
+          "url": "https://www.themarker.com/markets/newinvestors/2026-07-21/ty-article-magazine/.highlight/0000019f-7eab-dbf3-af9f-ffbb9f510002",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-21T03:00:50+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-7eb9-d723-af9f-fffb94620001/33/d1/f9fc4361417c92648f220c2f8630/homepage.jpg?height=81"
+        },
+        {
+          "id": "a4ed82dac8",
+          "title": "העובד הסוציאלי של הבניינים הנטושים",
+          "url": "https://www.themarker.com/realestate/2026-07-21/ty-article-magazine/.highlight/0000019e-c620-dd0a-a19f-d77c73ea0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-21T03:26:59+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019e-d9a1-deca-ab9e-ddf3aee80000/ed/2b/7c8b6f1e434ba59a7be533492cae/306564.jpg?height=81"
         }
       ]
     }
@@ -635,18 +365,8 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Trump stated that Benjamin Netanyahu will not face arrest if he visits the United States. Syrian Jews have lobbied the U.S. to lift sanctions on Syria while Israeli authorities urged caution, and two Palestinians were killed in confrontations with Israeli settlers and military in the West Bank. Hamas announced a new overall leader, while British Prime Minister Andy Burnham faces scrutiny over his positions on Israel and antisemitism, and pro-Israel Jewish voters in Michigan are being tested on their party loyalty.",
+      "summary_en": "Trump stated that Benjamin Netanyahu will not face arrest if he visits the United States. Syrian Jews have lobbied the U.S. to lift sanctions on Syria while Israeli authorities urged caution, and two Palestinians were killed in confrontations with Israeli settlers and military in the West Bank. Hamas announced a new overall leader, British Prime Minister Andy Burnham faces scrutiny over his positions on Israel and antisemitism, pro-Israel Jewish voters in Michigan are being tested on their party loyalty, and Argentina's Jewish community invoked a World Cup chant in a call for justice marking 32 years since the AMIA bombing.",
       "headlines": [
-        {
-          "id": "65614a4bb3",
-          "title": "Trump says Benjamin Netanyahu 'will not be arrested' if he visits the US",
-          "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-benjamin-netanyahu-will-not-be-arrested",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-20T21:08:12+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/e62dd6fd50140a23afc5309af4be5251e7512a57/418_0_4183_3347/master/4183.jpg?width=700&quality=85&auto=format&fit=max&s=d3eef8845f045b194699d3fcebb3bb1c"
-        },
         {
           "id": "db76d9a4f5",
           "title": "As Israel urged caution, these Syrian Jews lobbied the U.S. to lift sanctions on Syria",
@@ -678,16 +398,6 @@
           "image_url": null
         },
         {
-          "id": "3cc7d6a0cd",
-          "title": "Where does Andy Burnham, the new British prime minister, stand on Israel and antisemitism?",
-          "url": "https://www.jta.org/2026/07/20/global/where-does-andy-burnham-the-new-british-prime-minister-stand-on-israel-and-antisemitism",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-07-20T20:23:17+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/AndyBurnhamPM.jpg"
-        },
-        {
           "id": "75825a6f05",
           "title": "How Michigan's Senate race is testing pro-Israel Jews' loyalty to the Democratic Party",
           "url": "https://www.jta.org/2026/07/20/politics/how-michigans-senate-race-is-testing-pro-israel-jews-loyalty-to-the-democratic-party",
@@ -696,22 +406,22 @@
           "source_label_en": "JTA",
           "published_at": "2026-07-20T12:45:43+00:00",
           "image_url": "https://www.jta.org/wp-content/uploads/2026/07/7-17-26-abdul.jpg"
+        },
+        {
+          "id": "8f7f4d6f96",
+          "title": "Argentina's Jews turn a World Cup chant into a call for justice 32 years after the AMIA bombing",
+          "url": "https://www.jta.org/2026/07/20/global/argentinas-jews-turn-a-world-cup-chant-into-a-call-for-justice-32-years-after-the-amia-bombing",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-20T22:39:16+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/Today-we-cant-lose-SIGN.jpeg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium observed its national holiday on July 21 amid a heat wave, with fireworks proceeding in Brussels despite drought concerns. King Philip highlighted how vulnerable populations bear the heaviest impact from the heat. The Belgian football federation ended its partnership with coach Rudi Garcia following the national team's World Cup exit, while emergency services battled a large wildfire in Namur province. A stabbing incident in Ghent left a teenager in critical condition.",
+      "summary_en": "Belgium observed its national holiday on July 21 amid a heat wave, with fireworks proceeding in Brussels despite drought concerns. King Philip highlighted how vulnerable populations bear the heaviest impact from the heat. The Belgian football federation ended its partnership with coach Rudi Garcia following the national team's World Cup exit, while emergency services battled a large wildfire in Namur province. A stabbing incident in Ghent left a teenager in critical condition. Singer Isabelle A withdrew her hit 'Black or White' from her Ghent Festival setlist following cultural discussion, while politicians examined Belgian financial distribution and the political legacy of recent leaders.",
       "headlines": [
-        {
-          "id": "903fb7075e",
-          "title": "King Philip alludes to heat wave in 21 July message: 'The most vulnerable pay the heaviest price again'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/toespraak-nationale-feestdag-koning-filip/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/2b93151f-8607-4866-b717-3b36123cce51.jpg?width=200&height=125&q=80&blur=90"
-        },
         {
           "id": "95ddcdb209",
           "title": "Fireworks during Belgian national holiday celebration in Brussels allowed to proceed despite drought",
@@ -723,50 +433,40 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/c56f1838-448c-4d04-86dc-487ace56fb0c.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "b5f660b297",
-          "title": "Decision made: Belgian football federation will not continue with Rudi Garcia as coach",
-          "url": "https://sporza.be/nl/2026/07/14/de-knoop-is-doorgehakt-belgische-voetbalbond-gaat-niet-door-met-rudi-garcia-als-bondscoach~1784052654682/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/14/e1424312-1d73-449c-a48e-04582ca877d4.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "2f0981a007",
-          "title": "Large wildfire in Namur province under way; fire under control",
-          "url": "https://www.hln.be/binnenland/grote-natuurbrand-in-provincie-namen-aan-de-gang-vuur-onder-controle~aabd3429/",
+          "id": "144e59910c",
+          "title": "After cultural discussion, Isabelle A withdraws hit 'Black or White' from Ghent Festival setlist",
+          "url": "https://www.hln.be/showbizz/na-wokediscussie-laat-isabelle-a-voorlopig-bekende-hit-blank-of-zwart-thuis-zit-tot-nu-niet-in-mijn-setlist-voor-gentse-feesten-vanavond~ae2952b3/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-07-20T17:03:51+00:00",
-          "image_url": "https://images.hln.be/ZDc4NjdkOTMyOTdlYzVlNTliZTQvZGlvLzIxNjk5MjY1NC9maXQtd2lkdGgvNDAw/viroinval"
+          "published_at": "2026-07-21T04:00:10+00:00",
+          "image_url": "https://images.hln.be/ZDRlM2I3ZTVmZjFhYjgzMzc2YTIvZGlvLzI3NjA5NzAxOS9maXQtd2lkdGgvNDAw/jarne-rediers-en-isabelle-a"
         },
         {
-          "id": "371ed9edc8",
-          "title": "19-year-old in critical condition after stabbing incident in Ghent city center; area reopened",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/steekpartij-gent-gentse-feesten-gewond-dampoort-portus-ganda/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/5aed7045-5f42-433b-bf71-d6698ed03d73.jpg?width=200&height=125&q=80&blur=90"
+          "id": "8e26f655c7",
+          "title": "How Reynders sought to become Belgium's Sarkozy: 'He succeeded in the end'",
+          "url": "https://www.demorgen.be/podcasts/hoe-reynders-de-belgische-sarkozy-wilde-worden-aan-het-einde-van-de-rit-is-het-hem-gelukt~bb9467a5/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-21T04:30:00+00:00",
+          "image_url": "https://image.demorgen.be/275984678/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "fc6ba5cdab",
+          "title": "'You can call that a state reform': N-VA and MR examine Belgian financial flows",
+          "url": "https://www.demorgen.be/nieuws/je-kunt-dat-een-staatshervorming-noemen-n-va-en-mr-kijken-naar-belgische-geldstromen~b6c5a187/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-21T04:00:00+00:00",
+          "image_url": "https://image.demorgen.be/260277117/feature-crop/320/320/military-and-civilian-parade-for-the-national-day-2025"
         }
       ]
     },
     "europe": {
-      "summary_en": "Andy Burnham became the new British Prime Minister and appointed Rachel Healey as chancellor and Jason Miliband as foreign secretary in a cabinet overhaul. Ukrainian President Zelensky met with military leadership amid growing protests against the army's chief of staff. The European Union fined AliExpress €550 million for failing to prevent the sale of illegal and counterfeit goods. Hungary's chess legend Judit Polgár declined a presidential nomination, and a man was charged in connection with the murder of a former British member of parliament.",
+      "summary_en": "Andy Burnham became the new British Prime Minister and appointed Rachel Healey as chancellor and Jason Miliband as foreign secretary in a cabinet overhaul. Ukrainian President Zelensky met with military leadership amid growing protests against the army's chief of staff. The European Union fined AliExpress €550 million for failing to prevent the sale of illegal and counterfeit goods. Hungary's chess legend Judit Polgár declined a presidential nomination, and a man was charged in connection with the murder of a former British member of parliament. The Tate brothers are resisting extradition to the UK, while France faces critical wildfire warnings in multiple southern departments. The UK government is examining a wealth tax on super-rich individuals and addressing strains in surrogacy law.",
       "headlines": [
-        {
-          "id": "4317669f03",
-          "title": "Burnham picks Healey as chancellor on first day as UK PM",
-          "url": "https://www.politico.eu/article/andy-burnham-to-become-uk-prime-minister/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-07-20T07:00:00+00:00",
-          "image_url": null
-        },
         {
           "id": "59744db421",
           "title": "Chess legend Judit Polgár refuses Hungarian presidency: 'Not strong enough to unite divided nation'",
@@ -778,89 +478,59 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2026/07/19/cb1c883c-5204-48d7-87b0-102291126831.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "eb6c40ee5f",
-          "title": "Ukraine's army chief expected to lose job after week of protests",
-          "url": "https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests",
+          "id": "c9dfea8498",
+          "title": "Tate brothers resist extradition to UK",
+          "url": "https://www.hln.be/buitenland/broers-tate-verzetten-zich-tegen-uitlevering-aan-vk~a181878e/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-21T04:16:00+00:00",
+          "image_url": "https://images.hln.be/M2E5YmRkN2IxZjAzZmI0ODNjNDcvZGlvLzI3NjA1MTMzMi9maXQtd2lkdGgvNDAw/files-andrew-tate-r-and-his-brother-tristan-speak-to-the-media-as-they-arrive-in-romania-back-from-us-in-bucharest-on-march-22-2025-radical-social-media-influencer-andrew-tate-and-his-brother-tristan-were-arrested-on-july-18-2026-in-miami-the-us-marshals-service-told-afp-with-news-outlet-tmz-posting-video-of-officers-placing-the-men-in-custody-the-uk-crown-prosecution-service-said-in-a-statement-uk-prosecutors-will-be-seeking-the-brothers-extradition-in-relation-to-charges-including-rape-trafficking-and-assault-photo-by-daniel-mihailescu-afp"
+        },
+        {
+          "id": "47f7ca5238",
+          "title": "Red alert in five southern French departments due to wildfire danger",
+          "url": "https://www.demorgen.be/snelnieuws/live-code-rood-in-vijf-departementen-in-zuid-frankrijk-vanwege-bosbrandgevaar~b9a760bb/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-21T04:44:00+00:00",
+          "image_url": "https://image.demorgen.be/276101592/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "73ccafd8a2",
+          "title": "Wealth tax on UK's super-rich could raise £10bn a year, Andy Burnham told",
+          "url": "https://www.theguardian.com/business/2026/jul/21/uk-wealth-tax-super-rich-andy-burnham",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-07-20T18:01:01+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/79d93780dac9f6ff7b43451f43c58500deedf1a6/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=8f62a7780e0a8365e9ed44e1b0bbc5f2"
+          "published_at": "2026-07-21T05:00:01+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/dbb11a2b0be3696c8f483e7f1c970c605a1fbb4b/0_0_4179_3342/master/4179.jpg?width=700&quality=85&auto=format&fit=max&s=43a4f75c61a7497d0cc899a025a2d315"
         },
         {
-          "id": "8a05d96918",
-          "title": "AliExpress receives €550 million fine from EU: will they pay? And what happens to the money?",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/recordboete-van-550-miljoen-voor-aliexpress-gaat-het-bedrijf-da/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/7b0cd9d0-676e-4ec7-b967-483203e70f3f.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "75e4267902",
-          "title": "28-year-old suspect charged in connection with murder of former British MP Ann Widdecombe",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/28-jarige-man-aangeklaagd-voor-moord-op-brits-oud-parlementslid/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/13/cfabd57f-4f67-41a6-8f34-893d9714837e.jpg?width=200&height=125&q=80&blur=90"
+          "id": "8c6fe7c3f2",
+          "title": "UK surrogacy law 'creaking at seams' as demand rises sharply",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/jul/21/uk-surrogacy-law-creaking-at-seams-as-demand-rises-sharply",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-21T05:00:02+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/c19c0a80f6081873eeac143ed6eba44b78f3785e/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=b652d64bcb416d23d8a65be6d3c04f74"
         }
       ]
     },
     "world_top": {
-      "summary_en": "The United States launched military strikes against Iran, with President Trump warning of further retaliation for the deaths of American soldiers, escalating a major conflict in the Middle East. Afghanistan was hit by severe flooding that killed at least 20 people and left over 100 missing, while a passenger ferry capsized off Guyana with dozens feared dead. A mass protest movement in India demanded the education minister's resignation following a medical entrance exam scandal, and a 13-year-old boy died during Spain's World Cup victory celebrations.",
+      "summary_en": "The United States launched military strikes against Iran, with President Trump warning of further retaliation for the deaths of American soldiers, escalating a major conflict in the Middle East. Afghanistan was hit by severe flooding that killed at least 20 people and left over 100 missing, while a passenger ferry capsized off Guyana with dozens feared dead. A mass protest movement in India demanded the education minister's resignation following a medical entrance exam scandal, and a 13-year-old boy died during Spain's World Cup victory celebrations. Research has found that AI chatbots provide inaccurate and unreliable voting advice ahead of elections.",
       "headlines": [
         {
-          "id": "d299f4599f",
-          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
-          "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-07-20T21:09:31+00:00",
-          "image_url": null
-        },
-        {
-          "id": "1f5494fa0b",
-          "title": "Afghanistan floods kill at least 20 people, with more than 100 missing",
-          "url": "https://www.theguardian.com/world/2026/jul/20/deadly-floods-nuristan-afghanistan",
+          "id": "c46d0d52ff",
+          "title": "Election voting advice from AI chatbots 'inaccurate and unreliable'",
+          "url": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-07-20T17:31:06+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/77505e4cc01e416639c5698433307b30ee739215/290_0_4333_3466/master/4333.jpg?width=700&quality=85&auto=format&fit=max&s=95a76f58a48f062f74da73cf725ed14d"
-        },
-        {
-          "id": "fbd02ff0c1",
-          "title": "Scores feared dead after passenger ferry capsizes off Guyana",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-07-20T11:37:32+00:00",
-          "image_url": null
-        },
-        {
-          "id": "4bb4e5ac3f",
-          "title": "Thousands of Indian 'cockroaches' demand education minister's resignation after medical entrance exam fiasco",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/india-kakkerlakkenpartij-protest-mohdi/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/b2afd13a-4d80-43c6-ad5a-490ee8e6ae7e.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "c68c1171db",
-          "title": "Boy, 13, dies during World Cup celebrations in Spain",
-          "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-07-20T10:02:44+00:00",
-          "image_url": null
+          "published_at": "2026-07-21T05:00:01+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/fb9fb4791540eb607b72629f7d348a9cd01bd704/250_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=b872b0268625b6bf6dee7dcf9e21476e"
         }
       ]
     },
