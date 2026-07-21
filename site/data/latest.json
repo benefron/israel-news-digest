@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-21T05:35:43.718557+00:00",
+  "generated_at": "2026-07-21T08:09:03.378527+00:00",
   "date": "2026-07-21",
   "degraded": false,
   "top_general": {
-    "summary_he": "בשבוע זה התפרסמו תוצאות הפריימריז בדמוקרטים בארה״ב עם זכייתם של שלושה מועמדים במקומות קדמיים. לראשונה מאז 2009 צפויה פגישה בין נשיא לבנון לנשיא ארה״ב בבית הלבן. בארץ התבררו פערים בין הבטחותיו של בן גביר לבין המציאות בנושא הוראות הפתיחה. טרגדיה בכביש 4: דניאל ברהנו נהרג בעת שניסה להציל נפגעי תאונה.",
+    "summary_he": "בימים אלו בחזית הפוליטית בעולם, מתמודדי מירוץ הפריימריז של הדמוקרטים בארה\"ב זוכים בעמדות בראש הטבלה. בעת ובעונה אחת, הכנסת נדרשת לאשר תמיכות בחירות נוספות, וסטטיסטיקה עדכנית מציבה את ישראל בקדמת הטבלה הגלובלית בצריכת בשר בקר לנפש. בבריטניה, מינויו של יהודי לתפקיד שר החוץ זוכה לסיקור בחדשות הבינלאומיות.",
     "headlines": [
       {
         "id": "8cbc3c14ef",
@@ -16,54 +16,64 @@
         "image_url": null
       },
       {
-        "id": "dba35efbec",
-        "title": "לראשונה מ־2009, נשיאי לבנון וארה\"ב ייפגשו בבית הלבן",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-21/ty-article/.premium/0000019f-8057-d48b-ab9f-f67fcab10000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T22:40:15+00:00",
-        "image_url": null
+        "id": "fdcc8dc41f",
+        "title": "לא הספקנו להתגעגע: הכנסת תיפתח כדי לאשר (עוד) שוחד בחירות",
+        "url": "https://www.themarker.com/news/politics/2026-07-21/ty-article/.premium/0000019f-7fa0-d490-a59f-7ff523b50000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-07-21T03:17:43+00:00",
+        "image_url": "https://img.haarets.co.il/bs/0000019f-802c-d48b-ab9f-f62f93a50000/5a/55/b5afbed047dbb571b373ea330d80/633656.jpg?height=81"
       },
       {
-        "id": "2719884c0e",
-        "title": "הוראות פתיחה באשליות: מה נשאר מההבטחות של בן גביר",
-        "url": "https://www.ynet.co.il/news/article/rjlwzz24me",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-21T04:50:35+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/30/BkgHMb5ZmGx/BkgHMb5ZmGx_0_0_850_479_0_medium.jpg"
+        "id": "9858107e52",
+        "title": "כל ישראלי צרך 21.7 ק\"ג בשר בקר בשנה שעברה. כך ישראל טיפסה לצמרת טבלת הקרניבורים העולמית",
+        "url": "https://www.themarker.com/magazine/2026-07-21/ty-article-magazine/.highlight/0000019f-30d4-d746-adff-ffdddca60000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-07-21T03:27:51+00:00",
+        "image_url": "https://img.haarets.co.il/bs/0000017f-df28-df7c-a5ff-df7a022a0000/3c/f7/75fc802b9cb7653ebf1d0ef80465/826776725.jpg?height=81"
       },
       {
-        "id": "1b184040cc",
-        "title": "דניאל ברהנו עצר לעזור לנפגעי תאונה בכביש 4 - ונהרג בעצמו: כך התרחשה הטרגדיה",
-        "url": "https://news.walla.co.il/item/3855010",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-07-20T21:51:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079166-46.jpeg"
+        "id": "d316768234",
+        "title": "Jewish former Labour leader Ed Miliband tapped as new British foreign secretary",
+        "url": "https://www.timesofisrael.com/jewish-former-labour-leader-ed-miliband-tapped-as-new-british-foreign-secretary/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-07-20T20:30:42+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26201601466049-e1784573317196-1024x640.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "בחזית הביטחון, ארה״ב השלימה גל תקיפות נוסף באיראן, וישראל מעריכה כי איראן העבירה אלפי צנטריפוגות להר המכוש. איראן גם ירתה לעבר ירדן, וישראל מודיעה על כוננות צה״ל. בנושא חמאס, התרחש קרב מחנות שהוכרע לטובתו, ובחירת אל־חיה להנהגה מעידה על המשך הברית עם איראן. בדיר חנא נפצעה ילדה מירי.",
+    "summary_he": "המצב הביטחוני במזרח התיכון נתון במתח קדחתני. ארצות הברית ביצעה תקיפות צבאיות כנגד מטרות באיראן, כולל בשיראז ובמערב המדינה, וכן כנגד כלי שיט במצרי הורמוז. במקביל, ישראל מעריכה כי איראן הציבה צנטריפוגות כדי לייצר דלק גרעיני במתחם תת־קרקעי ליד נתנז. בישראל עצמה, מפקדי הצה\"ל הודיעו על מוכנות לתגובה תוך שעות. בחזית הצפון, מתח ביחסים בין ישראל לחיזבאללה נמשך, וכולל דיווחים על עיכוב בהשמדת מנהרות. בשטחים הפלסטיניים, צה\"ל הוציא צו המגביל את גישת משפחה לחדר אמבטיה בביתה.",
     "headlines": [
       {
-        "id": "e36b16e506",
-        "title": "ארה\"ב השלימה גל תקיפות נוסף באיראן - יעדים צבאיים הושמדו",
-        "url": "https://news.walla.co.il/item/3855040",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-07-21T04:31:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/4/4074870-46.png"
+        "id": "5c1639db4f",
+        "title": "ליל מהלומות עשירי: ארה\"ב תקפה בשיראז ובמערב איראן, 2 מכליות \"הופצצו\" בהורמוז",
+        "url": "https://www.ynet.co.il/news/article/b1y0d13ngl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-20T22:38:31+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/21/rkGLh0L24zx/rkGLh0L24zx_0_254_961_540_0_medium.jpg"
       },
       {
-        "id": "75c7ad2705",
-        "title": "ההסלמה עם איראן - והדריכות בישראל: \"צה\"ל מוכן לתגובה תוך שעות\"",
-        "url": "https://13tv.co.il/item/news/politics/security/iran-905273519/?pid=62&refc=902992371",
+        "id": "7f5b076933",
+        "title": "וול סטריט ג'ורנל: ישראל מעריכה כי איראן העבירה צנטריפוגות למתחם תת־קרקעי ליד נתנז",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-21/ty-article/.premium/0000019f-826f-d48b-ab9f-f66f02500000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-21T02:20:21+00:00",
+        "image_url": null
+      },
+      {
+        "id": "423af74b06",
+        "title": "ההסלמה באיראן - והדריכות בישראל: \"צה\"ל מוכן לתגובה תוך שעות\"",
+        "url": "https://13tv.co.il/item/news/politics/security/iran-905273519/?pid=62&refc=902992386",
         "source": "reshet13",
         "source_label": "חדשות 13",
         "source_label_he": "חדשות 13",
@@ -71,39 +81,9 @@
         "image_url": null
       },
       {
-        "id": "4974c66493",
-        "title": "איראן העבירה צנטריפוגות לעומק \"הר המכוש\" | דיווח",
-        "url": "https://www.israelhayom.co.il/news/defense/article/21025909",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "90d787f765",
-        "title": "דיווח: ישראל מעריכה שאיראן העבירה צנטריפוגות להר המכוש",
-        "url": "https://www.kan.org.il/content/kan-news/defense/1079469/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "d8a0eea79d",
-        "title": "דיווח: בישראל סבורים כי איראן העבירה אלפי צנטריפוגות לעומק הר המכוש",
-        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "32f0c4ab72",
-        "title": "איראן יורה לירדן - והסיבה לכך צריכה להטריד את ישראל",
-        "url": "https://www.makorrishon.co.il/news/middleeast/article/352593",
+        "id": "cde23fe4de",
+        "title": "חשיפת מקור ראשון: הדרג המדיני מעכב את הרס מנהרות חיזבאללה",
+        "url": "https://www.makorrishon.co.il/news/defence/article/352630",
         "source": "makor_rishon",
         "source_label": "מקור ראשון",
         "source_label_he": "מקור ראשון",
@@ -111,34 +91,24 @@
         "image_url": null
       },
       {
-        "id": "9df1d56c90",
-        "title": "הבחירה באל־חיה להנהגת חמאס מעידה שהארגון עוד נשען על הברית עם איראן",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-20/ty-article/.premium/0000019f-7fd4-d316-a9df-7fdf747c0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T15:37:33+00:00",
-        "image_url": null
+        "id": "ffbc6f4893",
+        "title": "שופר חיזבאללה תוקף את הביקור של נשיא לבנון בארה\"ב: \"תדמית פגומה, השלטון העניק מתנות\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-e583690c0df7f91027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-07-20T16:00:00+00:00",
+        "image_url": "https://img.mako.co.il/2025/12/19/nasii19122_autoOrient_i.jpg"
       },
       {
-        "id": "e0c5fbab65",
-        "title": "אמרו לא ל\"כניעה\": קרב המחנות בחמאס שהוכרע על חודו של קול",
-        "url": "https://www.ynet.co.il/news/article/bkpkz3ovfg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-20T21:11:55+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/rkd00xnj4zx/rkd00xnj4zx_36_0_1214_684_0_medium.jpg"
-      },
-      {
-        "id": "4d6c5bc0b5",
-        "title": "ילדה בת שמונה נפצעה קשה מירי בדיר חנא שבגליל",
-        "url": "https://www.haaretz.co.il/news/law/2026-07-20/ty-article/.premium/0000019f-80a4-d316-a9df-a2ef4aac0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-20T18:09:26+00:00",
-        "image_url": null
+        "id": "f4bb407ff1",
+        "title": "West Bank family says IDF order has barred them from accessing their own bathroom",
+        "url": "https://www.timesofisrael.com/west-bank-family-says-idf-order-has-barred-them-from-accessing-their-own-bathroom/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-07-20T19:51:12+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AFP__20250828__72NX2Z7__v1__HighRes__PalestinianIsraelConflictWestBankSettlers-1024x640.jpg"
       }
     ]
   },
@@ -146,8 +116,18 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "במישור הפוליטי, בארה״ב התפרסמו תוצאות הפריימריז בדמוקרטים. בארץ בוחן חוקר את הפער בין הבטחותיו של בן גביר למציאות. בזירה הבינלאומית צפויה פגישה היסטורית בין נשיא לבנון לנשיא ארה״ב, ובקולומביה נבחר נשיא שטען כי קיימת מזימה להתנקש בו.",
+      "summary_he": "בחזית הפוליטית המקומית, הכנסת מתכננת להתכנס כדי לאשר תמיכות בחירות נוספות. בחו\"ל, תוצאות הפריימריז של הדמוקרטים בארה\"ב מציבות שלוש דמויות חדשות בראש הטבלה, ויהודי, חבר לשעבר במפלגת העבודה הבריטית, התמנה לתפקיד שר החוץ של בריטניה. כמו כן, דיווחים מאיטליה חשפו מסמך שהופץ וקורא למעקב אחר ציונים ותיירות ישראלית. בנוסף, הוצג דיווח על כך שמבצע השפעה כלשהו חזר על עצמו כבומרנג.",
       "headlines": [
+        {
+          "id": "fdcc8dc41f",
+          "title": "לא הספקנו להתגעגע: הכנסת תיפתח כדי לאשר (עוד) שוחד בחירות",
+          "url": "https://www.themarker.com/news/politics/2026-07-21/ty-article/.premium/0000019f-7fa0-d490-a59f-7ff523b50000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-21T03:17:43+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-802c-d48b-ab9f-f62f93a50000/5a/55/b5afbed047dbb571b373ea330d80/633656.jpg?height=81"
+        },
         {
           "id": "8cbc3c14ef",
           "title": "תוצאות הפריימריז בדמוקרטים: לזימי, קריב ורייטן בשלושת המקומות הראשונים",
@@ -159,189 +139,105 @@
           "image_url": null
         },
         {
-          "id": "2719884c0e",
-          "title": "הוראות פתיחה באשליות: מה נשאר מההבטחות של בן גביר",
-          "url": "https://www.ynet.co.il/news/article/rjlwzz24me",
+          "id": "d316768234",
+          "title": "Jewish former Labour leader Ed Miliband tapped as new British foreign secretary",
+          "url": "https://www.timesofisrael.com/jewish-former-labour-leader-ed-miliband-tapped-as-new-british-foreign-secretary/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-07-20T20:30:42+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26201601466049-e1784573317196-1024x640.jpg"
+        },
+        {
+          "id": "5a08716ca3",
+          "title": "איטליה: מסמך שהופץ קורא לסמן נוכחות של \"ציונים\" ותיירות ישראלית",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-8a3ac2748ef7f91026.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-07-20T15:00:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/07/20/neocolonializem_200726_I_re_autoOrient_i.jpg"
+        },
+        {
+          "id": "903918a2e5",
+          "title": "מבצע ההשפעה חזר כבומרנג",
+          "url": "https://www.ynet.co.il/news/article/yokra14839546",
           "source": "ynet",
           "source_label": "Ynet",
           "source_label_he": "Ynet",
-          "published_at": "2026-07-21T04:50:35+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/30/BkgHMb5ZmGx/BkgHMb5ZmGx_0_0_850_479_0_medium.jpg"
-        },
-        {
-          "id": "dba35efbec",
-          "title": "לראשונה מ־2009, נשיאי לבנון וארה\"ב ייפגשו בבית הלבן",
-          "url": "https://www.haaretz.co.il/news/politics/2026-07-21/ty-article/.premium/0000019f-8057-d48b-ab9f-f67fcab10000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-20T22:40:15+00:00",
-          "image_url": null
-        },
-        {
-          "id": "ed1e910fbe",
-          "title": "נשיא קולומביה הנבחר: \"יש מזימה להתנקש בי לפני ההשבעה\"",
-          "url": "https://www.ynet.co.il/news/article/rkztemn4gx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-07-21T03:07:09+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/22/SkgNnzZLfGx/SkgNnzZLfGx_0_17_800_450_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "בנושא כלכלה ויוקר המחיה, נדחית המהפכה בהיטל ההשבחה לאחר שלוש שנים, וקבלנים מביעים אכזבה. דיווחים על השקעה בנכסים להשכרה כחלק מאסטרטגיית השקעה ארוכת טווח. מחיר הנפט חווה ירידה קלה בעקבות סיכויים להפסקת אש בחו״ל.",
-      "headlines": [
-        {
-          "id": "bbfedc7e75",
-          "title": "ישבו 3 שנים ולא הכריעו: המהפכה בהיטל ההשבחה נדחית, והקבלנים מאוכזבים",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001549930",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-20T16:00:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1728292218/direct/%D7%A7%D7%A8%D7%93%D7%99%D7%98_%D7%9C%D7%99%D7%90%D7%95%D7%A8_%D7%A4%D7%AA%D7%90%D7%9C_1_vzyyqv.jpg"
-        },
-        {
-          "id": "1982210f06",
-          "title": "\"תמיד אשאיר כסף בשוק ההון, אבל אני שואף שיהיו לי גם חמישה־שישה נכסים להשכרה\"",
-          "url": "https://www.themarker.com/markets/newinvestors/2026-07-21/ty-article-magazine/.highlight/0000019f-7eab-dbf3-af9f-ffbb9f510002",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-21T03:00:50+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-7eb9-d723-af9f-fffb94620001/33/d1/f9fc4361417c92648f220c2f8630/homepage.jpg?height=81"
-        },
-        {
-          "id": "6aca7bfbe1",
-          "title": "סיכוי להפסקת אש מקפיץ את סיאול וטוקיו; ירידה קלה במחיר הנפט",
-          "url": "https://www.themarker.com/wallstreet/2026-07-21/ty-article-live/0000019f-7422-d4cc-abbf-76aeb19e0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-21T02:53:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000017f-f31f-d497-a1ff-f39f95f90000/06/04/8b064cfd13565366f0a46a845934/432680322.jpg?height=81"
-        },
-        {
-          "id": "33e51567b0",
-          "title": "ללמוד מחצי חינם: היכרות ארוכת שנים לא מונעת סכסוכים בין שותפים",
-          "url": "https://www.themarker.com/agents/2026-07-21/ty-article/.premium/0000019f-7f06-ddd1-ab9f-ff9e9f4f0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-21T05:00:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-80d1-d316-a9df-a2df08760001/7d/6b/783599674256adcb26d1feb39069/ist-17053-04966.jpg?height=81"
-        }
-      ]
-    },
-    {
-      "key": "health",
-      "label_he": "בריאות ורפואה",
-      "summary_he": "בנושא בריאות, דווח על מקרה של גוש החוסם את הקיבה שטופל בדיאט קולה. כמו כן דווח על פציעתה של ילדה בת שמונה מירי בדיר חנא שבגליל.",
-      "headlines": [
-        {
-          "id": "de9801c70c",
-          "title": "גוש חסם את קיבתה - והרופאים הציעו טיפול ייחודי בדיאט קולה",
-          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21025978",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "4d6c5bc0b5",
-          "title": "ילדה בת שמונה נפצעה קשה מירי בדיר חנא שבגליל",
-          "url": "https://www.haaretz.co.il/news/law/2026-07-20/ty-article/.premium/0000019f-80a4-d316-a9df-a2ef4aac0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-20T18:09:26+00:00",
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "בתחום התרבות והבידור, התפרסמו ביקורות חיוביות על סדרה חדשה שצברה עניין רב. כמו כן דווח על טיפ בישול לשיפור טעם סלט הפסטה.",
-      "headlines": [
-        {
-          "id": "26efb263ab",
-          "title": "הסדרה הזאת כל כך מצחיקה, לא הרגשתי איך שלושה פרקים שלמים חלפו",
-          "url": "https://e.walla.co.il/item/3854615",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-07-21T00:00:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/8/4078555-46.png"
-        },
-        {
-          "id": "385db5f451",
-          "title": "סלט הפסטה יצא הרבה יותר טעים אם תקפידו על חוק 5 הדקות",
-          "url": "https://news.walla.co.il/item/3854887",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-07-21T00:07:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079077-46.jpg"
+          "published_at": "2026-07-20T22:16:11+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/06/rJxNFm11bze/rJxNFm11bze_0_0_850_479_0_medium.jpg"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "בנושא דת וחברה, שופט בית המשפט העליון שטיין התייחס לטענות בדבר אפרטהייד בישראל. כמו כן דווח על אגדת שחמט יהודייה שסירבה לתפקיד נשיאת הונגריה.",
+      "summary_he": "בעיות חברתיות-דתיות עומדות בראש סדר היום. הפגנות של חרדים התקיימו מחוץ לכלא מספר 10, ובמהלכן תועדה התנגשות פיזית הקשורה לאיש בעל השפעה בתוך קהילת חסידי גור. חקיקה חדשה בנושא הפרדה מגדרית נוגעת לתנאי הקבלה של סטודנטים דתיים לאוניברסיטאות, ומאפשרת הקטנה משמעותית של דרישות הקבלה.",
       "headlines": [
         {
-          "id": "540a652d40",
-          "title": "שופט העליון שטיין: למי שקורא לישראל מדינת אפרטהייד אין מקום לדרוך בה",
-          "url": "https://www.haaretz.co.il/news/law/2026-07-20/ty-article/.premium/0000019f-7fd0-de59-a5bf-7fffbbb50000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-20T15:55:26+00:00",
-          "image_url": null
-        },
-        {
-          "id": "8ccc4ef852",
-          "title": "אגדת השחמט היהודייה שסירבה להפוך לנשיאת הונגריה",
-          "url": "https://news.walla.co.il/item/3855038",
+          "id": "0c748a77f1",
+          "title": "הפגנות החרדים מחוץ לכלא 10: האיש החזק בחסידות גור תועד בעימות פיזי",
+          "url": "https://news.walla.co.il/item/3855113",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-07-21T06:00:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079275-46.jpg"
+          "published_at": "2026-07-21T10:31:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079336-46.png"
+        },
+        {
+          "id": "2e65b54e40",
+          "title": "בלי בגרות, עם מלגה: חוק ההפרדה המגדרית יאפשר להוריד כמעט לאפס את תנאי הקבלה לסטודנטים דתיים",
+          "url": "https://www.themarker.com/news/education/2026-07-21/ty-article/.premium/0000019f-7f66-d490-a59f-7f77aa1d0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-21T03:18:16+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-7fa9-d48b-ab9f-7faf93420000/11/a4/2b2b8d9e4e4481db3ee7181ad216/675712.jpg?height=81"
         }
       ]
     },
     {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "בנושא נדל״ן ודיור, דיווחים על אסטרטגיית השקעה בנכסים להשכרה כחלק מתיק השקעות מגוון. כמו כן דווח על עובד סוציאלי העוסק בבניינים נטושים.",
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "חוק הקשור להפרדה מגדרית משנה את תנאי הקבלה של סטודנטים דתיים, ומאפשר כניסה לאוניברסיטאות ללא דרישת בחינת בגרות, במסגרת מלגה.",
       "headlines": [
         {
-          "id": "1982210f06",
-          "title": "\"תמיד אשאיר כסף בשוק ההון, אבל אני שואף שיהיו לי גם חמישה־שישה נכסים להשכרה\"",
-          "url": "https://www.themarker.com/markets/newinvestors/2026-07-21/ty-article-magazine/.highlight/0000019f-7eab-dbf3-af9f-ffbb9f510002",
+          "id": "2e65b54e40",
+          "title": "בלי בגרות, עם מלגה: חוק ההפרדה המגדרית יאפשר להוריד כמעט לאפס את תנאי הקבלה לסטודנטים דתיים",
+          "url": "https://www.themarker.com/news/education/2026-07-21/ty-article/.premium/0000019f-7f66-d490-a59f-7f77aa1d0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-07-21T03:00:50+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-7eb9-d723-af9f-fffb94620001/33/d1/f9fc4361417c92648f220c2f8630/homepage.jpg?height=81"
+          "published_at": "2026-07-21T03:18:16+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-7fa9-d48b-ab9f-7faf93420000/11/a4/2b2b8d9e4e4481db3ee7181ad216/675712.jpg?height=81"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "סטטיסטיקה עדכנית מראה כי צרכן ישראלי קנה בממוצע 21.7 קילוגרם בשר בקר בשנה החולפת, מה שהציב את ישראל בראש טבלת צריכת בשר גלובלית. בנוסף, חוק חדש המחייב הקלטת שיחות מכירה יצר מחלוקת בין צרכנים הרואים בו כלי הגנה ליצרנים הטוענים כי הוא יוצר נטל תפעולי.",
+      "headlines": [
+        {
+          "id": "9858107e52",
+          "title": "כל ישראלי צרך 21.7 ק\"ג בשר בקר בשנה שעברה. כך ישראל טיפסה לצמרת טבלת הקרניבורים העולמית",
+          "url": "https://www.themarker.com/magazine/2026-07-21/ty-article-magazine/.highlight/0000019f-30d4-d746-adff-ffdddca60000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-21T03:27:51+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000017f-df28-df7c-a5ff-df7a022a0000/3c/f7/75fc802b9cb7653ebf1d0ef80465/826776725.jpg?height=81"
         },
         {
-          "id": "a4ed82dac8",
-          "title": "העובד הסוציאלי של הבניינים הנטושים",
-          "url": "https://www.themarker.com/realestate/2026-07-21/ty-article-magazine/.highlight/0000019e-c620-dd0a-a19f-d77c73ea0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-21T03:26:59+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019e-d9a1-deca-ab9e-ddf3aee80000/ed/2b/7c8b6f1e434ba59a7be533492cae/306564.jpg?height=81"
+          "id": "a3abbe599d",
+          "title": "כלי לצרכנים, נטל לעסקים: חוק שמחייב להקליט שיחות מכירה מעורר מחלוקת",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001549894",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-07-21T07:42:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1767773676/direct/shutterstock_2643127571_khigam.jpg"
         }
       ]
     }
@@ -365,27 +261,47 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Trump stated that Benjamin Netanyahu will not face arrest if he visits the United States. Syrian Jews have lobbied the U.S. to lift sanctions on Syria while Israeli authorities urged caution, and two Palestinians were killed in confrontations with Israeli settlers and military in the West Bank. Hamas announced a new overall leader, British Prime Minister Andy Burnham faces scrutiny over his positions on Israel and antisemitism, pro-Israel Jewish voters in Michigan are being tested on their party loyalty, and Argentina's Jewish community invoked a World Cup chant in a call for justice marking 32 years since the AMIA bombing.",
+      "summary_en": "Israeli military operations continued with an airstrike in Gaza that killed a family with four children and a West Bank raid resulting in two Palestinian deaths. Hamas appointed Khalil al-Hayya as its new overall leader. Leaders of Holocaust survivors warned of disturbing parallels to Nazi Germany regarding the exclusion of Jews from public life, while Argentina's Jewish community invoked World Cup chants to demand justice on the 32nd anniversary of the 1994 AMIA bombing. Israel announced the establishment of pilot villages in South Lebanon amid regional tensions.",
       "headlines": [
         {
-          "id": "db76d9a4f5",
-          "title": "As Israel urged caution, these Syrian Jews lobbied the U.S. to lift sanctions on Syria",
-          "url": "https://www.jta.org/2026/07/20/global/as-israel-urged-caution-these-syrian-jews-lobbied-the-u-s-to-lift-sanctions-on-syria",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-07-20T20:36:17+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-13-at-07.25.45.jpeg"
+          "id": "af5f985fc6",
+          "title": "Israel kills family with four children in Gaza, report aid workers",
+          "url": "https://www.demorgen.be/snelnieuws/live-trump-verzet-zich-tegen-arrestatie-netanyahu-in-vs-na-uitspraak-van-mamdani-hij-zal-op-geen-enkele-manier-gearresteerd-worden~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-21T07:34:00+00:00",
+          "image_url": "https://image.demorgen.be/275856409/roi/320/320/691.1999999999999/529.2/afbeelding"
         },
         {
           "id": "2714d1874b",
-          "title": "'Israeli settlers are in partnership with the army,' say Palestinians after two shot dead in West Bank",
+          "title": "'A partnership between settlers and the army': two shot dead in latest West Bank raid",
           "url": "https://www.theguardian.com/world/2026/jul/20/israeli-settlers-partnership-army-palestinians-bury-dead-west-bank",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-07-20T17:53:28+00:00",
+          "published_at": "2026-07-21T07:12:49+00:00",
           "image_url": "https://i.guim.co.uk/img/media/cd95ddd8a76d0e9517dd1021c7c7c2f394789079/81_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=5033ae3b8c0072e66c09e47198dfb6af"
+        },
+        {
+          "id": "0dc79e9d91",
+          "title": "Holocaust survivors president says exclusion of Jews from public life has 'disturbing parallels' to Nazi Germany",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/21/holocaust-survivors-australia-exclusion-nazi-germany-ntwnfb",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-21T05:57:55+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/939ef1b61447d0487f58f8820414fd5e01c678c2/460_0_4213_3371/master/4213.jpg?width=700&quality=85&auto=format&fit=max&s=a52e7d89b03ca3b0baea990110cdabec"
+        },
+        {
+          "id": "8f7f4d6f96",
+          "title": "Argentina's Jews turn a World Cup chant into a call for justice 32 years after the AMIA bombing",
+          "url": "https://www.jta.org/2026/07/20/global/argentinas-jews-turn-a-world-cup-chant-into-a-call-for-justice-32-years-after-the-amia-bombing",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-20T22:39:16+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/Today-we-cant-lose-SIGN.jpeg"
         },
         {
           "id": "31d7234489",
@@ -398,139 +314,139 @@
           "image_url": null
         },
         {
-          "id": "75825a6f05",
-          "title": "How Michigan's Senate race is testing pro-Israel Jews' loyalty to the Democratic Party",
-          "url": "https://www.jta.org/2026/07/20/politics/how-michigans-senate-race-is-testing-pro-israel-jews-loyalty-to-the-democratic-party",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-07-20T12:45:43+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/7-17-26-abdul.jpg"
-        },
-        {
-          "id": "8f7f4d6f96",
-          "title": "Argentina's Jews turn a World Cup chant into a call for justice 32 years after the AMIA bombing",
-          "url": "https://www.jta.org/2026/07/20/global/argentinas-jews-turn-a-world-cup-chant-into-a-call-for-justice-32-years-after-the-amia-bombing",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-07-20T22:39:16+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/Today-we-cant-lose-SIGN.jpeg"
-        }
-      ]
-    },
-    "belgium": {
-      "summary_en": "Belgium observed its national holiday on July 21 amid a heat wave, with fireworks proceeding in Brussels despite drought concerns. King Philip highlighted how vulnerable populations bear the heaviest impact from the heat. The Belgian football federation ended its partnership with coach Rudi Garcia following the national team's World Cup exit, while emergency services battled a large wildfire in Namur province. A stabbing incident in Ghent left a teenager in critical condition. Singer Isabelle A withdrew her hit 'Black or White' from her Ghent Festival setlist following cultural discussion, while politicians examined Belgian financial distribution and the political legacy of recent leaders.",
-      "headlines": [
-        {
-          "id": "95ddcdb209",
-          "title": "Fireworks during Belgian national holiday celebration in Brussels allowed to proceed despite drought",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/vuurwerk-nationale-feestdag/",
+          "id": "c621044371",
+          "title": "Israel begins with 'pilot villages' in South Lebanon, incidents with ships in Strait of Hormuz",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/israel-begint-met-proefdorpen-in-zuidlibanon-incidenten-met-~1784611610051/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/c56f1838-448c-4d04-86dc-487ace56fb0c.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/21/83443e61-9613-4328-83f1-a5b1e910b763.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium observed its July 21 national holiday with commemorative events, while the country's Air Force marked its 80th anniversary. A donor scandal surfaced involving egg donors exceeding the legal limit of six families. Political parties N-VA and MR engaged in discussions about constitutional reform and Belgian financial flows. The Ghent Festival's fourth night drew substantial crowds to the Vlasmarkt area.",
+      "headlines": [
+        {
+          "id": "58c01fca8c",
+          "title": "National holiday July 21: What is on the festival programme today?",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/21-juli-wat-staat-er-vandaag-op-het-feestprogramma~1784552089130/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2025/07/18/db538645-3cfb-4641-a49e-c2d4dd82e1c7.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "144e59910c",
-          "title": "After cultural discussion, Isabelle A withdraws hit 'Black or White' from Ghent Festival setlist",
-          "url": "https://www.hln.be/showbizz/na-wokediscussie-laat-isabelle-a-voorlopig-bekende-hit-blank-of-zwart-thuis-zit-tot-nu-niet-in-mijn-setlist-voor-gentse-feesten-vanavond~ae2952b3/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-07-21T04:00:10+00:00",
-          "image_url": "https://images.hln.be/ZDRlM2I3ZTVmZjFhYjgzMzc2YTIvZGlvLzI3NjA5NzAxOS9maXQtd2lkdGgvNDAw/jarne-rediers-en-isabelle-a"
+          "id": "e447b7f17b",
+          "title": "Belgian Air Force exists 80 years, but goes back much further",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/07/20/belgische-luchtmacht-bestaat-80-jaar-maar-gaat-veel-verder-teru/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/21/7ddb0f57-935d-4545-a4de-2bffd1df5303.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "8e26f655c7",
-          "title": "How Reynders sought to become Belgium's Sarkozy: 'He succeeded in the end'",
-          "url": "https://www.demorgen.be/podcasts/hoe-reynders-de-belgische-sarkozy-wilde-worden-aan-het-einde-van-de-rit-is-het-hem-gelukt~bb9467a5/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-21T04:30:00+00:00",
-          "image_url": "https://image.demorgen.be/275984678/feature-crop/320/320/afbeelding"
+          "id": "1c773136fa",
+          "title": "Donor scandal: Egg donors also exceed legal limit of six families",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/ook-bij-eiceldonoren-is-wettelijke-limiet-van-6-gezinnen-oversch/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2023/01/09/9847558d-8ff3-11ed-b07d-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
           "id": "fc6ba5cdab",
-          "title": "'You can call that a state reform': N-VA and MR examine Belgian financial flows",
+          "title": "'You could call that a constitutional reform': N-VA and MR look at Belgian financial flows",
           "url": "https://www.demorgen.be/nieuws/je-kunt-dat-een-staatshervorming-noemen-n-va-en-mr-kijken-naar-belgische-geldstromen~b6c5a187/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
           "published_at": "2026-07-21T04:00:00+00:00",
           "image_url": "https://image.demorgen.be/260277117/feature-crop/320/320/military-and-civilian-parade-for-the-national-day-2025"
+        },
+        {
+          "id": "1e5bd7c7ee",
+          "title": "Fourth night of Ghent Festival ends with overcrowded Vlasmarkt",
+          "url": "https://www.hln.be/gent/vierde-nacht-gentse-feesten-eindigt-met-overvolle-vlasmarkt~a348bf40/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-21T05:00:00+00:00",
+          "image_url": "https://images.hln.be/OWU0NTU3YzBmZGFiNWNmNmU0ODEvZGlvLzI3NjExNTM4OC9maXQtd2lkdGgvNDAw/drukte-op-de-vlasmarkt-tot-in-de-vroege-uurtjes-na-de-vierde-feestnacht-van-de-gentse-feesten"
         }
       ]
     },
     "europe": {
-      "summary_en": "Andy Burnham became the new British Prime Minister and appointed Rachel Healey as chancellor and Jason Miliband as foreign secretary in a cabinet overhaul. Ukrainian President Zelensky met with military leadership amid growing protests against the army's chief of staff. The European Union fined AliExpress €550 million for failing to prevent the sale of illegal and counterfeit goods. Hungary's chess legend Judit Polgár declined a presidential nomination, and a man was charged in connection with the murder of a former British member of parliament. The Tate brothers are resisting extradition to the UK, while France faces critical wildfire warnings in multiple southern departments. The UK government is examining a wealth tax on super-rich individuals and addressing strains in surrogacy law.",
+      "summary_en": "Chess legend Judit Polgár declined an offer from Hungarian Prime Minister Péter Magyar to serve as the country's president. In the United Kingdom, newly appointed Prime Minister Andy Burnham removed 11 ministers and reported that his first phone call with U.S. President Trump went very well. On the eastern front, the Russia-Ukraine conflict claimed at least 14 lives in attacks between the two countries.",
       "headlines": [
         {
-          "id": "59744db421",
-          "title": "Chess legend Judit Polgár refuses Hungarian presidency: 'Not strong enough to unite divided nation'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/judit-polgar-wijst-presidentschap-af/",
+          "id": "91963eda09",
+          "title": "Chess legend Judit Polgár refuses Hungarian presidency after proposal from Prime Minister Magyar",
+          "url": "https://www.demorgen.be/snelnieuws/schaaklegende-judit-polgar-wijst-hongaars-presidentschap-af-na-voorstel-van-premier-magyar~b75767ee/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-21T07:45:02+00:00",
+          "image_url": "https://image.demorgen.be/276077446/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "91971b7748",
+          "title": "New British Prime Minister: Burnham removes 11 ministers, first phone call with Trump went 'very well'",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/burnham-stuurt-11-ministers-de-laan-uit-eerste-telefoongesprek-~1782117476780/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/19/cb1c883c-5204-48d7-87b0-102291126831.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/5896a357-306e-4104-ae71-ead6d083aa6f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "c9dfea8498",
-          "title": "Tate brothers resist extradition to UK",
-          "url": "https://www.hln.be/buitenland/broers-tate-verzetten-zich-tegen-uitlevering-aan-vk~a181878e/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-07-21T04:16:00+00:00",
-          "image_url": "https://images.hln.be/M2E5YmRkN2IxZjAzZmI0ODNjNDcvZGlvLzI3NjA1MTMzMi9maXQtd2lkdGgvNDAw/files-andrew-tate-r-and-his-brother-tristan-speak-to-the-media-as-they-arrive-in-romania-back-from-us-in-bucharest-on-march-22-2025-radical-social-media-influencer-andrew-tate-and-his-brother-tristan-were-arrested-on-july-18-2026-in-miami-the-us-marshals-service-told-afp-with-news-outlet-tmz-posting-video-of-officers-placing-the-men-in-custody-the-uk-crown-prosecution-service-said-in-a-statement-uk-prosecutors-will-be-seeking-the-brothers-extradition-in-relation-to-charges-including-rape-trafficking-and-assault-photo-by-daniel-mihailescu-afp"
-        },
-        {
-          "id": "47f7ca5238",
-          "title": "Red alert in five southern French departments due to wildfire danger",
-          "url": "https://www.demorgen.be/snelnieuws/live-code-rood-in-vijf-departementen-in-zuid-frankrijk-vanwege-bosbrandgevaar~b9a760bb/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-21T04:44:00+00:00",
-          "image_url": "https://image.demorgen.be/276101592/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "73ccafd8a2",
-          "title": "Wealth tax on UK's super-rich could raise £10bn a year, Andy Burnham told",
-          "url": "https://www.theguardian.com/business/2026/jul/21/uk-wealth-tax-super-rich-andy-burnham",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-21T05:00:01+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/dbb11a2b0be3696c8f483e7f1c970c605a1fbb4b/0_0_4179_3342/master/4179.jpg?width=700&quality=85&auto=format&fit=max&s=43a4f75c61a7497d0cc899a025a2d315"
-        },
-        {
-          "id": "8c6fe7c3f2",
-          "title": "UK surrogacy law 'creaking at seams' as demand rises sharply",
-          "url": "https://www.theguardian.com/lifeandstyle/2026/jul/21/uk-surrogacy-law-creaking-at-seams-as-demand-rises-sharply",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-21T05:00:02+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/c19c0a80f6081873eeac143ed6eba44b78f3785e/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=b652d64bcb416d23d8a65be6d3c04f74"
+          "id": "a6bbbc3c9f",
+          "title": "Russia-Ukraine War: Fourteen dead in mutual attacks between Russia and Ukraine",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/veertien-doden-bij-wederzijdse-aanvallen-tussen-rusland-en-oekra~1781787179742/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/20/31389f06-8b56-46df-94c5-dc4f605abcd9.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "The United States launched military strikes against Iran, with President Trump warning of further retaliation for the deaths of American soldiers, escalating a major conflict in the Middle East. Afghanistan was hit by severe flooding that killed at least 20 people and left over 100 missing, while a passenger ferry capsized off Guyana with dozens feared dead. A mass protest movement in India demanded the education minister's resignation following a medical entrance exam scandal, and a 13-year-old boy died during Spain's World Cup victory celebrations. Research has found that AI chatbots provide inaccurate and unreliable voting advice ahead of elections.",
+      "summary_en": "China and Russia jointly conducted military exercises in Japanese waters, signaling expanded geopolitical cooperation. U.S. President Trump escalated his trade conflict with Canada by announcing an increase in import tariffs to 50 percent. In Latin America, Nicaragua's President Daniel Ortega announced plans to abolish elections, raising international alarms over democratic backsliding in the region.",
       "headlines": [
         {
-          "id": "c46d0d52ff",
-          "title": "Election voting advice from AI chatbots 'inaccurate and unreliable'",
-          "url": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-21T05:00:01+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/fb9fb4791540eb607b72629f7d348a9cd01bd704/250_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=b872b0268625b6bf6dee7dcf9e21476e"
+          "id": "6135cbfda0",
+          "title": "China holds shooting exercise with Russia in Japanese waters",
+          "url": "https://www.hln.be/buitenland/china-houdt-samen-met-rusland-schietoefening-in-japanse-wateren~a1749e0e/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-21T05:00:00+00:00",
+          "image_url": "https://images.hln.be/OWRhYTgzYmU5YjM2M2I4MzM2NjYvZGlvLzI3NTg3ODkzMi9maXQtd2lkdGgvNDAw/chinese-and-russian-submarines-navigate-on-the-surface-during-the-maritime-phase-of-the-joint-sea-2026-exercise-between-china-and-russia-july-10-2026-the-joint-sea-2026-exercise-between-china-and-russia-concluded-at-a-military-port-in-qingdao-in-east-china-s-shandong-province-monday-with-all-planned-exercise-missions-finished-launched-on-july-6-the-joint-sea-2026-is-the-twelfth-in-the-series-dating-back-to-2012-photo-by-cheng-jiahao-xinhua-abacapress-com"
+        },
+        {
+          "id": "d1a6d6fa89",
+          "title": "Trump continues trade war with Canada and raises import tariff to 50 percent",
+          "url": "https://www.demorgen.be/snelnieuws/live-trump-zet-handelsoorlog-met-canada-voort-en-gaat-importheffing-verhogen-naar-50-procent~b13cc951/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-21T04:40:00+00:00",
+          "image_url": "https://image.demorgen.be/275703199/roi/320/320/3180/1640.4099999999999/afbeelding"
+        },
+        {
+          "id": "9c2aa183d2",
+          "title": "Latin America: President Ortega of Nicaragua wants to abolish elections",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/21/president-van-nicaragua-wil-verkiezingen-afschaffen/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/21/f2ec879c-6c91-4131-a558-c3ea42f3dad4.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
