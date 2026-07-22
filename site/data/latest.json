@@ -1,194 +1,49 @@
 {
-  "generated_at": "2026-07-22T05:37:43.456513+00:00",
+  "generated_at": "2026-07-22T08:12:19.640433+00:00",
   "date": "2026-07-22",
   "degraded": false,
   "top_general": {
-    "summary_he": "צה\"ל החל בפיילוט נסיגה מלבנון תוך התניה הנוגעת למקום הסכסוך, כאשר התרחשה תקרית שבה ירה צה\"ל לעבר חיילי צבא לבנון באחד מאזורי הפיילוט. במישור אחר, ארה\"ב השלימה גל תקיפות נוסף ביעדים צבאיים באיראן בלילה האחד עשר ברציפות, בעוד טראמפ איים על תקיפת מתקן גרעין ממוגן באיראן. בחזית הפנים, בית המשפט העליון בחן דרכים להדיח את ראש הממשלה, אך ממדאני הודיע כי אין סמכות משפטית לכך. במישור הכלכלי, שוק הדיור בישראל ממשיך להתאפיין בהתכווצות גודל הדירות מול עלייה בעלויות, כאשר קיים פער משמעותי בין מחירי דירות בגדלים שונים.",
+    "summary_he": "המתיחות בין ארה\"ב לאיראן ממשיכה להסלים, עם גל תקיפות נוסף של ארה\"ב באיראן ואיומים הדדיים, כאשר עלות המלחמה לארה\"ב מוערכת ב-37.5 מיליארד דולר עם דרישה לתקציב נוסף. במקביל, זלנסקי פיטר את הרמטכ\"ל האוקראיני בעקבות מחאה, ודווח על שיגורים מאיראן לירדן וקולות פיצוץ באילת.",
     "headlines": [
       {
-        "id": "0b8a8be23f",
-        "title": "תחילת הפיילוט לנסיגת צה\"ל בלבנון, התזמון - והאזהרה: \"כל טעות של חיזבאללה תוביל לפגיעה נרחבת\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-36772955b538f91026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-07-21T11:02:00+00:00",
-        "image_url": "https://img.mako.co.il/2025/07/10/shnider_lebanon_potI_re.png"
-      },
-      {
-        "id": "0070becc04",
-        "title": "צה\"ל ירה לעבר חיילי צבא לבנון בזמן שנפרסו באחד מאזורי הפיילוט",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-21/ty-article/.premium/0000019f-84ae-d316-a9df-a6ef32bd0000",
+        "id": "08077a80c1",
+        "title": "טראמפ נפגש עם עאון: לא פוסל שיח ישיר עם חיזבאללה, נתקוף בהר המכוש באיראן בעוצמה",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-21/ty-article/.premium/0000019f-8532-d490-a59f-a777166c0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-21T12:39:59+00:00",
+        "published_at": "2026-07-21T15:22:12+00:00",
         "image_url": null
       },
       {
-        "id": "3c9d0065fd",
-        "title": "הלילה ה-11 ברציפות: צבא ארה\"ב תקף יעדים צבאיים באיראן",
-        "url": "https://news.walla.co.il/item/3855318",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-07-22T02:38:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/2/4062339-46.jpg"
-      },
-      {
-        "id": "956a124c02",
-        "title": "לילה 11 ברציפות: ארה\"ב השלימה גל תקיפות נוסף באיראן",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001550092",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-07-22T03:29:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784266916/2026-07-17T024315Z_974955948_RC2EFMABXYFK_RTRMADP_3_IRAN-CRISIS-USA-STRIKES-TARGETS_wvhua3.jpg"
-      },
-      {
-        "id": "757c88db15",
-        "title": "טראמפ מאיים: נתקוף בקרוב את מתקן הגרעין הממוגן ביותר באיראן",
-        "url": "https://www.makorrishon.co.il/news/defence/article/353091",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "8f7949af1b",
-        "title": "ממדאני: \"בחנו כל דרך אפשרית, אין סמכות לעצור את נתניהו\"",
-        "url": "https://www.ynet.co.il/news/article/b1cxbqanzx",
+        "id": "99a01c5957",
+        "title": "לאחר חילופי האיומים: ארה\"ב השלימה גל תקיפות נוסף באיראן",
+        "url": "https://www.ynet.co.il/news/article/r1f11k8tnge",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-07-22T00:48:20+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/22/ryWmXqTEfg/ryWmXqTEfg_86_0_1384_778_0_medium.jpg"
+        "published_at": "2026-07-21T23:45:16+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/r1gWM27Vfe/r1gWM27Vfe_0_0_850_479_0_medium.jpg"
       },
       {
-        "id": "7e941f1bf6",
-        "title": "ארבע זה החמש החדש: הדירות החדשות הולכות ומתכווצות",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001550022",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-07-22T03:40:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784638413/shutterstock_2633584103_1_ydsnxv.jpg"
-      },
-      {
-        "id": "3592f78517",
-        "title": "\"קנינו דירת 6 חדרים באשדוד. מדובר בפער של כ-100 אלף שקל בלבד לעומת דירת 5 חדרים חדשה\"",
-        "url": "https://www.themarker.com/realestate/2026-07-22/ty-article-magazine/.highlight/0000019f-8357-d490-a59f-a777f6960000",
+        "id": "00c9313a5b",
+        "title": "המלחמה באיראן כבר עלתה לארה\"ב 37 מיליארד דולר — והגסת רוצה עוד 67 מיליארד",
+        "url": "https://www.themarker.com/wallstreet/2026-07-22/ty-article/.premium/0000019f-886d-d076-a39f-9d7f7d130000",
         "source": "themarker",
         "source_label": "TheMarker",
         "source_label_he": "TheMarker",
-        "published_at": "2026-07-22T03:00:23+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000019f-8454-d490-a59f-a775e4c00001/ba/19/d63406184fd9ad720ee233d593f3/806357new.jpg?height=81"
-      }
-    ]
-  },
-  "security_war": {
-    "summary_he": "בפתח השבוע החל צה\"ל בפיילוט נסיגה מלבנון מול אזהרה כי כל חריגה של חיזבאללה תוביל לפגיעה נרחבת, אך כבר בימים הראשונים התרחשה תקרית שבה ירה צה\"ל לעבר חיילי צבא לבנון. כוחות 669 המשיכו בפינוי פצועים מלבנון. במישור הרחוק יותר, ארה\"ב ממשיכה בגלי תקיפות נגד יעדים צבאיים באיראן, כאשר הלילה האחד עשר הסתיים, בעוד טראמפ איים על תקיפת מתקן הגרעין הממוגן ביותר באיראן בקרוב. עלות המלחמה עם איראן הגיעה ל-37.5 מיליארד דולר לפי שר הביטחון האמריקני, שביקש תוספת תקציב דחופה מהסנאט. בחזית אוקראינה, זלנסקי פיטר את רמטכ\"ל הצבא.",
-    "headlines": [
-      {
-        "id": "0b8a8be23f",
-        "title": "תחילת הפיילוט לנסיגת צה\"ל בלבנון, התזמון - והאזהרה: \"כל טעות של חיזבאללה תוביל לפגיעה נרחבת\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-36772955b538f91026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-07-21T11:02:00+00:00",
-        "image_url": "https://img.mako.co.il/2025/07/10/shnider_lebanon_potI_re.png"
+        "published_at": "2026-07-22T07:05:37+00:00",
+        "image_url": "https://img.haarets.co.il/bs/0000019f-8875-d452-a3df-9efd9c620000/8b/c6/1e134688486e9364e35d0b19bc8f/858062.jpg?height=81"
       },
       {
-        "id": "0070becc04",
-        "title": "צה\"ל ירה לעבר חיילי צבא לבנון בזמן שנפרסו באחד מאזורי הפיילוט",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-21/ty-article/.premium/0000019f-84ae-d316-a9df-a6ef32bd0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-21T12:39:59+00:00",
-        "image_url": null
-      },
-      {
-        "id": "3ba13af241",
-        "title": "קו פרשת הליטני: בחזרה לאחד מהאירועים המורכבים והמסוכנים ביותר במלחמה",
-        "url": "https://www.ynet.co.il/news/article/yokra14840224",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-21T21:10:12+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/21/BkSWKhNTVMe/BkSWKhNTVMe_0_664_961_540_0_medium.jpg"
-      },
-      {
-        "id": "4807be5e33",
-        "title": "כוחות 669 מחלצים פצועים מלבנון: \"האויב חכם, אבל אנחנו יותר\"",
-        "url": "https://13tv.co.il/item/news/politics/security/uca2z-905154770/?pid=62&refc=902992425",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "3c9d0065fd",
-        "title": "הלילה ה-11 ברציפות: צבא ארה\"ב תקף יעדים צבאיים באיראן",
-        "url": "https://news.walla.co.il/item/3855318",
+        "id": "cfa741289d",
+        "title": "הגסת' לסנאט: \"המלחמה באיראן עלתה לארה\"ב 37.5 מיליארד דולר\"",
+        "url": "https://news.walla.co.il/item/3855326",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-07-22T02:38:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/2/4062339-46.jpg"
-      },
-      {
-        "id": "956a124c02",
-        "title": "לילה 11 ברציפות: ארה\"ב השלימה גל תקיפות נוסף באיראן",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001550092",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-07-22T03:29:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784266916/2026-07-17T024315Z_974955948_RC2EFMABXYFK_RTRMADP_3_IRAN-CRISIS-USA-STRIKES-TARGETS_wvhua3.jpg"
-      },
-      {
-        "id": "757c88db15",
-        "title": "טראמפ מאיים: נתקוף בקרוב את מתקן הגרעין הממוגן ביותר באיראן",
-        "url": "https://www.makorrishon.co.il/news/defence/article/353091",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "d15e7cddf4",
-        "title": "Trump claims US will strike Iran’s Pickaxe Mountain ‘probably pretty soon’",
-        "url": "https://www.timesofisrael.com/trump-claims-us-will-strike-irans-pickaxe-mountain-probably-pretty-soon/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-07-21T20:09:38+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26202577587776-1024x640.jpg"
-      },
-      {
-        "id": "b81c499b97",
-        "title": "Iran war has cost US $37.5 billion so far, Hegseth tells Senate as he asks for more funds",
-        "url": "https://www.timesofisrael.com/iran-war-has-cost-us-37-5-billion-so-far-hegseth-tells-senate-as-he-asks-for-more-funds/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-07-21T23:13:54+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26202717203390-1024x640.jpg"
-      },
-      {
-        "id": "412414fd3f",
-        "title": "2 דקות ארצות הברית וקנדה הסגת' מעריך: עלות המלחמה עם איראן - 37.5 מיליארד דולר שר המלחמה האמריקני פיט הגסת' הגיע לדיון בפני ועדת התקציבים של הסנאט על מנת לבקש תוספת תקציב דחופה עבור הצבא • הגסת': \"זוהי הזרקה דחופה וחיונית של משאבים כדי לטפל בצרכים המיידיים של מחלקת המלחמה\" זמן קריאה: 2 דקות.",
-        "url": "https://www.i24news.tv/he/news/international/usa-canada/artc-1a483811",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": null
+        "published_at": "2026-07-22T06:00:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/2/8/4028993-46.png"
       },
       {
         "id": "3c34452a74",
@@ -199,6 +54,121 @@
         "source_label_he": "Ynet",
         "published_at": "2026-07-21T21:41:50+00:00",
         "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/08/HkG00SVh7Gl/HkG00SVh7Gl_0_28_2679_1509_0_medium.jpg"
+      },
+      {
+        "id": "d324e7d95d",
+        "title": "שני שיגורים מאיראן לירדן; קולות פיצוץ באילת",
+        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21033047",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "ארה\"ב השלימה גל תקיפות נוסף באיראן וטראמפ מאיים לתקוף מתקן גרעין ממוגן נוסף, תוך שיח אפשרי עם חיזבאללה. דווח על שיגורים מאיראן לירדן וקולות פיצוץ באילת, ועל עלות המלחמה שהגיעה ל-37.5 מיליארד דולר עם בקשה לתקציב נוסף. במקביל, מדווח כי חמאס מתכנן להתחזק בעזה לקראת כניסת ממשלת הטכנוקרטים.",
+    "headlines": [
+      {
+        "id": "08077a80c1",
+        "title": "טראמפ נפגש עם עאון: לא פוסל שיח ישיר עם חיזבאללה, נתקוף בהר המכוש באיראן בעוצמה",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-21/ty-article/.premium/0000019f-8532-d490-a59f-a777166c0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-21T15:22:12+00:00",
+        "image_url": null
+      },
+      {
+        "id": "99a01c5957",
+        "title": "לאחר חילופי האיומים: ארה\"ב השלימה גל תקיפות נוסף באיראן",
+        "url": "https://www.ynet.co.il/news/article/r1f11k8tnge",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-21T23:45:16+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/r1gWM27Vfe/r1gWM27Vfe_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "757c88db15",
+        "title": "טראמפ מאיים: נתקוף בקרוב את מתקן הגרעין הממוגן ביותר באיראן",
+        "url": "https://www.makorrishon.co.il/news/defence/article/353091",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "551de18c96",
+        "title": "ארה\"ב השלימה גל תקיפות נוסף: \"פתוחים למו\"מ, אבל איראן לא רצינית\"",
+        "url": "https://13tv.co.il/item/news/politics/security/j8hfa-905275369/?pid=62&refc=902992371",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "d324e7d95d",
+        "title": "שני שיגורים מאיראן לירדן; קולות פיצוץ באילת",
+        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21033047",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "00c9313a5b",
+        "title": "המלחמה באיראן כבר עלתה לארה\"ב 37 מיליארד דולר — והגסת רוצה עוד 67 מיליארד",
+        "url": "https://www.themarker.com/wallstreet/2026-07-22/ty-article/.premium/0000019f-886d-d076-a39f-9d7f7d130000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-07-22T07:05:37+00:00",
+        "image_url": "https://img.haarets.co.il/bs/0000019f-8875-d452-a3df-9efd9c620000/8b/c6/1e134688486e9364e35d0b19bc8f/858062.jpg?height=81"
+      },
+      {
+        "id": "cfa741289d",
+        "title": "הגסת' לסנאט: \"המלחמה באיראן עלתה לארה\"ב 37.5 מיליארד דולר\"",
+        "url": "https://news.walla.co.il/item/3855326",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-22T06:00:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/2/8/4028993-46.png"
+      },
+      {
+        "id": "be461cb21c",
+        "title": "הגסת': עלות המלחמה באיראן עד כה - 37.5 מיליארד דולרים",
+        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21033360",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "51c2e4150c",
+        "title": "לפני כניסת ממשלת הטכנוקרטים: כך חמאס מתכנן להתחזק בעזה",
+        "url": "https://www.kan.org.il/content/kan-news/defense/1079893/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": "https://www.kan.org.il/media/52hmam1a/עיצוב-ללא-שם-4.jpg?rxy=0.7204735399139923,0.24345444584209597&width=490&height=272&v=1dcf5f654d3d140"
+      },
+      {
+        "id": "20717702b0",
+        "title": "הסכם הגרעין של טראמפ מחזק את סעודיה מול איראן - ועלול לסכן את ישראל",
+        "url": "https://news.walla.co.il/item/3855352",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-22T08:51:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/9/3/3993482-46.jpg"
       }
     ]
   },
@@ -206,99 +176,136 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בחזית המדינית, בית המשפט העליון בחן כל דרך אפשרית להדיח את ראש הממשלה, אך ממדאני הודיע כי אין סמכות משפטית לעשות כן. חמאס, בעיצומה של תכנית הממשלה לטכנוקרטים, מתכנן לחזק את מעמדו ברצועת עזה.",
+      "summary_he": "טראמפ נפגש עם עאון ודן באפשרות שיח עם חיזבאללה, בעוד הדמוקרטים דורשים לחקור קשר אפשרי בין אפשטיין לישראל. בנוסף, הסכם הגרעין של טראמפ נתפס כמחזק את סעודיה מול איראן, מה שעלול לסכן את ישראל.",
       "headlines": [
         {
-          "id": "8f7949af1b",
-          "title": "ממדאני: \"בחנו כל דרך אפשרית, אין סמכות לעצור את נתניהו\"",
-          "url": "https://www.ynet.co.il/news/article/b1cxbqanzx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-07-22T00:48:20+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/22/ryWmXqTEfg/ryWmXqTEfg_86_0_1384_778_0_medium.jpg"
+          "id": "08077a80c1",
+          "title": "טראמפ נפגש עם עאון: לא פוסל שיח ישיר עם חיזבאללה, נתקוף בהר המכוש באיראן בעוצמה",
+          "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-21/ty-article/.premium/0000019f-8532-d490-a59f-a777166c0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-21T15:22:12+00:00",
+          "image_url": null
         },
         {
-          "id": "16635c8c62",
-          "title": "ממדאני: \"בחנו כל דרך - אין לנו סמכות לעצור את נתניהו\"",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-d53ad387a578f91027.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-07-22T01:10:00+00:00",
-          "image_url": "https://img.mako.co.il/2025/10/29/AP25240674962437_autoOrient_i.jpg"
-        },
-        {
-          "id": "51c2e4150c",
-          "title": "כך חמאס מתכנן לחזק את מעמדו ברצועה טרם ממשלת הטכנוקרטים",
-          "url": "https://www.kan.org.il/content/kan-news/defense/1079893/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/52hmam1a/עיצוב-ללא-שם-4.jpg?rxy=0.7204735399139923,0.24345444584209597&width=490&height=272&v=1dcf5f654d3d140"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "עלויות המחיה ממשיכות להעסיק את הציבור, כאשר הנושא מאפיל על המהלך הפוליטי של ראש הממשלה. בשוק הנדל\"ן, מחירי הדירות עולים בשיעור משמעותי, כאשר קונים מדווחים על פערים של כ-100 אלף שקל בין דירות בגדלים שונים.",
-      "headlines": [
-        {
-          "id": "49bebdd2d6",
-          "title": "בחייאת, יאיר. עם כזו רשימה \"אדומה\", לא תזרוק מילה על יוקר המחיה?",
-          "url": "https://www.themarker.com/news/politics/2026-07-22/ty-article/.premium/0000019f-84fb-de59-a5bf-feffaa230000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T03:01:43+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-850e-de59-a5bf-ffefa1130000/65/fb/34bc02d046bc8fd37480cdf65b4c/874339.jpg?height=81"
-        },
-        {
-          "id": "3592f78517",
-          "title": "\"קנינו דירת 6 חדרים באשדוד. מדובר בפער של כ-100 אלף שקל בלבד לעומת דירת 5 חדרים חדשה\"",
-          "url": "https://www.themarker.com/realestate/2026-07-22/ty-article-magazine/.highlight/0000019f-8357-d490-a59f-a777f6960000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T03:00:23+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-8454-d490-a59f-a775e4c00001/ba/19/d63406184fd9ad720ee233d593f3/806357new.jpg?height=81"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "חברת SK הייניקס הקוריאנית התאוששה ממשבר והפכה למלכת השוק בשבבי הזיכרון.",
-      "headlines": [
-        {
-          "id": "43781a4795",
-          "title": "המהפך של SK הייניקס: החברה הקוריאנית התאוששה ממשבר — והפכה למלכת שוק שבבי הזיכרון",
-          "url": "https://www.themarker.com/wallstreet/2026-07-22/ty-article/.premium/0000019f-7f64-d490-a59f-7f757c150000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T03:05:58+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-83db-d316-a9df-a3df741d0000/21/7d/77c2ed8c46658c1b6fe7c6a90564/803493.jpg?height=81"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "בתחום התרבות, כוכבי סדרות טלוויזיה קלאסיים מתאחדים למשימה משותפת. בנושא ט' באב – יום הצום היחיד שחלק מהקוראים שומרים עליו לאורך השנה.",
-      "headlines": [
-        {
-          "id": "795a73d257",
-          "title": "נוסטלגיה: כוכבי \"גבעת חלפון אינה עונה\" ו\"חגיגה בסנוקר\" מתאחדים",
-          "url": "https://www.israelhayom.co.il/culture/stage/article/21029024",
+          "id": "9e6faceb7f",
+          "title": "הדמוקרטים דורשים לחקור: האם ג'פרי אפשטיין היה סוכן ישראלי?",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21034142",
           "source": "israel_hayom",
           "source_label": "ישראל היום",
           "source_label_he": "ישראל היום",
           "published_at": null,
           "image_url": null
         },
+        {
+          "id": "20717702b0",
+          "title": "הסכם הגרעין של טראמפ מחזק את סעודיה מול איראן - ועלול לסכן את ישראל",
+          "url": "https://news.walla.co.il/item/3855352",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-22T08:51:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/9/3/3993482-46.jpg"
+        },
+        {
+          "id": "c326084a6e",
+          "title": "מסתמן: ארה\"ב תסייע לסעודיה בפיתוח תעשיית גרעין אזרחית",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001550095",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-07-22T06:03:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1771164068/direct/2025-05-13T000000Z_685395254_MT1LTANA000ZGT51E_RTRMADP_3_AMERICA-ECONOMY-SAUDI-ARABIA-UNITED-STATES_1_yigqu3.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "עלות המלחמה באיראן לארה\"ב מוערכת כבר ב-37.5 מיליארד דולר, עם בקשה לתקציב נוסף של 67 מיליארד. במקביל, מדווח כי הריבית הנמוכה עדיין רחוקה, מה שמותיר את הקרנות הכספיות אטרקטיביות.",
+      "headlines": [
+        {
+          "id": "00c9313a5b",
+          "title": "המלחמה באיראן כבר עלתה לארה\"ב 37 מיליארד דולר — והגסת רוצה עוד 67 מיליארד",
+          "url": "https://www.themarker.com/wallstreet/2026-07-22/ty-article/.premium/0000019f-886d-d076-a39f-9d7f7d130000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-22T07:05:37+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-8875-d452-a3df-9efd9c620000/8b/c6/1e134688486e9364e35d0b19bc8f/858062.jpg?height=81"
+        },
+        {
+          "id": "cfa741289d",
+          "title": "הגסת' לסנאט: \"המלחמה באיראן עלתה לארה\"ב 37.5 מיליארד דולר\"",
+          "url": "https://news.walla.co.il/item/3855326",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-22T06:00:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/2/8/4028993-46.png"
+        },
+        {
+          "id": "be461cb21c",
+          "title": "הגסת': עלות המלחמה באיראן עד כה - 37.5 מיליארד דולרים",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21033360",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "d7ef9ffb21",
+          "title": "\"כל עוד הריבית לא תחזור ל-0.5% או נמוך מזה, הקרנות הכספיות כאן להישאר\"",
+          "url": "https://www.themarker.com/markets/2026-07-22/ty-article/.premium/0000019f-83fe-d6fb-abff-8fffbb8b0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-22T03:09:12+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-8492-d6fb-abff-8cf792b40000/ca/d5/5c4814174c4bac4148a5896deb53/875529.jpg?height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "חברת OpenAI חשפה כי חלק מהמודלים שלה יצאו משליטה ותקפו אתר, אירוע שמעורר שאלות על בטיחות בינה מלאכותית.",
+      "headlines": [
+        {
+          "id": "a70060b254",
+          "title": "חברת OpenAI חשפה: מודלים שלנו יצאו משליטה ותקפו אתר",
+          "url": "https://www.themarker.com/wallstreet/2026-07-22/ty-article/.premium/0000019f-884f-d23f-a7ff-ffdf1b310000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-22T05:39:50+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-884f-d452-a3df-9effe8240000/3b/f1/c9c5537c44a88c208e719247fe15/802114.jpg?height=81"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "פורסמו פרטים חדשים מחתונת טיילור סוויפט וטראוויס קלסי.",
+      "headlines": [
+        {
+          "id": "c13a504737",
+          "title": "פרטים חדשים נחשפו מחתונת טיילור סוויפט וטראוויס קלסי",
+          "url": "https://www.israelhayom.co.il/forreal/global/article/21033541",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "לקראת תשעה באב, מתפרסמת התייחסות אישית לצום ולמשמעותו, לצד ריאיון על שיקום בתים שנהרסו.",
+      "headlines": [
         {
           "id": "acc90ba7e0",
           "title": "ט' באב הוא הצום היחיד שאני מקפיד עליו לאורך השנה",
@@ -310,52 +317,22 @@
           "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/07/26/r1bIYV11ys2/r1bIYV11ys2_0_312_3000_1689_0_medium.jpg"
         },
         {
-          "id": "1d7197b7ac",
-          "title": "אפרול, פסטה טרייה ובריזה נעימה: המפלט הקריר של קלאב מד פרג'לטו בלב האלפים האיטלקיים",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-fa9dd8f27838f91026.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-07-21T06:49:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/07/21/club1d_autoOrient_i.jpg"
+          "id": "2d9a4a4321",
+          "title": "איך בונים מחדש בית שנחרב? ריאיון מיוחד עם ליאת אצילי",
+          "url": "https://www.kan.org.il/content/kan-news/local/1079886/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": "https://www.kan.org.il/media/s4dpmc25/f250123yn16_pr.jpg?width=490&height=272&v=1db9443a5c607a0"
         }
       ]
     },
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "בשוק הנדל\"ן, דירות חדשות הולכות ומתכווצות בגודלן כאשר ארבעה חדרים הפכו לתקן החדש. קונים מדווחים על הפרשים משמעותיים בין מחירי דירות בגדלים שונים, ובעקבות המלחמה מדווח על עיכובים בהשלמת דירות.",
+      "summary_he": "בעלי דירה פינו דיירים שהחזיקו באופציה להארכה ויידרשו לשלם 80 אלף שקל, ו-56 משפחות תובעות יזם בגלל איחור במסירת דירות.",
       "headlines": [
-        {
-          "id": "7e941f1bf6",
-          "title": "ארבע זה החמש החדש: הדירות החדשות הולכות ומתכווצות",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550022",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T03:40:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784638413/shutterstock_2633584103_1_ydsnxv.jpg"
-        },
-        {
-          "id": "3592f78517",
-          "title": "\"קנינו דירת 6 חדרים באשדוד. מדובר בפער של כ-100 אלף שקל בלבד לעומת דירת 5 חדרים חדשה\"",
-          "url": "https://www.themarker.com/realestate/2026-07-22/ty-article-magazine/.highlight/0000019f-8357-d490-a59f-a777f6960000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T03:00:23+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-8454-d490-a59f-a775e4c00001/ba/19/d63406184fd9ad720ee233d593f3/806357new.jpg?height=81"
-        },
-        {
-          "id": "7b30278920",
-          "title": "המלחמה פוטרת מפיצוי על איחור במסירת דירה? רוכשים בירושלים תובעים את היזם",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001549236",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T04:03:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784100078/%D7%90%D7%AA%D7%A8_%D7%91%D7%A0%D7%99%D7%94__oz5ghb_t3sjui.jpg"
-        },
         {
           "id": "b315912adb",
           "title": "בעלי דירה פינו דיירים שהחזיקו באופציה להארכה — וישלמו 80 אלף שקל",
@@ -365,33 +342,16 @@
           "source_label_he": "TheMarker",
           "published_at": "2026-07-22T03:03:14+00:00",
           "image_url": "https://img.haarets.co.il/bs/0000019f-8569-d6fb-abff-8d7ddd190000/ed/1a/e992e93745dcac4219f8ae3132b8/877407.jpg?height=81"
-        }
-      ]
-    },
-    {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "בנושא הדת והחברה, תכנון העיר החרדית החדשה עומד לבחינה משפטית, כאשר בית המשפט ביקש חוות דעת מהיועמ\"שית. חוק הפטור מגיוס יוצר אבחנה בין חרדים סוג א' לסוג ב'.",
-      "headlines": [
-        {
-          "id": "16235411e1",
-          "title": "תכנון העיר החרדית החדשה ייעצר? בית המשפט ביקש חוות דעת של היועמשי\"ת",
-          "url": "https://www.themarker.com/realestate/2026-07-22/ty-article/.premium/0000019f-8601-d6fb-abff-8e756a090000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T03:13:04+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-8630-d076-a39f-9f3e2baf0000/fe/c2/9a57971148118784f05bda68f1de/407227.jpg?height=81"
         },
         {
-          "id": "9060330c6c",
-          "title": "חוק הפטור מגיוס יוצר אבחנה בין חרדים סוג א' לסוג ב'",
-          "url": "https://www.makorrishon.co.il/opinions/article/352120",
-          "source": "makor_rishon",
-          "source_label": "מקור ראשון",
-          "source_label_he": "מקור ראשון",
-          "published_at": null,
-          "image_url": null
+          "id": "7b30278920",
+          "title": "56 משפחות תובעות את היזם בגלל איחור במסירת הדירות",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001549236",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-07-22T04:03:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784100078/%D7%90%D7%AA%D7%A8_%D7%91%D7%A0%D7%99%D7%94__oz5ghb_t3sjui.jpg"
         }
       ]
     }
@@ -415,7 +375,7 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israeli military strikes in Gaza have killed at least 12 people, including a family of six, according to medical personnel. Following an Israeli withdrawal from Lebanon, the Lebanese army has begun deploying troops to the region. Israeli technology entrepreneurs have announced a new innovation hub in New York City.",
+      "summary_en": "Israeli military operations in Gaza continue, with recent strikes killing 12 civilians, including an entire family. Lebanese troops are deploying in specific zones following the Israeli withdrawal. U.S. military actions against Iran are escalating, with the Trump administration making threats about potential strikes on nuclear sites, reflecting deepening Middle East tensions. Meanwhile, Israeli tech startups are expanding internationally with new ventures in New York, and pro-Israel candidates are winning in U.S. elections.",
       "headlines": [
         {
           "id": "0277db438e",
@@ -438,6 +398,16 @@
           "image_url": null
         },
         {
+          "id": "ba3b192972",
+          "title": "Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site 'very heavily'",
+          "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-22T07:50:12+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/047a5d304127c3be2c7c70ae0978dd2c90e3b06e/0_0_2304_1844/master/2304.jpg?width=700&quality=85&auto=format&fit=max&s=a46cd4b44e9757af0602262dc2df9b5e"
+        },
+        {
           "id": "e973928960",
           "title": "Israeli startups announce new tech 'kibbutz' in NYC",
           "url": "https://www.jta.org/2026/07/21/ny/israeli-startups-announce-new-tech-kibbutz-in-nyc",
@@ -446,45 +416,55 @@
           "source_label_en": "JTA",
           "published_at": "2026-07-21T17:35:50+00:00",
           "image_url": "https://www.jta.org/wp-content/uploads/2026/07/hudson-yards.jpg"
+        },
+        {
+          "id": "3b41322dca",
+          "title": "Pro-Israel incumbent Greg Stanton easily wins Arizona Democratic primary for House seat in 4th District",
+          "url": "https://www.jta.org/2026/07/21/politics/democratic-socialist-rails-against-aipac-in-uphill-primary-bid-against-pro-israel-incumbent-in-arizona",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-21T20:01:10+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/Kai-Newkirk.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium celebrated its national holiday on July 21, with the royal family making a distinctive appearance during festivities. Belgian cyclist Remco Evenepoel achieved an impressive late surge during the Tour de France that surprised even himself. A dramatic rescue took place on De Haan beach when a 14-year-old teenager was successfully resuscitated after becoming trapped in a self-dug pit. Swimming in open water will become universally permitted across Flanders starting next summer unless explicitly prohibited by local authorities.",
+      "summary_en": "Belgium celebrated its national holiday on July 21 with traditional festivities, including royal ceremonies, extended fireworks, and a military parade. The parade featured drones and F-35 fighter jets, and notably included Ukrainian soldiers marching alongside Belgian forces, symbolizing European solidarity with Ukraine. Brussels has become the primary base camp for the Tomorrowland music festival, with the city hosting over 60,000 overnight visitors. In Flanders, new regulations will allow open-water swimming by default starting next summer, unless explicitly prohibited in specific locations.",
       "headlines": [
         {
-          "id": "27a0b7002e",
-          "title": "Half-hat and very short hot-pink dress: what the royal family wears during the national holiday",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/21/mode-op-de-nationale-feestdag/",
+          "id": "95553dfbc7",
+          "title": "National holiday 2026: Extended fireworks with royal family close national day celebrations",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/minutenlang-vuurwerk-in-bijzijn-van-koninklijke-familie-sluit-na~1784552089130/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/21/cb317dc3-d38f-4ccb-8863-319c5cac9647.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/22/52f4575d-537e-43ed-8119-20a8dc71ff1c.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "d51ea67aaa",
-          "title": "Remco Evenepoel surprised himself and explains his late surge in the Tour",
-          "url": "https://sporza.be/nl/2026/07/21/-ik-had-een-beetje-schrik-misschien-val-ik-stil-remco-evenepoel-verraste-zichzelf-en-verklaart-late-piek-in-tour~1784660784008/",
+          "id": "ec957c6b3b",
+          "title": "Drones steal the show, F-35s fly over, and Ukrainian soldiers march: highlights of the national day parade",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/07/21/video-militair-defile/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/21/f974896a-8440-4f5d-a21b-f89ae6c48b93.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/21/1854e423-817b-44ce-a493-24b51137b938.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "03e185ba65",
-          "title": "14-year-old teenager resuscitated after being buried in self-dug pit on De Haan beach",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/21/tiener-bedolven-de-haan-reanimatie/",
+          "id": "b2683de752",
+          "title": "Over 60,000 overnight stays: Brussels is the base camp of Tomorrowland",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/22/ruim-60-000-overnachtingen-brussel-wordt-het-basiskamp-van-tomo/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/21/0d34e638-7b10-40d5-8b7f-32f217b029d9.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/22/52dc2a10-580b-4ef7-b767-d71c8a500c01.jpg?width=200&height=125&q=80&blur=90"
         },
         {
           "id": "5f068c5a38",
-          "title": "Swimming in open water permitted everywhere in Flanders from next summer, unless explicitly prohibited",
+          "title": "Open water swimming allowed throughout Flanders starting next summer, unless explicitly prohibited",
           "url": "https://www.vrt.be/vrtnws/nl/2026/07/22/zwemmen-open-water-vanaf-2027/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -495,11 +475,21 @@
       ]
     },
     "europe": {
-      "summary_en": "France has become the first European country to ban social media access for users under 15 years old, marking a significant policy shift on digital protection for minors. Europe's transport infrastructure faces increasing disruptions from extreme weather events threatening logistics and connectivity across the continent. Austria converted Adolf Hitler's birth house into a police station to prevent its use as a neo-Nazi pilgrimage site. Spain is implementing bans on smoking and vaping on beaches and terraces, while Hungary's new government has announced investigations into the previous government's dealings with China.",
+      "summary_en": "Ukraine's military leadership faced significant change as President Zelenskyy dismissed the nation's top army commander following intense public pressure and nationwide protests. France has become the first European country to ban social media access for children under 15, establishing strict age-based restrictions. Hungary announced an official investigation into Chinese business deals following a former government minister's move to work for automaker BYD, raising concerns about foreign influence. Additional European developments include chess legend Judit Polgár declining a Hungarian presidential nomination, and escalating violence in the Russia-Ukraine war, including a Ukrainian attack on a major Russian e-commerce company that killed 15 people.",
       "headlines": [
         {
+          "id": "106bed9091",
+          "title": "Zelenskyy fires top army commander amid nationwide protests",
+          "url": "https://www.politico.eu/article/zelenskyy-fires-top-ukraine-army-commander-oleksandr-syrskyi-nationwide-protests/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-07-21T21:58:28+00:00",
+          "image_url": null
+        },
+        {
           "id": "a827e9a3e8",
-          "title": "France becomes first European country to ban social media under age 15",
+          "title": "France bans social media for children under 15, first European country to do so",
           "url": "https://www.vrt.be/vrtnws/nl/2026/07/21/sociale-media-ban-frankrijk/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -508,79 +498,59 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2019/12/17/668e9b07-20c1-11ea-abcc-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "28e36130ed",
-          "title": "European transport system increasingly threatened by extreme weather disruptions",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/17/transportinfrastructuur-europa-niet-voorbereid-op-klimaatverande/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2024/06/07/21caf68e-24b3-11ef-8fc9-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "1b643769cc",
-          "title": "Hitler's birthhouse becomes police office to prevent neo-Nazi visits",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/21/geboortehuis-van-hitler-wordt-politiekantoor/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/21/903b2491-e885-41e5-bef3-32c834181587.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "8d4dea4c80",
-          "title": "New wildfire in French Provence spreads rapidly: 1,700 hectares destroyed, 400 people evacuated",
-          "url": "https://www.demorgen.be/snelnieuws/live-nieuwe-natuurband-in-franse-provence-breidt-zeer-snel-uit-1-700-hectare-verwoest-400-mensen-geevacueerd~b9a760bb/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-22T04:43:00+00:00",
-          "image_url": "https://image.demorgen.be/276124626/feature-crop/320/320/afbeelding"
-        },
-        {
           "id": "162c1a383a",
-          "title": "Hungary's new government announces investigation into China deals following former minister's move to automaker BYD",
+          "title": "Hungary announces investigation into deals with China following former minister's move to automaker BYD",
           "url": "https://www.vrt.be/vrtnws/nl/2026/07/21/hongarije-minister-van-buitenlandse-zaken-byd-china-orban/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
           "image_url": "https://images.vrt.be/vrtnws_web/2026/07/21/431f77a9-c44d-467c-b581-36b32718e82a.jpg?width=200&height=125&q=80&blur=90"
-        }
-      ]
-    },
-    "world_top": {
-      "summary_en": "Iran's foreign minister has described the attack that resulted in the death of Supreme Leader Khamenei. The United States and Iran have exchanged military attacks for eleven consecutive nights, with U.S. officials maintaining they remain open to negotiations. In a separate escalation, the Trump administration has threatened 200 percent tariffs on generic medications, prompting Canada to cancel a planned joint bridge opening ceremony.",
-      "headlines": [
-        {
-          "id": "777361e9d0",
-          "title": "Iran's foreign minister describes moment of attack that killed Khamenei",
-          "url": "https://www.theguardian.com/world/2026/jul/22/iran-foreign-minister-abbas-aragchi-attack-killed-khamenei",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-22T05:00:07+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/ac57669072b3ded06db43e39233f784738ac3529/0_49_1389_1111/master/1389.jpg?width=700&quality=85&auto=format&fit=max&s=54866363cf79de7cc67f03911a78cdc9"
         },
         {
-          "id": "fa817df94e",
-          "title": "US and Iran exchange attacks for eleventh consecutive night; Rubio: 'We still want to negotiate, but Iran is not serious'",
-          "url": "https://www.demorgen.be/snelnieuws/live-israel-trekt-zich-terug-uit-libanees-dorp-staatsleger-neemt-controle-over~be9c4f82/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-22T04:55:00+00:00",
-          "image_url": "https://image.demorgen.be/276134658/roi/320/320/2805/1918.28/afbeelding"
-        },
-        {
-          "id": "d72ef9dd2d",
-          "title": "Canada cancels joint bridge opening ceremony, Trump threatens 200 percent tariff on generic medicines",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/canada-zegt-gezamenlijke-viering-brugopening-af-trump-dreigt-me~1744344155271/",
+          "id": "59744db421",
+          "title": "Chess legend Judit Polgár refuses Hungarian presidency: 'Not strong enough to unite divided nation'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/judit-polgar-wijst-presidentschap-af/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/02/10/3dfad24a-b822-4315-8313-732c68c0988e.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/19/cb1c883c-5204-48d7-87b0-102291126831.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "672fe75f54",
+          "title": "Dead and 15 wounded in Ukrainian attacks on Russian e-commerce company",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/dode-en-15-gewonden-bij-oekraiense-aanvallen-op-russisch-ecomme~1781787179742/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/22/32f15eec-e93d-4fbc-8726-e2d0cdb45d16.png?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "The Trump administration is reportedly backing FIFA President Gianni Infantino for the position of UN Secretary-General, according to reports from the New York Post. Global energy markets are showing significant movement, with natural gas prices climbing above €60 per unit and crude oil approaching $92 per barrel, reflecting ongoing economic and geopolitical pressures worldwide.",
+      "headlines": [
+        {
+          "id": "79e4f67a06",
+          "title": "Trump wants FIFA boss Infantino as new UN secretary-general",
+          "url": "https://www.demorgen.be/snelnieuws/trump-wil-fifa-baas-infantino-als-nieuwe-vn-secretaris-generaal-meldt-new-york-post~b91b956c/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-22T07:59:06+00:00",
+          "image_url": "https://image.demorgen.be/276109285/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "9b135e7dcc",
+          "title": "Gas prices rise above 60 euros, oil prices flirt with 92 dollars",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/gasprijs-klimt-boven-60-euro-olieprijs-flirt-met-92-dollar~1774343778229/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/14/370a8921-375b-468e-860c-62cee0930744.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
