@@ -1,152 +1,122 @@
 {
-  "generated_at": "2026-07-22T13:09:54.611082+00:00",
+  "generated_at": "2026-07-22T15:51:23.744064+00:00",
   "date": "2026-07-22",
   "degraded": false,
   "top_general": {
-    "summary_he": "כותרות היום עלו על חשיפות בטחוניות משמעותיות ומתיחויות בינלאומיות. צה\"ל הוצב בכוננות שיא למלחמה עם איראן, בעוד שנעצרה תכנית להתקפה טרורית בירושלים קודם לביצועה. בזירה הבינלאומית, ארה\"ב ממשיכה בהתקפות על איראן, וישראל שוב נחשדת בביצוע פשעי מלחמה בעזה. בחזית המקומית, הממשלה עוסקת בעניינים משפטיים סביב נתניהו ובבעיות דיור.",
+    "summary_he": "דיווחים על טיל איראני מתקדם שפגע בבסיס בירדן וחילופי אש מתגברים בנמל הורמוז. בישראל, הנתק בין נתניהו לטראמפ גורם לאי-ודאות משמעותית בקשר הדיפלומטי. בחזית הכלכלית, חברת Monday.com הודיעה על פיטורים נרחבים של כ-630 עובדים.",
     "headlines": [
       {
-        "id": "c2c70b6f00",
-        "title": "תכננו לבצע פיגוע בירושלים בטווח הזמן המיידי: שני מחבלים נעצרו | תיעוד",
-        "url": "https://news.walla.co.il/item/3855383",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-07-22T10:34:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079723-46.png"
+        "id": "f322990d8d",
+        "title": "דיווח: הטיל הקטלני והמתקדם ששימש את איראן בפגיעה הקשה בבסיס בירדן",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b27ad298fa88f91027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-07-22T07:19:00+00:00",
+        "image_url": "https://img.mako.co.il/2024/10/08/til_asaf08105_autoOrient_i.jpg"
       },
       {
-        "id": "823955732f",
-        "title": "צה\"ל בכוננות שיא למלחמה עם איראן",
-        "url": "https://www.israelhayom.co.il/news/defense/article/21037193",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
+        "id": "385bc4af63",
+        "title": "חילופי האש מתגברים: טיל פגע באי במצרי הורמוז – תקיפות בירדן ובבחריין",
+        "url": "https://www.makorrishon.co.il/news/defence/article/353398",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
         "published_at": null,
         "image_url": null
       },
       {
-        "id": "448fc0ad36",
-        "title": "ארה\"ב תקפה באיראן לילה 11 ברצף; דיווח: מערכות הגנה אווירית הופעלו בטהראן",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-22/ty-article/.premium/0000019f-870b-d1d3-addf-ef7b94d00000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-21T23:50:34+00:00",
-        "image_url": null
+        "id": "0f142a0fe8",
+        "title": "הנתק הממושך בין נתניהו לטראמפ גורם לאי-ודאות מדאיג",
+        "url": "https://www.ynet.co.il/news/article/r1ebuva4gx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-22T14:58:11+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/15/H1RzgLabzg/H1RzgLabzg_0_0_850_479_0_medium.jpg"
       },
       {
-        "id": "1d00c3a5a7",
-        "title": "דיווח: ממשל ביידן חשד שישראל מבצעת פשעי מלחמה בעזה עוד בנובמבר 2023, אך המשיך במשלוחי הנשק",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-21/ty-article/.premium/0000019f-851c-dffc-abbf-ff3db4ff0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-21T20:04:12+00:00",
-        "image_url": null
-      },
-      {
-        "id": "16390b1fae",
-        "title": "סנגורי נתניהו ליועמ\"שית: הבהירי את עמדתך על סעיף השוחד",
-        "url": "https://www.kan.org.il/content/kan-news/local/1079983/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": "https://www.kan.org.il/media/p4hdnb5o/עיצוב-ללא-שם.jpg?width=490&height=272&v=1dc3c42ad1f73e0"
-      },
-      {
-        "id": "7744388f76",
-        "title": "יו\"ר ועדת הבחירות: נדרשים לערנות מול הנסיונות לפגוע בתקינות הבחירות",
-        "url": "https://www.haaretz.co.il/news/elections/2026-07-22/ty-article/.premium/0000019f-88e4-d23f-a7ff-fff4e19d0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-22T08:29:47+00:00",
-        "image_url": null
-      },
-      {
-        "id": "871e54c7d5",
-        "title": "תוך 20 שנה: ישראל נפלה מצמרת המדינות המשכילות, אל מתחת לממוצע המדינות המפותחות",
-        "url": "https://www.themarker.com/news/education/2026-07-22/ty-article/.premium/0000019f-894f-d001-abbf-fd4f8a750000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-07-22T11:43:33+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000019f-8973-d458-a9ff-bbfba0900001/2c/64/67830a0849c68be0546eea2742b8/003608-2.jpg?height=81"
+        "id": "20c0ad0100",
+        "title": "פיטורים נרחבים במאנדיי: תיפרד מכ-630 עובדים, יותר ממחציתם בישראל",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550103",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-07-22T07:58:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1623301709/direct/0009_NEL1595_vpahte.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "מתיחויות בטחוניות וצבאיות שלטו על הכותרות. צה\"ל הוצב בכוננות שיא למלחמה עם איראן בעוד שנעצרה תכנית להתקפה טרורית בירושלים. ממשלת לבנון מתכננת לפרק את חיזבאללה, וישראל נחשדה בפשעי מלחמה בעזה. בזירה הבינלאומית, ארה\"ב המשיכה בהתקפות על איראן בעלויות ביטחוניות גבוהות.",
+    "summary_he": "עלייה משמעותית בפעילות קרבית אזורית: דיווחים על שימוש בטיל איראני מתקדם שפגע בבסיס צבאי בירדן, וחילופי אש בנמל הורמוז. צה״ל ממשיך בבניית מכשול קרקעי בעזה; ממשלות אירופיות הוציאו אזהרה מפני טיסות מעל הירדן עד לספטמבר; וארה״ב הוציאה אזהרה חריגה לאזרחיה בישראל.",
     "headlines": [
       {
-        "id": "823955732f",
-        "title": "צה\"ל בכוננות שיא למלחמה עם איראן",
-        "url": "https://www.israelhayom.co.il/news/defense/article/21037193",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
+        "id": "8eca9df2c0",
+        "title": "המכשול הקרקעי שצה\"ל בונה ברצועת עזה חורג ביותר מקילומטר מעבר לקו הצהוב",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-22/ty-article/.premium/0000019f-859f-d6d0-a1df-8ffffd7d0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-22T03:01:05+00:00",
+        "image_url": null
+      },
+      {
+        "id": "f322990d8d",
+        "title": "דיווח: הטיל הקטלני והמתקדם ששימש את איראן בפגיעה הקשה בבסיס בירדן",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b27ad298fa88f91027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-07-22T07:19:00+00:00",
+        "image_url": "https://img.mako.co.il/2024/10/08/til_asaf08105_autoOrient_i.jpg"
+      },
+      {
+        "id": "385bc4af63",
+        "title": "חילופי האש מתגברים: טיל פגע באי במצרי הורמוז – תקיפות בירדן ובבחריין",
+        "url": "https://www.makorrishon.co.il/news/defence/article/353398",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
         "published_at": null,
         "image_url": null
       },
       {
-        "id": "c2c70b6f00",
-        "title": "תכננו לבצע פיגוע בירושלים בטווח הזמן המיידי: שני מחבלים נעצרו | תיעוד",
-        "url": "https://news.walla.co.il/item/3855383",
+        "id": "9569bc3c48",
+        "title": "שנה לפגיעת הטיל האיראני בבניין בבת ים: \"לא נשאר כלום\"",
+        "url": "https://13tv.co.il/item/news/domestic/internal/bskse-905225406/?pid=62&refc=902992425",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "9aecfe992f",
+        "title": "1 דקות ביטחוני השיטה החדשה נחשפת: כך צה\"ל מקצץ בהגנה של יישובי עוטף עזה אגף המבצעים מקפיא את גיוסי המילואים, וחיילים שיצאו לריענון אינם מורשים לחזור • בקיבוצים צמודי הגדר מדווחים על צמצום כוחות: \"אם המצב לא ישתנה - מצבנו קטסטרופה\" זמן קריאה: 1 דקות.",
+        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-edb5415f",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "608dbfc672",
+        "title": "בקרוב אצלנו? באירופה מזהירים לא לטוס מעל ירדן עד ספטמבר",
+        "url": "https://travel.walla.co.il/item/3855455",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-07-22T10:34:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079723-46.png"
+        "published_at": "2026-07-22T13:55:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079829-46.jpg"
       },
       {
-        "id": "667c057c70",
-        "title": "תוכנית מפורטת: כך ממשלת לבנון מתכוונת לפרק את חיזבאללה",
-        "url": "https://www.makorrishon.co.il/news/defence/article/353151",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "1d00c3a5a7",
-        "title": "דיווח: ממשל ביידן חשד שישראל מבצעת פשעי מלחמה בעזה עוד בנובמבר 2023, אך המשיך במשלוחי הנשק",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-21/ty-article/.premium/0000019f-851c-dffc-abbf-ff3db4ff0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-21T20:04:12+00:00",
-        "image_url": null
-      },
-      {
-        "id": "448fc0ad36",
-        "title": "ארה\"ב תקפה באיראן לילה 11 ברצף; דיווח: מערכות הגנה אווירית הופעלו בטהראן",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-22/ty-article/.premium/0000019f-870b-d1d3-addf-ef7b94d00000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-21T23:50:34+00:00",
-        "image_url": null
-      },
-      {
-        "id": "00c9313a5b",
-        "title": "המלחמה באיראן כבר עלתה לארה\"ב 37 מיליארד דולר — והגסת רוצה עוד 67 מיליארד",
-        "url": "https://www.themarker.com/wallstreet/2026-07-22/ty-article/.premium/0000019f-886d-d076-a39f-9d7f7d130000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-07-22T07:05:37+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000019f-8875-d452-a3df-9efd9c620000/8b/c6/1e134688486e9364e35d0b19bc8f/858062.jpg?height=81"
-      },
-      {
-        "id": "d9b772cd42",
-        "title": "איתות אזהרה מהעבר: ארה\"ב חוזרת באיראן על הטעויות מווייטנאם",
-        "url": "https://www.makorrishon.co.il/news/world-news/article/353257",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
+        "id": "a8e8a04184",
+        "title": "לאחר פרשת ג'פניקה: ארה\"ב באזהרה חריגה לאזרחיה בישראל",
+        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21038139",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
         "published_at": null,
         "image_url": null
       }
@@ -156,38 +126,8 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "הזירה הפוליטית המשיכה בתגובות משפטיות וממשלתיות. סנגור נתניהו התמודד עם טענות שוחד, המשפחה תבעה את הציבור בשל הברירה לעצור אותו, ועדת הבחירות הוזהרה מפני איומים על תקינות הבחירות. יו\"ר מועצה מקומית תקף את שר הביטחון.",
+      "summary_he": "יו״ר ועדת הבחירות קרא לערנות מול ניסיונות להשפיע על תקינות הבחירות. בקשר הפוליטי: הנתק בין נתניהו לטראמפ גורם לאי-ודאות; הממשלה התייחסה לסוגיית חוק ועדת החקירה; ובקואליציה קיימות מחלוקות בנוגע למשתמטי צבא וציבור דתי-לאומי.",
       "headlines": [
-        {
-          "id": "16390b1fae",
-          "title": "סנגורי נתניהו ליועמ\"שית: הבהירי את עמדתך על סעיף השוחד",
-          "url": "https://www.kan.org.il/content/kan-news/local/1079983/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/p4hdnb5o/עיצוב-ללא-שם.jpg?width=490&height=272&v=1dc3c42ad1f73e0"
-        },
-        {
-          "id": "87570efb13",
-          "title": "ממדאני: בדקנו כל דרך אפשרית, אין לנו סמכות לעצור את נתניהו",
-          "url": "https://www.haaretz.co.il/news/world/america/2026-07-22/ty-article/0000019f-8781-ded0-abdf-a7815ca40000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-22T02:06:51+00:00",
-          "image_url": null
-        },
-        {
-          "id": "9a2071eb2b",
-          "title": "בהמשך לחשיפת \"היום\": המהלך לשלילת אזרחות ממרגלים יוצא לדרך",
-          "url": "https://www.israelhayom.co.il/news/law/article/21035075",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
         {
           "id": "7744388f76",
           "title": "יו\"ר ועדת הבחירות: נדרשים לערנות מול הנסיונות לפגוע בתקינות הבחירות",
@@ -199,72 +139,72 @@
           "image_url": null
         },
         {
-          "id": "f8d6a4ddf8",
-          "title": "ראש מועצת רמת הגנב תוקף את בן גביר: \"השר קרוקודיל דנדי\"",
-          "url": "https://news.walla.co.il/item/3855422",
+          "id": "0f142a0fe8",
+          "title": "הנתק הממושך בין נתניהו לטראמפ גורם לאי-ודאות מדאיג",
+          "url": "https://www.ynet.co.il/news/article/r1ebuva4gx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-07-22T14:58:11+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/15/H1RzgLabzg/H1RzgLabzg_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "9f24c72fd4",
+          "title": "הממשלה לבג\"ץ: \"בשל אילוצי לו\"ז - לא עלה בידי הכנסת להשלים את חוק ועדת חקירה\"",
+          "url": "https://news.walla.co.il/item/3855507",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-07-22T12:15:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/7/5/6/3756740-46.jpeg"
+          "published_at": "2026-07-22T17:28:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/3/4073703-46.jpg"
+        },
+        {
+          "id": "096de148d0",
+          "title": "טרופר: \"לא אשב עם דרעי שמתגאה בנכדים עריקים; לא אשלים 61 לנתניהו\"",
+          "url": "https://news.walla.co.il/item/3855460",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-22T15:00:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079788-46.jpg"
+        },
+        {
+          "id": "06d5deab81",
+          "title": "\"בהצדעה\" למשתמט: במקום סנקציות - ארגון חרדי מציע עד 50% הנחה לעריקים",
+          "url": "https://www.israelhayom.co.il/news/local/article/21038815",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "a79c8fa2f1",
+          "title": "\"כמו מריונטות\": ביטאון ש\"ס בתקיפה חריפה על הציבור הדתי-לאומי",
+          "url": "https://news.walla.co.il/item/3855475",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-22T15:30:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/7/0/1/3701993-46.jpg"
+        },
+        {
+          "id": "3dc9efabb9",
+          "title": "האזהרה של מגילת איכה: סכנת הבידוד המדיני",
+          "url": "https://news.walla.co.il/item/3855503",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-22T17:08:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/7/4077869-46.jpg"
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "שוק ההון אף הראה תנודתיות. שוק תל אביב היה במגמה מעורבת עם קפיצה במדד הביטוח אך ירידה במניות בנייה. שיעורי הריבית המשיכו להשפיע על החיזוי של קרנות כספיות. במקביל, פרשקובסקי הציע מכרז דיגיטלי למכירת דירות, בעוד 56 משפחות תבעו קבלן על עיכובים.",
+      "summary_he": "בנושא יוקר המחיה: עיכובים בדיור וקבלנים גורמים לתביעות משפחות; תוכניות דיור בליסינג עלולות להוות מלכודת פיננסית; וקיימת ציפייה להשפעה של מכסים אמריקאיים על עלויות תרופות.",
       "headlines": [
-        {
-          "id": "2cc02a732d",
-          "title": "מגמה מעורבת בתל אביב; מדד הביטוח קופץ, מניות הבנייה יורדות",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550052",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T12:01:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg"
-        },
-        {
-          "id": "d7ef9ffb21",
-          "title": "\"כל עוד הריבית לא תחזור ל-0.5% או נמוך מזה, הקרנות הכספיות כאן להישאר\"",
-          "url": "https://www.themarker.com/markets/2026-07-22/ty-article/.premium/0000019f-83fe-d6fb-abff-8fffbb8b0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T03:09:12+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-8492-d6fb-abff-8cf792b40000/ca/d5/5c4814174c4bac4148a5896deb53/875529.jpg?height=81"
-        },
-        {
-          "id": "871e54c7d5",
-          "title": "תוך 20 שנה: ישראל נפלה מצמרת המדינות המשכילות, אל מתחת לממוצע המדינות המפותחות",
-          "url": "https://www.themarker.com/news/education/2026-07-22/ty-article/.premium/0000019f-894f-d001-abbf-fd4f8a750000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T11:43:33+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-8973-d458-a9ff-bbfba0900001/2c/64/67830a0849c68be0546eea2742b8/003608-2.jpg?height=81"
-        },
-        {
-          "id": "0273cfae9c",
-          "title": "הכל כדי לא להוריד את מחירי הדירות: המכרז הדיגיטלי של פרשקובסקי",
-          "url": "https://www.themarker.com/markets/2026-07-22/ty-article/.premium/0000019f-894c-db22-a5df-ed5eb5330000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T10:39:34+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-8965-d458-a9ff-bbef7a300001/11/a3/7faff5804408b908133a6825b7fa/462916.jpg?height=81"
-        },
-        {
-          "id": "b392b62b67",
-          "title": "פרשקובסקי משיקה מכרז דיגיטלי למכירת דירות: מה גובה ההנחות?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550112",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T11:32:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784718481/800_uomxxw.jpg"
-        },
         {
           "id": "7b30278920",
           "title": "56 משפחות תובעות את היזם בגלל איחור במסירת הדירות",
@@ -276,9 +216,9 @@
           "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784100078/%D7%90%D7%AA%D7%A8_%D7%91%D7%A0%D7%99%D7%94__oz5ghb_t3sjui.jpg"
         },
         {
-          "id": "c6ad820cf7",
-          "title": "\"לא יהיו ביטולי טיסות\": יו\"ר רשות שדות התעופה במסר מרגיע",
-          "url": "https://www.israelhayom.co.il/travel/aviation/article/21037635",
+          "id": "04d1922277",
+          "title": "\"דירה בליסינג\": הפתרון שמבטיח בית - ועלול להסתיים במלכודת חובות",
+          "url": "https://www.israelhayom.co.il/business/article/21037829",
           "source": "israel_hayom",
           "source_label": "ישראל היום",
           "source_label_he": "ישראל היום",
@@ -286,12 +226,12 @@
           "image_url": null
         },
         {
-          "id": "14627933f4",
-          "title": "יו\"ר רשות שדות התעופה: \"לא יהיו ביטולי טיסות\"",
-          "url": "https://www.kan.org.il/content/kan-news/local/1080027/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
+          "id": "c4dc768130",
+          "title": "טראמפ מאיים להטיל מכס של 100% על חברות תרופות שלא יפתחו מפעלים בארה\"ב",
+          "url": "https://www.themarker.com/wallstreet/2026-07-22/ty-article/.premium/0000019f-8809-d1d3-addf-e87998740000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
           "published_at": null,
           "image_url": null
         }
@@ -300,81 +240,71 @@
     {
       "key": "tech",
       "label_he": "טכנולוגיה והייטק",
-      "summary_he": "תחום הטכנולוגיה עמד במוקד לאחרונה. מודלים של OpenAI הצליחו לפרוץ לאתר ולהשיג תשובות למבחן במה שתואר כתקרית סייבר חסרת תקדים. ענקיות טכנולוגיה מחפשות חלופות זולות יותר לנבידיה. בתחום המחקר, אוניברסיטת תל אביב דורגה במקום ה-206 בדירוג בינלאומי.",
+      "summary_he": "בטכנולוגיה: חברת Monday.com הודיעה על פיטורים נרחבים של כ-630 עובדים בעקבות שינויים בשוק; סמסונג השיקה סדרת טלפונים מתקפלים חדשה.",
       "headlines": [
         {
-          "id": "5e439d905c",
-          "title": "\"תקרית סייבר חסרת תקדים\": מודלים של OpenAI הצליחו לפרוץ לאתר כדי להשיג תשובות למבחן",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550097",
+          "id": "20c0ad0100",
+          "title": "פיטורים נרחבים במאנדיי: תיפרד מכ-630 עובדים, יותר ממחציתם בישראל",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001550103",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-07-22T06:42:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1769530034/direct/shutterstock_2662676261_rdyol7.jpg"
+          "published_at": "2026-07-22T07:58:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1623301709/direct/0009_NEL1595_vpahte.jpg"
         },
         {
-          "id": "432dd25d8c",
-          "title": "\"רוצות מודל זול יותר\": ענקיות הטכנולוגיה לוקחות את המרד באנבידיה לשלב הבא",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550040",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T11:23:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1767625216/AP25304375509160_ecetea.jpg"
+          "id": "cee812c38b",
+          "title": "Israel’s Monday.com lays off 20% of its employees as AI changes how work gets done",
+          "url": "https://www.timesofisrael.com/israels-monday-com-lays-off-20-of-its-employees-as-ai-changes-how-work-gets-done/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-07-22T14:56:21+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2021/06/פתיחת-מסחר-מאנדיי_-תמונת-חוץ-נאסדק-10.6-e1623826050468-1024x640.jpg"
         },
         {
-          "id": "f0b57ce7fb",
-          "title": "דירוג טייוואן למצוינות מחקרית: אוניברסיטת ת\"א מובילה, אך גם היא רק במקום ה-206",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550110",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T09:41:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1741110506/COT_Pic/shutterstock_2324496773_zjvmog.jpg"
+          "id": "7c02c49b52",
+          "title": "עד שהמתחרים יתעוררו: סמסונג השיקה את סדרת המתקפלים החדשה",
+          "url": "https://www.israelhayom.co.il/tech/tech-news/article/21035429",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
         }
       ]
     },
     {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "תחום החינוך התמודד עם שינויים משמעותיים. המורים הוזעקו להחזיר שעות לימודים בעקבות המלחמה. בתוך כך, ישראל ירדה בדירוגים בינלאומיים של ביצועי חינוך.",
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "בנושא דת וחברה: ארגון חרדי הציע הנחות לנמלטי צבא במקום סנקציות; וביטאון ש״ס פרסם ביקורת חריפה על הציבור הדתי-לאומי.",
       "headlines": [
         {
-          "id": "e1b6c38a46",
-          "title": "לראשונה: המורים יחזירו שעות לימודים בעקבות המלחמה",
-          "url": "https://www.kan.org.il/content/kan-news/local/1080040/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
+          "id": "06d5deab81",
+          "title": "\"בהצדעה\" למשתמט: במקום סנקציות - ארגון חרדי מציע עד 50% הנחה לעריקים",
+          "url": "https://www.israelhayom.co.il/news/local/article/21038815",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
           "published_at": null,
-          "image_url": "https://www.kan.org.il/media/umsludg2/f240901cg61.jpg?width=490&height=272&v=1db0084d08f58e0"
+          "image_url": null
         },
         {
-          "id": "871e54c7d5",
-          "title": "תוך 20 שנה: ישראל נפלה מצמרת המדינות המשכילות, אל מתחת לממוצע המדינות המפותחות",
-          "url": "https://www.themarker.com/news/education/2026-07-22/ty-article/.premium/0000019f-894f-d001-abbf-fd4f8a750000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T11:43:33+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-8973-d458-a9ff-bbfba0900001/2c/64/67830a0849c68be0546eea2742b8/003608-2.jpg?height=81"
-        },
-        {
-          "id": "f0b57ce7fb",
-          "title": "דירוג טייוואן למצוינות מחקרית: אוניברסיטת ת\"א מובילה, אך גם היא רק במקום ה-206",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550110",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T09:41:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1741110506/COT_Pic/shutterstock_2324496773_zjvmog.jpg"
+          "id": "a79c8fa2f1",
+          "title": "\"כמו מריונטות\": ביטאון ש\"ס בתקיפה חריפה על הציבור הדתי-לאומי",
+          "url": "https://news.walla.co.il/item/3855475",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-22T15:30:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/7/0/1/3701993-46.jpg"
         }
       ]
     },
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "שוק הנדל\"ן המשיך במגמת תנודתיות. פרשקובסקי הציע מכרז דיגיטלי למכירת דירות עם הנחות שונות, בעוד משפחות תבעו קבלן על עיכובים במסירת יחידות דיור.",
+      "summary_he": "בדיור: משפחות תובעות קבלנים בגלל עיכובים משמעותיים במסירת דירות; וחדשות על תוכניות דיור בליסינג עם סיכונים פיננסיים, בעלות הנחות או מלכודות חובות.",
       "headlines": [
         {
           "id": "7b30278920",
@@ -387,24 +317,14 @@
           "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784100078/%D7%90%D7%AA%D7%A8_%D7%91%D7%A0%D7%99%D7%94__oz5ghb_t3sjui.jpg"
         },
         {
-          "id": "0273cfae9c",
-          "title": "הכל כדי לא להוריד את מחירי הדירות: המכרז הדיגיטלי של פרשקובסקי",
-          "url": "https://www.themarker.com/markets/2026-07-22/ty-article/.premium/0000019f-894c-db22-a5df-ed5eb5330000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T10:39:34+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-8965-d458-a9ff-bbef7a300001/11/a3/7faff5804408b908133a6825b7fa/462916.jpg?height=81"
-        },
-        {
-          "id": "b392b62b67",
-          "title": "פרשקובסקי משיקה מכרז דיגיטלי למכירת דירות: מה גובה ההנחות?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550112",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T11:32:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784718481/800_uomxxw.jpg"
+          "id": "04d1922277",
+          "title": "\"דירה בליסינג\": הפתרון שמבטיח בית - ועלול להסתיים במלכודת חובות",
+          "url": "https://www.israelhayom.co.il/business/article/21037829",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
         }
       ]
     }
@@ -428,8 +348,28 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Britain's new defense chief has criticized Israel for falling short in its operations in Gaza, drawing attention to international scrutiny of Israeli military conduct. A theater manager in the United States has faced antisemitism accusations after adding \"the Jews\" to a marquee advertisement, though the manager disputes the characterization of the incident.",
+      "summary_en": "Key discussions on Israel and Gaza intensified this week across international forums. A concert by French Jewish DJ Barbara Butch was disrupted by pro-Palestinian protesters, while British defense leadership and international critics continued scrutinizing Israel's Gaza operations. Political conferences now feature the Gaza war as a central discussion point, and Holocaust-related literature continues to resonate through contemporary cultural discourse.",
       "headlines": [
+        {
+          "id": "b486e44f62",
+          "title": "French Jewish DJ Barbara Butch is defiant after concert disrupted by pro-Palestinian protesters",
+          "url": "https://www.jta.org/2026/07/22/global/french-jewish-dj-barbara-butch-is-defiant-after-concert-disrupted-by-pro-palestinian-protesters",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-22T12:50:47+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/BarbaraButch.jpg"
+        },
+        {
+          "id": "394e0216e9",
+          "title": "Mamdani lacerates Netanyahu while admitting he can't arrest him",
+          "url": "https://www.jta.org/2026/07/22/united-states/mamdani-lacerates-netanyahu-while-admitting-he-cant-arrest-him",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-22T12:07:36+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/Mamdani.png"
+        },
         {
           "id": "db58364998",
           "title": "Britain's new defense chief Streeting says Israel has 'fallen short' in Gaza",
@@ -441,113 +381,133 @@
           "image_url": null
         },
         {
-          "id": "1972f82d98",
-          "title": "Theater manager who added 'the Jews' to 'Odyssey' marquee calls antisemitism 'exaggerated'",
-          "url": "https://www.jta.org/2026/07/21/united-states/portland-theater-owner-who-added-the-jews-to-the-odyssey-marquee-says-antisemitism-is-exaggerated",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-07-21T20:31:41+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/matt-damon-the-odyssey-041526-cd11e2b9157048148a924ec60f4dfdbb.jpeg"
+          "id": "813da16ac1",
+          "title": "Thirty people and one day in a concentration camp: how Bert Natter won the Libris Literature Prize",
+          "url": "https://www.demorgen.be/nieuws/dertig-personages-en-een-dag-in-een-concentratiekamp-hoe-bert-natter-de-libris-literatuurprijs-won~b986d1e0/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-22T12:00:10+00:00",
+          "image_url": "https://image.demorgen.be/275787475/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "b862657cf3",
+          "title": "ALP announces sweeping changes to student work placements as Gaza war looms large at party conference",
+          "url": "https://www.theguardian.com/australia-news/2026/jul/22/alp-announces-sweeping-changes-to-student-work-placements-as-gaza-war-looms-large-at-party-conference",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-22T12:30:14+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/1b493d22c5d54dab0be9b601c674d87d89fe77cb/2256_1639_2401_1921/master/2401.jpg?width=700&quality=85&auto=format&fit=max&s=e1f15bf3e9deac7f37e737fb0943d7c3"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium is moving to mandate traditional car radios in new vehicles, preserving radio functionality without requiring apps, subscriptions, or data usage. Economist Paul De Grauwe has warned of recession risks and expressed concerns about economic stability under current leadership. Aggression against public servants in Belgium has risen sharply, prompting government agencies to implement stricter measures in response to this growing workplace safety concern. King Philippe was seen enjoying fries with Brussels residents during a recent public appearance, emphasizing the casual nature of the royal outing.",
+      "summary_en": "Belgium's economy and media landscape face significant shifts this week. Low-cost airline Ryanair is withdrawing five aircraft from Charleroi and cutting two million seats in response to increased aviation taxes, a development that affects Belgium's transport infrastructure. Media attention also turned to historical accounts of Belgium's royal family drama and a major victory for Belgian cyclist Jasper Philipsen at the Tour de France.",
       "headlines": [
         {
-          "id": "d9e023d9ef",
-          "title": "Belgium wants to keep car radios mandatory in new cars: Without apps, subscriptions or data usage",
-          "url": "https://www.hln.be/binnenland/belgie-wil-autoradios-in-nieuwe-wagens-verplicht-behouden-zonder-apps-abonnementen-of-dataverbruik~a861c501/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-07-22T10:47:32+00:00",
-          "image_url": "https://images.hln.be/ZDk1MTljZTBhNzBkZWNlNmJmYzMvZGlvLzI3NjE0MjQyOC9maXQtd2lkdGgvNDAw/woman-turning-button-of-radio-in-car-inzet-brussels-belgium-may-20-cieltje-van-achter-n-va-minister-of-brussels-media-is-pictured-with-chris-janssens-vb-during-a-plenary-session-of-the-flemish-parliament-on-may-20-2026-in-brussels-belgium-20-05-2026-photo-by-bert-van-den-broucke-photonews"
-        },
-        {
-          "id": "769ab8f123",
-          "title": "Stability will only come with a different president: economist Paul De Grauwe fears recession",
-          "url": "https://www.demorgen.be/nieuws/er-zal-alleen-stabiliteit-komen-met-een-andere-president-econoom-paul-de-grauwe-vreest-voor-recessie~ba0f55d8/",
+          "id": "d70e22df81",
+          "title": "Ryanair removes five aircraft from Charleroi and cuts two million seats in Belgium due to higher aviation taxes: 'We warned Prime Minister De Wever about this'",
+          "url": "https://www.demorgen.be/snelnieuws/ryanair-haalt-vijf-toestellen-weg-uit-charleroi-en-schrapt-twee-miljoen-zitjes-in-belgie-door-hogere-vliegtaks-we-hebben-premier-de-wever-hiervoor-gewaarschuwd~b93f8fcf/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-07-22T01:00:00+00:00",
-          "image_url": "https://image.demorgen.be/276130072/feature-crop/320/320/afbeelding"
+          "published_at": "2026-07-22T09:02:00+00:00",
+          "image_url": "https://image.demorgen.be/276089896/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "7ad1d8cb26",
-          "title": "Aggression against public servants rising sharply: Aggressive behavior results in case suspension",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/22/agressie-tegenover-vlaamse-ambtenaren-stijgt-fors-crevits-neemt/",
+          "id": "02d3053356",
+          "title": "Karine Claassen on cancellation of VRT exclusivity contract: 'One person who pushed me into a corner'",
+          "url": "https://www.hln.be/bv/karine-claassen-over-stopzetting-exclusiviteitscontract-bij-vrt-een-persoon-die-me-in-een-hokje-duwde~ab72971d/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-22T15:00:15+00:00",
+          "image_url": "https://images.hln.be/YTkwNTlkMDk0ODA1YTk0ZGE0MDUvZGlvLzI2NDM0MTIwMC9maXQtd2lkdGgvNDAw/antwerpen-belgium-karine-claassen-en-thomas-van-der-plaetsen-de-overlevers-van-special-forces-pictured-on-october-24-2025-in-antwerpen-belgium-24-10-2025-photo-by-joel-hoylaerts-photonews"
+        },
+        {
+          "id": "c3b3e1b124",
+          "title": "Tour de France: Jasper Philipsen finally scores! Fast Belgian brings relief with stage victory",
+          "url": "https://sporza.be/nl/matches/wielrennen/tour-de-france/2026/tour-de-france-2026-rit-17-jasper-philipsen-schiet-eindelijk-raak-rappe-belg-zorgt-voor-verlossing-met-winst-in-doldwaze-vluchtersrit~1759432925342/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2025/11/17/a4f7f10b-2241-4cc7-a9d3-5249a1046c31.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/22/98528a2c-7374-4dfa-974d-2064cde0d835.jpg?width=200&height=200&q=80&blur=90"
         },
         {
-          "id": "b5d5e647b2",
-          "title": "King Philip eats modest portion of fries with Brussels residents: He said it was bad for the waistline",
-          "url": "https://www.hln.be/royalty/kijk-koning-filip-eet-bescheiden-portie-friet-met-brusselaars-hij-zei-dat-het-slecht-is-voor-de-lijn~a191bb11/",
+          "id": "146ca28530",
+          "title": "Boudewijn wanted to see his father, but Lilian kept even his illness secret: how the second wife of Leopold III tore the royal family apart",
+          "url": "https://www.hln.be/royalty/boudewijn-wilde-zijn-vader-terugzien-maar-lilian-hield-zelfs-zijn-ziekte-geheim-hoe-tweede-vrouw-van-leopold-iii-de-koninklijke-familie-uiteendreef~a7e19028/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-07-22T10:49:00+00:00",
-          "image_url": "https://images.hln.be/ZGY1N2RmNTUxNjA3NzVlNjRhYjYvZGlvLzI3NjE0MjYzNi9maXQtd2lkdGgvNDAw/king-philippe-filip-of-belgium-is-pictured-during-the-everyone-to-the-table-initiative-by-resto-national-at-vossenplein-place-du-jeu-de-balle-as-part-of-the-national-holiday-on-tuesday-21-july-2026-in-brussels-belga-photo-jonas-roosens"
+          "published_at": "2026-07-22T13:30:00+00:00",
+          "image_url": "https://images.hln.be/YjViNTliNDZhOWFhOTI1NGU3NTAvZGlvLzI3NjE0NDY0Ny9maXQtd2lkdGgvNDAw/lilian-baels-bruxelles-septembre-1983-funerailles-du-roi-keopold-iii-roi-baudouin-et-prince-philippe-brussel-september-1983-begrafenis-van-koning-leopold-iii-koning-boudewijn-en-prins-filip"
         }
       ]
     },
     "europe": {
-      "summary_en": "The European Union is working to finalize new Russia sanctions despite resistance from some member states, reflecting ongoing disagreements over the scope of economic restrictions. France has become the first European country to ban social media access for users under age 15, implementing new youth protection measures. Ukraine's new top military commander has pledged to continue counteroffensive operations against Russian forces with clearly defined military objectives. Austria has opened a police station at Adolf Hitler's birthplace as part of broader efforts to reclaim and neutralize the site's Nazi associations.",
+      "summary_en": "Europe navigates military, regulatory, and climate challenges this week. Ukraine's military leadership advances its counteroffensive strategy under new command, while the EU moves to finalize additional sanctions against Russia. France passed legislation banning social media access for users under 15 and continues grappling with the consequences of June's devastating heatwave, which claimed over 5,700 excess deaths. Meanwhile, Ukrainian military operations continue striking Russian infrastructure targets.",
       "headlines": [
         {
           "id": "3dcd1491bb",
-          "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
+          "title": "New Ukraine army chief vows to step up counteroffensive as EU bids to finalize fresh Russia sanctions – Europe live",
           "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-07-22T12:40:39+00:00",
+          "published_at": "2026-07-22T15:10:42+00:00",
           "image_url": "https://i.guim.co.uk/img/media/0e0bf1ee00941b59db4cf04af99d4d2f93ae08d6/0_0_3458_2765/master/3458.jpg?width=700&quality=85&auto=format&fit=max&s=feebf4b232e7f3ed2d55ccfd6fd72848"
         },
         {
-          "id": "a827e9a3e8",
-          "title": "France bans social media for users under 15 years as the first European country",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/21/sociale-media-ban-frankrijk/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/22/24598083-e9ce-4b1a-ab90-925a2d9c7671.jpg?width=200&height=125&q=80&blur=90"
+          "id": "de4056abe9",
+          "title": "'A relief and source of hope in the struggle for freedom and justice': who is Mychajlo Drapaty, the new commander of the Ukrainian army?",
+          "url": "https://www.demorgen.be/nieuws/een-verademing-en-bron-van-hoop-in-de-strijd-voor-vrijheid-en-rechtvaardigheid-wie-is-mychajlo-drapaty-de-nieuwe-bevelhebber-van-het-oekraiense-leger~bfcad4b7/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-22T12:00:00+00:00",
+          "image_url": "https://image.demorgen.be/276101621/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "03aa477e55",
-          "title": "New top military commander Ukraine says to continue with counteroffensive against Russians: Clear goals",
-          "url": "https://www.hln.be/buitenland/nieuwe-topmilitair-oekraine-zegt-door-te-gaan-met-tegenoffensief-tegen-russen-duidelijke-doelen~a93df6b5/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-07-22T11:31:00+00:00",
-          "image_url": "https://images.hln.be/YzhlZTgxMDQ1NjM2YmUzYTczMzEvZGlvLzI3NjEzMTExNS9maXQtd2lkdGgvNDAw/files-ukrainian-president-volodymyr-zelensky-l-and-commander-in-chief-of-the-armed-forces-of-ukraine-oleksandr-syrsky-r-speak-next-to-the-first-batch-of-ukrainian-made-drone-missiles-peklo-hell-delivered-to-the-defence-forces-of-ukraine-in-kyiv-on-december-6-2024-amid-the-russian-invasion-of-ukraine-ukrainian-president-volodymyr-zelensky-said-on-july-21-2026-that-he-was-dismissing-oleksandr-syrsky-commander-in-chief-of-ukraine-s-army-and-appointing-joint-forces-commander-mykhailo-drapaty-in-his-place-photo-by-genya-savilov-afp"
-        },
-        {
-          "id": "7e875643c8",
-          "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
-          "url": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
+          "id": "85229a18fb",
+          "title": "France passes law banning under-15s from social media",
+          "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-07-22T12:32:13+00:00",
+          "published_at": "2026-07-22T03:50:55+00:00",
+          "image_url": null
+        },
+        {
+          "id": "b69cb12705",
+          "title": "France recorded more than 5,700 excess deaths during June heatwave",
+          "url": "https://www.theguardian.com/world/2026/jul/22/france-recorded-more-than-5700-excess-deaths-during-june-heatwave",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-22T15:34:27+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/28421f9523a46ca8ec9bd52aa258f40dcc8d49b3/75_0_4791_3833/master/4791.jpg?width=700&quality=85&auto=format&fit=max&s=6fc9e79245265ce2cbb980653dad08e3"
+        },
+        {
+          "id": "e08dce5b34",
+          "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
+          "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-07-22T14:52:25+00:00",
           "image_url": null
         }
       ]
     },
     "world_top": {
-      "summary_en": "The fastest-growing Ebola outbreak on record continues to spread in Africa, having already claimed over 1,000 lives and raising urgent global health concerns. The United States has resumed military strikes on Iran amid ongoing nuclear tensions, while Tehran denies conducting illicit nuclear activities at the threatened site. The financial cost of military operations related to Iran has reached $37.5 billion, with U.S. lawmakers warning against entering another prolonged conflict in the region. A modeling scout linked to Jeffrey Epstein has been found dead in the suburbs of Paris.",
+      "summary_en": "Global crises and regional conflicts dominate international news. Africa faces its fastest-growing Ebola outbreak on record, with over 1,000 deaths already reported. Middle East tensions escalate with threats regarding the Strait of Hormuz and disruptions to global shipping from Houthi attacks, while severe weather in the Balkans caused multiple fatalities. International crime news also noted the death of a figure connected to the Jeffrey Epstein case.",
       "headlines": [
         {
           "id": "9203b2e6d0",
-          "title": "Africa: Fastest growing Ebola outbreak on record now claims over 1,000 lives",
+          "title": "Africa: Fastest-growing Ebola outbreak ever now claims more than 1,000 lives",
           "url": "https://www.vrt.be/vrtnws/nl/2026/07/20/bijna-1000-eboladoden-in-congo-de-situatie-verslechtert-dag-na/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -557,33 +517,33 @@
         },
         {
           "id": "ba3b192972",
-          "title": "US renews strikes on Iran as Tehran claims no nuclear activity at site threatened by Trump – Middle East crisis live",
+          "title": "Trump threatens to destroy an Iranian bridge or power plant for each strait of Hormuz attack – Middle East crisis live",
           "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-07-22T12:40:53+00:00",
+          "published_at": "2026-07-22T15:36:07+00:00",
           "image_url": "https://i.guim.co.uk/img/media/047a5d304127c3be2c7c70ae0978dd2c90e3b06e/0_0_2304_1844/master/2304.jpg?width=700&quality=85&auto=format&fit=max&s=a46cd4b44e9757af0602262dc2df9b5e"
         },
         {
-          "id": "9817da4e19",
-          "title": "$37.5bn cost of Iran war revealed as senator warns of 'another forever war'",
-          "url": "https://www.theguardian.com/us-news/2026/jul/22/first-thing-iran-war-cost-375bn-pete-hegseth-senator-another-forever-war",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-22T11:50:13+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/f8c176fbf867baab3d99b8f022d5e5cc9c3c053b/1926_1686_4025_3220/master/4025.jpg?width=700&quality=85&auto=format&fit=max&s=0e1656f3689e444fe62944c19636da83"
-        },
-        {
-          "id": "2ab9c18182",
-          "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-          "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+          "id": "cce6611a1b",
+          "title": "Tankers make sharp U-turns after Houthi shipping threat",
+          "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-07-22T12:08:41+00:00",
+          "published_at": "2026-07-22T14:42:49+00:00",
           "image_url": null
+        },
+        {
+          "id": "b6480fd38e",
+          "title": "Deaths and multiple wounded after severe storm in the Balkans – Flemish woman experiences terror and takes shelter in restaurant kitchen",
+          "url": "https://www.hln.be/buitenland/dode-en-meerdere-gewonden-na-hevig-onweer-in-de-balkan-vlaamse-alexandra-beleeft-doodsangsten-en-moet-schuilen-in-keuken-van-restaurant~a86706a2/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-22T14:24:00+00:00",
+          "image_url": "https://images.hln.be/MDYyNDJhNDI4YTA3Y2NkMDg5YmIvZGlvLzI3NjE1MTc4MC9maXQtd2lkdGgvNDAw/schuilen-alexandra"
         }
       ]
     },
