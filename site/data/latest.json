@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-23T14:03:07.925466+00:00",
+  "generated_at": "2026-07-23T19:03:10.586056+00:00",
   "date": "2026-07-23",
   "degraded": true,
   "top_general": {
     "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "e439779c1e",
-        "title": "טראמפ איים להשמיד תשתיות באיראן, שהשיבה: ננתק את החשמל של בעלות בריתה",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-22/ty-article/.premium/0000019f-89e9-df92-a7ff-afeb2d8f0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-22T13:01:06+00:00",
-        "image_url": null
-      },
-      {
-        "id": "6302a424e8",
-        "title": "תשובת איראן לטראמפ, והעדכון האמריקני לישראל: נחזור לתקוף עם מפציצים כבדים",
-        "url": "https://www.ynet.co.il/news/article/hkwgefavmg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-22T17:53:36+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/22/HkYwYK0Nzg/HkYwYK0Nzg_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "bd47f1124a",
-        "title": "חזית חדשה במלחמה: החות׳ים תקפו מכלית סעודית, איראן חסמה ספינות במצר הורמוז",
-        "url": "https://www.makorrishon.co.il/news/defence/article/353602",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "0955e52369",
-        "title": "IDF specifies terror affiliations of 12 Gazan soccer players killed in Israeli strikes",
-        "url": "https://www.timesofisrael.com/idf-reveals-terror-affiliations-of-12-gazan-soccer-players-killed-in-israeli-strikes/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-07-22T19:27:05+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/Screenshot-2026-07-23-at-2.04.44-e1784761729964-1024x640.jpg"
-      },
-      {
-        "id": "5daf218b11",
-        "title": "מגייס הדוגמניות שקישר בין נשים לג'פרי אפשטיין נמצא מת בביתו",
-        "url": "https://news.walla.co.il/item/3855538",
+        "id": "474db20674",
+        "title": "כמעט שלוש שנים אחרי טבח 7 באוקטובר: מאות משפחות ביקשו להצטרף לקיבוץ חולית",
+        "url": "https://news.walla.co.il/item/3855701",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-07-22T21:04:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/0/4080007-46.png"
+        "published_at": "2026-07-23T13:20:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/0/4080197-46.jpeg"
       },
       {
-        "id": "036e32a094",
-        "title": "חשד להדלפה בשירות החשאי: סוכן שאבטח את ג'יי די ואנס הוצא לחופשה",
-        "url": "https://www.israelhayom.co.il/news/world-news/article/21042170",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
+        "id": "ce473e26f4",
+        "title": "At the Western Wall on Tisha B’Av, prayers for redemption mingle with hopes for peace",
+        "url": "https://www.timesofisrael.com/at-the-western-wall-on-tisha-bav-prayers-for-redemption-mingle-with-hopes-for-peace/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-07-23T13:22:16+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26203735025537-1024x640.jpg"
+      },
+      {
+        "id": "94a43b1d14",
+        "title": "ראשי רשויות הודיעו על פתיחת המקלטים; אין שינוי בהנחיות פיקוד העורף",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-23/ty-article/.premium/0000019f-8ea9-df92-a7ff-aeab5cd90000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-23T13:57:29+00:00",
         "image_url": null
       },
       {
-        "id": "771c1d9485",
-        "title": "בנט: דרעי הוא אנטי-ציוני, הוא מתגאה שנכדיו עריקים",
-        "url": "https://www.kan.org.il/content/kan-news/politic/1080374/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": null
+        "id": "0a259b0b35",
+        "title": "כמעט 3 שנים לטבח בחולית - מאות משפחות מבקשות להצטרף",
+        "url": "https://news.walla.co.il/item/3855760",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-23T16:11:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/0/4080199-46.jpeg"
       },
       {
         "id": "dc6dd01610",
-        "title": "ארה\"ב תקפה באיראן לילה 12 ברציפות; החותים: תקפנו מכליות סעודיות",
+        "title": "רוביו: איראן לא מוכנה לחתום על עסקה, המחיר יעלה בכל לילה עד שהם יתעשתו",
         "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-23/ty-article/.premium/0000019f-8bac-df92-a7ff-afae351e0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
         "published_at": "2026-07-22T21:39:42+00:00",
+        "image_url": null
+      },
+      {
+        "id": "761b8a7606",
+        "title": "פיגוע בזמן שריפה בשומרון: גבר נפצע קשה מדקירה, המחבלים חוסלו",
+        "url": "https://www.ynet.co.il/news/article/rk00yydybge",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-23T09:31:17+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/23/B1YRA8kHMl/B1YRA8kHMl_0_0_848_478_0_medium.jpg"
+      },
+      {
+        "id": "53748cb636",
+        "title": "\"עונש צבאי כבד\": טראמפ מחריף את האיום על החות'ים ואיראן",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550218",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-07-23T14:32:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784308104/AP26194656384758_hkiqu9.jpg"
+      },
+      {
+        "id": "eb007eb2bf",
+        "title": "המוסד: סוכל ניסיון פיגוע איראני נגד בכירים בישראל",
+        "url": "https://www.kan.org.il/content/kan-news/defense/1080738/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
         "image_url": null
       }
     ]
@@ -102,11 +102,204 @@
     "globes",
     "themarker",
     "times_of_israel",
-    "makor_rishon"
-  ],
-  "sources_failed": [
-    "maariv",
+    "makor_rishon",
     "reshet13",
     "i24"
-  ]
+  ],
+  "sources_failed": [
+    "maariv"
+  ],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "The Trump administration ties the US-Saudi nuclear energy agreement to Israeli normalization through the Abraham Accords, making Saudi recognition of Israel a condition of the deal. Domestic tensions in Israel intensify as the security minister participates in an al-Aqsa mosque raid by extremists, while a Jerusalem café, a symbol of secular resistance, is revealed to be operated by Jews for Jesus. Prize-winning journalist Amir Tibon returns to resettle his kibbutz after surviving October 7 with his family. France's far left faces antisemitism accusations related to comments by an Olympics DJ.",
+      "headlines": [
+        {
+          "id": "58907fbf21",
+          "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+          "url": "https://www.bbc.com/news/articles/cwye71yq8wwo",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": null,
+          "image_url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260723-115353-11d20ce153-web-3.15.1-1/grey-placeholder.png"
+        },
+        {
+          "id": "11a49416ea",
+          "title": "Trump says US-Saudi nuclear deal subject to Israeli normalization",
+          "url": "https://www.jta.org/2026/07/23/united-states/trump-says-us-saudi-nuclear-deal-subject-to-israeli-normalization",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-23T17:30:14+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/Trump-Saudi-A.jpg"
+        },
+        {
+          "id": "83db438eea",
+          "title": "Prize-winning journalist Amir Tibon is moving back to the kibbutz where he and his family survived Oct. 7",
+          "url": "https://www.jta.org/2026/07/23/culture/prize-winning-journalist-amir-tibon-is-moving-back-to-the-kibbutz-where-he-and-his-family-survived-oct-7",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-23T15:00:13+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/tibon-amir.jpg"
+        },
+        {
+          "id": "9e1787f10b",
+          "title": "Israeli security minister joins Jewish extremists as they storm al-Aqsa mosque compound",
+          "url": "https://www.theguardian.com/world/2026/jul/23/israel-security-minister-itamar-ben-gvir-jewish-extremists-storm-al-aqsa-mosque-compound-jerusalem",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-23T14:33:12+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/905f728a7a166fb3104aba7ab3e20cee3962bbee/342_0_1800_1440/master/1800.jpg?width=700&quality=85&auto=format&fit=max&s=6bba1f7e0b55833dda0c48727ba45d21"
+        },
+        {
+          "id": "b19e879306",
+          "title": "A Jerusalem cafe became a symbol of secular defiance — until Israelis learned it was run by Jews for Jesus",
+          "url": "https://www.jta.org/2026/07/23/israel/a-jerusalem-cafe-became-a-symbol-of-secular-defiance-until-israelis-learned-it-was-run-by-jews-for-jesus",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-23T13:03:50+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/BaSimta_Protest-6.jpg"
+        },
+        {
+          "id": "9ffcfabcca",
+          "title": "France's far left faces accusations of antisemitism from Olympics DJ",
+          "url": "https://www.politico.eu/article/french-far-left-faces-antisemitism-accusations-over-paris-olympics-dj-barbara-butch/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-07-23T12:49:12+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgian Finance Minister Bouchez proposes lowering excise taxes on tobacco and alcohol to prevent revenue loss to Luxembourg, but faces opposition from Health Minister Vandenbroucke over conflicting vaping regulations. Flemish minister Annick De Ridder announced government subsidies for regional airports extending through 2039 following confidential negotiations.",
+      "headlines": [
+        {
+          "id": "6151dad275",
+          "title": "Millions to Luxembourg: Bouchez wants to lower excise taxes on tobacco and alcohol, but clashes with Vandenbroucke's vape rules",
+          "url": "https://www.hln.be/vtm-nieuws/miljoenen-naar-luxemburg-bouchez-wil-accijnzen-op-tabak-en-alcohol-verlagen-maar-botst-op-vape-regels-van-vandenbroucke~a5f4a9f4/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-23T16:43:16+00:00",
+          "image_url": "https://images.hln.be/MDE2OWJiNDlhY2IyMjA2OTFjYTQvZGlvLzI3NjE3OTQxNy9maXQtd2lkdGgvNDAw/frank-vandenbroucke-en-georges-louis-bouchez"
+        },
+        {
+          "id": "44459528c1",
+          "title": "Flemish minister Annick De Ridder (N-VA) promises subsidies for regional airports through 2039 in confidential agreement",
+          "url": "https://www.demorgen.be/snelnieuws/live-vlaams-minister-annick-de-ridder-n-va-belooft-in-geheime-dading-tot-2039-subsidies-aan-regionale-luchthavens~bf7e76f4/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-23T11:01:00+00:00",
+          "image_url": "https://image.demorgen.be/275709921/roi/320/320/834.0200000000001/882.9000000000001/afbeelding"
+        },
+        {
+          "id": "06dda56803",
+          "title": "Timmie van Diepen: 'The hatred against private jets reveals much about the envious society Flanders threatens to become'",
+          "url": "https://www.hln.be/opinie/timmie-van-diepen-de-haat-tegen-privejets-zegt-veel-over-de-blinde-afgunstmaatschappij-die-vlaanderen-dreigt-te-worden~a4aefa02/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-23T16:40:00+00:00",
+          "image_url": "https://images.hln.be/YWM3MjAwM2NiYjI1ZmUxMGU2OTcvZGlvLzI3NjE3MzM2MC9maXQtd2lkdGgvNDAw/27102022-antwerpen-luchthaven-luchthaven-deurne-luchthaven-antwerpen-int-airport-antwerp"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "The European Union fined Google €890 million for unfairly favoring its own apps over competitors under new digital market regulations. France evacuated 20,000 people, mostly tourists, as wildfires spread through the southwestern region, including the Arcachon Bay area. The European Central Bank kept interest rates unchanged amid uncertainty about energy price trends due to Middle East tensions. Germany rebuked Trump over the G20's decision regarding South Africa.",
+      "headlines": [
+        {
+          "id": "8871604a39",
+          "title": "Google fined €890m by EU for favouring its own apps over rivals",
+          "url": "https://www.bbc.com/news/articles/cevmenngkzpo",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": null,
+          "image_url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260723-115353-11d20ce153-web-3.15.1-1/grey-placeholder.png"
+        },
+        {
+          "id": "8c2c5cfda1",
+          "title": "France evacuates 20,000 as wildfires spread in south-west",
+          "url": "https://www.bbc.com/news/articles/cy4kmr82n44o",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": null,
+          "image_url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260723-115353-11d20ce153-web-3.15.1-1/grey-placeholder.png"
+        },
+        {
+          "id": "f16a61fbc3",
+          "title": "ECB holds interest rates unchanged amid uncertainty over energy price evolution due to Middle East war",
+          "url": "https://www.demorgen.be/snelnieuws/ecb-houdt-rente-ongewijzigd-door-onduidelijkheid-evolutie-energieprijzen-door-oorlog-midden-oosten~bafa3a4e/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-23T13:19:44+00:00",
+          "image_url": "https://image.demorgen.be/276173567/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "95dd40794f",
+          "title": "Germany rebukes Trump over South Africa's G20 ban",
+          "url": "https://www.politico.eu/article/germany-johann-wadephul-donald-trump-south-africa-g20-ban/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-07-23T13:09:48+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Oil prices surged past $100 per barrel for the first time since May as Middle East conflicts escalate sharply. Yemen's Iran-backed Houthis attacked Saudi tankers while the US launched military strikes, escalating regional tensions. The US House of Representatives approved $1.15 trillion in military spending, with the defense secretary's budget request revealing significant military procurement challenges.",
+      "headlines": [
+        {
+          "id": "f565b3c1ae",
+          "title": "Oil passes $100 a barrel again and shares slide as Middle East conflict escalates",
+          "url": "https://www.theguardian.com/business/2026/jul/23/oil-price-passes-100-a-barrel-again-as-middle-east-conflict-escalates",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-23T13:37:42+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/42d19a83f3a78010df11f166d58c2dd34bd8579f/1225_0_6483_5186/master/6483.jpg?width=700&quality=85&auto=format&fit=max&s=681e10319484beeaa4f2f7900d7413d9"
+        },
+        {
+          "id": "b106b525b2",
+          "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+          "url": "https://www.bbc.com/news/articles/cpw9xzx9r4ko",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": null,
+          "image_url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260723-115353-11d20ce153-web-3.15.1-1/grey-placeholder.png"
+        },
+        {
+          "id": "7bbb5ac1a4",
+          "title": "House of Representatives agrees to increase military spending to $1.150 trillion",
+          "url": "https://www.demorgen.be/snelnieuws/live-trump-regering-overweegt-militaire-actie-in-mali-tegen-al-qaeda-tak~b13cc951/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-23T09:26:00+00:00",
+          "image_url": "https://image.demorgen.be/275960794/roi/320/320/3180/1640.4099999999999/afbeelding"
+        },
+        {
+          "id": "b63bb21166",
+          "title": "The Hegseth budget: defense secretary's $1.5tn ask reveals military-industrial chaos",
+          "url": "https://www.theguardian.com/us-news/2026/jul/23/hegseth-us-military-budget",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-23T17:17:46+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/f119ea4e76b7d8706ea360bcda812f33528e93fa/446_0_4460_3568/master/4460.jpg?width=700&quality=85&auto=format&fit=max&s=001110216a754e482659f888243db103"
+        }
+      ]
+    },
+    "degraded": false
+  }
 }
