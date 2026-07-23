@@ -1,20 +1,10 @@
 {
-  "generated_at": "2026-07-22T20:12:40.051702+00:00",
-  "date": "2026-07-22",
-  "degraded": false,
+  "generated_at": "2026-07-23T14:03:07.925466+00:00",
+  "date": "2026-07-23",
+  "degraded": true,
   "top_general": {
-    "summary_he": "שלוש כותרות דומיננטיות עומדות במרכז החדשות היום: הסלמה במתיחות בין ארה\"ב לאיראן עם איומים הדדיים ובירור ספינות בהורמוז, נתק בקשרים בין ישראל לארה\"ב עם מגעים לקראת פגישה קרובה, וירידה משמעותית בדירוג החינוך הישראלי, שצנח תוך עשרים שנה אל מתחת לממוצע המדינות המפותחות.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
-      {
-        "id": "f38dfee552",
-        "title": "כמעט 40 מיליארד דולר: שר ההגנה האמריקני חשף את עלות המלחמה לארה\"ב",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-14ef6c7b0a88f91027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-07-22T07:26:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/03/25/AP26083722597370_autoOrient_i.jpg"
-      },
       {
         "id": "e439779c1e",
         "title": "טראמפ איים להשמיד תשתיות באיראן, שהשיבה: ננתק את החשמל של בעלות בריתה",
@@ -26,403 +16,82 @@
         "image_url": null
       },
       {
-        "id": "8056e1decd",
-        "title": "מאיימת גם על אירופה? איראן באזהרה ישירה לבולגריה: \"שותפה לתוקפנות\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-40eb71f9f688f91026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-07-22T07:00:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/05/31/SOFIAAIRPORT_re_autoOrient_i.jpg"
-      },
-      {
-        "id": "dd4d7e1559",
-        "title": "טראמפ: על כל ספינה שתותקף בהורמוז נשמיד גשר או תחנת כוח באיראן - גם בטהרן",
-        "url": "https://www.ynet.co.il/news/article/h15b1b04gl",
+        "id": "6302a424e8",
+        "title": "תשובת איראן לטראמפ, והעדכון האמריקני לישראל: נחזור לתקוף עם מפציצים כבדים",
+        "url": "https://www.ynet.co.il/news/article/hkwgefavmg",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-07-22T13:03:03+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/29/rytvppIsZg/rytvppIsZg_0_0_850_479_0_medium.jpg"
+        "published_at": "2026-07-22T17:53:36+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/22/HkYwYK0Nzg/HkYwYK0Nzg_0_0_850_479_0_medium.jpg"
       },
       {
-        "id": "8025eb3c24",
-        "title": "איראן בתגובה לטראמפ: \"אם תחנות הכוח והגשרים יותקפו - ננתק את החשמל לבעלות הברית\"",
-        "url": "https://news.walla.co.il/item/3855543",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-07-22T21:22:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/2/4/4024678-46.jpg"
-      },
-      {
-        "id": "0f142a0fe8",
-        "title": "הנתק הממושך בין נתניהו לטראמפ גורם לאי-ודאות מדאיג",
-        "url": "https://www.ynet.co.il/news/article/r1ebuva4gx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-22T14:58:11+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/15/H1RzgLabzg/H1RzgLabzg_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "f678705e06",
-        "title": "בכיר בבית הלבן: מגעים לפגישת טראמפ-נתניהו בוושינגטון בשבוע הבא, אך לא נקבע מועד סופי",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b30e455f01a8f91026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-07-22T14:00:00+00:00",
-        "image_url": "https://img.mako.co.il/2025/12/29/AP25363669896916_autoOrient_i.jpg"
-      },
-      {
-        "id": "871e54c7d5",
-        "title": "תוך 20 שנה: ישראל נפלה מצמרת המדינות המשכילות, אל מתחת לממוצע המדינות המפותחות",
-        "url": "https://www.themarker.com/news/education/2026-07-22/ty-article/.premium/0000019f-894f-d001-abbf-fd4f8a750000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-07-22T11:43:33+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000019f-8973-d458-a9ff-bbfba0900001/2c/64/67830a0849c68be0546eea2742b8/003608-2.jpg?height=81"
-      }
-    ]
-  },
-  "security_war": {
-    "summary_he": "המתיחות בין ארה\"ב לאיראן הסלמה במהירות: טראמפ איים להשמיד גשרים ותחנות כוח באיראן על כל ספינה שתותקף בהורמוז, ואיראן הגיבה באיום לנתק חשמל לבעלות בריתה של ישראל. עלות המלחמה לארה\"ב הגיעה לכמעט 40 מיליארד דולר. במישור הישראלי, צה\"ל ממשיך בבניית מכשול קרקעי בעזה.",
-    "headlines": [
-      {
-        "id": "f38dfee552",
-        "title": "כמעט 40 מיליארד דולר: שר ההגנה האמריקני חשף את עלות המלחמה לארה\"ב",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-14ef6c7b0a88f91027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-07-22T07:26:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/03/25/AP26083722597370_autoOrient_i.jpg"
-      },
-      {
-        "id": "e439779c1e",
-        "title": "טראמפ איים להשמיד תשתיות באיראן, שהשיבה: ננתק את החשמל של בעלות בריתה",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-22/ty-article/.premium/0000019f-89e9-df92-a7ff-afeb2d8f0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-22T13:01:06+00:00",
+        "id": "bd47f1124a",
+        "title": "חזית חדשה במלחמה: החות׳ים תקפו מכלית סעודית, איראן חסמה ספינות במצר הורמוז",
+        "url": "https://www.makorrishon.co.il/news/defence/article/353602",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
+        "published_at": null,
         "image_url": null
       },
       {
-        "id": "8056e1decd",
-        "title": "מאיימת גם על אירופה? איראן באזהרה ישירה לבולגריה: \"שותפה לתוקפנות\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-40eb71f9f688f91026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-07-22T07:00:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/05/31/SOFIAAIRPORT_re_autoOrient_i.jpg"
+        "id": "0955e52369",
+        "title": "IDF specifies terror affiliations of 12 Gazan soccer players killed in Israeli strikes",
+        "url": "https://www.timesofisrael.com/idf-reveals-terror-affiliations-of-12-gazan-soccer-players-killed-in-israeli-strikes/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-07-22T19:27:05+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/Screenshot-2026-07-23-at-2.04.44-e1784761729964-1024x640.jpg"
       },
       {
-        "id": "dd4d7e1559",
-        "title": "טראמפ: על כל ספינה שתותקף בהורמוז נשמיד גשר או תחנת כוח באיראן - גם בטהרן",
-        "url": "https://www.ynet.co.il/news/article/h15b1b04gl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-22T13:03:03+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/29/rytvppIsZg/rytvppIsZg_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "8025eb3c24",
-        "title": "איראן בתגובה לטראמפ: \"אם תחנות הכוח והגשרים יותקפו - ננתק את החשמל לבעלות הברית\"",
-        "url": "https://news.walla.co.il/item/3855543",
+        "id": "5daf218b11",
+        "title": "מגייס הדוגמניות שקישר בין נשים לג'פרי אפשטיין נמצא מת בביתו",
+        "url": "https://news.walla.co.il/item/3855538",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-07-22T21:22:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/2/4/4024678-46.jpg"
+        "published_at": "2026-07-22T21:04:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/0/4080007-46.png"
       },
       {
-        "id": "f4ed2b1a45",
-        "title": "באיראן משיבים לטראמפ: \"ננתק את החשמל למדינות באזור\"",
-        "url": "https://www.kan.org.il/content/kan-news/defense/live-1079844/",
+        "id": "036e32a094",
+        "title": "חשד להדלפה בשירות החשאי: סוכן שאבטח את ג'יי די ואנס הוצא לחופשה",
+        "url": "https://www.israelhayom.co.il/news/world-news/article/21042170",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "771c1d9485",
+        "title": "בנט: דרעי הוא אנטי-ציוני, הוא מתגאה שנכדיו עריקים",
+        "url": "https://www.kan.org.il/content/kan-news/politic/1080374/",
         "source": "kan",
         "source_label": "כאן 11",
         "source_label_he": "כאן 11",
         "published_at": null,
-        "image_url": "https://www.kan.org.il/media/gj4fw4v3/תקיפה.png?width=490&height=272&v=1dd15dc4864b1d0"
+        "image_url": null
       },
       {
-        "id": "8eca9df2c0",
-        "title": "המכשול הקרקעי שצה\"ל בונה ברצועת עזה חורג ביותר מקילומטר מעבר לקו הצהוב",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-22/ty-article/.premium/0000019f-859f-d6d0-a1df-8ffffd7d0000",
+        "id": "dc6dd01610",
+        "title": "ארה\"ב תקפה באיראן לילה 12 ברציפות; החותים: תקפנו מכליות סעודיות",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-23/ty-article/.premium/0000019f-8bac-df92-a7ff-afae351e0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-22T03:01:05+00:00",
+        "published_at": "2026-07-22T21:39:42+00:00",
         "image_url": null
       }
     ]
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "נתק בקשרים בין ישראל לארה\"ב, עם מגעים המתנהלים לקראת פגישת טראמפ-נתניהו בוושינגטון בשבוע הבא. סמוטריץ' נוקט בצעדים להקשחת מדיניות ההתנחלויות, ובעולם מתקיימות מחאות פוליטיות משמעותיות בהודו ובהונגריה.",
-      "headlines": [
-        {
-          "id": "0f142a0fe8",
-          "title": "הנתק הממושך בין נתניהו לטראמפ גורם לאי-ודאות מדאיג",
-          "url": "https://www.ynet.co.il/news/article/r1ebuva4gx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-07-22T14:58:11+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/15/H1RzgLabzg/H1RzgLabzg_0_0_850_479_0_medium.jpg"
-        },
-        {
-          "id": "f678705e06",
-          "title": "בכיר בבית הלבן: מגעים לפגישת טראמפ-נתניהו בוושינגטון בשבוע הבא, אך לא נקבע מועד סופי",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-b30e455f01a8f91026.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-07-22T14:00:00+00:00",
-          "image_url": "https://img.mako.co.il/2025/12/29/AP25363669896916_autoOrient_i.jpg"
-        },
-        {
-          "id": "a2e6f0d325",
-          "title": "דיווח: טראמפ מעוניין למנות את נשיא פיפ\"א, ג'אני אינפנטינו, למזכ\"ל האו\"ם הבא",
-          "url": "https://www.haaretz.co.il/news/world/america/2026-07-22/ty-article/.premium/0000019f-883e-d88f-a19f-a83f42b40000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-22T05:45:15+00:00",
-          "image_url": null
-        },
-        {
-          "id": "d57804b35e",
-          "title": "Smotrich takes steps to make his major settlement policy shift harder to reverse",
-          "url": "https://www.timesofisrael.com/smotrich-takes-steps-to-make-his-major-settlement-policy-shift-harder-to-reverse/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-07-22T15:49:10+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260616CG29-1024x640.jpg"
-        },
-        {
-          "id": "4b1615435d",
-          "title": "האופוזיציה בהודו השביתה את פעילות הפרלמנט בהזדהות עם מחאת הצעירים",
-          "url": "https://www.haaretz.co.il/news/world/asia/2026-07-22/ty-article/.premium/0000019f-8a50-db22-a5df-ef52b5290000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-22T15:05:17+00:00",
-          "image_url": null
-        },
-        {
-          "id": "264c1843bc",
-          "title": "Hungary’s Orban declares ‘resistance’ movement against Magyar government’s ‘tyranny’",
-          "url": "https://www.timesofisrael.com/hungarys-orban-declares-resistance-movement-against-magyar-governments-tyranny/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-07-22T14:56:30+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26203366025258-1024x640.jpg"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "כלכלה גלובלית בתנודות: מכסים של טראמפ חוזרים וגורמים לחוסר ודאות בשווקים, בעוד שחברת Monday.com משחררת 20% מעובדיה בתגובה לשינויים בשוק. בנוסף, דו\"ח חושף כי לא סעודיה אלא מדינה אחרת היא הקובעת בפועל את מחירי הנפט הגלובליים.",
-      "headlines": [
-        {
-          "id": "afd0deee50",
-          "title": "המכסים של טראמפ חוזרים, והם לא האיום היחיד על יציבות השווקים",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550152",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T14:37:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784723259/_RC2V3MA0Y3AT_RTRMADP_3_USA-TRUMP_1_qjztio.jpg"
-        },
-        {
-          "id": "20c0ad0100",
-          "title": "פיטורים נרחבים במאנדיי: תיפרד מכ-630 עובדים, יותר ממחציתם בישראל",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550103",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T07:58:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1623301709/direct/0009_NEL1595_vpahte.jpg"
-        },
-        {
-          "id": "cee812c38b",
-          "title": "Israel’s Monday.com lays off 20% of its employees as AI changes how work gets done",
-          "url": "https://www.timesofisrael.com/israels-monday-com-lays-off-20-of-its-employees-as-ai-changes-how-work-gets-done/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-07-22T14:56:21+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2021/06/פתיחת-מסחר-מאנדיי_-תמונת-חוץ-נאסדק-10.6-e1623826050468-1024x640.jpg"
-        },
-        {
-          "id": "04c44f1f96",
-          "title": "לא סעודיה: זאת המדינה שקובעת את מחירי הנפט",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550137",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T16:00:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784718564/2026-04-04T000017_M_CRUDE-OIL-SUPPLY_p4quit.jpg"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "ענף הטכנולוגיה עובר תמורה דרמטית: Monday.com משחררת 20% מעובדיה בתגובה לשינויים שה-AI גורם להם בעולם העבודה, חוות שרתים מועברות לפריפריה, וישויות גדולות דורשות הוכחות לתשואות ממשיות מהשקעות בבינה מלאכותית.",
-      "headlines": [
-        {
-          "id": "f42651a03c",
-          "title": "מעבר מואץ לפריפריה או מכסות נוקשות: איך ייראו חוות השרתים בעוד 140 ימים",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550164",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T13:52:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1783598412/one%20time%20use%20only/shutterstock_2732878875_niy5qf.jpg"
-        },
-        {
-          "id": "a2ae1bf890",
-          "title": "\"למדתי מזה המון\": רואי טיגר חושף את סטארט־אפ הסייבר גלואו ומתייחס לפרשת אונבו",
-          "url": "https://www.themarker.com/technation/2026-07-22/ty-article/.highlight/0000019f-888f-d1d3-addf-e8ffb0860000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T10:00:20+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-88bc-d23f-a7ff-ffbc31640000/f7/c1/b12cf6d74c0582b1605a0ce89a77/881704.jpg?height=81"
-        },
-        {
-          "id": "20c0ad0100",
-          "title": "פיטורים נרחבים במאנדיי: תיפרד מכ-630 עובדים, יותר ממחציתם בישראל",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550103",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T07:58:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1623301709/direct/0009_NEL1595_vpahte.jpg"
-        },
-        {
-          "id": "cee812c38b",
-          "title": "Israel’s Monday.com lays off 20% of its employees as AI changes how work gets done",
-          "url": "https://www.timesofisrael.com/israels-monday-com-lays-off-20-of-its-employees-as-ai-changes-how-work-gets-done/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-07-22T14:56:21+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2021/06/פתיחת-מסחר-מאנדיי_-תמונת-חוץ-נאסדק-10.6-e1623826050468-1024x640.jpg"
-        },
-        {
-          "id": "0f957a1ddc",
-          "title": "דו\"חות אלפבית הלילה: \"המשקיעים רוצים הוכחות שההשקעות ב-AI נושאות פרי\"",
-          "url": "https://www.themarker.com/wallstreet/2026-07-22/ty-article/.premium/0000019f-8a4f-de9f-afdf-aa4f70db0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T15:11:04+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-8a5a-df92-a7ff-aedac9f00001/b0/be/44563630434a80a8257f506eab41/2026-07-16t185745z-338274370-rc235maaco0u-rtrmadp-3-alphabet-ai-1.jpg?height=81"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "העיתונאי חיים יבין הלך לעולמו בגיל 93.",
-      "headlines": [
-        {
-          "id": "94d21e1520",
-          "title": "העיתונאי חיים יבין הלך לעולמו בגיל 93",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550207",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-22T14:38:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1613053447/old/1502821.jpg"
-        }
-      ]
-    },
-    {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "דו\"ח חושף כי ישראל נפלה מצמרת המדינות המשכילות תוך 20 שנה אל מתחת לממוצע המדינות המפותחות.",
-      "headlines": [
-        {
-          "id": "871e54c7d5",
-          "title": "תוך 20 שנה: ישראל נפלה מצמרת המדינות המשכילות, אל מתחת לממוצע המדינות המפותחות",
-          "url": "https://www.themarker.com/news/education/2026-07-22/ty-article/.premium/0000019f-894f-d001-abbf-fd4f8a750000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-22T11:43:33+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-8973-d458-a9ff-bbfba0900001/2c/64/67830a0849c68be0546eea2742b8/003608-2.jpg?height=81"
-        }
-      ]
-    },
-    {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "ביטאון ש\"ס מתקיף בחריפות את הציבור הדתי-לאומי, משרד החוץ הפיץ סרטון המחזק נרטיב מדיני, ושלט פוגעני בבריכה עורר דרישות מקוממות.",
-      "headlines": [
-        {
-          "id": "a79c8fa2f1",
-          "title": "\"כמו מריונטות\": ביטאון ש\"ס בתקיפה חריפה על הציבור הדתי-לאומי",
-          "url": "https://news.walla.co.il/item/3855475",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-07-22T15:30:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/7/0/1/3701993-46.jpg"
-        },
-        {
-          "id": "194d776182",
-          "title": "משרד החוץ הפיץ סרטון שמחזק את הנרטיב - יהודי רצח את אחד הקדושים החשובים בנצרות | צפו",
-          "url": "https://www.ynet.co.il/news/article/syqwogcngg",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-07-22T15:17:45+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/22/HJgbjsM0EGe/HJgbjsM0EGe_1_802_777_438_0_medium.jpg"
-        },
-        {
-          "id": "df2daac52a",
-          "title": "\"צריך לחטא את הבריכה כי היו בה יהודים שנכנסו עם בגדים\": השלט הפוגעני שתלה הצוות - והדרישה המקוממת",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-495ae5b52598f91026.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-07-22T12:00:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/07/21/shelet210711_re_autoOrient_i.jpg"
-        }
-      ]
-    },
-    {
-      "key": "health",
-      "label_he": "בריאות ורפואה",
-      "summary_he": "מותו של תינוק בבית חולים.",
-      "headlines": [
-        {
-          "id": "01f61d349b",
-          "title": "מותו של התינוק נקבע בבית החולים - ואז נשמעו קולות משק הגופות",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-0f51bfaacd88f91027.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-07-22T08:09:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/07/22/I_grid_23213555_autoOrient_i.jpg"
-        }
-      ]
-    }
-  ],
+  "security_war": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
+  },
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -433,214 +102,11 @@
     "globes",
     "themarker",
     "times_of_israel",
-    "makor_rishon",
-    "reshet13",
-    "i24"
+    "makor_rishon"
   ],
   "sources_failed": [
-    "maariv"
-  ],
-  "world": {
-    "israel_jewish": {
-      "summary_en": "Israel expressed alarm over potential US-Saudi nuclear negotiations that could reshape regional dynamics. The International Criminal Court warrant for Prime Minister Benjamin Netanyahu continues to generate controversy, with American officials and international bodies debating enforcement mechanisms. Reed College implemented significant reforms to address antisemitism complaints, signaling institutional accountability in addressing discrimination against Jewish students. British defence officials publicly criticized Israel's military conduct in Gaza, while pro-Palestinian activists disrupted a concert by French Jewish DJ Barbara Butch, reflecting ongoing tensions surrounding the conflict.",
-      "headlines": [
-        {
-          "id": "e998fa0459",
-          "title": "Israel alarmed by reports of a possible US-Saudi nuclear deal",
-          "url": "https://www.jta.org/2026/07/22/united-states/israel-alarmed-by-reports-of-a-possible-us-saudi-nuclear-deal",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-07-22T17:28:43+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/07.22.26-Trump-MBS.jpg"
-        },
-        {
-          "id": "333019718c",
-          "title": "Mamdani says he can't arrest Netanyahu as mayor and urges US to enforce ICC warrant",
-          "url": "https://www.theguardian.com/us-news/2026/jul/22/zohran-mamdani-netanyahu-arrest-new-york",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-22T17:07:36+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/ea1baba05f95935402e2d620864866b365ddcd16/701_0_6604_5282/master/6604.jpg?width=700&quality=85&auto=format&fit=max&s=4799d255d3d5b37729b697e82e3de769"
-        },
-        {
-          "id": "f45f91915b",
-          "title": "Reed College agrees to sweeping reforms as part of Title VI antisemitism settlement",
-          "url": "https://www.jta.org/2026/07/22/united-states/reed-college-agrees-to-sweeping-reforms-as-part-of-title-vi-antisemitism-settlement",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-07-22T18:44:42+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/7-22-26-reed.jpg"
-        },
-        {
-          "id": "db58364998",
-          "title": "Britain's new defense chief Streeting says Israel has 'fallen short' in Gaza",
-          "url": "https://www.politico.eu/article/uk-new-defense-secretary-wes-streeting-israel-fallen-short-gaza/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-07-22T11:41:36+00:00",
-          "image_url": null
-        },
-        {
-          "id": "b486e44f62",
-          "title": "French Jewish DJ Barbara Butch is defiant after concert disrupted by pro-Palestinian protesters",
-          "url": "https://www.jta.org/2026/07/22/global/french-jewish-dj-barbara-butch-is-defiant-after-concert-disrupted-by-pro-palestinian-protesters",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-07-22T12:50:47+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/BarbaraButch.jpg"
-        }
-      ]
-    },
-    "belgium": {
-      "summary_en": "Belgium faced infrastructure and safety challenges as Brussels' fire brigade launched an indefinite strike over inadequate employment proposals, raising concerns about emergency response capacity. A severe forest fire forced evacuations in Merelbeke, while Ghent's annual festivities have already recorded more security incidents than in the previous year. European chemical safety regulators reduced acceptable exposure limits for PFOA, prompting Belgian authorities to review drinking water standards.",
-      "headlines": [
-        {
-          "id": "48e06321f9",
-          "title": "Brussels fire brigade continues to strike for 'indefinite period': 'Proposals are insufficient'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/22/brandweer-staking-brussel-dillies-vakbond/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/22/03a03092-ba2f-4cff-8e98-f4c6020dc5d2.jpg?width=200&height=200&q=80&blur=90"
-        },
-        {
-          "id": "771733aaec",
-          "title": "Karen and co from Merelbeke flee severe forest fire: 'We knew it wouldn't turn out well'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/22/getuigenis-brand-cotignac/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/22/9c97568b-b2bd-4f1a-8eff-c936d771b837.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "699c5964ae",
-          "title": "Ghent Festivities are halfway and already count more incidents than last year: extra camera on Sint-Michielsbrug",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/22/gentse-feesten-halfweg-meer-meldingen-grensoverschrijdend-gedr/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/22/3a0a71ad-1b14-459b-bee6-f090513f2e9d.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "11efe5bd51",
-          "title": "Europe lowers safe dose for PFOA: 'Flemish drinking water guideline may be adjusted'",
-          "url": "https://www.demorgen.be/nieuws/europa-verlaagt-veilige-dosis-voor-tfa-vlaamse-advieswaarde-voor-drinkwater-zal-mogelijk-worden-aangepast~b5c9a9a3/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-22T17:25:10+00:00",
-          "image_url": "https://image.demorgen.be/276152382/feature-crop/320/320/afbeelding"
-        }
-      ]
-    },
-    "europe": {
-      "summary_en": "Ukraine's military leadership underwent changes aimed at strengthening counteroffensive operations against Russian forces, while the European Union advanced new sanctions. Hungary's new prime minister continued institutional reforms, removing the chief prosecutor and launching investigations into the previous government's structures. Britain saw political debate over the release of violent offenders from prison, and EU officials stated that US pharmaceutical tariffs would not significantly impact European pharmaceutical exports.",
-      "headlines": [
-        {
-          "id": "3dcd1491bb",
-          "title": "New Ukraine army chief vows to step up counteroffensive as EU bids to finalise fresh Russia sanctions",
-          "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-22T15:49:20+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/0e0bf1ee00941b59db4cf04af99d4d2f93ae08d6/0_0_3458_2765/master/3458.jpg?width=700&quality=85&auto=format&fit=max&s=feebf4b232e7f3ed2d55ccfd6fd72848"
-        },
-        {
-          "id": "34f7edf74b",
-          "title": "New Hungarian premier Magyar continues purge: prosecutor general removed, police seize servers of Orbán party",
-          "url": "https://www.demorgen.be/nieuws/nieuwe-hongaarse-premier-magyar-zet-zuivering-door-openbaar-aanklager-weg-politie-neemt-servers-partij-orban-in-beslag~b319e73d/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-22T19:17:00+00:00",
-          "image_url": "https://image.demorgen.be/275884198/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "dc8c1720ed",
-          "title": "He rammed Russian blockade: Mychajlo Drapaty is new Ukrainian commander-in-chief",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/22/oorlog-van-rusland-tegen-oekraine-nieuwe-opperbevelhebber-leger/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/22/7ded672b-4a8d-4e37-b9b3-75627319a598.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "c5384ae312",
-          "title": "Burnham stirs up political row with review of release plans for violent criminals",
-          "url": "https://www.theguardian.com/society/2026/jul/22/andy-burnham-announces-review-of-prisoner-early-release-scheme",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-22T19:02:27+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/0075f08f63b261a32f1d6cc8140cb8046da95365/0_13_640_512/master/640.jpg?width=700&quality=85&auto=format&fit=max&s=73156055bad99cc22adf240414dc5ec9"
-        },
-        {
-          "id": "6d978544cd",
-          "title": "EU says Trump's new generic drug tariffs won't hit its exports",
-          "url": "https://www.politico.eu/article/eu-donald-trump-new-generic-drug-tariff-export/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-07-22T12:37:02+00:00",
-          "image_url": null
-        }
-      ]
-    },
-    "world_top": {
-      "summary_en": "French authorities expanded investigations into the Epstein scandal following the death of model scout Daniel Siad. In the United States, election deniers won primary races in Arizona, raising questions about electoral integrity in upcoming contests. Middle Eastern tensions escalated as Iran threatened new actions regarding the Strait of Hormuz, and shipping lanes faced disruptions at Bab el-Mandeb, with Iranian officials warning that restrictions on oil exports could destabilize global markets.",
-      "headlines": [
-        {
-          "id": "1316fcac4e",
-          "title": "Epstein files: French Epstein recruiter and model scout Daniel Siad found dead in his home",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/franse-epsteinronselaar-en-modellenscout-daniel-siad-dood-aange~1766170718951/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/22/983ac549-efba-4490-b61c-d3b9fe0f75b8.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "0008f97adb",
-          "title": "Election deniers win Republican primaries in Arizona",
-          "url": "https://www.theguardian.com/us-news/2026/jul/22/arizona-republican-primary-andy-biggs-katie-hobbs",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-22T19:49:45+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/08188b400d367174eff41180e37471302d32e610/1518_0_7603_6081/master/7603.jpg?width=700&quality=85&auto=format&fit=max&s=5276d74b38fc0f79e6bdaa9f0aeef3da"
-        },
-        {
-          "id": "e82d2e866f",
-          "title": "Major consequences for world economy? After Hormuz comes also strait Bab el-Mandeb under pressure",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/22/houthi-blokkade-bab-el-mandeb/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/03/26/45c5b558-3482-469d-9283-5e59eec6e3f1.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "08058bdc5c",
-          "title": "Iranian top diplomat threatens again over control of Strait of Hormuz: 'If we can't sell oil, nobody can sell oil'",
-          "url": "https://www.demorgen.be/snelnieuws/live-iraanse-topdiplomaat-dreigt-opnieuw-over-zeggenschap-straat-van-hormuz-als-wij-geen-olie-kunnen-verkopen-kan-niemand-olie-verkopen~be9c4f82/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-22T19:37:00+00:00",
-          "image_url": "https://image.demorgen.be/275146029/roi/320/320/2805/1918.28/afbeelding"
-        }
-      ]
-    },
-    "degraded": false
-  }
+    "maariv",
+    "reshet13",
+    "i24"
+  ]
 }
