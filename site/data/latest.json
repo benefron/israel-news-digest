@@ -1,75 +1,10 @@
 {
-  "generated_at": "2026-07-24T15:11:22.353778+00:00",
+  "generated_at": "2026-07-24T17:11:11.936113+00:00",
   "date": "2026-07-24",
   "degraded": false,
   "top_general": {
-    "summary_he": "יום סוער בחזית הביטחונית, הכלכלית והדיפלומטית בישראל. בחירות 2026 עדיין מהוות נושא מרכזי, בעוד נתניהו עורך ביקור בארצות הברית לפגישות עם הנשיא טראמפ, ושר החוץ הבריטי החדש מביע עמדה בנוגע לישראל. בנוסף, בשורה משמחת: הילד שנעדר מאשקלון אותר בחיים, וארצות הברית הטילה מכסי סחר על יותר מ־80 מדינות.",
+    "summary_he": "פיגוע ירי קטלני בשומרון ליד חוות גלעד גבה את חייהם של בניהו מלט ורס\"ן יובל עזרא, כאשר שני מחבלים נעצרו בשכם. במקביל, המתיחות מול איראן ממשיכה לעלות עם תקיפות אמריקאיות והצהרות טראמפ על אפשרות למתקפה מסיבית, ונתניהו צפוי לטוס לוושינגטון לפגישה עם הנשיא. ארה\"ב הטילה מכסים חדשים על עשרות מדינות, וביניהן ישראל.",
     "headlines": [
-      {
-        "id": "985896d623",
-        "title": "בחירות 2026: כל הסקרים בחירות 2026: כל הסקרים",
-        "url": "https://www.kan.org.il/lobby/skarim/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "30e3cc2e30",
-        "title": "נתניהו ימריא לארה\"ב בשבוע הבא: ייפגש עם טראמפ - וישתתף בהלוויית גרהאם",
-        "url": "https://www.ynet.co.il/news/article/s1onmewhfx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-24T14:17:46+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/30/HJw11leFhex/HJw11leFhex_190_0_2469_1390_0_medium.jpg"
-      },
-      {
-        "id": "a111b10a28",
-        "title": "10 clues on how new UK Foreign Secretary Ed Miliband could deal with Israel",
-        "url": "https://www.timesofisrael.com/10-clues-on-how-new-uk-foreign-secretary-ed-miliband-could-deal-with-israel/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-07-24T13:27:48+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26202421901419-e1784869816521-1024x640.jpg"
-      },
-      {
-        "id": "145968b25c",
-        "title": "הילד יובל קוגן בן ה־4 שנעדר מאז אתמול באשקלון אותר בחיים",
-        "url": "https://www.haaretz.co.il/news/law/2026-07-24/ty-article/0000019f-92bb-dd92-adff-9bbb847b0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-24T06:36:15+00:00",
-        "image_url": null
-      },
-      {
-        "id": "817b7271c1",
-        "title": "ארה\"ב הטילה מכסים על יותר מ־80 מדינות ותבסס תקדים חדש במדיניות הסחר",
-        "url": "https://www.haaretz.co.il/news/world/america/2026-07-24/ty-article/.premium/0000019f-911b-db22-a5df-f51b662f0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-23T23:16:27+00:00",
-        "image_url": null
-      }
-    ]
-  },
-  "security_war": {
-    "summary_he": "פיגוע קשה בשומרון שבו נרצחו בניהו מלט ורס״ן יובל עזרא, מפקד בתותחנים, ונפצעו מספר אנשים נוספים. צה״ל מתגבר את הכוחות ביהודה והשומרון מחשש להסלמה, בעוד פעילות לחימה מתקיימת בעומק לבנון. בחזית הצפונית, צבא ארה״ב השלים גל נוסף של תקיפות באיראן, והדיון על שרשרת הפיקוד המקבילה ממשיך להעסיק את הציבור.",
-    "headlines": [
-      {
-        "id": "8257373a93",
-        "title": "פיגוע ירי בשומרון: פלסטיני חטף נשק של איש ביטחון, ישראלי נרצח, שניים נפצעו",
-        "url": "https://www.ynet.co.il/news/article/skzecdxsml",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-24T05:46:07+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/24/H1x00xKlrfx/H1x00xKlrfx_0_240_1280_721_0_medium.jpg"
-      },
       {
         "id": "fd888844d3",
         "title": "פיגוע בשומרון: בניהו מלט נרצח, שלושה נפצעו קשה ואנוש",
@@ -79,16 +14,6 @@
         "source_label_he": "וואלה",
         "published_at": "2026-07-24T08:26:00+00:00",
         "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/0/4080483-46.jpeg"
-      },
-      {
-        "id": "b12faed392",
-        "title": "רס\"ן יובל עזרא, מ\"פ בתותחנים, נהרג בפיגוע הירי בשומרון",
-        "url": "https://www.israelhayom.co.il/news/defense/article/21051258",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
       },
       {
         "id": "2f200c7d17",
@@ -101,9 +26,9 @@
         "image_url": null
       },
       {
-        "id": "74f0d6c5b0",
-        "title": "מחשש להסלמה: צה\"ל מתגבר כוחות ביו\"ש",
-        "url": "https://www.makorrishon.co.il/news/defence/article/353909",
+        "id": "b4b2c724bb",
+        "title": "בניהו מלט ורס\"ן יובל עזרא נפלו בפיגוע ליד חוות גלעד - המחבל חוסל",
+        "url": "https://www.makorrishon.co.il/news/defence/article/353942",
         "source": "makor_rishon",
         "source_label": "מקור ראשון",
         "source_label_he": "מקור ראשון",
@@ -111,9 +36,9 @@
         "image_url": null
       },
       {
-        "id": "1f81099c00",
-        "title": "ציידות המחבלים: הלוחמות שפורצות דרך - ופועלות בעומק לבנון",
-        "url": "https://13tv.co.il/item/news/politics/security/ve5dk-905226047/?pid=62&refc=902992425",
+        "id": "16cf1a80e8",
+        "title": "16:35 צה\"ל: שני מחבלים מהפיגוע בשומרון נעצרו בלב שכם",
+        "url": "https://13tv.co.il/news/news-flash/",
         "source": "reshet13",
         "source_label": "חדשות 13",
         "source_label_he": "חדשות 13",
@@ -121,14 +46,14 @@
         "image_url": null
       },
       {
-        "id": "889697e35d",
-        "title": "2 Israelis, 4 Palestinians killed, 8 others wounded in gunfight in Palestinian West Bank village",
-        "url": "https://www.timesofisrael.com/liveblog-july-24-2026/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-07-24T00:03:37+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/IMG-20260724-WA0001-1024x640.jpg"
+        "id": "563b89b0ac",
+        "title": "הנשיא טראמפ לברק רביד: \"אני שוקל מתקפה מסיבית, גדולה יותר מכול מה שהיה בעבר - אני קרוב לקבל החלטה\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-69fc0bafb7f8f91027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-07-23T15:21:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/07/13/n20-1307-IBUD_TRUMP-ibud-1-3_re_autoOrient_i.jpg"
       },
       {
         "id": "bea591cd4c",
@@ -141,14 +66,159 @@
         "image_url": null
       },
       {
-        "id": "852c5e02f3",
-        "title": "שרשרת הפיקוד המקבילה: משפטנים במקום מפקדים?",
-        "url": "https://news.walla.co.il/item/3855942",
+        "id": "65f82b2477",
+        "title": "1 דקות מדיני בצל המתיחות עם איראן: נתניהו ייפגש עם טראמפ בוושינגטון לשכת רה\"מ הודיעה כי נתניהו ימריא בשני הקרוב לביקור מדיני בוושינגטון, שבמסגרתו ייפגש עם נשיא ארצות הברית וכן ישתתף בהלוויה של הסנאטור לינדזי גרהאם • מדובר בפגישה הראשונה בין שני המנהיגים מאז פברואר זמן קריאה: 1 דקות.",
+        "url": "https://www.i24news.tv/he/news/news/diplomacy/artc-fa0c5294",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
+        "published_at": null,
+        "image_url": "https://cdn.i24news.tv/uploads/66/40/9a/b6/98/81/6a/02/12/d1/8c/6b/3e/d6/75/cf/66409ab698816a0212d18c6b3ed675cf.jpeg?width=350"
+      },
+      {
+        "id": "620f160b9a",
+        "title": "PM’s office says he’ll fly to DC for Tuesday meet with Trump, Graham memorial service",
+        "url": "https://www.timesofisrael.com/pms-office-says-hell-fly-to-dc-for-tuesday-meet-with-trump-graham-memorial-service/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-07-24T16:29:15+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/03/AP26061855785359-e1772607057435-1024x640.jpg"
+      },
+      {
+        "id": "817b7271c1",
+        "title": "ארה\"ב הטילה מכסים על יותר מ־80 מדינות ותבסס תקדים חדש במדיניות הסחר",
+        "url": "https://www.haaretz.co.il/news/world/america/2026-07-24/ty-article/.premium/0000019f-911b-db22-a5df-f51b662f0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-23T23:16:27+00:00",
+        "image_url": null
+      },
+      {
+        "id": "75f2a30b6c",
+        "title": "החל מהלילה: כמה תשלם ישראל מהמכס החדש של טראמפ",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550395",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-07-24T11:50:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1743627460/direct/AP25092740338492_kxgw9l.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "פיגוע ירי בשומרון ליד חוות גלעד גרם למותם של בניהו מלט ורס\"ן יובל עזרא ולפציעתם של נוספים; שני חשודים נעצרו בשכם והמחבל חוסל. במקביל, ארה\"ב ממשיכה בגל תקיפות באיראן זה הלילה ה-13 ברציפות, ואיראן מאיימת בתגובה נגד כוחות אמריקאים ודוחה הצעת הפסקת אש. בנוסף דווח על אירוע דקירה אנטישמי במנהטן ועל גל אירועי \"תג מחיר\" ביהודה ושומרון.",
+    "headlines": [
+      {
+        "id": "fd888844d3",
+        "title": "פיגוע בשומרון: בניהו מלט נרצח, שלושה נפצעו קשה ואנוש",
+        "url": "https://news.walla.co.il/item/3855876",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-07-24T17:40:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/5/4065967-46.jpg"
+        "published_at": "2026-07-24T08:26:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/0/4080483-46.jpeg"
+      },
+      {
+        "id": "2f200c7d17",
+        "title": "רס״ן יובל עזרא נפל בפיגוע בשומרון בו נרצח בניהו מלט",
+        "url": "https://www.kan.org.il/content/kan-news/defense/1081061/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "b4b2c724bb",
+        "title": "בניהו מלט ורס\"ן יובל עזרא נפלו בפיגוע ליד חוות גלעד - המחבל חוסל",
+        "url": "https://www.makorrishon.co.il/news/defence/article/353942",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "16cf1a80e8",
+        "title": "16:35 צה\"ל: שני מחבלים מהפיגוע בשומרון נעצרו בלב שכם",
+        "url": "https://13tv.co.il/news/news-flash/",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "0663a5463f",
+        "title": "המ\"מ נטרל - ומנע אסון כבד יותר; היערכות לפעולה בשכם | תחקיר הפיגוע",
+        "url": "https://www.israelhayom.co.il/news/defense/article/21050609",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "bea591cd4c",
+        "title": "צבא ארה\"ב: השלמנו גל נוסף של תקיפות באיראן, זה הלילה ה־13 ברציפות",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-07-24/ty-article/0000019f-914b-d1a3-adff-f3dbf3cf0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-23T23:34:40+00:00",
+        "image_url": null
+      },
+      {
+        "id": "5e6415f2fe",
+        "title": "איראן: נהרוג איש כוחות הביטחון האמריקנים, עבור כל איראני שייהרג",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550386",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-07-24T16:17:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784308104/AP26194656384758_hkiqu9.jpg"
+      },
+      {
+        "id": "2b0f7ee304",
+        "title": "Iran said to threaten Israel, reject US ceasefire proposal passed along by Iraqi PM",
+        "url": "https://www.timesofisrael.com/iran-said-to-threaten-israel-reject-us-ceasefire-proposal-passed-along-by-iraqi-pm/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-07-24T08:05:49+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26204433598064-1024x640.jpg"
+      },
+      {
+        "id": "563b89b0ac",
+        "title": "הנשיא טראמפ לברק רביד: \"אני שוקל מתקפה מסיבית, גדולה יותר מכול מה שהיה בעבר - אני קרוב לקבל החלטה\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-69fc0bafb7f8f91027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-07-23T15:21:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/07/13/n20-1307-IBUD_TRUMP-ibud-1-3_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "41eea5d941",
+        "title": "חשד לפיגוע אנטישמי במנהטן: אדם דקר שני גברים מחוץ לבית כנסת",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-0ebb2f286519f91026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-07-23T23:46:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/07/24/HASHOOD_autoOrient_i.jpg"
+      },
+      {
+        "id": "8153397a7b",
+        "title": "גל אירועי תג מחיר: הצתות והתפרעויות של מתנחלים נגד פלסטינים ביהודה ושומרון",
+        "url": "https://news.walla.co.il/item/3855922",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-24T14:44:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/0/3/3803177-46.jpg"
       }
     ]
   },
@@ -156,38 +226,75 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בחירות 2026 ממשיכות לעלות על סדר היום, כשסקרים שונים מתפרסמים בתדירות גבוהה. נתניהו צפוי לצאת לארצות הברית בשבוע הבא לשיחות עם הנשיא טראמפ וישתתף בהלוויה. בחזית הבינלאומית, שר החוץ הבריטי החדש ממשיך לעורר דיון לגבי יחסו לישראל, ובעולם הסחר הגלובלי ארה״ב הטילה מכסים חדשים על יותר מ־80 מדינות.",
+      "summary_he": "נתניהו צפוי לטוס לוושינגטון לפגישה עם טראמפ, בין היתר על רקע המתיחות עם איראן. בישראל נמתחת ביקורת על יחס הליכוד לאירועי השכול, ומתעוררת מחלוקת סביב חוק הקפאת מעצרי עריקים חרדים לאחר עמדת היועמ\"שית.",
       "headlines": [
         {
-          "id": "985896d623",
-          "title": "בחירות 2026: כל הסקרים בחירות 2026: כל הסקרים",
-          "url": "https://www.kan.org.il/lobby/skarim/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
+          "id": "65f82b2477",
+          "title": "1 דקות מדיני בצל המתיחות עם איראן: נתניהו ייפגש עם טראמפ בוושינגטון לשכת רה\"מ הודיעה כי נתניהו ימריא בשני הקרוב לביקור מדיני בוושינגטון, שבמסגרתו ייפגש עם נשיא ארצות הברית וכן ישתתף בהלוויה של הסנאטור לינדזי גרהאם • מדובר בפגישה הראשונה בין שני המנהיגים מאז פברואר זמן קריאה: 1 דקות.",
+          "url": "https://www.i24news.tv/he/news/news/diplomacy/artc-fa0c5294",
+          "source": "i24",
+          "source_label": "i24NEWS",
+          "source_label_he": "i24NEWS",
           "published_at": null,
-          "image_url": null
+          "image_url": "https://cdn.i24news.tv/uploads/66/40/9a/b6/98/81/6a/02/12/d1/8c/6b/3e/d6/75/cf/66409ab698816a0212d18c6b3ed675cf.jpeg?width=350"
         },
         {
-          "id": "30e3cc2e30",
-          "title": "נתניהו ימריא לארה\"ב בשבוע הבא: ייפגש עם טראמפ - וישתתף בהלוויית גרהאם",
-          "url": "https://www.ynet.co.il/news/article/s1onmewhfx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-07-24T14:17:46+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/30/HJw11leFhex/HJw11leFhex_190_0_2469_1390_0_medium.jpg"
-        },
-        {
-          "id": "a111b10a28",
-          "title": "10 clues on how new UK Foreign Secretary Ed Miliband could deal with Israel",
-          "url": "https://www.timesofisrael.com/10-clues-on-how-new-uk-foreign-secretary-ed-miliband-could-deal-with-israel/",
+          "id": "620f160b9a",
+          "title": "PM’s office says he’ll fly to DC for Tuesday meet with Trump, Graham memorial service",
+          "url": "https://www.timesofisrael.com/pms-office-says-hell-fly-to-dc-for-tuesday-meet-with-trump-graham-memorial-service/",
           "source": "times_of_israel",
           "source_label": "Times of Israel",
           "source_label_he": "Times of Israel",
-          "published_at": "2026-07-24T13:27:48+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26202421901419-e1784869816521-1024x640.jpg"
+          "published_at": "2026-07-24T16:29:15+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/03/AP26061855785359-e1772607057435-1024x640.jpg"
         },
+        {
+          "id": "e8f1a328f3",
+          "title": "בליכוד מבזים את השכול ומקטינים את הטבח. מכאן זה צפוי רק להחמיר",
+          "url": "https://www.haaretz.co.il/news/elections/2026-07-24/ty-article/.highlight/0000019f-9057-df92-a7ff-b6d71bc20000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-24T03:00:14+00:00",
+          "image_url": null
+        },
+        {
+          "id": "9de8342e8d",
+          "title": "היועמ\"שית לבג\"ץ: חוק הקפאת מעצרי עריקים חרדים אינו חוקתי - ויש לבטלו",
+          "url": "https://news.walla.co.il/item/3855926",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-24T15:01:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/2/4062153-46.jpg"
+        },
+        {
+          "id": "d70cd1d3d8",
+          "title": "מילואימניק צולם קורא להצביע לסמוטריץ' והודח משירות, השר לרמטכ\"ל: \"לא מידתי\"",
+          "url": "https://www.ynet.co.il/news/article/r100xigebmg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-07-24T07:44:55+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/23/Byl00yalgSfl/Byl00yalgSfl_1_300_720_406_0_medium.jpg"
+        },
+        {
+          "id": "ebf976a4e9",
+          "title": "טראומת 7 באוקטובר? נתניהו מפחד רק מטראומת 27 באוקטובר",
+          "url": "https://www.themarker.com/weekend/2026-07-24/ty-article-magazine/.premium/0000019f-8e28-d458-a9ff-beeacafd0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-24T03:25:38+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-8e4f-db22-a5df-ef5f85700001/a2/33/9a3b5be04b94aef1a8a01dc4b4b4/409474.jpg?height=81"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "ארה\"ב הטילה מכסי סחר חדשים על יותר מ-80 מדינות, כולל ישראל, מה שעשוי להשפיע על מחירים מקומיים. בשוק ההון נרשמה מחיקת עליות בוול סטריט, עם ירידה במניית אינטל למרות דו\"חות חזקים.",
+      "headlines": [
         {
           "id": "817b7271c1",
           "title": "ארה\"ב הטילה מכסים על יותר מ־80 מדינות ותבסס תקדים חדש במדיניות הסחר",
@@ -197,124 +304,90 @@
           "source_label_he": "הארץ",
           "published_at": "2026-07-23T23:16:27+00:00",
           "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "עלויות החיים ממשיכות להעסיק את הציבור בכמה רבדים. המצור החות׳י גובה מסעודיה תוספת של 2.5 מיליון דולר בחודש בים. בשוק הקמעונות מושקעים 100 מיליון דולר בשנה בדליי פופקורן מעוצבים, ועופר ינאי פעיל גם הוא בתחום ההשקעות בתחנות כוח.",
-      "headlines": [
-        {
-          "id": "0182688695",
-          "title": "תוספת של 2.5 מיליון דולר וחודש בים: המחיר שגובה המצור החותי מסעודיה",
-          "url": "https://www.themarker.com/wallstreet/2026-07-24/ty-article/.premium/0000019f-933b-df92-a7ff-b7bb7a0f0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-24T09:48:53+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-9371-d1a3-adff-f3f334f10001/df/7c/0433f3d041938e19714e4d39470c/878091.jpg?height=81"
         },
         {
-          "id": "832a70a0b8",
-          "title": "100 מיליון דולר בשנה: עלייתם של דליי הפופקורן המעוצבים",
-          "url": "https://www.themarker.com/wallstreet/2026-07-24/ty-article-magazine/.premium/0000019f-93c4-df92-a7ff-b7c605130000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-24T12:19:14+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-93c5-db22-a5df-f7d72fa40001/fb/20/6fc1bdf7440db919945fc37c6648/movies-popcorn-buckets-6.jpg?height=81"
-        },
-        {
-          "id": "3f377671d5",
-          "title": "עופר ינאי יורה לכל הכיוונים - מצרף מוסדיים ומקדם רכישת תחנת כוח",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550390",
+          "id": "75f2a30b6c",
+          "title": "החל מהלילה: כמה תשלם ישראל מהמכס החדש של טראמפ",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001550395",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-07-24T11:07:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1753623910/direct/%D7%A2%D7%95%D7%A4%D7%A8_%D7%99%D7%A0%D7%90%D7%99_%D7%99%D7%95%D7%A8_%D7%A0%D7%95%D7%A4%D7%A8_%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94_%D7%A6%D7%9C%D7%9D_%D7%A0%D7%A2%D7%9D_%D7%92%D7%9C%D7%90%D7%99_bxdbdp-1_gp7ytc.jpg"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "בעולם התרבות, חיים יבין הובא למנוחות, ועמיר תיבון, יוצר זוכה פרס, מתכונן לחזור לקיבוץ שממנו נמלטה משפחתו ב־7 באוקטובר. בנוסף, יקב משפחתי בדרך לירושלים משדר נוף עוצר נשימה ומציע רפרטואר מפואר.",
-      "headlines": [
-        {
-          "id": "4e5bf43be9",
-          "title": "\"היית אבא של כולם, אבא\": חיים יבין הובא למנוחות",
-          "url": "https://e.walla.co.il/item/3855887",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-07-24T10:50:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/9/4079979-46.png"
+          "published_at": "2026-07-24T11:50:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1743627460/direct/AP25092740338492_kxgw9l.jpg"
         },
         {
-          "id": "7c07f5bbfc",
-          "title": "Award-winning writer Amir Tibon readies to return to kibbutz where his family survived Oct. 7",
-          "url": "https://www.timesofisrael.com/award-winning-writer-amir-tibon-readies-to-return-to-kibbutz-where-his-family-survived-oct-7/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-07-24T13:26:43+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/tibon-amir-1024x640.jpg"
-        },
-        {
-          "id": "c3b15136cd",
-          "title": "בדרך לירושלים יש יקב משפחתי עם רפרטואר מפואר ונוף עוצר נשימה",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550083",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-24T13:05:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784708740/%D7%99%D7%A7%D7%91_%D7%A4%D7%9C%D7%9D_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%A0%D7%95%D7%A2%D7%9D_%D7%A4%D7%A8%D7%99%D7%A1%D7%9E%D7%9F_3_ftol1n.jpg"
-        }
-      ]
-    },
-    {
-      "key": "environment",
-      "label_he": "סביבה ואקלים",
-      "summary_he": "תחזית מזג האוויר: צפויה ירידה בטמפרטורות בימים הקרובים עם הקלה בעומסי החום, אך גל חום צפוי לחדור בשבוע הבא. הגלים בים צפויים להגיע לגובה של 2.5 מטרים, וגם הרחצה בים צפויה להיות כרוכה באזהרות.",
-      "headlines": [
-        {
-          "id": "c8600c9176",
-          "title": "התחזית: ירידה בטמפרטורות, הקלה בעומסי החום",
-          "url": "https://www.ynet.co.il/news/article/w93hczgmp",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-07-24T03:28:03+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/08/SkDn00iXnZg/SkDn00iXnZg_0_0_3000_2000_0_medium.jpg"
-        },
-        {
-          "id": "c781f92503",
-          "title": "גלים בגובה 2.5 מטרים: האזהרה למתרחצים בים - וגל החום שיתחדש בשבוע הבא",
-          "url": "https://www.ynet.co.il/news/article/ryy6knxsgx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-07-24T10:21:51+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/29/HJWjb00CdIWe/HJWjb00CdIWe_1_210_3000_1689_0_medium.jpg"
+          "id": "54605b1954",
+          "title": "נמחקו העליות בוול סטריט; אינטל יורדת ב-4% למרות דו\"חות חזקים",
+          "url": "https://www.themarker.com/wallstreet/2026-07-24/ty-article-live/0000019f-7422-d4cc-abbf-76aeb19e0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-24T16:00:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-84d7-de59-a5bf-feff32170001/83/d8/09975ddb4fcc87b35ea4c4edc505/460578297.jpg?height=81"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "קפה בירושלים הפך לסמל של התנגדות חילונית, עד שנחשף שהוא מנוהל בידי יהודים למען ישו, דבר שעורר דיון ציבורי.",
+      "summary_he": "בעקבות פיגוע דקירה במנהטן, מנהיגים יהודים קוראים למועמד ממדני לרכך את רטוריקתו נגד ישראל. בישראל נדונה סוגיית עריקים חרדים וחוקיות הקפאת מעצריהם.",
       "headlines": [
         {
-          "id": "e7f6aa6bb3",
-          "title": "Jerusalem cafe symbolizes secular defiance – until people learn it’s run by Jews for Jesus",
-          "url": "https://www.timesofisrael.com/jerusalem-cafe-symbolizes-secular-defiance-until-people-learn-its-run-by-jews-for-jesus/",
+          "id": "147ceb65c4",
+          "title": "Jewish leaders demand Mamdani tone down rhetoric against Israel after stabbing",
+          "url": "https://www.timesofisrael.com/jewish-leaders-demand-mamdani-tone-down-rhetoric-against-israel-after-stabbing/",
           "source": "times_of_israel",
           "source_label": "Times of Israel",
           "source_label_he": "Times of Israel",
-          "published_at": "2026-07-24T04:03:43+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/TC__6626-scaled-e1784811632889-1024x640.jpg"
+          "published_at": "2026-07-24T16:32:45+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/20260724_untitled_06465-1024x640.jpg"
+        },
+        {
+          "id": "41eea5d941",
+          "title": "חשד לפיגוע אנטישמי במנהטן: אדם דקר שני גברים מחוץ לבית כנסת",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-0ebb2f286519f91026.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-07-23T23:46:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/07/24/HASHOOD_autoOrient_i.jpg"
+        },
+        {
+          "id": "9de8342e8d",
+          "title": "היועמ\"שית לבג\"ץ: חוק הקפאת מעצרי עריקים חרדים אינו חוקתי - ויש לבטלו",
+          "url": "https://news.walla.co.il/item/3855926",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-24T15:01:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/2/4062153-46.jpg"
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "דיווח מראה כי דירת 4 חדרים בעפולה נמכרה במחיר נמוך מדירת 2 חדרים בחולון, לצד דיון על עדיפות רכישת דירה בהתחדשות עירונית לעומת שכונה חדשה.",
+      "headlines": [
+        {
+          "id": "06e9079380",
+          "title": "דירת 4 חדרים בעפולה נמכרה ב-1.2 מיליון שקל — פחות מדירת 2 חדרים בחולון",
+          "url": "https://www.themarker.com/realestate/2026-07-24/ty-article/.premium/0000019f-8e69-d458-a9ff-beeb4d060000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-24T03:32:50+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-8ee8-d114-a59f-cefdefdc0001/7c/31/147e0114404594d13c8b802aa896/rishon.PNG?height=81"
+        },
+        {
+          "id": "25c8a9e216",
+          "title": "איפה עדיף לקנות דירה מהניילונים: בהתחדשות עירונית או בשכונה חדשה?",
+          "url": "https://www.themarker.com/realestate/2026-07-24/ty-article-magazine/.highlight/0000019f-89d4-d114-a59f-cddd8cc00000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-24T03:14:39+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-89e3-db22-a5df-edf3958c0000/27/d3/39f3440c4378803815ee930bd83b/markerweek-newbuilding-22-07-2026-newbuilding-promotion.png?height=81"
         }
       ]
     }
@@ -338,28 +411,8 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israeli Prime Minister Netanyahu is traveling to Washington for talks with President Trump. Violence in the West Bank continues, with multiple shootings and settler attacks resulting in Palestinian and Israeli casualties. Concerns about antisemitism have intensified, with prominent figures saying that Jewish community members feel unsafe at Jewish events, and concerns being raised about antisemitic rhetoric on social media and in academic settings.",
+      "summary_en": "West Bank violence escalated with four Palestinians and one Israeli killed during a settler attack. Antisemitic violence struck a synagogue community, intensifying concerns about Jewish safety and antisemitism in the diaspora. The broader Middle East crisis intensified with US military strikes against Iran and Iranian retaliatory targeting of American bases. Israeli Prime Minister Netanyahu is scheduled to meet President Trump at the White House amid regional tensions.",
       "headlines": [
-        {
-          "id": "ee39e4bc93",
-          "title": "Netanyahu travels to Washington on Monday for talks with Trump",
-          "url": "https://www.hln.be/buitenland/netanyahu-reist-maandag-naar-washington-voor-overleg-met-trump~a99e0324/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-07-24T14:44:00+00:00",
-          "image_url": "https://images.hln.be/ZjRkOTM1YjZjNDk0YjAxZjg0NTgvZGlvLzI3NjIwMzY0NC9maXQtd2lkdGgvNDAw/tel-aviv-israel-october-13-u-s-president-donald-trump-speaks-to-israeli-prime-minister-benjamin-netanyahu-at-ben-gurion-international-airport-before-boarding-his-plane-to-sharm-el-sheikh-on-october-13-2025-in-tel-aviv-israel-president-trump-is-visiting-the-country-hours-after-hamas-released-the-remaining-israeli-hostages-captured-on-oct-7-2023-part-of-a-us-brokered-ceasefire-deal-to-end-the-war-in-gaza-photo-by-chip-somodevilla-getty-images"
-        },
-        {
-          "id": "22c51bb32b",
-          "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-          "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-07-24T14:41:32+00:00",
-          "image_url": null
-        },
         {
           "id": "e3b4bdc4a7",
           "title": "Four Palestinians and one Israeli killed during West Bank settler attack",
@@ -367,163 +420,143 @@
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-07-24T12:55:37+00:00",
+          "published_at": "2026-07-24T16:54:02+00:00",
           "image_url": "https://i.guim.co.uk/img/media/5e0ee810c42016b02c4122145a9337833a4af49b/306_0_3059_2447/master/3059.jpg?width=700&quality=85&auto=format&fit=max&s=c60d7ecb9ee2bf4bb4d728a8ce1697f9"
         },
         {
-          "id": "648940799e",
-          "title": "Julian Leeser says his son no longer feels safe at Jewish events",
-          "url": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-24T08:23:43+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/3a83cad8f214fcab685d0ffec12df3e996d28dd7/1429_195_4903_3924/master/4903.jpg?width=700&quality=85&auto=format&fit=max&s=f76097c7770a39bb7f3d1083ea9e9e1b"
-        },
-        {
-          "id": "e8248d4c74",
-          "title": "Hasan Piker is gaslighting American Jews. As a historian of antisemitism, I can tell.",
-          "url": "https://www.jta.org/2026/07/24/ideas/hasan-piker-is-gaslighting-american-jews-as-a-historian-of-antisemitism-i-can-tell",
+          "id": "ef43ecf129",
+          "title": "When antisemitic violence came to our synagogue's doorstep, Tisha B'Av's 'narrow straits' became frighteningly real",
+          "url": "https://www.jta.org/2026/07/24/ideas/when-antisemitic-violence-came-to-our-synagogues-doorstep-tisha-bavs-narrow-straits-became-frighteningly-real",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-07-24T14:00:31+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/04/4-8-26-hasan-3.jpg"
+          "published_at": "2026-07-24T16:51:36+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/GettyImages-2286728394-scaled-e1784909620158.jpg"
         },
         {
-          "id": "2f63a0568f",
-          "title": "University courses covering Israel-Palestine should be audited, Julian Leeser tells royal commission",
-          "url": "https://www.theguardian.com/australia-news/2026/jul/24/university-courses-covering-israel-palestine-should-be-audited-julian-leeser-tells-royal-commission-ntwnfb",
+          "id": "cc4ca3cb3b",
+          "title": "Middle East crisis latest: US carries out strikes across Iran as Tehran targets American bases in region",
+          "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-07-24T08:30:18+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/3a83cad8f214fcab685d0ffec12df3e996d28dd7/517_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=84b1ccfcd29a3abbed64f54819cc5cdf"
+          "published_at": "2026-07-24T16:14:02+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/e7bb6355149157db04d4dbd35e8ef866b099184c/372_0_4191_3354/master/4191.jpg?width=700&quality=85&auto=format&fit=max&s=b50c22f1b72db8e19c0602efe855cf32"
+        },
+        {
+          "id": "0ee0689ec3",
+          "title": "Middle East war: Belgian MR chairman Bouchez meets Iranian Shah's son; Netanyahu to meet with Trump at White House next week",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/mrvoorzitter-bouchez-ontmoet-zoon-iraanse-sjah-netanyahu-volge~1784611610051/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/24/77f93e2c-1bfe-4e66-ab1e-64ee6b498811.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Dutch football manager Mark van Bommel has been officially appointed as Belgium's new national football team coach. The country faces extreme weather conditions, with a heat wave expected from next week bringing temperatures above 30°C, while energy experts warn of high energy costs this winter. A deadly fire in the Linkeroever area of Antwerp claimed multiple lives.",
+      "summary_en": "Colruyt, a major Belgian grocery retailer, recalled tongue meat products due to potential listeria contamination, removing the products from shelves. The international Tomorrowland music festival in Belgium featured an extraordinary performance by an 83-year-old Cameroonian village chief with royal connections, made possible through the efforts of two Belgian organizers. The long-running Heidi De Schepper criminal case advanced with prosecutors seeking a trial before the assizes court, despite the victim's body never having been recovered.",
       "headlines": [
         {
-          "id": "f40dd59ff2",
-          "title": "Official: Dutchman Mark van Bommel (49) is the new Belgium national football coach",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/21/rode-duivels-hebben-nieuwe-bondscoach-nederlander-mark-van-bomm/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2024/04/07/a8abb191-f466-11ee-8fc9-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
+          "id": "7409187f25",
+          "title": "Colruyt removes tongue block from shelves due to possible listeria contamination",
+          "url": "https://www.hln.be/binnenland/colruyt-haalt-tongblok-uit-de-rekken-wegens-mogelijke-listeriabesmetting~a6c48cdf/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-24T16:34:08+00:00",
+          "image_url": "https://images.hln.be/MWE4ZTdiZDhjM2JkZDFhZWI3NWIvZGlvLzI3NjIwNzAxMS9maXQtd2lkdGgvNDAw/colruyt-inzet-terugroepactie-tongblok-colruyt"
         },
         {
-          "id": "6a2e00ec75",
-          "title": "'To honor our 5 fantastic neighbors': Resident Walter Callebaut writes emotional song after deadly fire in Linkeroever",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/24/lied-slachtoffers-brand-linkeroever-walter-callebaut/",
+          "id": "663e29b461",
+          "title": "Tomorrowland: Thanks to 2 Belgians, how an 83-year-old Cameroonian village chief with royal blood performs at Tomorrowland tonight",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/22/tomorrowland-oudste-artiest-eko-roosevelt-uit-kameroen/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/02/9d7c1e81-b802-4a63-8551-44c008b6e877.jpg?width=200&height=200&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/22/0caddab1-fe6c-4f6c-8f29-d14ce96c48de.jpg?width=200&height=200&q=80&blur=90"
         },
         {
-          "id": "abedc212b8",
-          "title": "Another heat wave on the horizon? From next week again 30 degrees and above",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/24/nieuwe-hittegolf-in-de-maak-volgende-week-opnieuw-30-graden/",
+          "id": "04656faa3a",
+          "title": "Heidi De Schepper case: Prosecution wants suspects before assizes court, even though body was never found",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/24/heidi-de-schepper-eindvordering-assisen/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/16/6dc1a1ce-b1da-49d1-884d-02c00fb06797.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "5af460daa4",
-          "title": "Energy experts warn of expensive energy winter: 'Even if Middle East conflict stops now'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/24/lucia-van-geuns-energieprijzen-stijgen-oorlog-iran-vs/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/24/fd378940-5037-454c-b22b-68726b5390ad.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2025/01/27/4e46481a-420a-45f8-84f3-e2458f7a2843.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "europe": {
-      "summary_en": "Massive wildfires are spreading across southern Europe, with tens of thousands of people evacuated from France and near Madrid, while parts of England remain under a heat alert with temperatures reaching 30°C. Irish police have intercepted a significant car bomb headed to Northern Ireland. EU governments have criticized the new cash-for-reforms model in the European Union's budget proposal.",
+      "summary_en": "UK officials are lobbying EU leaders to waive entry/exit system (EES) border controls, highlighting ongoing Brexit-related tensions. Poland's conservative party is experiencing internal divisions ahead of the 2027 election. Southern Europe faced devastating wildfires, particularly in Spain near Madrid and in France, resulting in thousands of evacuations and one arrest on suspicion of arson using an agricultural machine. The Russia-Ukraine conflict continued, with Russian attacks killing ten civilians near Kyiv and Romania shooting down a drone that entered its airspace — the first time it has done so.",
       "headlines": [
         {
-          "id": "02a2adc9b2",
-          "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-          "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-07-24T14:59:24+00:00",
-          "image_url": null
-        },
-        {
-          "id": "06f110b615",
-          "title": "Irish police intercept 'extremely significant' car bomb headed to Northern Ireland",
-          "url": "https://www.demorgen.be/snelnieuws/ierse-politie-onderschept-extreem-significante-autobom-op-weg-naar-noord-ierland~b03b3fe1/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-24T13:10:00+00:00",
-          "image_url": "https://image.demorgen.be/276197665/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "03cfd8390a",
-          "title": "Governments criticize EU's cash-for-reforms model in new budget",
-          "url": "https://www.politico.eu/article/governments-criticize-eus-cash-for-reforms-model-in-new-budget/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-07-24T14:47:17+00:00",
-          "image_url": null
-        },
-        {
-          "id": "5dc1ecd241",
-          "title": "Parts of England under heat alert with 30C possible",
-          "url": "https://www.theguardian.com/uk-news/2026/jul/24/parts-of-england-under-heat-alert-with-30c-possible",
+          "id": "7738bc5f3c",
+          "title": "Burnham urged to lobby EU leaders directly to waive EES border controls",
+          "url": "https://www.theguardian.com/business/2026/jul/24/burnham-urged-to-lobby-eu-leaders-directly-to-waive-ees-border-controls",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-07-24T14:14:52+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/43ce0d1706e07c662374cc61faf95a77635ec620/798_53_6460_5171/master/6460.jpg?width=700&quality=85&auto=format&fit=max&s=4259ff9877e35dd871ff71b14950f2e4"
-        }
-      ]
-    },
-    "world_top": {
-      "summary_en": "Russia continues its military assault on Ukraine, with a Russian attack near Kyiv killing at least ten people. Romania shot down a drone that entered its airspace for the first time. Massive wildfires across Europe are driving tens of thousands to flee their homes, with forecasts predicting further escalation of the crisis in August. The wildfire near Bordeaux has destroyed an area larger than Paris, necessitating the evacuation of 44,000 people.",
-      "headlines": [
+          "published_at": "2026-07-24T15:03:20+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/368df0fb7c9576ae386d17f06056205debf2181c/554_81_4609_3687/master/4609.jpg?width=700&quality=85&auto=format&fit=max&s=225217476d4248b448dc6f6a4b5aa11b"
+        },
+        {
+          "id": "af97aeb010",
+          "title": "Polish conservatives split ahead of 2027 election",
+          "url": "https://www.politico.eu/article/polish-conservatives-split-ahead-of-2027-election/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-07-24T12:11:34+00:00",
+          "image_url": null
+        },
+        {
+          "id": "e4e4062b0d",
+          "title": "Wildfires sweep Southern Europe: new evacuations around Madrid; man arrested over alleged arson using agricultural machine; nearly 7,000 evacuated from Madrid region",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/hier-brandt-het-momenteel-in-zuideuropa-nieuwe-evacuaties-rond~1783176592077/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/24/6003553c-3768-47d4-8a8a-051c85bee0c2.jpg?width=200&height=125&q=80&blur=90"
+        },
         {
           "id": "3f052d192e",
-          "title": "Russia-Ukraine War: Ten dead in Russian attack near Kyiv; Romania shoots down drone entering airspace for first time",
+          "title": "Russia-Ukraine war: Ten killed in Russian attack near Kyiv; Romania shoots down drone entering its airspace for the first time",
           "url": "https://www.vrt.be/vrtnws/nl/liveblog/tien-doden-bij-russische-aanval-nabij-kiev-roemenie-schiet-voor~1781787179742/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
           "image_url": "https://images.vrt.be/vrtnws_web/2026/07/24/8c655cb7-d2db-4404-b1eb-abf0a2b38113.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Organized crime in Brazil has escalated dramatically, with armed gangs taking Amazon communities hostage in a coordinated surge of violence, according to local leaders. The Trump administration's new import tariffs are raising global economic concerns, with experts warning of severe and far-reaching consequences for economies worldwide.",
+      "headlines": [
+        {
+          "id": "f50e6e1d19",
+          "title": "Masked men invading and taking Amazon communities 'hostage' in organised crime surge, say local leaders",
+          "url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-24T11:49:19+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/572f948f8bd669f5ff96e947ac67a4c1fc54ae90/672_0_6720_5376/master/6720.jpg?width=700&quality=85&auto=format&fit=max&s=dce454b666ea5a9e1e3855cb03050275"
         },
         {
-          "id": "5c47aef923",
-          "title": "Wildfires already driving tens of thousands to flee Europe: experts warn of more chaos in August",
-          "url": "https://www.hln.be/buitenland/bosbranden-jagen-nu-al-tienduizenden-mensen-op-de-vlucht-in-europa-experts-waarschuwen-voor-nog-meer-chaos-in-augustus~a202faef/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-07-24T14:10:00+00:00",
-          "image_url": "https://images.hln.be/NDQyZGI1M2QxNTdlNTRmZDVjNWEvZGlvLzI3NjIwMTI4NC9maXQtd2lkdGgvNDAw/experten-bosbranden"
-        },
-        {
-          "id": "dd7599034b",
-          "title": "Wildfire near Bordeaux has already destroyed an area larger than Paris: 44,000 people evacuated",
-          "url": "https://www.hln.be/weernieuws/bosbrand-bij-bordeaux-verwoest-al-gebied-groter-dan-parijs-44-000-mensen-geevacueerd~afce368d/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-07-24T14:52:00+00:00",
-          "image_url": "https://images.hln.be/MTUwN2E0NzNiYjVkZjBiZWRmOTgvZGlvLzI3NTg3MDE3MS9maXQtd2lkdGgvNDAw/brand-fontainebleau"
+          "id": "2f91972be5",
+          "title": "Trade war: Experts concerned about Trump's new import tariffs, warning 'Economically catastrophic, politically much worse'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/24/invoerheffingen-vs-dwangarbeid-nonsens/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/24/a2554939-445f-41c1-9bfa-d977a9ab87db.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
