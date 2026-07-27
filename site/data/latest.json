@@ -1,97 +1,217 @@
 {
-  "generated_at": "2026-07-27T15:03:04.999805+00:00",
+  "generated_at": "2026-07-27T20:45:44.498784+00:00",
   "date": "2026-07-27",
-  "degraded": true,
+  "degraded": false,
   "top_general": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "summary_he": "ראש הממשלה נתניהו צפוי להיפגש עם הנשיא טראמפ בין השאר בנושא איראן, כשלדברי טראמפ העמדות ההדדיות קרובות. בליכוד מסתיים מרוץ הפריימריז לקראת הבחירות, ובסיאטל דווח על אירוע ירי קטלני בפסטיבל אוכל.",
     "headlines": [
       {
-        "id": "0180fbb8b7",
-        "title": "ועדת הטכנוקרטים: מוכנים לקבל את המנדט על עזה לאחר אישור מועצת הביטחון ונסיגת צה\"ל",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-27/ty-article/0000019f-a08c-df92-a7ff-a68e57f00000",
+        "id": "ec15605e8d",
+        "title": "התנאי לפגישת נתניהו-טראמפ: \"אל תגיע בידיים ריקות\"",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550506",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-07-27T19:58:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784308104/AP26194656384758_hkiqu9.jpg"
+      },
+      {
+        "id": "5c6a73c7f7",
+        "title": "טראמפ לקראת הפגישה המתוכננת עם נתניהו מחר: העמדות שלי ושל ישראל בעניין איראן די קרובות",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-27/ty-article/0000019f-a473-df42-a1df-e573465f0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-26T23:37:25+00:00",
+        "published_at": "2026-07-27T16:57:35+00:00",
         "image_url": null
       },
       {
-        "id": "50101269b9",
-        "title": "ליברמן: אם לא יהיה חוק גיוס לכולם - המס הישיר יעלה לכל האזרחים ב-16%",
-        "url": "https://www.ynet.co.il/news/article/hyyy85nrfl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-27T09:00:16+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/SkMuPq4rMl/SkMuPq4rMl_2_126_620_350_0_medium.jpg"
-      },
-      {
-        "id": "2b06d8bf01",
-        "title": "משאית התהפכה במחלף שער הגיא וגרמה לעומסי תנועה כבדים, בת 17 נפצעה בינוני",
-        "url": "https://news.walla.co.il/item/3856537",
+        "id": "36448742e2",
+        "title": "פריימריז, התמודדות במחוזות - ושריוני נתניהו: הקרב בליכוד בקו הסיום | התוצאות",
+        "url": "https://news.walla.co.il/item/3856631",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-07-27T14:04:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/1/4081539-46.jpeg"
+        "published_at": "2026-07-27T21:56:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/4/6/0/3460416-46.jpg"
       },
       {
-        "id": "dbf4d02f55",
-        "title": "השינוי בנסיעת נתניהו לפגישה עם טראמפ",
-        "url": "https://www.israelhayom.co.il/news/defense/article/21070186",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "77ab0a19cf",
-        "title": "לקראת הבחירות, אתר וואלה הציע למשרד של בן גביר: מערכת החדשות תקדם בשבילכם קמפיין בתשלום",
-        "url": "https://www.haaretz.co.il/news/elections/2026-07-27/ty-article/.premium/0000019f-a301-df42-a1df-e771fabc0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-27T12:48:32+00:00",
-        "image_url": null
-      },
-      {
-        "id": "0e6c20bd8c",
-        "title": "היום הגורלי של טראמפ, נתניהו וישראל מתקרב",
-        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21068272",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "be3b80ff2f",
-        "title": "דיווח: הסנאטור לינדזי גרהאם ניהל במשך שנים קמפיין שקרא למלחמה עם איראן",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-26/ty-article/.premium/0000019f-9fa4-db22-a5df-ffb6a9940000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-26T20:03:15+00:00",
-        "image_url": null
-      },
-      {
-        "id": "6cf93cfbb1",
-        "title": "צה\"ל נגד האוצר: הבטיחו לנו מיליארדים ועדיין לא קיבלנו שקל",
-        "url": "https://www.themarker.com/news/security/2026-07-27/ty-article/.premium/0000019f-a27d-df92-a7ff-a6ff6ed50000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-07-27T08:09:41+00:00",
-        "image_url": "https://img.haarets.co.il/bs/00000191-6fb5-d988-a3b5-6fff99270001/c2/69/05935c58430d96aca23c3f92563e/f8b4eba9-a193-4eaa-8cc4-458dffabf01a-0.jpg?height=81"
+        "id": "677afc2245",
+        "title": "אירוע ירי בסיאטל: לפחות שלושה הרוגים בפסטיבל האוכל הגדול בעיר",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-481cd27f961af91027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-07-27T02:46:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/07/27/vfadvadfvavav_autoOrient_i.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
-    "headlines": []
+    "summary_he": "צה\"ל יירט שני כטב\"מים בגבול ירדן ובודק את מקור השיגור, ובפעילות משותפת עם השב\"כ והמשטרה נעצרו החשודים בניסיון לחטוף נשק מחייל בסמוך לסוסיא. במקביל, ישראל שחררה 60 עצירים לרצועת עזה, וטראמפ מסר כי המו\"מ עם איראן מתקדם ברצינות אך האופציה הצבאית עדיין על הפרק.",
+    "headlines": [
+      {
+        "id": "9f52a124ee",
+        "title": "צה\"ל: יירטנו שני כטב\"מים בגבול ירדן, בודקים מאין שוגרו",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-27/ty-article/0000019f-a293-dcf3-a9df-a793bba90000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-27T07:56:59+00:00",
+        "image_url": null
+      },
+      {
+        "id": "c3a3fba0cf",
+        "title": "בפעילות משותפת של צה\"ל, שב\"כ והמשטרה: המחבלים מחטיפת הנשק סמוך לסוסיא נעצרו",
+        "url": "https://news.walla.co.il/item/3856561",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-27T15:33:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/0/4080739-46.jpeg"
+      },
+      {
+        "id": "82968bcf3a",
+        "title": "1 דקות ביטחוני המחבל מתנפל על החייל: התיעוד המלא מהפיגוע בסוסיא בתיעוד הפיגוע ניתן לראות שמדובר במהלך מתוכנן מצידו של המחבל הפלסטיני, אשר ניגש אל החייל בחופשה בעת שרעה צאן • המחבל ניגש לחייל וניסה לחטוף ממנו את נשקו, לאחר מכן הגיעה לעזרו קבוצת פלסטינים נוספים זמן קריאה: 1 דקות.",
+        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-555d6545",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
+        "published_at": null,
+        "image_url": "https://cdn.i24news.tv/uploads/81/46/40/1a/84/c1/a1/6f/62/ef/44/a5/c4/c0/3b/7f/8146401a84c1a16f62ef44a5c4c03b7f.jpg?width=350"
+      },
+      {
+        "id": "218741ca50",
+        "title": "ישראל שחררה לרצועת עזה 60 עצירים מכלא עופר ומשדה תימן",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-27/ty-article/.premium/0000019f-a3d1-d641-a1df-e3df71490000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-27T13:53:58+00:00",
+        "image_url": null
+      },
+      {
+        "id": "61a732fea8",
+        "title": "טראמפ לחדשות 12: \"מנהלים שיחות עמוקות עם איראן. אם לא יצליחו - נחזור לפעולה צבאית עוצמתית\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-67246c5c7f3af91026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-07-27T15:00:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/07/13/n20-1307-IBUD_TRUMP-ibud-1-3_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "9ced69debf",
+        "title": "גורם בממשל בארה\"ב לכאן חדשות: המו\"מ עם איראן בשלב רציני",
+        "url": "https://www.kan.org.il/content/kan-news/politic/1082108/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "cf17a36d80",
+        "title": "US and Iran seek Hormuz compromise as Trump keeps military option open",
+        "url": "https://www.ynetnews.com/article/b16t8d4szx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-27T05:10:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/25/HyLiTnZrzg/HyLiTnZrzg_0_0_3000_1688_0_medium.jpg"
+      }
+    ]
   },
-  "subjects": [],
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "הממשלה אישרה 70 מיליארד שקל לרכש צבאי בלי מקור תקציבי מוגדר, והיועמ\"שית קוראת לבלום את חוק מח\"ש בטענה שהוא עלול להטיל מורא על שוטרים לקראת הבחירות.",
+      "headlines": [
+        {
+          "id": "ce8779303c",
+          "title": "הממשלה אישרה 70 מיליארד שקל לרכש צבאי, אך לא מצאה מקור תקציבי לכך",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001550559",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-07-27T16:00:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1702914069/direct/Screenshot_2023-12-18_173655_rdpxza.jpg"
+        },
+        {
+          "id": "321763555f",
+          "title": "היועמ\"שית קוראת לבלום את חוק מח\"ש: יחידת תביעות פוליטית תטיל מורא על שוטרים רגע לפני הבחירות",
+          "url": "https://www.haaretz.co.il/news/elections/2026-07-27/ty-article/.premium/0000019f-a230-df42-a1df-e77176310000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-27T14:36:34+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "בפגרת הבחירות הועברו מיליוני שקלים למוסדות חינוך חרדיים שאינם מלמדים לימודי ליבה, ובמקביל התגלה כי המדינה מעולם לא קנסה בפועל בתי ספר שהפרו זאת.",
+      "headlines": [
+        {
+          "id": "caa11cc450",
+          "title": "בפגרת הבחירות: מיליוני שקלים למוסדות חינוך חרדיים - בלי לימודי ליבה",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21073333",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "32fe912e69",
+          "title": "השקר נחשף: המדינה הודתה שמעולם לא קנסה בתי ספר חרדיים שלא לימדו ליבה",
+          "url": "https://www.themarker.com/news/education/2026-07-27/ty-article/.premium/0000019f-a43e-d5e4-afff-affe26ff0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-27T16:21:20+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a45c-d641-a1df-e75ef09a0000/23/a9/07d457404de38b4a1876f83a29a2/826162.jpg?height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "מיקרוסופט חשפה פלטפורמת סייבר חדשה, כאשר מרכז הפיתוח הישראלי של החברה נמצא בלב המהלך.",
+      "headlines": [
+        {
+          "id": "bcfb0d340a",
+          "title": "מיקרוסופט חושפת פלטפורמת סייבר חדשה, ומרכז הפיתוח הישראלי בלב המהלך",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001550599",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-07-27T19:13:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1666086267/direct/EIZ_1442_li0aly.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "אתר הקניות Shein, הפופולרי בקרב ישראלים, דיווח על הפסד של 99 מיליון דולר בעקבות מכסי הסחר של טראמפ.",
+      "headlines": [
+        {
+          "id": "01c5cbc7b2",
+          "title": "Shein, אתר הקניות החביב על הישראלים, הפסיד 99 מיליון דולר בגלל מכסי טראמפ",
+          "url": "https://www.themarker.com/wallstreet/2026-07-27/ty-article/.premium/0000019f-a428-df42-a1df-e5798a030000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-27T17:15:15+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000184-0f01-d3cb-abec-8f81d73e0000/f2/82/6326ead347359cc5391a58d332da/53410.jpg?height=81"
+        }
+      ]
+    }
+  ],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -102,55 +222,95 @@
     "globes",
     "themarker",
     "times_of_israel",
-    "makor_rishon",
     "reshet13",
     "i24"
   ],
   "sources_failed": [
-    "maariv"
+    "maariv",
+    "makor_rishon"
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "The Israeli-Palestinian conflict shows ongoing diplomatic efforts alongside political tensions. Israel has indicated willingness to allow international troops in parts of Gaza not under Israeli control. Prime Minister Netanyahu faces accusations of incitement and has been confirmed to be traveling to New York. China and Russia are reportedly providing intelligence and technological support to Iran, according to US military planners, complicating Middle Eastern geopolitics.",
+      "summary_en": "Israel faces escalating international scrutiny and diplomatic tensions. Prime Minister Netanyahu confronted New York City's mayor over allegations of inciting hate after discussions of an arrest threat, while the UN accused Israel of possible war crimes in Lebanon. Gaza evacuation efforts remain blocked by British authorities. In diaspora communities, antisemitic violence persists in the United States, with a hate crime arrest on the Upper West Side, though pro-Israel cultural responses, including Boy George's new song, continue to emerge alongside celebration of a prominent Jewish cultural figure.",
       "headlines": [
         {
-          "id": "719cb248b4",
-          "title": "Israel-Palestinian conflict LIVE: Israel will allow international troops in parts of Gaza not under Israeli control",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/israel-zal-internationale-troepen-toelaten-in-deel-van-gaza-dat~1761226560191/",
+          "id": "c4e62024fa",
+          "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+          "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-07-27T09:59:15+00:00",
+          "image_url": null
+        },
+        {
+          "id": "fc03dcd070",
+          "title": "Home Office blocking evacuation of dozens of women and children from Gaza",
+          "url": "https://www.theguardian.com/uk-news/2026/jul/27/home-office-blocking-evacuation-women-children-gaza-refugee-family-reunion",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-27T11:32:48+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/63b249df69e0ecf2254698af8994d171deb678ff/259_0_3213_2570/master/3213.jpg?width=700&quality=85&auto=format&fit=max&s=2b016e77a5223a60e463c6b0beba0669"
+        },
+        {
+          "id": "2ef4d4dc6b",
+          "title": "UN: Israel commits possible war crimes in Lebanon",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/vn-israel-pleegt-mogelijk-oorlogsmisdaden-in-libanon~1784611610051/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/06/16/88e565c6-65c0-4160-b38a-0aee531ddf27.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/b451269e-5d2c-4725-9963-b264e65a0389.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "f4d9929881",
-          "title": "Live - Netanyahu accuses mayor Mamdani of 'inciting hatred' and confirms he is going to New York",
-          "url": "https://www.demorgen.be/snelnieuws/live-netanyahu-beschuldigt-burgemeester-mamdani-van-haatzaaien-en-bevestigt-dat-hij-naar-new-york-komt~ba7f8873/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-27T05:11:00+00:00",
-          "image_url": "https://image.demorgen.be/274041414/roi/320/320/691.1999999999999/529.2/afbeelding"
+          "id": "5545da123f",
+          "title": "Man accused of stabbing Jewish man on the Upper West Side is charged with hate crimes",
+          "url": "https://www.jta.org/2026/07/27/ny/man-accused-of-stabbing-jewish-man-on-the-upper-west-side-is-charged-with-hate-crimes",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-27T20:30:22+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/GettyImages-2286901392.jpg"
         },
         {
-          "id": "d2a4da6e2b",
-          "title": "Middle East war: China and Russia helping Iran with intelligence and technology, warn US military planners",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/vs-iran-donald-trump-munitie-voorraden-in-iran-op-angst-dat-chin/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/bcad8c88-2ed2-4334-a306-cb404aa28916.jpg?width=200&height=125&q=80&blur=90"
+          "id": "d4cb4a1818",
+          "title": "'You say genocide, I say war': Boy George releases pro-Israel song, We Will Dance Again",
+          "url": "https://www.theguardian.com/music/2026/jul/27/you-say-genocide-i-say-war-boy-george-releases-pro-israel-song-we-will-dance-again",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-27T14:31:12+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/71eb6e2f13b7a93bea05d20528b0d2edf3d09b8a/0_63_2792_2233/master/2792.jpg?width=700&quality=85&auto=format&fit=max&s=b147d16a3cf292de2dfb31e2b53f0ed6"
+        },
+        {
+          "id": "9621cc5a0a",
+          "title": "The man who changed Jewish bedtime stories is still reinventing himself at 97",
+          "url": "https://www.jta.org/2026/07/27/culture/the-man-who-changed-jewish-bedtime-stories-is-still-reinventing-himself-at-97",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-27T15:00:08+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/PJLibraryConference-2026-11-e1784835257133.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgian civic life continues with major events and public health concerns. Antwerp Pride proceeded safely despite security concerns following the Berlin attack, while Ghent's major festival concluded its celebrations at sunrise. The Red Cross urgently calls for blood donations as B-negative and O-negative supplies face critical shortages. Belgian footballer Thibaut Courtois backs Mark van Bommel as national team coach, and new consumer protection rules will require businesses to pay for complaints processed by the Consumer Ombudsman.",
+      "summary_en": "Belgian authorities and communities navigated security incidents and regional events. The Maasmechelen Village shopping center was temporarily closed after a bomb threat, requiring immediate evacuation of visitors. Antwerp Pride organizers reported no elevated security threats despite concerns following the Berlin attack. Energy policy debates intensified as politicians discussed the contradiction of raising gas taxation while simultaneously operating gas power plants, drawing criticism from constituents. The popular Ghent Feesten summer festival concluded with celebrations across the city.",
       "headlines": [
         {
+          "id": "fe239ce61f",
+          "title": "Maasmechelen Village reopened after bomb threat: 'Everyone had to immediately pack their things and leave'",
+          "url": "https://www.hln.be/maasmechelen/maasmechelen-village-terug-vrijgegeven-na-bommelding-iedereen-moest-meteen-zijn-spullen-bijeenpakken-en-vertrekken~a0a67085/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-27T18:19:00+00:00",
+          "image_url": "https://images.hln.be/ZDczYjBlNWY4MWFlZTEyZDUzMGQvZGlvLzI3NjI5MzkxNC9maXQtd2lkdGgvNDAw/maasmechelen-village-na-de-evacuatie-als-gevolg-van-een-valse-bommelding"
+        },
+        {
           "id": "9791392e6f",
-          "title": "Antwerp Region: 'Come out to the streets and don't be afraid' - Antwerp Pride sees no extra security threat after Berlin attack",
+          "title": "Antwerp Pride sees no extra threat following Berlin attack",
           "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/antwerp-pride-reactie-aanslag-pride-in-berlijn-geen-extra-dreigi/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -159,114 +319,94 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2025/08/09/cbab12fb-5e1e-4bef-b3f4-6b9120bae5f8.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "ac441073bc",
-          "title": "Latest revelers leave Vlasmarkt at sunrise: Ghent Festival is over",
-          "url": "https://www.demorgen.be/nieuws/laatste-feestvierders-verlaten-vlasmarkt-bij-zonsopgang-gentse-feesten-zitten-erop~b92056d4/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-27T13:09:37+00:00",
-          "image_url": "https://image.demorgen.be/276281064/feature-crop/320/320/afbeelding"
+          "id": "e71fe2d148",
+          "title": "Gas tax increases while gas plants continue operating: many citizens are troubled by this contradiction",
+          "url": "https://www.hln.be/opinie/timmie-van-diepen-de-accijnzen-op-gas-omhoog-maar-tegelijk-gascentrales-laten-draaien-aan-die-dubbele-moraal-storen-veel-burgers-zich~ae47992b/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-27T17:23:40+00:00",
+          "image_url": "https://images.hln.be/NjJjOGVlNDQxY2MxYWIxODVmNzAvZGlvLzI3NjI4OTExMS9maXQtd2lkdGgvNDAw/gascentrale-in-vilvoorde"
         },
         {
-          "id": "0c2832ab8f",
-          "title": "Blood supplies under severe pressure, especially B negative and O negative: Red Cross calls for donations",
-          "url": "https://www.demorgen.be/snelnieuws/bloedvoorraden-stevig-onder-druk-vooral-b-negatief-en-o-negatief-rode-kruis-roept-op-om-te-doneren~b85a6c40/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-27T06:24:00+00:00",
-          "image_url": "https://image.demorgen.be/239843222/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "546c569c4b",
-          "title": "'Important that he has such credentials': Thibaut Courtois positive about Mark van Bommel as national team coach",
-          "url": "https://www.demorgen.be/sport/belangrijk-dat-hij-zo-n-palmares-heeft-thibaut-courtois-positief-over-mark-van-bommel-als-bondscoach~b83cbb89/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-27T01:01:08+00:00",
-          "image_url": "https://image.demorgen.be/275821774/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "9dbd43c41e",
-          "title": "Economy: Businesses must soon pay if dissatisfied customers file complaints with the Consumer Ombudsman",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/bedrijven-moeten-bijdragen-aan-werking-van-consumentenombudsdien/",
+          "id": "7492b201ba",
+          "title": "Festival-goers close Ghent Feesten with celebrations at Vlasmarkt",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/07/27/video-opruimen-schoonmaak-gentse-feesten/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2021/12/02/90fe3615-5379-11ec-b07d-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/cc64cfda-1586-4364-84ad-ff021e0aaa3f.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "europe": {
-      "summary_en": "Europe confronts interconnected crises of fire, energy, and security. Wildfires in southwestern France and Spain have forced the evacuation of over 13,000 businesses in Gironde, with French officials warning of catastrophic economic damage described as an \"economic bomb.\" A fatal attack at Berlin's Pride festival claimed a Polish woman's life, highlighting persistent security concerns. Energy analysts warn of a potential new European gas crisis, while climate change continues to intensify wildfire severity across the continent.",
+      "summary_en": "Europe confronted major crises and geopolitical developments. Catastrophic forest fires swept across France and Spain, overwhelming aerial firefighting capacity, with President Macron describing the situation as the worst natural disaster since World War II. Tensions escalated on the eastern flank as Ukraine conducted drone strikes on Crimea while Romania expelled a Russian embassy staff member over airspace violations. Russia applied pressure on Armenia regarding EU accession, reflecting ongoing competition for regional influence. Meanwhile, Italy celebrated a significant medical breakthrough as a blind woman regained sight following an experimental retinal transplant procedure.",
       "headlines": [
         {
-          "id": "9468935af1",
-          "title": "Forest fires in France and Spain LIVE: Over 13,000 businesses evacuated in Gironde; French minister calls it an 'economic bomb'",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/ruim-13000-bedrijven-geevacueerd-in-gironde-franse-minister-sp~1783176592077/",
+          "id": "851990a0d8",
+          "title": "Forest fires in France and Spain: 'Worst fire since World War II' as President Macron visits heavily affected Gironde department",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/zwaarste-brand-sinds-tweede-wereldoorlog-president-macron-bez~1783176592077/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/82975737-984a-47e5-9aeb-fe91557d025b.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/68b3f8bd-6e56-43ef-8c18-f7baece4b61b.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "a1a2dc4ab6",
-          "title": "Analysis: A new European gas crisis? A perfect storm seems to be forming",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/26/naar-een-nieuwe-europese-gascrisis-perfecte-storm-lijkt-in-de-m/",
+          "id": "91e4b136ae",
+          "title": "Ten wounded in Crimea after Ukrainian drone attack; Romania expels Russian embassy staff member over airspace violations",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-tien-gewonden-op-de-krim-na-oekraiense-droneaanval-roemenie-zet-medewerker-russische-ambassade-land-uit-om-drones-in-roemeens-luchtruim~b38bed0a/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-27T16:58:00+00:00",
+          "image_url": "https://image.demorgen.be/276191519/roi/320/320/2416.74/1439.76/afbeelding"
+        },
+        {
+          "id": "8eb5197353",
+          "title": "Russia wants Armenia to hold referendum on EU accession",
+          "url": "https://www.hln.be/buitenland/rusland-wil-dat-armenie-referendum-organiseert-over-toetreding-tot-eu~a93df6b5/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-27T19:47:00+00:00",
+          "image_url": "https://images.hln.be/NzMzZWQ1YmY5MWZmMTQ3MmM3OTIvZGlvLzIzNTU1NDQzMy9maXQtd2lkdGgvNDAw/armenian-prime-minister-nikol-pashinyan-gives-a-televised-address-to-citizens-on-the-national-independence-day-in-yerevan-armenia-in-this-picture-released-september-21-2023-the-office-to-the-prime-minister-of-the-republic-of-armenia-handout-via-reuters-attention-editors-this-image-was-provided-by-a-third-party-no-resales-no-archives-mandatory-credit-russian-president-vladimir-putin-accompanied-by-education-minister-sergei-kravtsov-and-novgorod-region-governor-andrei-nikitin-visits-the-innovative-scientific-technological-centre-intelligent-electronics-valdai-in-veliky-novgorod-russia-september-21-2023-sputnik-ramil-sitdikov-kremlin-via-reuters-attention-editors-this-image-was-provided-by-a-third-party"
+        },
+        {
+          "id": "d718e19699",
+          "title": "Medical breakthrough in Italy: blind woman regains sight after retinal transplant",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/blinde-vrouw-kan-opnieuw-zien-na-transplantatie/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/03/19/e0a31b8a-3a68-4085-a162-b5d0eec999f0.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "415dc7577d",
-          "title": "Berlin Pride attack LIVE: Fatal victim of Berlin attack is Polish woman",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/dodelijk-slachtoffer-van-aanslag-in-berlijn-is-poolse-vrouw~1785041014139/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/67b010e1-1f14-4c88-88bb-f2fff900d181.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "1b9cf2e1a6",
-          "title": "Pedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle wildfires in France",
-          "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-27T03:58:52+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/14a92955b0ddb84523f4f694fb76473d080a714a/1236_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=5af6ed304706a43651de8a50fd6fb1f1"
-        },
-        {
-          "id": "94437c86be",
-          "title": "Forest fire destroys 170 houses in Le Porge: 'All the work of our ancestors has come to nothing'",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/07/26/video-bosbranden-le-porge-100-huizen-in-de-as/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/26/21864dd9-2cd0-434f-a16a-5aaa2b52b250.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/36173252-9b40-4f6c-b75f-795a2ab90198.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "The Russia-Ukraine war persists with devastating civilian casualties. A Russian drone strike on a supermarket in northern Ukraine killed at least two people, including a 10-year-old child, underscoring the ongoing humanitarian toll of the conflict.",
+      "summary_en": "Global tensions centered on Iran and U.S. foreign policy. Former President Trump warned of potential military intervention if diplomatic negotiations with Iran fail, signaling increased hawkish rhetoric. U.S. military planners issued warnings that China and Russia are actively providing intelligence and advanced technology to Iran, representing a significant geopolitical concern and a potential threat to regional stability.",
       "headlines": [
         {
-          "id": "654cc484ef",
-          "title": "Russia-Ukraine war LIVE: Two dead, including a 10-year-old child, in Russian drone attack on supermarket in northern Ukraine",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/twee-doden-onder-wie-een-10jarig-kind-bij-russische-droneaanv~1781787179742/",
+          "id": "640442d710",
+          "title": "Trump warns of return to 'strong military action' if Iran diplomacy fails",
+          "url": "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-27T17:02:56+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/67f20b5e91596f3f4882e3e2fa1769de42328ee2/556_0_5002_4000/master/5002.jpg?width=700&quality=85&auto=format&fit=max&s=7d574cd590cc1aaf4e523fe88eb5f4c9"
+        },
+        {
+          "id": "d2a4da6e2b",
+          "title": "China and Russia help Iran with intelligence and technology, warn U.S. military planners",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/vs-iran-donald-trump-munitie-voorraden-in-iran-op-angst-dat-chin/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/5ea26753-5472-411f-9609-63863e73aa6e.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/bcad8c88-2ed2-4334-a306-cb404aa28916.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
