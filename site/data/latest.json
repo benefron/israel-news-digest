@@ -1,97 +1,484 @@
 {
-  "generated_at": "2026-07-27T08:10:58.840266+00:00",
+  "generated_at": "2026-07-27T10:12:52.507328+00:00",
   "date": "2026-07-27",
-  "degraded": true,
+  "degraded": false,
   "top_general": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "summary_he": "בישראל נרשמו אירועים ביטחוניים משמעותיים כאשר צה״ל יירט שני כטב״מים בגבול הירדן. בפן הפוליטי, הממשלה אישרה כניסת כוח בינלאומי לעזה, ולקראת בחירות 2026 ניכרים מתחים בין המפלגות. מעבר לים, טראמפ הצהיר על איומים כלפי איראן, והמשא ומתן בין הצדדים נמשך.",
     "headlines": [
       {
-        "id": "b6c301b875",
-        "title": "ועדת הבחירות: חובה לסמן תעמולת בחירות שנוצרה באמצעות בינה מלאכותית",
-        "url": "https://www.haaretz.co.il/news/elections/2026-07-26/ty-article/.premium/0000019f-9eab-d114-a59f-debf16180000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-26T14:35:40+00:00",
+        "id": "56cabf7be1",
+        "title": "צה\"ל יירט 2 כטב\"מים בגבול ירדן",
+        "url": "https://news.walla.co.il/item/3856474",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-27T10:54:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/1/3/4013194-46.jpeg"
+      },
+      {
+        "id": "9295a61bd8",
+        "title": "חיל האוויר יירט שני כטב\"מים במרחב גבול הירדן",
+        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21066043",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
         "image_url": null
       },
       {
-        "id": "1e8153e699",
-        "title": "יוצאים לפרויקט פינוי־בינוי? כך תוכלו להימנע מטעויות",
-        "url": "https://www.themarker.com/realestate/2026-07-26/ty-article-magazine/.premium/0000019e-c5f6-d43d-a39f-e7ff2bcf0000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-07-26T15:57:16+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000019e-c9fa-d7bd-addf-effe1d400001/f0/b8/1083fecd494bbfed0f5bd3d6c5a4/markernadlan-obstacles-08-06-2026-obstacles-promotion.jpg?height=81"
+        "id": "8538557a0f",
+        "title": "יורטו 2 כטב\"מים באזור גבול ירדן, צה\"ל: לא חצו לשטח הארץ",
+        "url": "https://www.kan.org.il/content/kan-news/defense/live-1081764/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
       },
       {
-        "id": "c15a766396",
-        "title": "התחזית: התחממות הדרגתית - לקראת עומס חום קיצוני",
-        "url": "https://www.ynet.co.il/news/article/i9chmhl81",
+        "id": "48919fd917",
+        "title": "צה\"ל: שני כטב\"מים יורטו בגבול ירדן, מקור השיגור בבדיקה",
+        "url": "https://13tv.co.il/item/news/politics/security/day-1025-905282355/?pid=62&refc=902992383",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "027a67fc0b",
+        "title": "Cabinet gives initial approval for international force in Gaza, with some 200 troops",
+        "url": "https://www.timesofisrael.com/cabinet-gives-initial-approval-for-international-force-in-gaza-with-some-200-troops/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-07-27T08:28:36+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26146678560200-1024x640.jpg"
+      },
+      {
+        "id": "c19a5cc91c",
+        "title": "\"תראו במה אנחנו מתעסקים\": בני ביטון קורא לחברי הליכוד לתת לנתניהו לקבוע את הרשימה",
+        "url": "https://news.walla.co.il/item/3856449",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-27T09:19:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/1/7/3817848-46.jpg"
+      },
+      {
+        "id": "b46f93b7c6",
+        "title": "טראמפ במצב רוח לוחמני: פרסם תמונות AI ואיים על איראן - \"תקיפת האי חארג\"",
+        "url": "https://news.walla.co.il/item/3856415",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-27T06:12:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/0/4080967-46.jpg"
+      },
+      {
+        "id": "d7ebfac914",
+        "title": "נתניהו ימריא עם מסר, ארה\"ב ואיראן מחפשות פשרה: \"המצב נזיל\"",
+        "url": "https://www.ynet.co.il/news/article/sj116xv4sme",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-07-27T02:47:16+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/15/B1lEUQiBC/B1lEUQiBC_0_97_1280_720_0_medium.jpg"
-      },
-      {
-        "id": "c696e0aa12",
-        "title": "סערה בארה\"ב: בובות עם איברי מין נשלפים לבני 4",
-        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21066070",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "17329effbd",
-        "title": "יאיר נתניהו — או גוטליב ואפי נוה? הקרב על פני הליכוד שאחרי הבחירות",
-        "url": "https://www.themarker.com/news/politics/2026-07-27/ty-article/.premium/0000019f-9ec3-df92-a7ff-bec3a7620000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-07-27T03:01:21+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000019f-9f02-dcf3-a9df-9f1246400000/e7/40/d7594856466a976d8d16ba860fa0/331062.jpg?height=81"
-      },
-      {
-        "id": "f2750a003d",
-        "title": "\"בלתי נתפס\": השריפה הקשה במרכז חב\"ד באוקראינה",
-        "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21066206",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "74d39ad446",
-        "title": "\"חיים שלי\": הודיה כהן ומודי ספורי שוב בקשר",
-        "url": "https://www.israelhayom.co.il/forreal/localy/article/21065422",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "faa01819da",
-        "title": "קייב הותקפה שוב בטילים; רוסיה ואוקראינה דיווחו שתיהן על אזרחים הרוגים",
-        "url": "https://www.haaretz.co.il/news/world/europe/2026-07-26/ty-article/.premium/0000019f-9eed-db22-a5df-fffff32b0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-26T15:52:57+00:00",
-        "image_url": null
+        "published_at": "2026-07-27T04:58:49+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/22/ryekXORNGl/ryekXORNGl_0_125_3000_1689_0_medium.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
-    "headlines": []
+    "summary_he": "הציבור הישראלי ניצב מול איומים ביטחוניים משמעותיים. צה״ל יירט שני כטב״מים בגבול הירדן, בעוד שנרשמה עלייה במתיחות מול איראן ובעזה. הממשלה אישרה את כניסת הכוח הבינלאומי לרצועה. במקביל, נרשמו איומים איראניים בדמות שיגור טילים. כמו כן, ישנה טענה כי טורקיה מנסה להשפיע על הבחירות באמצעים שונים.",
+    "headlines": [
+      {
+        "id": "0180fbb8b7",
+        "title": "ועדת הטכנוקרטים: מוכנים לקבל את המנדט על עזה לאחר אישור מועצת הביטחון ונסיגת צה\"ל",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-27/ty-article/0000019f-a08c-df92-a7ff-a68e57f00000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-26T23:37:25+00:00",
+        "image_url": null
+      },
+      {
+        "id": "56cabf7be1",
+        "title": "צה\"ל יירט 2 כטב\"מים בגבול ירדן",
+        "url": "https://news.walla.co.il/item/3856474",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-27T10:54:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/1/3/4013194-46.jpeg"
+      },
+      {
+        "id": "9295a61bd8",
+        "title": "חיל האוויר יירט שני כטב\"מים במרחב גבול הירדן",
+        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21066043",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "8538557a0f",
+        "title": "יורטו 2 כטב\"מים באזור גבול ירדן, צה\"ל: לא חצו לשטח הארץ",
+        "url": "https://www.kan.org.il/content/kan-news/defense/live-1081764/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "48919fd917",
+        "title": "צה\"ל: שני כטב\"מים יורטו בגבול ירדן, מקור השיגור בבדיקה",
+        "url": "https://13tv.co.il/item/news/politics/security/day-1025-905282355/?pid=62&refc=902992383",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "b46f93b7c6",
+        "title": "טראמפ במצב רוח לוחמני: פרסם תמונות AI ואיים על איראן - \"תקיפת האי חארג\"",
+        "url": "https://news.walla.co.il/item/3856415",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-27T06:12:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/0/4080967-46.jpg"
+      },
+      {
+        "id": "b9973afceb",
+        "title": "2 דקות המזרח התיכון פרסום ראשון: לא רק איראן - גם טורקיה מנסה להשפיע על הבחירות בישראל | עמיחי שטיין במערכת הביטחון זיהו כי טורקיה משתמשת ברשתות החברתיות כדי להתערב בבחירות • הניסיונות כוללים מאמץ לשבש את הבחירות ולהגביר את הפילוג בחברה • ביסמוט הזהיר: \"הבחירות הקרובות יהיו יעד מרכזי של אויבי ישראל\" עמיחי שטיין זמן קריאה: 2 דקות.",
+        "url": "https://www.i24news.tv/he/news/international/middle-east/artc-a3905390",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
+        "published_at": null,
+        "image_url": "https://cdn.i24news.tv/uploads/8a/2d/18/8e/3b/20/ff/a4/7c/7b/30/95/54/ee/01/82/8a2d188e3b20ffa47c7b309554ee0182.jpg?width=350"
+      },
+      {
+        "id": "be3b80ff2f",
+        "title": "דיווח: הסנאטור לינדזי גרהאם ניהל במשך שנים קמפיין שקרא למלחמה עם איראן",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-26/ty-article/.premium/0000019f-9fa4-db22-a5df-ffb6a9940000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-26T20:03:15+00:00",
+        "image_url": null
+      },
+      {
+        "id": "bb3595ae5b",
+        "title": "המלחמה באיראן דחפה את העולם חזרה לפחם — אבל מהפכת האנרגיה המתחדשת רחוקה מלהיעצר",
+        "url": "https://www.themarker.com/news/energy/2026-07-27/ty-article/.premium/0000019f-8f9b-db22-a5df-ef9ba0520000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-07-27T03:06:50+00:00",
+        "image_url": "https://img.haarets.co.il/bs/0000019f-8fdc-de9f-afdf-afde40280000/4f/9e/aea853264ecb8811804006a98f7d/761225.jpg?height=81"
+      },
+      {
+        "id": "b89bf77557",
+        "title": "זול, מדויק וקטלני: הטיל המוצלח ביותר של איראן הופך למסוכן יותר",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550429",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-07-27T03:29:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785067872/800_yqkozd.jpg"
+      },
+      {
+        "id": "d7ebfac914",
+        "title": "נתניהו ימריא עם מסר, ארה\"ב ואיראן מחפשות פשרה: \"המצב נזיל\"",
+        "url": "https://www.ynet.co.il/news/article/sj116xv4sme",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-27T04:58:49+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/22/ryekXORNGl/ryekXORNGl_0_125_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "788199e211",
+        "title": "בישראל מנסים ליצור רושם שההסלמה בלתי נמנעת, אך חוסר ההתלהבות של טראמפ מופגן",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-26/ty-article/.highlight/0000019f-9eb9-db22-a5df-ffbba7030000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-26T16:49:02+00:00",
+        "image_url": null
+      },
+      {
+        "id": "027a67fc0b",
+        "title": "Cabinet gives initial approval for international force in Gaza, with some 200 troops",
+        "url": "https://www.timesofisrael.com/cabinet-gives-initial-approval-for-international-force-in-gaza-with-some-200-troops/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-07-27T08:28:36+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26146678560200-1024x640.jpg"
+      }
+    ]
   },
-  "subjects": [],
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "לקראת בחירות 2026 נרשמו התפתחויות והתרחשויות במפלגות השונות. בליכוד, בני ביטון קרא לאיחוד השורות, ובציונות הדתית בני גנץ ורוטמן צברו תמיכה. כמו כן, נרשמה ביקורת אמריקאית על ההליכים המשפטיים נגד נתניהו.",
+      "headlines": [
+        {
+          "id": "c19a5cc91c",
+          "title": "\"תראו במה אנחנו מתעסקים\": בני ביטון קורא לחברי הליכוד לתת לנתניהו לקבוע את הרשימה",
+          "url": "https://news.walla.co.il/item/3856449",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-27T09:19:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/1/7/3817848-46.jpg"
+        },
+        {
+          "id": "9bb30e5bf9",
+          "title": "היממה הדרמטית של הליכוד: נתניהו ירשום מפלה?",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21066506",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "985896d623",
+          "title": "בחירות 2026: כל הסקרים בחירות 2026: כל הסקרים",
+          "url": "https://www.kan.org.il/lobby/skarim/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "6b4a881e8e",
+          "title": "טראמפ מודע לכך שנתניהו זקוק לתמיכתו – וינצל זאת בפגישתם",
+          "url": "https://www.haaretz.co.il/news/politics/2026-07-27/ty-article/.premium/0000019f-9f8c-d114-a59f-df9d333e0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-27T03:01:07+00:00",
+          "image_url": null
+        },
+        {
+          "id": "d91ed1bbb7",
+          "title": "תוצאות הפריימריז בציונות הדתית: סטרוק ורוטמן במקומות הראשונים",
+          "url": "https://www.haaretz.co.il/news/elections/2026-07-26/ty-article/0000019f-9f89-d114-a59f-df9d0a4a0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-26T18:08:42+00:00",
+          "image_url": null
+        },
+        {
+          "id": "0e6c20bd8c",
+          "title": "פחות מ-100 יום: האירוע שיקבע את מעמד טראמפ, נתניהו וישראל",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21068272",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "594128eaee",
+          "title": "שלטי חוצות של איזנקוט הוצבו בקפריסין - ועוררו סערה",
+          "url": "https://www.kan.org.il/content/kan-news/politic/1081902/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": "https://www.kan.org.il/media/bvlp1fm5/hokcoqmw8aatwpd.jfif?rxy=0.4876205337006741,0.27680721161127914&width=490&height=272&v=1dd1dbb97c346b0"
+        },
+        {
+          "id": "29d327dafc",
+          "title": "דירקטוריון הרכבת מחזיר את אבשלום אלמליח לתפקיד מ\"מ המנכ\"ל",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001550514",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-07-27T07:11:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1756401701/direct/shutterstock_1187282461_oqkc5k.jpg"
+        },
+        {
+          "id": "0180fbb8b7",
+          "title": "ועדת הטכנוקרטים: מוכנים לקבל את המנדט על עזה לאחר אישור מועצת הביטחון ונסיגת צה\"ל",
+          "url": "https://www.haaretz.co.il/news/politics/2026-07-27/ty-article/0000019f-a08c-df92-a7ff-a68e57f00000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-26T23:37:25+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "בבורסה, מניית אינטר תעשיות זינקה ב-23% בעקבות התפתחות משמעותית. בחו״ל, היצואנים הישראלים חוששים מהשפעת מכסים אמריקאיים. בבורסה נרשמה גם עלייה משמעותית בשער החליפין.",
+      "headlines": [
+        {
+          "id": "87da533d3e",
+          "title": "רימון רוכשת את השליטה באינטר תמורת 67 מיליון שקל",
+          "url": "https://www.themarker.com/markets/2026-07-27/ty-article/.premium/0000019f-a221-db22-a5df-e73370fe0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-27T06:13:09+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a221-d114-a59f-eebdc2140001/71/2d/2598b11b46ae9ec9f908975ce3c4/880056.jpg?height=81"
+        },
+        {
+          "id": "840313c8d8",
+          "title": "מסחר תנודתי בתל אביב; מניית אינטר מזנקת ב-23%",
+          "url": "https://www.themarker.com/markets/2026-07-27/ty-article-live/0000019f-a1fa-df42-a1df-e5fb16950000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-27T05:12:33+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000185-0089-d8d6-a5e7-cc8df2910000/e0/f3/5f614b014b38bb1704ed9efaf339/577007-3.jpg?height=81"
+        },
+        {
+          "id": "b392644caf",
+          "title": "בממשלה ידעו והתרשלו, והמכס של טראמפ קפץ בעוד 850 מיליון שקל בשנה ליצואנים",
+          "url": "https://www.themarker.com/news/macroeconomics/2026-07-27/ty-article/.highlight/0000019f-9ea7-d114-a59f-debf16820000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-27T03:02:51+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-9eda-df92-a7ff-beda9f3c0000/b5/83/520007c641dcb41be59a96f8531e/147796.jpg?height=81"
+        },
+        {
+          "id": "624cb400b0",
+          "title": "שוק התשתיות נותן לאינטר תעשיות הזדמנות של פעם בחיים",
+          "url": "https://www.themarker.com/markets/2026-07-27/ty-article/.highlight/0000019f-9eea-df42-a1df-fffbbc010000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-27T03:03:43+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-9f0c-df92-a7ff-bf8e9f1b0001/68/77/934875894e3487795c9b0c896bbe/281837.jpg?height=81"
+        },
+        {
+          "id": "6b045f11e5",
+          "title": "הנפקת ענק הקפיצה את המטבע הקוריאני מול הדולר ופתחה את התיאבון של סיאול",
+          "url": "https://www.themarker.com/wallstreet/2026-07-27/ty-article/.premium/0000019f-a234-d114-a59f-eebd44f40000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-27T07:37:26+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a248-db22-a5df-e75aec4a0000/80/c5/36228c744a4592d8e492b64873b1/843589.jpg?height=81"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "בעולם נרשמת מגמה של מעבר למקורות אנרגיה מתחדשת חלופיים. בישראל צפויה התחממות הדרגתית לקראת עומס חום קיצוני בימים הקרובים.",
+      "headlines": [
+        {
+          "id": "bb3595ae5b",
+          "title": "המלחמה באיראן דחפה את העולם חזרה לפחם — אבל מהפכת האנרגיה המתחדשת רחוקה מלהיעצר",
+          "url": "https://www.themarker.com/news/energy/2026-07-27/ty-article/.premium/0000019f-8f9b-db22-a5df-ef9ba0520000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-27T03:06:50+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-8fdc-de9f-afdf-afde40280000/4f/9e/aea853264ecb8811804006a98f7d/761225.jpg?height=81"
+        },
+        {
+          "id": "c15a766396",
+          "title": "התחזית: התחממות הדרגתית - לקראת עומס חום קיצוני",
+          "url": "https://www.ynet.co.il/news/article/i9chmhl81",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-07-27T02:47:16+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/15/B1lEUQiBC/B1lEUQiBC_0_97_1280_720_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "בהוליווד, מספר סדרות חדשות זוכות לצפייה גבוהה. בתחום הספורט, שחקני כדורגל זכו בתואר משמעותי, ואחד מגיבורי המונדיאל הודיע על פרישה.",
+      "headlines": [
+        {
+          "id": "ad4e7b1cfe",
+          "title": "פחות סדרות, כמעט אותה צפייה: המספרים שמדאיגים את הוליווד",
+          "url": "https://e.walla.co.il/item/3856464",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-27T11:54:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/2/6/5/2/2652602-46.jpg"
+        },
+        {
+          "id": "d466fff571",
+          "title": "הכדורסלנית חשפה: חברה שלי בגדה בי עם מלא שחקניות WNBA",
+          "url": "https://sports.walla.co.il/item/3856507",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-27T11:59:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/1/4081451-46.jpg"
+        },
+        {
+          "id": "ac2be81ad0",
+          "title": "אחד מגיבורי גמר המונדיאל פרש במפתיע",
+          "url": "https://www.israelhayom.co.il/sport/world-soccer/article/21068168",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "5948c5f34c",
+          "title": "בגיל 50 עדן הראל הודיעה על שינוי: \"רוצה שקט\"",
+          "url": "https://www.israelhayom.co.il/forreal/localy/article/21067571",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "המשטרה חוקרת חשד לפגיעה בקטינה במתחם דתי, לאחר תלונת אביה. בנוסף, יש טענות בדבר ניסיון השפעה באמצעות רשתות חברתיות על הבחירות בישראל.",
+      "headlines": [
+        {
+          "id": "2bd567ec11",
+          "title": "בזכות דיווח האב: המשטרה חוקרת ניסיון לחתן קטינה ביבנאל",
+          "url": "https://www.kan.org.il/content/kan-news/local/1081883/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": "https://www.kan.org.il/media/cqxdsrp2/884d283d-e60b-491a-af94-7b577abf1802.jfif?rxy=0.4978306651621118,0.41840555299267257&width=490&height=272&v=1dd1db80b6661f0"
+        },
+        {
+          "id": "b9973afceb",
+          "title": "2 דקות המזרח התיכון פרסום ראשון: לא רק איראן - גם טורקיה מנסה להשפיע על הבחירות בישראל | עמיחי שטיין במערכת הביטחון זיהו כי טורקיה משתמשת ברשתות החברתיות כדי להתערב בבחירות • הניסיונות כוללים מאמץ לשבש את הבחירות ולהגביר את הפילוג בחברה • ביסמוט הזהיר: \"הבחירות הקרובות יהיו יעד מרכזי של אויבי ישראל\" עמיחי שטיין זמן קריאה: 2 דקות.",
+          "url": "https://www.i24news.tv/he/news/international/middle-east/artc-a3905390",
+          "source": "i24",
+          "source_label": "i24NEWS",
+          "source_label_he": "i24NEWS",
+          "published_at": null,
+          "image_url": "https://cdn.i24news.tv/uploads/8a/2d/18/8e/3b/20/ff/a4/7c/7b/30/95/54/ee/01/82/8a2d188e3b20ffa47c7b309554ee0182.jpg?width=350"
+        }
+      ]
+    }
+  ],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -103,25 +490,45 @@
     "themarker",
     "times_of_israel",
     "makor_rishon",
+    "reshet13",
     "i24"
   ],
   "sources_failed": [
-    "maariv",
-    "reshet13"
+    "maariv"
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "The Israeli-Palestinian conflict dominates international headlines. Israel signals willingness to allow international troops in parts of Gaza outside its control, while reports emerge of Israeli settlers setting fire to mosques, vehicles, and farmland in the West Bank. Prime Minister Netanyahu has accused a figure of fomenting hate amid international calls for his arrest. Jewish communities worldwide also feature in reports, with debates in Australia over armed Jewish security groups and legal challenges to the phrase 'from the river to the sea' in Queensland.",
+      "summary_en": "Israel announced it would allow international troops in parts of Gaza not under Israeli control, as Israeli-Palestinian tensions persisted. Israeli settlers continued attacks in the West Bank, setting fire to Palestinian mosques and property. Prime Minister Netanyahu accused a U.S. mayor of hate speech while confirming travel to New York. Jewish communities worldwide faced complex political situations, with Maine voters finding themselves politically sidelined, and Australian authorities debating whether Jewish security groups should carry firearms. Palestine Action activists faced potential terrorism charges over property damage related to the conflict.",
       "headlines": [
         {
           "id": "719cb248b4",
-          "title": "Israeli-Palestinian conflict LIVEBLOG: Israel will allow international troops in part of Gaza not under Israeli control",
+          "title": "Israel to allow international troops in parts of Gaza not under Israeli control",
           "url": "https://www.vrt.be/vrtnws/nl/liveblog/israel-zal-internationale-troepen-toelaten-in-deel-van-gaza-dat~1761226560191/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
           "image_url": "https://images.vrt.be/vrtnws_web/2026/06/16/88e565c6-65c0-4160-b38a-0aee531ddf27.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "d28156f4c6",
+          "title": "'Politically homeless': As Maine's Collins-Jackson Senate race kicks off, some Jewish voters find themselves adrift",
+          "url": "https://www.jta.org/2026/07/27/politics/politically-homeless-as-maines-collins-jackson-senate-race-kicks-off-some-jewish-voters-find-themselves-adrift",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-27T10:00:41+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/Untitled-design-2-copy-1.png"
+        },
+        {
+          "id": "05a197157a",
+          "title": "Palestine Action activists face being sentenced as terrorists over bank damage",
+          "url": "https://www.theguardian.com/uk-news/2026/jul/27/palestine-action-activists-face-being-sentenced-terrorists-damage-barclays-bank-burnley",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-27T08:13:39+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/47ee906a6f5cb195463e2738e9e28130c16da412/292_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=65f8534ffe8c1a953076995c810bd4d2"
         },
         {
           "id": "b5d3b4b842",
@@ -134,6 +541,16 @@
           "image_url": "https://i.guim.co.uk/img/media/ffe97bd62816484c5e127afecd58e0879c341a2f/567_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=71da3ccb3f8d7cb7932a1aa8afa4e0fc"
         },
         {
+          "id": "f4d9929881",
+          "title": "Netanyahu accuses Mayor Mamdani of 'hate-sowing' and confirms he is going to New York",
+          "url": "https://www.demorgen.be/snelnieuws/live-netanyahu-beschuldigt-burgemeester-mamdani-van-haatzaaien-en-bevestigt-dat-hij-naar-new-york-komt~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-27T05:11:00+00:00",
+          "image_url": "https://image.demorgen.be/274041414/roi/320/320/691.1999999999999/529.2/afbeelding"
+        },
+        {
           "id": "bb7e9947d7",
           "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
           "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
@@ -142,100 +559,70 @@
           "source_label_en": "BBC World",
           "published_at": "2026-07-26T21:23:53+00:00",
           "image_url": null
-        },
-        {
-          "id": "0711f6be8c",
-          "title": "Netanyahu accuses Mamdani of 'fomenting hate' in calls for PM's arrest",
-          "url": "https://www.theguardian.com/us-news/2026/jul/26/netanyahu-mamdani-icc-arrest-gaza-war-united-nations",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-26T20:43:20+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/f79d146460844bd368ab830a4d365439820e4916/370_0_2886_2309/master/2886.jpg?width=700&quality=85&auto=format&fit=max&s=b4d54498de0525e3d975700ecc948d94"
-        },
-        {
-          "id": "fca62371b4",
-          "title": "Protesters launch high court challenge to Queensland ban on 'from the river to the sea'",
-          "url": "https://www.theguardian.com/australia-news/2026/jul/27/protesters-launch-high-court-challenge-to-queensland-ban-on-from-the-river-to-the-sea-ntwnfb",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-27T06:57:05+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/3a0dde24566ae39afa301e37762c46d1c600bf8c/911_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=6de036c9cef0a158a35f787be606bb2a"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium faces significant challenges related to extreme weather and public safety. The country recorded Europe's highest excess mortality during a late-June heatwave, highlighting the serious health toll of climate extremes. Antwerp Pride organizers stated that there is no additional security threat following attacks elsewhere in Europe. A prominent Belgian judge, Chris Van den Wyngaert, criticized the International Criminal Court's credibility following the dismissal of its chief prosecutor. Police arrested a suspect in a recent stabbing incident in Ghent.",
+      "summary_en": "Belgium faced multiple emergencies as a rapidly spreading wildfire in Jonkershove prompted emergency evacuations, with residents fearing for their homes. Police in Ghent made an arrest in connection with a stabbing incident after receiving multiple tips. Health authorities highlighted dementia's mounting societal burden at 4.1 billion euros annually in costs, with most of the care provided unpaid by family members and friends.",
       "headlines": [
         {
-          "id": "3cce40acba",
-          "title": "Belgium had Europe's highest excess mortality during late June heatwave",
-          "url": "https://www.demorgen.be/snelnieuws/belgie-had-hoogste-oversterfte-van-europa-tijdens-hittegolf-eind-juni~b49d163b/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-27T05:18:00+00:00",
-          "image_url": "https://image.demorgen.be/275041195/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "9791392e6f",
-          "title": "Antwerp Pride: Come out and be yourselves - no increased threat seen after Berlin attack",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/antwerp-pride-reactie-aanslag-pride-in-berlijn-geen-extra-dreigi/",
+          "id": "e898f95f29",
+          "title": "Residents extinguish rapidly spreading grass fire in Jonkershove: 'We feared for our homes'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/bermbrand-heuvelland/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2025/08/09/cbab12fb-5e1e-4bef-b3f4-6b9120bae5f8.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/3e090589-edfe-4183-abf9-5c93f77cedbb.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "9ac1b3cdf1",
-          "title": "Former ICC judge Chris Van den Wyngaert on chief prosecutor Khan's dismissal: 'The Court has completely discredited itself'",
-          "url": "https://www.demorgen.be/nieuws/voormalig-icc-rechter-chris-van-den-wyngaert-over-ontslag-hoofdaanklager-khan-het-hof-heeft-zichzelf-compleet-ongeloofwaardig-gemaakt~b734d2f4/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-26T17:21:00+00:00",
-          "image_url": "https://image.demorgen.be/276264010/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "0b70fec1ef",
-          "title": "Police arrest suspect in stabbing at Rodetorenkaai in Ghent; second suspect still at large",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/verdachte-steekpartij-politie-gent-opgepakt-opsporing/",
+          "id": "298e76b625",
+          "title": "Emergency services on evacuations: 'They don't want to take any risks, they're being very drastic'",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/07/26/video-hilde-mertens-over-evacuaties/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/24/69d61f66-20ba-444b-96f6-403f7078b231.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/26/cdc0cd47-dabe-4066-b297-4e2d501d3baf.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "53a94d79e1",
+          "title": "Dementia costs Belgium 4.1 billion euros annually: most care is provided unpaid by family members and friends",
+          "url": "https://www.hln.be/binnenland/dementie-kost-belgie-jaarlijks-4-1-miljard-euro-meeste-zorg-gebeurt-onbetaald-door-familieleden-en-vrienden~adaf53c0/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-27T09:46:27+00:00",
+          "image_url": "https://images.hln.be/NTFmYzlkMTUxMjc2MjI5MTllYzcvZGlvLzI3NjI4MDU5Ny9maXQtd2lkdGgvNDAw/vooral-mantelzorgers-dragen-het-grootste-deel-van-de-rekening"
+        },
+        {
+          "id": "c8234ad95e",
+          "title": "After 14 tips about stabbing in Gent: police arrest one suspect, second still being sought",
+          "url": "https://www.hln.be/gent/na-14-tips-over-steekpartij-in-gent-politie-arresteert-een-verdachte-tweede-wordt-nog-opgespoord~add3d6a4/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-27T07:13:00+00:00",
+          "image_url": "https://images.hln.be/YjU5NjM4NTQwMjA5NWM2ZWU3MjAvZGlvLzI3NjI3ODI1Ni9maXQtd2lkdGgvNDAw/een-verdachte-van-de-steekpartij-werd-intussen-gevat"
         }
       ]
     },
     "europe": {
-      "summary_en": "Europe faces multiple crises affecting safety and the economy. Wildfires around Bordeaux, France, remain largely contained but continue to require emergency response as authorities prepare crisis meetings. A security incident occurred at Berlin's Pride event, with early reports suggesting the attacker may have acted alone. At the policy level, European leaders are addressing concerns over a potential major gas crisis as energy instability looms in the region. International diplomatic efforts continue, with pledges of support for Ukraine being reaffirmed amid ongoing tensions.",
+      "summary_en": "Severe wildfires swept through southern France and Spain, forcing the evacuation of over 13,000 businesses in Gironde as authorities warned of devastating economic impact. Energy analysts warned of a brewing European gas crisis amid geopolitical tensions. Russia's ongoing war in Ukraine claimed new civilian casualties, including a 10-year-old killed in a drone attack on a supermarket. A lone attacker targeted Pride celebrations in Berlin in a significant security incident.",
       "headlines": [
         {
-          "id": "702c5e1d5d",
-          "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-          "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-07-27T06:48:02+00:00",
-          "image_url": null
-        },
-        {
-          "id": "064c9732ef",
-          "title": "Fires around Bordeaux 'remained largely stable', city evacuation 'currently not necessary'",
-          "url": "https://www.demorgen.be/snelnieuws/live-branden-rond-bordeaux-overwegend-stabiel-gebleven-evacuatie-stad-momenteel-niet-aan-de-orde~b9a760bb/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-27T07:28:00+00:00",
-          "image_url": "https://image.demorgen.be/276275660/feature-crop/320/320/afbeelding"
+          "id": "9468935af1",
+          "title": "Wildfires in France and Spain: Over 13,000 businesses evacuated in Gironde, French minister calls it 'economic bomb'",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/ruim-13000-bedrijven-geevacueerd-in-gironde-franse-minister-sp~1783176592077/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/82975737-984a-47e5-9aeb-fe91557d025b.png?width=200&height=125&q=80&blur=90"
         },
         {
           "id": "a1a2dc4ab6",
-          "title": "Analysis: A new European gas crisis? Perfect storm appears to be brewing",
+          "title": "Analysis: A new European gas crisis? Perfect storm seems to be forming",
           "url": "https://www.vrt.be/vrtnws/nl/2026/07/26/naar-een-nieuwe-europese-gascrisis-perfecte-storm-lijkt-in-de-m/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -244,29 +631,79 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2026/03/19/e0a31b8a-3a68-4085-a162-b5d0eec999f0.jpg?width=200&height=125&q=80&blur=90"
         },
         {
+          "id": "654cc484ef",
+          "title": "Russia-Ukraine war: Two dead, including a 10-year-old child, in Russian drone attack on supermarket in northern Ukraine",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/twee-doden-onder-wie-een-10jarig-kind-bij-russische-droneaanv~1781787179742/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/5ea26753-5472-411f-9609-63863e73aa6e.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
           "id": "b6b8c5b336",
-          "title": "Berlin Pride attack LIVEBLOG: 'Many signs indicate perpetrator acted alone', says journalist in Berlin",
+          "title": "Berlin Pride attack: 'Many signs that perpetrator acted alone', says journalist",
           "url": "https://www.vrt.be/vrtnws/nl/liveblog/veel-tekenen-dat-dader-alleen-heeft-gehandeld-zegt-vrt-nwsjo~1785041014139/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
           "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/67b010e1-1f14-4c88-88bb-f2fff900d181.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "5237c2400c",
+          "title": "Weather tracker: Why Europe's wildfires are proving so fierce and difficult to stop",
+          "url": "https://www.theguardian.com/environment/2026/jul/27/weather-tracker-europe-wildfires-difficult-stop-france-spain",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-27T07:21:09+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/c9a9c1af582bde88c62ba69be98a875e60a4ddfd/458_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=1c6a16879266a4e8af09c108fd75224b"
         }
       ]
     },
     "world_top": {
-      "summary_en": "The United States has paused military operations against Iran following Donald Trump's advice to halt bombing campaigns, marking a significant shift in military engagement in the region.",
+      "summary_en": "A shooting at a Seattle festival left three dead as police suspect two shooters were involved in mutual gunfire. Geopolitical tensions escalated when Iran threatened revenge against Trump and refused new peace negotiations. Global energy markets responded positively to a temporary pause in U.S.-Iran military engagement, with oil and gas prices declining. The Trump administration is mobilizing international allies to compete with China in the emerging 6G telecommunications race.",
       "headlines": [
         {
-          "id": "ec313480b9",
-          "title": "US pauses Iran attacks after Trump advised to halt bombing",
-          "url": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-27T06:33:40+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/958908be634d62903516d0230827dc129ed254f4/200_78_2464_1972/master/2464.jpg?width=700&quality=85&auto=format&fit=max&s=e2733a8f93ad6be47e7458b0608d9e30"
+          "id": "54e9be0e62",
+          "title": "Shooting at festival in Seattle claims three lives: 'Two people shot at each other', police suspect",
+          "url": "https://www.demorgen.be/snelnieuws/schietpartij-op-festival-in-seattle-eist-drie-levens-twee-personen-schoten-op-elkaar-vermoedt-politie~b17ca2de/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-27T06:48:00+00:00",
+          "image_url": "https://image.demorgen.be/276275806/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "42ab7e948f",
+          "title": "Iran threatens on billboard with 'revenge on Trump' and refuses new peace talks",
+          "url": "https://www.hln.be/buitenland/iran-dreigt-op-billboard-met-wraak-op-trump-en-weigert-nieuwe-vredesgesprekken~a99e0324/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-27T10:05:00+00:00",
+          "image_url": "https://images.hln.be/YjUzMzQ5YTUyMmNlZGJiNmZmNTMvZGlvLzI3NjI4MDYzMC9maXQtd2lkdGgvNDAw/motorists-drive-past-a-large-billboard-pledging-revenge-against-us-president-donald-trump-along-jomhouri-street-in-central-tehran-on-july-27-2026-iran-s-foreign-ministry-said-on-july-27-that-the-us-was-not-involved-in-recent-talks-with-oman-over-the-administration-of-the-strategic-strait-of-hormuz-traffic-through-the-vital-global-shipping-route-has-been-under-iranian-control-since-the-outbreak-of-war-with-israel-and-the-united-states-on-february-28-photo-by-afp"
+        },
+        {
+          "id": "2e827766b1",
+          "title": "Energy prices: Oil and gas prices fall due to combat pause between US and Iran",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/olie-en-aardgasprijzen-dalen-door-gevechtspauze-tussen-vs-en-ir~1774343778229/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2021/05/04/30a1600a-aca7-11eb-b07d-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "6948706759",
+          "title": "Trump administration marshals allies for 6G race with China",
+          "url": "https://www.politico.com/news/2026/07/27/trump-administration-builds-6g-alliance-to-challenge-china-01011436",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-07-27T09:15:19+00:00",
+          "image_url": null
         }
       ]
     },
