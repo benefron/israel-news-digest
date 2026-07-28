@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-07-28T06:03:50.507965+00:00",
+  "generated_at": "2026-07-28T08:14:05.861333+00:00",
   "date": "2026-07-28",
   "degraded": false,
   "top_general": {
-    "summary_he": "נתניהו נחת בוושינגטון לקראת פגישה עם טראמפ, כשעל הרקע דיווחים על המחיר הפוליטי ששילם עבורה. בליכוד פרצה דרמה סביב אישור יוזמת נתניהו וכץ במרכז המפלגה ברוב מזערי, לצד טענות לזיופים. במקביל התפרסם סקר לפיו לאופוזיציה יש רוב, אך לא רוב יהודי, וסקר נוסף מראה תחרות צמודה בין נתניהו לאייזנקוט על תפקיד ראש הממשלה.",
+    "summary_he": "נתניהו יוצא לוושינגטון לפגישה עם טראמפ על רקע איראן, כשהנשיא האמריקאי מדבר על שיחות עמוקות מול טהראן ואפשרות לחזרה לפעולה צבאית. במקביל מתקיימת בישראל ועידת ביטחון לאומי עם קריאות מצד איזנקוט ובנט, וסקרים חדשים מראים תחרות צמודה בין נתניהו לאיזנקוט ורוב לאופוזיציה הכללית.",
     "headlines": [
       {
-        "id": "a56eaede32",
-        "title": "נתניהו נחת בוושינגטון, האיראנים מאיימים על אשת נשיא ארה\"ב",
-        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21073757",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "85a8990cb1",
-        "title": "המחיר שנתניהו שילם כדי לקבל את הפגישה עם טראמפ",
-        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21072810",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "bd19fd9d18",
-        "title": "דרמה במרכז הליכוד: אישר ברוב מזערי את יוזמת נתניהו וכץ - ויש טענות לזיופים",
-        "url": "https://www.ynet.co.il/news/article/bjzm4mshgx",
+        "id": "ee4457c553",
+        "title": "פעם שביעית: נתניהו מגיע לוושינגטון - כשטראמפ מדבר עם איראן",
+        "url": "https://www.ynet.co.il/news/article/hju4fzssge",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-07-27T21:18:31+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/13/Bk47A8G4Me/Bk47A8G4Me_0_272_961_541_0_medium.jpg"
+        "published_at": "2026-07-27T22:45:12+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/29/HJcijvgNZg/HJcijvgNZg_0_0_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "5c6a73c7f7",
+        "title": "טראמפ לקראת הפגישה המתוכננת עם נתניהו מחר: העמדות שלי ושל ישראל בעניין איראן די קרובות",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-27/ty-article/0000019f-a473-df42-a1df-e573465f0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-27T16:57:35+00:00",
+        "image_url": null
+      },
+      {
+        "id": "bc7ced08b0",
+        "title": "קריאת איזנקוט לחרדים והבטחת בנט: הכותרות מוועידת הביטחון הלאומי",
+        "url": "https://www.ynet.co.il/news/article/hkwwaxrsmg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-27T20:57:41+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/rkb00HrrBzg/rkb00HrrBzg_0_0_850_479_0_medium.jpg"
       },
       {
         "id": "1d71b5fd56",
@@ -58,52 +58,52 @@
     ]
   },
   "security_war": {
-    "summary_he": "ישראל שחררה 60 עצירים מכלא עופר ומשדה תימן לרצועת עזה, וצה\"ל דיווח על חיסול מחבל נוח'בה שהיה מעורב בשחרור אזרח ישראלי משבי גא\"פ. בנוסף, יורט כטב\"ם בגבול ירדן ליום שני ברציפות, כשמקור השיגור אינו ברור. על הרקע ממשיכים דיווחים על מעורבות איראנית בניסיונות לפגוע בישראל ובארה\"ב מטריטוריות שונות.",
+    "summary_he": "מערכת הביטחון פתחה בפרשה מודיעינית חדשה סביב שיגור כטב\"מים, בעוד גורמים קיצוניים באיראן קוראים להסלים את הלחימה ולשבור את המצור. נתניהו צפוי להציג לטראמפ מודיעין על האצת ההתקדמות הגרעינית האיראנית, וח\"כ עמית הלוי טוען כי טורקיה ואיראן פועלות להפלת הימין בישראל.",
     "headlines": [
       {
-        "id": "218741ca50",
-        "title": "ישראל שחררה לרצועת עזה 60 עצירים מכלא עופר ומשדה תימן",
-        "url": "https://www.haaretz.co.il/news/politics/2026-07-27/ty-article/.premium/0000019f-a3d1-d641-a1df-e3df71490000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-07-27T13:53:58+00:00",
-        "image_url": null
-      },
-      {
-        "id": "3391b81c91",
-        "title": "צה\"ל: חוסל מחבל נוח'בה שלקח חלק בשחרורו של אזרח ישראלי משבי גא\"פ",
-        "url": "https://news.walla.co.il/item/3856605",
+        "id": "04a04b3846",
+        "title": "מי שיגר את הכטב\"מים? במערכת הביטחון הכריזו על פתיחת פרשייה מודעינית חדשה",
+        "url": "https://news.walla.co.il/item/3856694",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-07-27T18:58:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/0/4/3904887-46.jpg"
+        "published_at": "2026-07-28T10:58:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/1/8/3818009-46.jpg"
       },
       {
-        "id": "faa4c16dbd",
-        "title": "יום שני ברצף: צה\"ל מיירט כטב\"ם בגבול ירדן - שלא ברור מהיכן שוגר",
-        "url": "https://www.ynet.co.il/news/article/skpna9bhmx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-07-28T03:32:23+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/22/r1v3BxCNze/r1v3BxCNze_0_494_961_540_0_medium.jpg"
+        "id": "c6c67fe59e",
+        "title": "דווקא כעת: הקיצוניים באיראן קוראים להסלים את הלחימה - \"ולשבור את המצור\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-6810b2def77af91026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-07-28T06:58:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/07/22/n20-2207-trump-moojtaba-ibud-1-3_autoOrient_i.jpg"
       },
       {
-        "id": "1db1fbb116",
-        "title": "מקפריסין עד טורקיה: כך מנסה איראן לפגוע בישראל ובארה\"ב",
-        "url": "https://www.kan.org.il/content/kan-news/defense/1081248/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": "https://www.kan.org.il/media/gtfdlwhy/ap26137593143076.jpg?width=490&height=272&v=1dd1c3998a9ee90"
+        "id": "ae41d0e99e",
+        "title": "נתניהו יציג לטראמפ מודיעין: איראן מאיצה התקדמות לגרעין",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550606",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-07-28T04:59:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1767033671/AP25363669904580_lpativ.jpg"
       },
       {
-        "id": "7e31e6ea25",
-        "title": "דיווח: איראן מעוניינת לנצל את בחירות האמצע כדי ללחוץ על טראמפ",
-        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21074001",
+        "id": "3a50af02af",
+        "title": "חבר הכנסת עמית הלוי: \"טורקיה ואיראן רוצות להפיל את שלטון הימין\"",
+        "url": "https://news.walla.co.il/item/3856682",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-28T08:52:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/0/4/4004060-46.jpeg"
+      },
+      {
+        "id": "284ac25034",
+        "title": "באיראן מתנהלת דרמה כלכלית שישראל חייבת לנצל",
+        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21074877",
         "source": "israel_hayom",
         "source_label": "ישראל היום",
         "source_label_he": "ישראל היום",
@@ -116,118 +116,165 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "הממשלה קידמה מטעמי דחיפות הכרה במועצת השלום בלי להביא זאת לאישור הכנסת. בג\"ץ אמור לדון בחוק המקפיא את מעצרי העריקים החרדים, ובזירה הפוליטית מדווח כי הליכוד עלול להיקלע למרחץ דמים פנימי לקראת הבחירות.",
+      "summary_he": "היועצת המשפטית לממשלה קוראת לבלום את חוק מח\"ש בטענה שייצור יחידת תביעות פוליטית ערב הבחירות. בנוסף, מתפרסמת ביקורת על התנהלות ח\"כ ברדוגו בשידור חי, ועולה תעלומה סביב היעדרותו של אלדר מרכב מנופץ.",
       "headlines": [
         {
-          "id": "a091675a29",
-          "title": "\"מטעמי דחיפות\": הממשלה קידמה את ההכרה במועצת השלום בלי להביאה לכנסת",
-          "url": "https://www.haaretz.co.il/news/politics/2026-07-27/ty-article/.premium/0000019f-a3f5-db22-a5df-e7f79b170000",
+          "id": "321763555f",
+          "title": "היועמ\"שית קוראת לבלום את חוק מח\"ש: יחידת תביעות פוליטית תטיל מורא על שוטרים רגע לפני הבחירות",
+          "url": "https://www.haaretz.co.il/news/elections/2026-07-27/ty-article/.premium/0000019f-a230-df42-a1df-e77176310000",
           "source": "haaretz",
           "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-07-27T16:34:48+00:00",
+          "published_at": "2026-07-27T14:36:34+00:00",
           "image_url": null
         },
         {
-          "id": "810902abbb",
-          "title": "בג\"ץ ידון היום בחוק המקפיא את מעצרי העריקים החרדים",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550605",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-28T05:40:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1695891730/direct/WhatsApp_Image_2023-09-28_at_09.29.20_bljuji.jpg"
+          "id": "3095ea4536",
+          "title": "AG urges court to freeze law granting government control over police internal affairs",
+          "url": "https://www.timesofisrael.com/ag-urges-court-to-freeze-law-granting-government-control-over-police-internal-affairs/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-07-27T17:26:54+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260609YS03-1024x640.jpg"
         },
         {
-          "id": "517fad23c7",
-          "title": "הדילים נחלשו, נתניהו התחזק - והליכוד בדרך למרחץ דמים פוליטי",
-          "url": "https://news.walla.co.il/item/3856643",
+          "id": "a70d94c8b9",
+          "title": "אפילו מגישת ערוץ 14 סברה שברדוגו עבר את הגבול בשידור חי",
+          "url": "https://e.walla.co.il/item/3856570",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-07-28T08:38:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/1/4081465-46.jpeg"
+          "published_at": "2026-07-28T06:23:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/1/4081669-46.png"
         },
         {
-          "id": "985896d623",
-          "title": "בחירות 2026: כל הסקרים בחירות 2026: כל הסקרים",
-          "url": "https://www.kan.org.il/lobby/skarim/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": null
+          "id": "98386656f1",
+          "title": "הבריחה מהרכב המנופץ והורדת לוחית הרישוי: תעלומת היעדרות אלדר - והשאלות הפתוחות",
+          "url": "https://www.ynet.co.il/news/article/rkywu7hrzx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-07-27T21:25:31+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/ryULRErrzg/ryULRErrzg_0_0_850_479_0_medium.jpg"
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "נתון כלכלי הגיע לשיא של 16 שנה, כשלפי הדיווח מדובר בסימן שלילי ולא בבשורה חיובית. בשוק ההון מדווח על סקטור חבוט שהופך להזדמנות בעיני מנהלי השקעות, וכן על עסקת אג\"ח מגובה משכנתאות בהיקף של 530 מיליון שקל.",
+      "summary_he": "בשוק ההון נרשמת יציבות בתל אביב עם זינוק במניית חברת ביומד, לצד עסקאות גדולות כמו מכירת קבוצת גדות וחלק מכביש 6 צפון. במקביל, חברת Shein מדווחת על הפסד של כ-99 מיליון דולר בעקבות מכסי טראמפ.",
       "headlines": [
         {
-          "id": "98f43dba24",
-          "title": "הנתון שהגיע לשיא של 16 שנה ולמה זו לא בשורה חיובית",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550548",
+          "id": "f9cbc3764b",
+          "title": "יציבות בתל אביב; מניית הביומד שמזנקת בחדות אחרי הדוחות",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001550578",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-07-28T03:00:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785154697/shutterstock_2399510417_oyx8xv.jpg"
+          "published_at": "2026-07-28T07:27:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg"
         },
         {
-          "id": "e52db877e9",
-          "title": "מנהל ההשקעות שבטוח: זה הסקטור החבוט שהפך להזדמנות",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550586",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-28T03:01:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785149573/800_bzdhzv.jpg"
-        },
-        {
-          "id": "0c1b99ae57",
-          "title": "בנק ירושלים מכר למוסדיים אג\"ח מגובה משכנתאות ב–530 מיליון שקל",
-          "url": "https://www.themarker.com/markets/2026-07-27/ty-article/0000019f-a439-db22-a5df-e53b61170000",
+          "id": "0252552aa4",
+          "title": "קרן טנא מעמידה את קבוצת גדות על המדף לפי שווי של חצי מיליארד דולר",
+          "url": "https://www.themarker.com/markets/2026-07-28/ty-article/.highlight/0000019f-a3c9-df42-a1df-e7f998900000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-07-27T16:07:22+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-a441-d641-a1df-e74f9e920000/03/ef/8b66321c4b1cbfb89320bc94eb17/854999.jpg?height=81"
+          "published_at": "2026-07-28T03:05:19+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a738-dc2a-afdf-bfbb1cf40000/43/ee/c65c5fc84f73a45e45c7f06a35e0/135847.jpg?height=81"
+        },
+        {
+          "id": "ae3c975fb9",
+          "title": "נוי 2 מכרה 10% מכביש 6 צפון לכלל ועמיתים ב–206 מיליון שקל",
+          "url": "https://www.themarker.com/markets/2026-07-28/ty-article/.highlight/0000019f-a406-d5e4-afff-afc602a00000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-28T03:07:27+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a434-d641-a1df-e77e67540000/d2/d6/6383b5f3488dbd065ee24f04d267/618455.jpg?height=81"
+        },
+        {
+          "id": "01c5cbc7b2",
+          "title": "Shein, אתר הקניות החביב על הישראלים, הפסיד 99 מיליון דולר בגלל מכסי טראמפ",
+          "url": "https://www.themarker.com/wallstreet/2026-07-27/ty-article/.premium/0000019f-a428-df42-a1df-e5798a030000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-27T17:15:15+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000184-0f01-d3cb-abec-8f81d73e0000/f2/82/6326ead347359cc5391a58d332da/53410.jpg?height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "בעולם הטכנולוגיה מדווחים על קושי להגדיר תפקידי AI חדשים שנוצרים תוך כדי תנועה, בעוד אנליסטים מזהירים כי שווי פעילות ה-AI של ספייס-אקס עשוי להיות מנופח למרות עלייתה במניה.",
+      "headlines": [
+        {
+          "id": "ce49b54813",
+          "title": "\"אף אחד לא יודע מה נכון\": איך זה לעבוד בתפקיד AI חדש שמומצא תוך כדי תנועה",
+          "url": "https://www.themarker.com/career/2026-07-28/ty-article-magazine/.premium/0000019f-a2ad-df42-a1df-e7fd43a10000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-28T03:11:25+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a2fc-db22-a5df-e7fee1480000/63/51/2afef4694eaf91279c2f698ed4bb/924405.jpg?height=81"
+        },
+        {
+          "id": "274d1ff0db",
+          "title": "ספייס־אקס מתקרבת ל–100 דולר למניה. אנליסטים מתריעים: שווי פעילות ה–AI שלה אפסי",
+          "url": "https://www.themarker.com/wallstreet/2026-07-28/ty-article/.highlight/0000019f-a300-df92-a7ff-a7822cc30000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-28T03:08:05+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a3f8-d5e4-afff-abf899950000/1a/e6/3e32a86447afa40ccc0bbdcad92f/858514.jpg?height=81"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "עורך עיתון חרדי מוכר מקרית יערים נעצר בחשד לפדופיליה, ובמקביל מדווח כי הציונות הדתית מתלבטת לאן לפנות בבחירות הקרובות.",
+      "summary_he": "בעקבות חוק-יסוד לימוד תורה מתפרסמת תגובה ציבורית חריפה, ובמקביל מרכז מורשת מתמודד עם סכנת סגירה בעקבות קיצוצי תקציב של ממשלת נתניהו. אירוע אלים נגד צעיר מזכרון יעקב על רקע נטייה מינית מעורר דיון ציבורי.",
       "headlines": [
         {
-          "id": "92da40f33f",
-          "title": "עורך עיתון חרדי מוכר מקרית יערים נעצר בחשד לפדופיליה",
-          "url": "https://www.kan.org.il/content/kan-news/local/1082236/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/tpjf2mts/f250102cg24.jpg?rxy=0.4386888150288525,0.5868031443393722&width=490&height=272&v=1dc363d675e23c0"
-        },
-        {
-          "id": "76cc8e554b",
-          "title": "הציונות הדתית מתלבטת: לאן ילכו הדתיים הלאומיים בבחירות? | עם עמיחי אתאלי",
-          "url": "https://www.ynet.co.il/news/theheadline/article/toeyh0b9w",
+          "id": "01eeb64786",
+          "title": "התגובה ההולמת לחוק-יסוד: לימוד תורה",
+          "url": "https://www.ynet.co.il/news/article/hkisx0bhzl",
           "source": "ynet",
           "source_label": "Ynet",
           "source_label_he": "Ynet",
-          "published_at": "2026-07-28T02:00:00+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/HJwQiyBSGe/HJwQiyBSGe_0_0_850_479_0_medium.jpg"
+          "published_at": "2026-07-28T07:20:47+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/13/SJdHhS2GNfx/SJdHhS2GNfx_0_153_3000_1689_0_medium.jpg"
+        },
+        {
+          "id": "8a0b174eb9",
+          "title": "מרכז המורשת בסכנת סגירה בגלל הקיצוץ של נתניהו: \"כמו מקבצי נדבות\"",
+          "url": "https://www.ynet.co.il/news/article/yokra14844587",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-07-27T21:00:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/yk14846411/yk14846411_0_0_3000_1943_0_medium.jpg"
+        },
+        {
+          "id": "b773bf63db",
+          "title": "לעגו ושיסו כלב באחים: צעיר מזכרון יעקב מואשם בתקיפה אלימה על רקע נטייה מינית",
+          "url": "https://news.walla.co.il/item/3856659",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-28T06:00:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/0/3/4003926-46.jpg"
         }
       ]
     },
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "רחוב אחוזה ברעננה צפוי לצמוח פי 4 כחלק מהכנות לעידן המטרו בגוש דן.",
+      "summary_he": "רחוב אחוזה ברעננה צפוי לצמוח פי ארבעה כחלק מההכנות לעידן המטרו הצפוי בגוש דן.",
       "headlines": [
         {
           "id": "2c34658e4a",
@@ -261,66 +308,66 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Jewish communities face ongoing antisemitism threats: a man in New York was charged with hate crimes for stabbing a Jewish man on the Upper West Side. Musician Boy George released two pro-Israel songs, including \"We Will Dance Again.\" In Belgium, far-right influencer Laura Loomer, who previously called Ukrainian President Zelensky a \"self-hating Nazi Jew,\" has reversed her stance and now embraces him. An Antwerp rabbi, Moshe Friedman, was attacked by a critic who alleged that his commentary was misinformation.",
+      "summary_en": "Netanyahu visits Washington to meet with Trump for the first time since escalating Middle East hostilities, with both sides signaling underlying tensions in their relationship. Iran continues executing anti-government protesters amid regional instability. The UN has raised accusations that Israel may have committed war crimes during military operations in Lebanon.",
       "headlines": [
         {
-          "id": "5545da123f",
-          "title": "Man accused of stabbing Jewish man on the Upper West Side is charged with hate crimes",
-          "url": "https://www.jta.org/2026/07/27/ny/man-accused-of-stabbing-jewish-man-on-the-upper-west-side-is-charged-with-hate-crimes",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-07-27T20:30:22+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/GettyImages-2286901392.jpg"
+          "id": "81df01692f",
+          "title": "Netanyahu meets Trump for first time since Middle East war: 'Relationship under high tension'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/28/bezoek-netanyahu-aan-trump/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/03/26/498d87db-6bfb-4ef6-a3bc-752a55799904.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "29ead021d9",
-          "title": "'If you're ever confused: I stand with the Jews,' Boy George sings in new pro-Israel song",
-          "url": "https://www.jta.org/2026/07/27/culture/if-youre-ever-confused-i-stand-with-the-jews-boy-george-sings-in-new-pro-israel-song",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-07-27T20:10:17+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/BoyGeorge.jpg"
+          "id": "e029150b47",
+          "title": "Netanyahu landed in Washington - Iran executes two anti-government protesters in public",
+          "url": "https://www.hln.be/buitenland/netanyahu-geland-in-washington-iran-executeert-opnieuw-twee-anti-regeringbetogers-in-het-openbaar~a99e0324/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-28T06:49:00+00:00",
+          "image_url": "https://images.hln.be/MzI3OTJlMDUyZmQxNjc5ODYyNDEvZGlvLzI3MzI0NTk1NS9maXQtd2lkdGgvNDAw/us-president-donald-trump-and-first-lady-melania-trump-participate-in-a-military-mother-s-day-event-in-the-east-room-of-the-white-house-in-washington-dc-on-may-6-2026-photo-by-kent-nishimura-afp"
         },
         {
-          "id": "4fc876161d",
-          "title": "She called Zelensky a 'self-hating Nazi Jew', now meets and embraces him: the U-turn of Laura Loomer, once a far-right influencer",
-          "url": "https://www.demorgen.be/nieuws/ze-noemde-zelensky-een-zelfhatende-nazi-jood-nu-ontmoet-en-omhelst-ze-hem-de-u-bocht-van-laura-loomer-ooit-een-extreemrechtse-influencer~b8b95ff3/",
+          "id": "f4d9929881",
+          "title": "UN: 'Israel possibly commits war crimes in Lebanon'",
+          "url": "https://www.demorgen.be/snelnieuws/live-netanyahu-beschuldigt-burgemeester-mamdani-van-haatzaaien-en-bevestigt-dat-hij-naar-new-york-komt~ba7f8873/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-07-27T18:52:00+00:00",
-          "image_url": "https://image.demorgen.be/276212106/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "d287763599",
-          "title": "Bill White attacks Antwerp rabbi Moshe Friedman: 'Literally everything this liar spouts is fake news'",
-          "url": "https://www.demorgen.be/snelnieuws/bill-white-haalt-uit-naar-antwerpse-rabbijn-moshe-friedman-letterlijk-alles-wat-deze-bedrieger-uitkraamt-is-nepnieuws~b871aebb/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-27T15:14:00+00:00",
-          "image_url": "https://image.demorgen.be/276288567/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "d4cb4a1818",
-          "title": "'You say genocide, I say war': Boy George releases pro-Israel song, We Will Dance Again",
-          "url": "https://www.theguardian.com/music/2026/jul/27/you-say-genocide-i-say-war-boy-george-releases-pro-israel-song-we-will-dance-again",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-27T14:31:12+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/71eb6e2f13b7a93bea05d20528b0d2edf3d09b8a/0_63_2792_2233/master/2792.jpg?width=700&quality=85&auto=format&fit=max&s=b147d16a3cf292de2dfb31e2b53f0ed6"
+          "published_at": "2026-07-28T07:40:00+00:00",
+          "image_url": "https://image.demorgen.be/276293343/roi/320/320/691.1999999999999/529.2/afbeelding"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium faces an intense heatwave with temperatures expected to reach 33 degrees Celsius over the coming days. Renowned Belgian climate scientist Jean-Pascal van Ypersele expressed frustration over the recurring extreme heat. In local news, a care vending machine offering medical equipment including crutches and blood pressure monitors was installed at a hospital in Bornem, and a mobile wine bar trailer was stolen from a driveway in Ottenburg.",
+      "summary_en": "Belgian police arrested numerous drug dealers and seized drugs from festival-goers at Tomorrowland. Climate scientist Jean-Pascal van Ypersele expressed frustration over slow climate action as Belgium faces another intense heatwave. A violent incident on a Brussels-area tram resulted in one fatality, and the Belgian national football team returned to training following international matches.",
       "headlines": [
         {
+          "id": "666d3b1db3",
+          "title": "Radicalization expert: 'Online groups provide almost a manual on how to commit attacks'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/28/online-radicalisering-jongeren/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/28/58145f54-9d86-4650-8434-69d95037c4ef.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "66bec13f31",
+          "title": "Police catch 403 festival-goers with drugs at Tomorrowland, 32 dealers arrested",
+          "url": "https://www.demorgen.be/snelnieuws/politie-betrapt-403-festivalgangers-met-drugs-op-tomorrowland-32-dealers-opgepakt~b87776b3/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-28T08:06:52+00:00",
+          "image_url": "https://image.demorgen.be/276021412/feature-crop/320/320/afbeelding"
+        },
+        {
           "id": "0e4d4a7c8a",
-          "title": "Environment & Climate: With yet another hot week, Belgian climate scientist Jean-Pascal van Ypersele cries out: 'Yes, I'm angry'",
+          "title": "With yet another hot week, Belgian climate scientist Jean-Pascal van Ypersele cries out: 'Yes, I am angry'",
           "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/jean-pascal-van-ypersele-woedend-klimaatbeleid-20-jaar-te-laat/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -329,73 +376,63 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2018/12/14/503f6ef6-ff9e-11e8-abcc-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "eda5c22c83",
-          "title": "Heat LIVEBLOG: Highs up to 29 degrees today, tomorrow and Thursday temperatures up to 33 degrees",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/maxima-tot-29-graden-vandaag-morgen-en-donderdag-temperaturen-t~1784180635133/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/28/196dc571-ef3b-42d5-a078-6f9c594b6f5c.jpg?width=200&height=125&q=80&blur=90"
+          "id": "8d8eb171b9",
+          "title": "Driss (54) defends woman on tram in Evere, but receives fatal blow: 'That aggressive person struck him with a heavy object on his head'",
+          "url": "https://www.hln.be/brussel/driss-54-verdedigt-vrouw-op-tram-in-evere-maar-krijgt-dodelijke-klap-die-agressieveling-sloeg-met-zwaar-voorwerp-op-zijn-hoofd~a3e97fff/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-28T07:48:00+00:00",
+          "image_url": "https://images.hln.be/ZWRjYjA3YWI5NGU2OWFmNmNkYjMvZGlvLzI3NjMwMjI4MC9maXQtd2lkdGgvNDAw/driss-54-werd-doodgeslagen-nadat-hij-vrouw-verdedigde-op-tram-in-evere"
         },
         {
-          "id": "cc9d461e2f",
-          "title": "Region Bornem: Care vending machine with crutches, blood pressure meters and braces in AZ Rivierenland in Bornem: 'Get home as quickly as possible'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/zorgautomaat-az-rivierenland-bornem-krukken-brace-apotheek-zorgw/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/5b60d18b-70f2-4b66-b053-94f47804ad70.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "9189c27b71",
-          "title": "Region Ottenburg: Trailer with mobile wine bar stolen from driveway in Ottenburg, owners make call to witnesses",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/28/ottenburg-nuvoleo-diefstal-aanhangwagen-wijnbar-getuigenoproep/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/28/3ae338b9-f0dd-496b-8a68-ceea2078e726.png?width=200&height=125&q=80&blur=90"
+          "id": "39d4c7e488",
+          "title": "Brandon Mechele arrived by bike: Red Duivels from Club Brugge report to base camp again after the World Cup",
+          "url": "https://www.hln.be/jupiler-pro-league/brandon-mechele-arriveerde-met-de-fiets-rode-duivels-van-club-brugge-melden-zich-na-wk-weer-in-basecamp~ac5fda6e/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-28T07:44:00+00:00",
+          "image_url": "https://images.hln.be/YTYzZGIzMGMwMjE2ZmYxNTM4MzAvZGlvLzI3NjMwMjQ2NC9maXQtd2lkdGgvNDAw/vanaken-mechele"
         }
       ]
     },
     "europe": {
-      "summary_en": "Europe grapples with severe wildfires and diplomatic developments. Massive fires spread across France and Spain, with residents of nine Spanish villages permitted to return home despite ongoing extreme heat warnings. Near Bordeaux, megafires are creating their own firestorms due to extreme temperatures. UK Prime Minister Burnham met with Ukrainian President Zelenskyy in a significant diplomatic engagement. German authorities are investigating the Berlin Pride attack and have been surveilling the suspected perpetrator. Italy celebrated a medical breakthrough when a previously blind woman regained her sight after a central retina transplant.",
+      "summary_en": "Massive wildfires are spreading across France and Spain, straining European firefighting resources during an extreme heatwave, with President Macron pledging continued support for firefighters battling what officials describe as the worst fires since World War II. Germany's security services arrested a suspect over an attack on Berlin Pride following long-term surveillance. European leaders are calling for coordinated crisis meetings to address the continent's worsening climate crisis and extreme weather threats.",
       "headlines": [
         {
-          "id": "c61cbbd73a",
-          "title": "Burnham hugs Zelenskyy close in first test on world stage",
-          "url": "https://www.politico.eu/article/burnham-hugs-zelenskyy-close-first-test-world-stage/",
+          "id": "9f2442662d",
+          "title": "Firefighters hasten efforts to contain massive wildfires in France and Spain ahead of heatwave – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-28T07:50:48+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/0a9e9215db0d5cb73f1f7174fa707da3ce22c261/541_0_5995_4798/master/5995.jpg?width=700&quality=85&auto=format&fit=max&s=6c83a0aed6a3b3082c4f8bce7b02860e"
+        },
+        {
+          "id": "4478893ad4",
+          "title": "President Macron encourages French firefighters: 'Heaviest fire since WWII'",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/07/28/macron-bordeaux-bosbranden-/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/28/e3b1dcd9-f003-4bcf-80c8-8879bdb8f938.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "563f3e2512",
+          "title": "Can Europe fight fires this big?",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-europe-fight-fires-this-big/",
           "source": "politico_eu",
           "source_label": "Politico Europe",
           "source_label_en": "Politico Europe",
-          "published_at": "2026-07-27T15:48:41+00:00",
+          "published_at": "2026-07-28T04:05:00+00:00",
           "image_url": null
         },
         {
-          "id": "f02b6e47f4",
-          "title": "Forest fires in France and Spain LIVEBLOG: Residents of 9 Spanish villages can go home, but authorities warn again of very hot weather",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/inwoners-van-9-spaanse-dorpen-mogen-naar-huis-maar-autoriteiten~1783176592077/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/28/87314e4a-5344-4a32-8c7d-2067f57c0620.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "d866f1250c",
-          "title": "'Fire-breathing dragon' threatening Bordeaux: how mega-wildfires cause their own fire storm",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/pyrocumulonimbus-vuurspuwende-draak-natuurbrand-frankrijk/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/9ef358bf-8d7f-479f-8bb6-4f2e473e2386.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
           "id": "8d7337533d",
-          "title": "Attack Pride Berlin LIVEBLOG: Police kept suspected perpetrator of Pride Berlin attack under surveillance with camera at his residence, German media reports",
+          "title": "Berlin Pride attack LIVEBLOG: Police kept suspected attacker of Berlin Pride under surveillance with camera at his home, according to German media",
           "url": "https://www.vrt.be/vrtnws/nl/liveblog/politie-hield-vermoedelijke-dader-van-aanslag-pride-berlijn-met-~1785041014139/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -404,23 +441,33 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2026/07/26/1eb8888d-5df9-4fee-856a-fa817eafde81.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "d718e19699",
-          "title": "Health: World premiere in Italy—blind woman can see again after central retina transplant",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/blinde-vrouw-kan-opnieuw-zien-na-transplantatie/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/36173252-9b40-4f6c-b75f-795a2ab90198.jpg?width=200&height=125&q=80&blur=90"
+          "id": "ed155a68f8",
+          "title": "Live - Green demands European crisis summit on heat • Climate scientist Van Ypersele condemns climate policy: 'I am angry at all political leaders'",
+          "url": "https://www.demorgen.be/snelnieuws/live-groen-eist-europese-crisistop-over-hitte-klimaatwetenschapper-van-ypersele-hekelt-klimaatbeleid-ik-ben-boos-op-alle-politieke-leiders~bf7e76f4/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-28T07:25:00+00:00",
+          "image_url": "https://image.demorgen.be/275436311/roi/320/320/834.0200000000001/882.9000000000001/afbeelding"
         }
       ]
     },
     "world_top": {
-      "summary_en": "International tensions escalated as the United States walked out of a UN Security Council meeting following criticism from France, with American officials dismissing the remarks. Military planners warn that China and Russia are providing Iran with intelligence and technology support amid Middle East tensions. In the United States, singer D4vd appeared in court on murder charges related to the death of a teenage girl.",
+      "summary_en": "Ukrainian President Zelensky is traveling to Washington to meet with President Trump and discuss defense assistance, while Ukraine continues intensive drone operations against Russian targets, including hundreds of strikes on Moscow. The United States withdrew from a UN Security Council meeting in response to French criticism, escalating diplomatic tensions at the international level. Italian doctors achieved a medical first by restoring vision to a previously blind woman through a retinal transplant. Meanwhile, Iran continues diplomatic consultations with regional powers over strategic maritime routes.",
       "headlines": [
         {
+          "id": "1c95ad167b",
+          "title": "Zelensky to Washington for meeting with Trump, who reportedly has 'more positive' attitude • Nearly 400 drones fired on Moscow, says mayor",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-zelensky-ontmoet-vandaag-trump-die-positiever-tegenover-hem-zou-staan-president-oekraine-ook-naar-senaat-die-stemt-over-nieuwe-sanctiewet-tegen-rusland~b38bed0a/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-28T05:03:00+00:00",
+          "image_url": "https://image.demorgen.be/268132131/roi/320/320/2416.74/1439.76/afbeelding"
+        },
+        {
           "id": "827575bea2",
-          "title": "United States: US walks out of UN Security Council meeting after criticism from France: 'We will not listen to their nonsense'",
+          "title": "US walks out at UN Security Council meeting following French criticism: 'We will not listen to their nonsense'",
           "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/vs-frankrijk-vn-veiligheidsraad/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -429,24 +476,24 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/ed84d774-e5bb-4d66-9435-a5ab6053a95c.jpg?width=200&height=200&q=80&blur=90"
         },
         {
-          "id": "d2a4da6e2b",
-          "title": "War Middle East: China and Russia help Iran with intelligence and technology, warn military planners in US",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/vs-iran-donald-trump-munitie-voorraden-in-iran-op-angst-dat-chin/",
+          "id": "d718e19699",
+          "title": "World first in Italy: blind woman can see again after central retina transplant",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/blinde-vrouw-kan-opnieuw-zien-na-transplantatie/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/bcad8c88-2ed2-4334-a306-cb404aa28916.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/36173252-9b40-4f6c-b75f-795a2ab90198.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "d7a4f70eaf",
-          "title": "American singer D4vd must appear in court for murder of teenage girl",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/d4vd-moet-voor-rechter-verschijnen-voor-moord-op-tienermeisje/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/28/de2a2786-047e-4cf5-a296-4ca887d2e1b5.png?width=200&height=125&q=80&blur=90"
+          "id": "98273633e1",
+          "title": "Iran consults with Oman and Saudi Arabia over Strait of Hormuz",
+          "url": "https://www.demorgen.be/snelnieuws/live-trump-zegt-dat-vs-goede-gesprekken-voeren-met-iran-pakistan-zou-aanwijzingen-zien-voor-mogelijk-amerikaans-grondoffensief-in-iran~be9c4f82/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-28T07:34:00+00:00",
+          "image_url": "https://image.demorgen.be/274954017/roi/320/320/2805/1918.28/afbeelding"
         }
       ]
     },
