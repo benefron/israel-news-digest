@@ -1,74 +1,114 @@
 {
-  "generated_at": "2026-07-28T18:14:25.183907+00:00",
-  "date": "2026-07-28",
+  "generated_at": "2026-07-29T07:19:10.995395+00:00",
+  "date": "2026-07-29",
   "degraded": false,
   "top_general": {
-    "summary_he": "ראש הממשלה נתניהו נפגש עם הנשיא טראמפ בבית הלבן, ושני המנהיגים דנו בעמדות כלפי איראן, לבנון וגזה. בנוסף, רעידת אדמה בעוצמת 7.1 פקדה את יפן, וגרמה להרוגים ולקריסת בניינים מסחריים.",
+    "summary_he": "נתניהו וטראמפ נפגשו בוושינגטון ושני הצדדים תיארו את השיחה כחיובית וטובה, בעוד שבמקביל התקיימה פגישה נדירה בין נתניהו לזלנסקי בליווי הסנאטור לינדזי גראהם. במרכז הזירה הבינלאומית עמדה ההסלמה מול איראן, לאחר שזו שיגרה טילים לעבר בסיס אמריקאי בירדן וכוחות אמריקאים וסעודים תקפו בתגובה מטרות איראניות בעיראק. בזירה הפנימית נמשכת המתיחות סביב הבחירות הקרובות ופעילות צה\"ל בגדה המערבית.",
     "headlines": [
       {
-        "id": "ae41d0e99e",
-        "title": "טראמפ ונתניהו נועדו רק כשעה וחצי: \"פגישה חיובית\"",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001550606",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-07-28T17:33:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785259900/2026-07-28T170428Z_421218665_MT1ANADL00034B6KK_RTRMADP_3_ANADOLU_qo3qe6.jpg"
-      },
-      {
-        "id": "c37a7489a4",
-        "title": "רעידת אדמה בעוצמה 7.1 הורגשה ביפן; דיווח על לכודים והרוגים בקניון שקרס",
-        "url": "https://www.haaretz.co.il/news/world/asia/2026-07-28/ty-article/.premium/0000019f-a7a2-df92-a7ff-a7a254700000",
+        "id": "6d073e33bc",
+        "title": "נתניהו נפגש עם טראמפ, שאמר מוקדם יותר שאינו צריך ממנו מידע על הר המכוש",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-28/ty-article/.premium/0000019f-a8e0-d709-a39f-adec34ac0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-28T07:39:04+00:00",
+        "published_at": "2026-07-28T14:31:52+00:00",
         "image_url": null
+      },
+      {
+        "id": "71e3321452",
+        "title": "מפגש נדיר בין נתניהו לזלנסקי באשכבת גרהאם, טראמפ ספד: \"לא הייתה מלחמה שהוא לא אהב\"",
+        "url": "https://www.ynet.co.il/news/article/sydlsvlrfe",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-28T18:53:20+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/28/HJxYhN8Szx/HJxYhN8Szx_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "2576c890ea",
+        "title": "ארה\"ב וסעודיה תקפו כוחות של איראן בעיראק; טילים נורו לעבר בסיס אמריקאי",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-29/ty-article/.premium/0000019f-aad2-d709-a39f-affe03cc0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-28T22:26:09+00:00",
+        "image_url": null
+      },
+      {
+        "id": "603b78f747",
+        "title": "איראן שיגרה טילים לבסיס אמריקני בירדן - כולם יורטו",
+        "url": "https://news.walla.co.il/item/3856917",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-29T01:18:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/3/0/4030982-46.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "דיווחים על הגברת המתחים בין איראן לשחקנים אזוריים, כולל הפעלה מחודשת של מיליציות פרו-איראניות בעיראק הבוחנות קווים אדומים. בנוסף, סקר בארה״ב מגלה ירידה בתמיכה הציבורית למלחמה אפשרית נגד איראן, בעוד איראן עצמה חווה מחאות בנוגע להוצאות להורג.",
+    "summary_he": "המשבר מול איראן הועצם לאחר שיגור טילים איראניים לעבר בסיס אמריקאי בירדן, שכולם יורטו, ותקיפה משותפת של ארה\"ב וסעודיה בכוחות איראניים בעיראק. בישראל מדווח כי הבכירים קיבלו הנחיות זהירות לנוכח חשש מנקמה איראנית, ובגדה המערבית צה\"ל נערך להשתלטות על מחנות פליטים נוספים תוך חשש מעקירה המונית של תושבים. במקביל מתועד גל מחאה חריג בבתי הכלא באיראן, שם אסירים הנידונים למוות תופרים את שפתיהם במחאה על הוצאות להורג.",
     "headlines": [
       {
-        "id": "628e5da38a",
-        "title": "באיראן ובאוקראינה נערכים להסלמה: \"מצור מדרום ומצפון\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-2fbc324b8e7af91027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-07-28T08:52:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/07/26/iranship26071_autoOrient_i.jpg"
+        "id": "c69f783b5d",
+        "title": "איראן שיגרה טילים לירדן, ארה\"ב: \"זה ניסיון למתקפת פתע\"",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001550756",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-07-29T03:00:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/v1781534853/direct/2-3-800_hih9km.png"
       },
       {
-        "id": "5c82b66e4c",
-        "title": "1 דקות המזרח התיכון המיליציות הפרו-איראניות בעיראק שבוחנות את הקו האדום של ישראל | פרופיל איראן מחדשת את הפעלת שלוחיה בעיראק כדי לבחון גבולות, כאשר המטרה ברורה: להמשיך בתקיפות נגד יעדים ישראליים ואמריקניים מבלי לגרור תגובה צבאית על אדמתה זמן קריאה: 1 דקות.",
-        "url": "https://www.i24news.tv/he/news/international/middle-east/artc-e8385271",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "479461c8ef",
-        "title": "סקר בארה\"ב: רק אחד מכל שלושה אמריקאים תומך במלחמה באיראן",
-        "url": "https://www.haaretz.co.il/news/world/america/2026-07-28/ty-article/.premium/0000019f-a8b5-d87e-ab9f-bcffe2e60000",
+        "id": "5de6f63ee0",
+        "title": "צה\"ל נערך להשתלט על מחנות פליטים נוספים בגדה, ותושבים חוששים מעקירה המונית",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-28/ty-article-magazine/.premium/0000019f-a9ab-d709-a39f-adef115c0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-07-28T17:42:55+00:00",
+        "published_at": "2026-07-28T18:13:38+00:00",
         "image_url": null
       },
       {
-        "id": "2016f9102a",
-        "title": "1,500 נידונים למוות שובתים רעב בכלא הגדול באיראן: \"תפרו את השפתיים\"",
-        "url": "https://www.ynet.co.il/news/article/b1m00x8irzg",
+        "id": "57cbe29262",
+        "title": "תופרים את השפתיים: גל מחאה חריג בבתי הכלא באיראן על רקע הזינוק בהוצאות להורג",
+        "url": "https://news.walla.co.il/item/3856906",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-28T22:57:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/0/0/4000155-46.jpg"
+      },
+      {
+        "id": "10537c678c",
+        "title": "המסר שהועבר לבכירים ישראלים: איראן מחפשת נקמה, נקטו באמצעי זהירות",
+        "url": "https://www.ynet.co.il/news/article/hyowxdlsze",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-07-28T17:06:40+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/28/Hyu9cLISMx/Hyu9cLISMx_0_220_1900_1070_0_medium.jpg"
+        "published_at": "2026-07-28T19:20:15+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/12/B1X3s9xVMl/B1X3s9xVMl_1_153_895_504_0_medium.jpg"
+      },
+      {
+        "id": "ae4bf74600",
+        "title": "פלונטר מצר הורמוז: איראן דוחה את הצעת עומאן ודורשת שליטה מלאה",
+        "url": "https://news.walla.co.il/item/3856929",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-07-29T07:28:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/0/4070283-46.jpg"
+      },
+      {
+        "id": "1e083ecb29",
+        "title": "האו\"ם גינה את פשיטות צה\"ל על מרכז ההכשרה של אונר\"א בקלנדיה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-29/ty-article/0000019f-ab41-dfac-a5df-bbd173b60000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-29T01:13:37+00:00",
+        "image_url": null
       }
     ]
   },
@@ -76,61 +116,64 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בית המשפט העליון הוציא צו ביניים נגד חוק הפטור ממעצרים לעריקים לאחר שהממשלה סירבה להתייצב. בנוסף, נחשפות הוצאות של כ-2.7 מיליון שקל בשנה וחצי על מעונות ראש הממשלה.",
+      "summary_he": "בזירה הפוליטית הפנימית, בג\"ץ הוציא צו ביניים נגד חוק הקפאת מעצר עריקים, ואושר רישום מפלגה שהוגדרה ככהניסטית לאחר ששב\"כ שינה את עמדתו. הסקרים מצביעים על מאבק על מנדטים בין המפלגות לקראת הבחירות, ובאופוזיציה ובארגוני המחאה נערכים לאיומים אפשריים על טוהר הבחירות.",
       "headlines": [
         {
-          "id": "5972064827",
-          "title": "הממשלה סירבה להתייצב, בג\"ץ הוציא צו ביניים נגד חוק הפטור ממעצרים לעריקים",
-          "url": "https://www.ynet.co.il/news/article/hjsd90srme",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-07-28T15:17:45+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/31/B11XmetDxe/B11XmetDxe_0_136_3000_1688_0_medium.jpg"
+          "id": "18e21dd3b3",
+          "title": "אחרי שזיני שינה את עמדת שב\"כ, אושר רישום מפלגה שהוגדרה כהניסטית",
+          "url": "https://www.haaretz.co.il/news/elections/2026-07-28/ty-article/.premium/0000019f-a22b-df92-a7ff-a6ab81730000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-28T17:58:43+00:00",
+          "image_url": null
         },
         {
-          "id": "9a7393af6a",
-          "title": "2.7 מיליון שקל בשנה וחצי: הוצאות מעונות ראש הממשלה נחשפות",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550639",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-28T12:24:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1772016354/one%20time%20use%20only/NRF_7418_puxozc.jpg"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "שוקי הון בעולם חוו תנודות: בישראל, ירידות בתל אביב התחדדו לקראת הנעילה, בעוד וול סטריט עלתה והנפט צנח בשווקים הגלובליים.",
-      "headlines": [
-        {
-          "id": "f9cbc3764b",
-          "title": "מניה אחת מושכת מטה: הירידות בת\"א שוב החריפו לקראת הנעילה",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550578",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-28T14:38:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596825723/old/1552023.jpg"
+          "id": "14c9ae902e",
+          "title": "\"עד למתן החלטה אחרת\": בג\"ץ הוציא צו ביניים נגד חוק הקפאת מעצר עריקים",
+          "url": "https://news.walla.co.il/item/3856862",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-28T18:16:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/7/4077404-46.jpg"
         },
         {
-          "id": "211bec09e7",
-          "title": "עליות בוול סטריט; מניות השבבים נופלות ב–4%; הנפט צונח ב–5%",
-          "url": "https://www.themarker.com/wallstreet/2026-07-28/ty-article-live/0000019f-97b8-df42-a1df-f7f90e7d0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-07-28T17:37:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-a8df-de01-a5bf-ffdffc7a0000/55/ba/c6a189ca43649cbae958266346ac/460996525.jpg?width=108&height=81"
+          "id": "0ee6b4a984",
+          "title": "הסקרים רומזים היכן עשויים להתגלות שני המנדטים שחסרים לאיזנקוט",
+          "url": "https://www.haaretz.co.il/news/elections/sakran/2026-07-29/ty-article/.premium/0000019f-aa5a-d993-af9f-ba5ff87f0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-29T03:01:26+00:00",
+          "image_url": null
+        },
+        {
+          "id": "95d94819b3",
+          "title": "\"יש מי שיגרום כאוס\": כך נערכים באופוזיציה ובארגוני המחאה לאיומים על טוהר הבחירות",
+          "url": "https://www.haaretz.co.il/news/elections/2026-07-29/ty-article-magazine/.premium/0000019f-a9aa-de01-a5bf-ffea1b5b0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-29T03:01:21+00:00",
+          "image_url": null
+        },
+        {
+          "id": "985896d623",
+          "title": "בחירות 2026: כל הסקרים בחירות 2026: כל הסקרים",
+          "url": "https://www.kan.org.il/lobby/skarim/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": null
         }
       ]
     },
     {
       "key": "tech",
       "label_he": "טכנולוגיה והייטק",
-      "summary_he": "בסקטור הטכנולוגיה, חברת סייארה רוכשת את חברת אואזיס סקיוריטי בעלות של מיליארד דולר.",
+      "summary_he": "בעולם ההייטק נחתמה עסקת ענק: חברת סייארה רוכשת את אואזיס סקיוריטי הישראלית תמורת מיליארד דולר. במקביל, אפל הפכה לחברה השנייה בהיסטוריה שהגיעה לשווי של 5 טריליון דולר, ופיפ\"א מתכננת הנפקת מניות של 20 מיליארד דולר במסגרת גוף מסחרי חדש שמעורר סערה.",
       "headlines": [
         {
           "id": "1fe3f92d13",
@@ -141,87 +184,154 @@
           "source_label_he": "גלובס",
           "published_at": "2026-07-28T11:11:00+00:00",
           "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781097058/direct/Cyera_Founders_-_Yotam_Tamar_Yoni_y8hdzf.jpg"
+        },
+        {
+          "id": "76b9fbf5ed",
+          "title": "אחרי אנבידיה: אפל הפכה לחברה השנייה בהיסטוריה שהגיעה לשווי 5 טריליון דולר",
+          "url": "https://www.themarker.com/wallstreet/2026-07-28/ty-article/.premium/0000019f-a916-d798-a3bf-bb3e80080000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-28T14:43:25+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-7059-d784-abff-ffdfe9930001/45/ad/5e547dc349ca93276152c9c72bc6/2026-07-17t133950z-1404671148-rc2p3eae4v7l-rtrmadp-3-usa-stocks-apple-nvidia.JPG?width=108&height=81"
+        },
+        {
+          "id": "2971606fed",
+          "title": "פיפ\"א מתכננת הנפקת מניות של 20 מיליארד דולר בגוף מסחרי חדש",
+          "url": "https://www.themarker.com/wallstreet/2026-07-28/ty-article/.premium/0000019f-a944-de01-a5bf-ff44aaa90000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-28T15:20:42+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a947-d993-af9f-b95742e00001/cf/8d/1c738ec14e3db001c666bde247e8/2026-07-23t101741z-1679253279-rc29tlak8h2m-rtrmadp-3-soccer-worldcup-2026-photos-1.jpg?width=108&height=81"
+        },
+        {
+          "id": "d606cfc5cd",
+          "title": "הדיפנס-טק פורח: מספר המשרות זינק ב-20%, השכר קפץ מעל 50 אלף שקל",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001550681",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-07-29T02:48:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1731515572/direct/shutterstock_2543724379%D7%A7%D7%A7%D7%A7SSSSSSS_wil6pm.jpg"
         }
       ]
     },
     {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "עדכונים מעיתונות הבידור על פרקים חדשים בחיים של אישיות ציבוריות.",
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "בשוקי ההון נרשמה תנודתיות חדה, עם ירידות חריפות במניות השבבים באסיה וצניחה של 11% במדד הקוספי הקוריאני. בישראל מדווח כי כ-160 אלף איש נעלמו משוק העבודה, ורשות המסים בוחנת מחדש רפורמה שהצליחה יותר מהצפוי.",
       "headlines": [
         {
-          "id": "1b1eb4bec9",
-          "title": "חודשיים אחרי לכתה: הפרק החדש בחייו של בעלה של ניב חיה חזן",
-          "url": "https://www.israelhayom.co.il/lifestyle/relationship/article/21080092",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
+          "id": "76f52824d1",
+          "title": "יום שני של ירידות חדות במניות השבבים של אסיה; סיאול צונחת ב-9%",
+          "url": "https://www.themarker.com/wallstreet/2026-07-29/ty-article-live/0000019f-97b8-df42-a1df-f7f90e7d0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-29T04:44:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-ac25-d6af-a9ff-affdbee20000/17/4e/0d7d740645b18245c380e5cabeff/797669.jpg?width=108&height=81"
+        },
+        {
+          "id": "0ca4ac1983",
+          "title": "מפולת בקוריאה: הקוספי צולל 11%, המסחר הופסק יום שני ברציפות",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001550760",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-07-29T04:57:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1744793419/COT_Pic/800_fubory.jpg"
+        },
+        {
+          "id": "fafdab0dc6",
+          "title": "160 אלף איש שנעלמו משוק העבודה הופכים לבעיה הכי מדאיגה במשק",
+          "url": "https://www.themarker.com/news/macroeconomics/2026-07-29/ty-article/.highlight/0000019f-a8f3-d993-af9f-b8f706700000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-29T03:04:54+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a93f-d709-a39f-adffb81c0000/8e/06/3659e3544970bda0ece5df6da07a/935289.jpg?width=108&height=81"
+        },
+        {
+          "id": "e65e3e7113",
+          "title": "רשות המסים בוחנת מחדש את הרפורמה שהצליחה יותר מדי",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001550718",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-07-28T14:44:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/v1785076246/P-04-800_dcup7b.png"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "סוגיות חברתיות שונות תופסות את הכותרות, כולל התניות של המשטרה לשחרור גופות לקראת טקסי הלוויה, חקירות בנוגע לייצור ושיווק קנאביס, וממצאים בעניין תקיפה בקולנוע.",
+      "summary_he": "מאות נסיעות אוטובוס בוטלו לשלושה שבועות במסגרת מדיניות שמעדיפה את הציבור החרדי על פני החילוני בתחבורה הציבורית. בנוסף, ארגון העיתונאים דורש בירור מול תאגיד השידור בטענה להתנהלות פוגענית כלפי התארגנות עובדים.",
       "headlines": [
         {
-          "id": "48dcc25822",
-          "title": "המשטרה התנתה שחרור גופת תושב מזרח ירושלים בהסרת פרסומים שמזמינים להלווייתו",
-          "url": "https://www.haaretz.co.il/news/politics/2026-07-28/ty-article/.premium/0000019f-a8b5-d798-a3bf-babfe7510000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-07-28T14:52:13+00:00",
-          "image_url": null
+          "id": "ad97d7ee45",
+          "title": "לוקחים מהחילונים ונותנים לחרדים — גם בתחבורה: מאות נסיעות אוטובוס בוטלו לשלושה שבועות",
+          "url": "https://www.themarker.com/news/transport/2026-07-29/ty-article/.premium/0000019f-a869-d798-a3bf-ba7febf50000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-29T03:01:32+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a91d-de01-a5bf-ff5d353f0000/ac/57/26ec184c44c4a3c0ec28a47497f5/602383-2.jpg?width=108&height=81"
         },
         {
-          "id": "6831f257fd",
-          "title": "חצי טון קנאביס נתפסו בוילה: \"הצימרים לא עבדו בגלל המלחמה - אז הקים במקום מעבדה\"",
-          "url": "https://news.walla.co.il/item/3856792",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-07-28T14:56:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/9/4069570-46.jpeg"
-        },
-        {
-          "id": "3c1c3985cc",
-          "title": "שבוע אחרי התקיפה בקולנוע ברחובות: ארבעה צעירים נעצרו | פרסום ראשון",
-          "url": "https://news.walla.co.il/item/3856878",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-07-28T20:12:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/3/9/7/3397918-46.gif"
+          "id": "559b891c01",
+          "title": "ארגון העיתונאים דורש בירור מול סמנכ\"ל החדשות בתאגיד השידור כאן: \"התנהלות של פגיעה בהתארגנות של עובדים\"",
+          "url": "https://www.themarker.com/news/themedia/2026-07-29/ty-article/.premium/0000019f-a913-de01-a5bf-ff537e140000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-29T03:08:03+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a939-d798-a3bf-bb3f181b0001/c5/7d/c554e61b41579bb22044da14a744/landenberg1.jfif?width=108&height=81"
         }
       ]
     },
     {
       "key": "environment",
       "label_he": "סביבה ואקלים",
-      "summary_he": "בעקבות רעידת האדמה החזקה ביפן, דיווחים מתעדכנים על ההשלכות והנזקים, כולל הרוגים, לכודים וקריסת בניינים מסחריים.",
+      "summary_he": "שריפות ענק מתפשטות באירופה ומגיעות לפתחה של מדריד, בעוד שביפן ממשיכים לחפש לכודים לאחר רעידת אדמה שגבתה עד כה 13 הרוגים.",
       "headlines": [
         {
-          "id": "8576f6893f",
-          "title": "הרוגים ולכודים ברעידת אדמה בעוצמה 7.1 ביפן: פיצוץ בקניון שקרס, גשר התמוטט, רכבת סטתה מהפסים",
-          "url": "https://www.ynet.co.il/news/article/rylhbxusml",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-07-28T13:31:19+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/28/SyKeVVISGl/SyKeVVISGl_0_0_850_479_0_medium.jpg"
+          "id": "a532cc99af",
+          "title": "\"קריאת השכמה\": שריפות הענק מגיעות לפתחה של מדריד",
+          "url": "https://www.haaretz.co.il/news/world/europe/2026-07-29/ty-article-magazine/.premium/0000019f-a944-de01-a5bf-ff4462420000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-29T03:01:37+00:00",
+          "image_url": null
         },
         {
-          "id": "7867db6895",
-          "title": "קניון קרס, גשר התמוטט: חשש לעשרות הרוגים ברעידת האדמה ביפן",
-          "url": "https://13tv.co.il/item/news/abroad/jth4k-905285618/?pid=62&refc=902992386",
-          "source": "reshet13",
-          "source_label": "חדשות 13",
-          "source_label_he": "חדשות 13",
+          "id": "1333de32b0",
+          "title": "רעידת האדמה ביפן: עלה ל-13 מספר ההרוגים, נמשך החיפוש אחר לכודים",
+          "url": "https://www.kan.org.il/content/kan-news/global/1082693/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
           "published_at": null,
           "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "לאחר השקעה של 1.1 מיליארד שקל, המדינה מוכרת בהנחה 800 בתים שהוקמו עבור מפוני עוטף עזה.",
+      "headlines": [
+        {
+          "id": "43a0d25b12",
+          "title": "אחרי השקעה של 1.1 מיליארד שקל: המדינה מוכרת בהנחה 800 בתים שהוקמו למפוני העוטף",
+          "url": "https://www.themarker.com/realestate/2026-07-29/ty-article/.premium/0000019f-a8c3-d709-a39f-adefaadd0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-29T03:08:42+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-a8cb-d798-a3bf-baff1f6a0000/4c/16/bb21f8d443f98ac230e5b7637e91/074350.jpg?width=108&height=81"
         }
       ]
     }
@@ -245,131 +355,131 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israel faces mounting international pressure as the UN condemns escalating violence by settlers in the West Bank. Prime Minister Netanyahu's visit to the White House with President Trump is seen as high-stakes, with some Trump administration officials warning that the meeting could deepen US involvement in a potential conflict with Iran. Meanwhile, Jewish communities globally continue to strengthen cultural bonds through traditional observances, while also addressing their place in mainstream institutions through initiatives like independent publishing ventures.",
+      "summary_en": "Tensions are escalating across Israeli-Palestinian territories amid reports of ongoing Israeli settler violence against Palestinian villages, while diplomatic efforts continue with Prime Minister Netanyahu emphasizing strategic engagement with the United States on Iran policy. A major historical reckoning has emerged regarding the Holocaust, as revelations that Belgian NMBS trains deported 25,000 Jews to Auschwitz are now spurring compensation claims valued in millions of euros. The global crisis of antisemitism peaked in 2025, marked as the deadliest year for Jewish communities in decades, according to watchdog organizations across seven countries. Concerns about Jewish representation in judicial and institutional roles underscore ongoing tensions regarding minority participation in governmental structures.",
       "headlines": [
         {
-          "id": "177eb64703",
-          "title": "UN Condemns Explosion of Violence by Israeli Settlers on West Bank",
-          "url": "https://www.demorgen.be/snelnieuws/live-vn-israel-pleegt-mogelijk-oorlogsmisdaden-in-libanon~ba7f8873/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-28T15:42:00+00:00",
-          "image_url": "https://image.demorgen.be/276315922/roi/320/320/691.1999999999999/529.2/afbeelding"
-        },
-        {
-          "id": "1a3e4e2268",
-          "title": "Why Netanyahu's Visit with Trump at the White House Is High-Stakes",
-          "url": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
+          "id": "6a7a2fd427",
+          "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+          "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-07-28T08:39:17+00:00",
+          "published_at": "2026-07-29T05:01:12+00:00",
           "image_url": null
         },
         {
-          "id": "5475bafaf8",
-          "title": "'A Disaster for America First': Trump Allies Fear Netanyahu Meeting Will Pull US Deeper Into War with Iran",
-          "url": "https://www.politico.com/news/2026/07/28/trump-netanyahu-allies-worry-iran-01013125",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-07-28T10:18:36+00:00",
-          "image_url": null
-        },
-        {
-          "id": "b3943a8c81",
-          "title": "This Jewish Holiday of Love Isn't Just for Couples. It's for a Fractured People.",
-          "url": "https://www.jta.org/2026/07/28/ideas/this-jewish-holiday-of-love-isnt-just-for-couples-its-for-a-fractured-people",
+          "id": "ac52b1e1c2",
+          "title": "2025 was deadliest year for Jews in decades, antisemitism watchdogs in 7 countries conclude",
+          "url": "https://www.jta.org/2026/07/29/global/2025-was-deadliest-year-for-jews-in-decades-antisemitism-watchdogs-in-7-countries-conclude",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-07-28T14:02:13+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/mended-heart.jpg"
+          "published_at": "2026-07-29T04:01:43+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/BondiAttack.jpg"
         },
         {
-          "id": "ebad3db09b",
-          "title": "Feeling Excluded in the Literary World, Jews Are Launching Their Own Publishing Houses",
-          "url": "https://www.jta.org/2026/07/28/culture/feeling-excluded-in-the-literary-world-jews-are-launching-their-own-publishing-houses",
+          "id": "30ed5784a9",
+          "title": "Exclusive: 25,000 Jews departed with NMBS trains from Mechelen to extermination camp Auschwitz, now a million-euro claim follows",
+          "url": "https://www.hln.be/binnenland/exclusief-25-000-joden-vertrokken-met-nmbs-treinen-vanuit-mechelen-naar-vernietigingskamp-auschwitz-nu-volgt-miljoenenclaim~ac19c527/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-29T04:00:00+00:00",
+          "image_url": "https://images.hln.be/MGIyZmJmYTEyMTAxYjcxYzZmM2MvZGlvLzI3NjE0MDc4MS9maXQtd2lkdGgvNDAw/nmbs-deportatie"
+        },
+        {
+          "id": "30c93cec82",
+          "title": "Never mind the low profile – Netanyahu says his meeting with Trump on Iran was a triumph",
+          "url": "https://www.jta.org/2026/07/28/united-states/never-mind-the-low-profile-netanyahu-says-his-meeting-with-trump-on-iran-was-a-triumph",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-07-28T12:00:39+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/IMG_6869-scaled-e1785240315442.jpg"
+          "published_at": "2026-07-29T00:38:08+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/07-28-2026-Netanyahu-Trump-scaled.jpg"
+        },
+        {
+          "id": "87381a0754",
+          "title": "Frans Timmermans backs down on growing antisemitism on the left side",
+          "url": "https://www.demorgen.be/nieuws/frans-timmermans-gaat-plat-op-zijn-buik-voor-het-groeiende-antisemitisme-ter-linkerzijde~bee4394f/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-07-29T01:00:55+00:00",
+          "image_url": "https://image.demorgen.be/276316652/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "3ba4108849",
+          "title": "Mamdani faces backlash over lack of Jews on judicial committee",
+          "url": "https://www.jta.org/2026/07/28/ny/mamdani-faces-backlash-over-lack-of-jews-on-judicial-committee",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-28T20:00:49+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/mamdani.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgian law enforcement intensified efforts to combat drug use, arresting 403 festival-goers and 32 dealers at Tomorrowland, and securing a second suspect in a stabbing incident during the Ghent Festival. A tragic incident on a Brussels tram resulted in a death, prompting reflection on violence in public spaces. On the economic front, tech company Philips recovered 186 million euros in disputed American import duties after Trump's tariffs were ruled illegal. Meanwhile, Belgian political parties have shown limited engagement on climate and environmental issues, with heat and wildfires receiving little attention from center-right parties.",
+      "summary_en": "Belgium faces mounting climate challenges following one of the driest and sunniest Julys on record, with forecasts indicating extreme summer conditions will persist through early August. Private care facilities are demanding higher daily rates to invest in air conditioning systems as heat poses an escalating health and welfare concern. Meanwhile, fiscal waste continues as 52 government-owned buildings have remained empty for over a year, representing significant financial losses absorbed by taxpayers.",
       "headlines": [
         {
-          "id": "66bec13f31",
-          "title": "Police Catch 403 Festival-Goers with Drugs at Tomorrowland, 32 Dealers Arrested",
-          "url": "https://www.demorgen.be/snelnieuws/politie-betrapt-403-festivalgangers-met-drugs-op-tomorrowland-32-dealers-opgepakt~b87776b3/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-28T08:06:00+00:00",
-          "image_url": "https://image.demorgen.be/276021412/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "7ae1eb3717",
-          "title": "Federal Police Arrests Second Suspect in Stabbing at Portus Ganda During Ghent Festival",
-          "url": "https://www.demorgen.be/snelnieuws/federale-politie-arresteert-tweede-verdachte-van-steekpartij-aan-portus-ganda-in-marge-gentse-feesten~b28289b7/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-28T17:38:37+00:00",
-          "image_url": "https://image.demorgen.be/276092635/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "eef91e4cab",
-          "title": "'He Stood for Justice': Son Sami Reacts to Death of Father, Who Died After Defending His Wife on Tram in Brussels",
-          "url": "https://www.demorgen.be/snelnieuws/hij-stond-voor-gerechtigheid-zoon-sami-reageert-op-dood-vader-die-stierf-nadat-hij-vrouw-verdedigde-op-tram-in-brussel~b3e97fff/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-28T11:20:00+00:00",
-          "image_url": "https://image.demorgen.be/271372973/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "b2bebabdb6",
-          "title": "Philips Receives 186 Million Euros in American Import Duties Back Because Trump's Tariffs Proved Illegal",
-          "url": "https://www.demorgen.be/snelnieuws/live-philips-krijgt-186-miljoen-euro-aan-amerikaanse-importheffingen-terug-omdat-trumps-tarieven-illegaal-bleken~b13cc951/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-28T10:33:00+00:00",
-          "image_url": "https://image.demorgen.be/276196041/roi/320/320/3180/1640.4099999999999/afbeelding"
-        },
-        {
-          "id": "1227847911",
-          "title": "Political Silence on Heat and Wildfires: 'Climate Not the Most Important Theme for Center-Right Parties'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/28/dave-sinardet-politieke-stilte-hittedoden-en-natuurbranden/",
+          "id": "3989dba14f",
+          "title": "Heat: Private care homes want higher daily rates for heat investments: 'Air conditioning is no longer a luxury'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/29/verkoeling-in-woonzorgcentra/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/28/ea84d44b-2d22-4d7f-b594-2bf54f0380dd.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/5b7a936c-07f1-4edc-8dd0-d5ea9b1fa85f.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "9943791078",
+          "title": "July was one of the driest and sunniest months ever: 'The first two weeks of August will also see summer conditions continue'",
+          "url": "https://www.hln.be/binnenland/juli-was-een-van-de-droogste-en-zonnigste-maanden-ooit-ook-de-eerste-twee-weken-van-augustus-blijft-de-zomer-op-dreef~ac56c845/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-29T04:00:00+00:00",
+          "image_url": "https://images.hln.be/MTczMWZiYTY1ZGVmNmRmOTI0ZjkvZGlvLzI3NjMxNjg5NS9maXQtd2lkdGgvNDAw/kopfoto-weer"
+        },
+        {
+          "id": "d4831f4aff",
+          "title": "52 government buildings have been empty for over a year and it costs taxpayers millions",
+          "url": "https://www.hln.be/binnenland/52-gebouwen-van-de-overheid-staan-al-langer-dan-jaar-leeg-en-dat-kost-belastingbetaler-miljoenen~a136943f/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-07-29T04:00:00+00:00",
+          "image_url": "https://images.hln.be/MmZkMWFjZTUzNzdhZjk3NTg2ZmYvZGlvLzI3NjMxNjY3NC9maXQtd2lkdGgvNDAw/leegstaande-overheidsgebouwen"
         }
       ]
     },
     "europe": {
-      "summary_en": "Europe faces major challenges from devastating wildfires spreading across Spain and France, with nearly 4,000 people evacuated from tourist sites near Bordeaux. The United States initiated a strategic review of its military presence in Europe, potentially signaling significant changes to defense arrangements on the continent. France's far-right movement is considering modifications to its retirement reform proposals amid broader political debates. European analysts are closely watching the Trump administration's dynamics with Ukraine, noting that Trump's complex relationship with Zelensky may create opportunities for European interests in ongoing negotiations over military aid and diplomatic solutions.",
+      "summary_en": "Southern France and Spain are battling devastating wildfires that have forced nearly 4,000 people to evacuate from tourist areas, with emergency crews racing against fresh heatwaves to contain the blazes—a crisis prompting UN warnings about accelerating climate breakdown. The Rhine River has dropped to critically low levels due to widespread drought, threatening inland shipping routes and port operations across Europe with substantial economic consequences. In a major military development, the United States has authorized Ukraine to independently manufacture American Patriot rockets, strengthening its defensive capabilities in the ongoing conflict with Russia.",
       "headlines": [
         {
-          "id": "3262d6e041",
-          "title": "'It's a Hell of a Situation': Spain Grapples with Devastating Wildfires",
-          "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-07-28T16:49:11+00:00",
-          "image_url": null
+          "id": "9f2442662d",
+          "title": "France and Spain race to control wildfires as fresh heatwave hits, as UN warns 'the climate alarm is blaring' – as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-07-28T16:15:06+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/c835f639710117bb64cdf5beeb669599eb5c8e24/354_0_7356_5886/master/7356.jpg?width=700&quality=85&auto=format&fit=max&s=ad315b2f7d2c694d8c9e5425063c00ff"
+        },
+        {
+          "id": "341d447981",
+          "title": "Trump gives Ukraine permission to produce American Patriot rockets themselves, says Zelensky",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/trump-geeft-oekraine-toestemming-om-zelf-amerikaanse-patriotrak~1781787179742/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/a1de20cb-f65b-4456-87ba-1ca03b91146c.jpg?width=200&height=125&q=80&blur=90"
         },
         {
           "id": "e71bf74610",
-          "title": "Almost 4,000 People Evacuated from Tourist Sites Near Bordeaux as Wildfires Rage in France and Spain",
+          "title": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
           "url": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
           "source": "guardian_world",
           "source_label": "The Guardian",
@@ -378,79 +488,49 @@
           "image_url": "https://i.guim.co.uk/img/media/8f5840296b81efc42138aebde15dd083f91663ee/461_0_4521_3618/master/4521.jpg?width=700&quality=85&auto=format&fit=max&s=afe9f031d7c64d8b3524dd28b994ee2f"
         },
         {
-          "id": "d2a7d58693",
-          "title": "US Kicks Off Review of Its Force Posture in Europe",
-          "url": "https://www.politico.eu/article/us-kicks-off-europe-force-posture-review/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-07-28T06:30:16+00:00",
-          "image_url": null
-        },
-        {
-          "id": "245890c572",
-          "title": "French Far-Right Reviewing Potential Tweaks to Retirement Reform Proposal",
-          "url": "https://www.politico.eu/article/national-rally-marine-le-pen-battle-rages-far-right-fix-france-pensions/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-07-28T15:48:55+00:00",
-          "image_url": null
-        },
-        {
-          "id": "1738242a6a",
-          "title": "Trump Suddenly Needs Zelensky—and That's Good News for Europe",
-          "url": "https://www.hln.be/opinie/timmie-van-diepen-you-dont-have-the-cards-plots-heeft-trump-zelensky-hard-nodig-en-dat-is-ook-goed-nieuws-voor-ons-in-europa~a4ba7953/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-07-28T17:40:59+00:00",
-          "image_url": "https://images.hln.be/ODZhODYxNzkyNGJiYmZjNDE4NzEvZGlvLzI3NjMxOTkxOS9maXQtd2lkdGgvNDAw/this-handout-photograph-taken-and-released-by-the-ukrainian-presidential-press-service-on-july-28-2026-shows-ukraine-s-president-volodymyr-zelensky-c-l-speaking-with-us-president-donald-trump-c-r-during-their-meeting-in-washington-dc-amid-the-russian-invasion-of-ukraine-photo-by-handout-ukrainian-presidential-press-service-afp-restricted-to-editorial-use-mandatory-credit-afp-photo-ukrainian-presidential-press-service-handout-no-marketing-no-advertising-campaigns-distributed-as-a-service-to-clients"
+          "id": "082f2ee068",
+          "title": "Drought brings Rhine to critical level; transport economist warns: 'Low water levels put inland shipping and ports under pressure'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/28/thierry-vanelslander-over-waterniveau-rijn/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/28/08297d88-0ee0-4794-85f7-ba01d217b20c.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Ukraine's President Zelensky reported a productive meeting with US President Trump regarding Patriot missile supplies and renewed diplomatic initiatives for resolving the conflict. Japan experienced a significant earthquake, with details still developing on the scope of impact. In the United States, lawmakers and colleagues honored Senator Lindsey Graham following his passing. Meanwhile, humanitarian workers in Lebanon continue their commitment to animal welfare despite ongoing regional instability, with personal stories emerging of those who stayed to care for animals affected by conflict.",
+      "summary_en": "A powerful earthquake devastated Japan, with the death toll climbing to at least 13 and rescue teams conducting urgent operations to locate missing persons. The Democratic Party in the United States is mired in a severe internal crisis, characterized by organizational dysfunction and significant financial hardship. In the Middle East, a fragile ceasefire has collapsed after only four days, with US and Saudi forces resuming operations in Iraq while Iran has launched attacks against Jordan, signaling renewed escalation in regional hostilities.",
       "headlines": [
         {
-          "id": "7a3d15c428",
-          "title": "Zelensky Speaks of 'Good Meeting' with Trump Over Patriot Missiles and 'New Life for Diplomatic Process'",
-          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-oekraiense-president-zelensky-verlaat-witte-huis-na-gesprek-met-trump~b38bed0a/",
+          "id": "535d2d87c0",
+          "title": "Death toll from severe earthquake in Japan rises to 13: 'Race against the clock' to rescue the missing",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/29/13-doden-geteld-bij-aardbeving-japan/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/f09f3a84-2811-4fed-b6ba-b66599375777.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "417d7584fa",
+          "title": "The Democratic Party in deep crisis: infighting and financial troubles",
+          "url": "https://www.demorgen.be/nieuws/met-telefoons-gooien-en-zwaar-in-de-schulden-de-diepe-crisis-bij-de-democratische-partij~b4790f93/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-07-28T15:33:00+00:00",
-          "image_url": "https://image.demorgen.be/276317373/roi/320/320/2416.74/1439.76/afbeelding"
+          "published_at": "2026-07-29T01:00:49+00:00",
+          "image_url": "https://image.demorgen.be/276306065/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "087d9a835c",
-          "title": "Japan Earthquake: What We Know So Far",
-          "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-07-28T17:15:14+00:00",
-          "image_url": null
-        },
-        {
-          "id": "f781b72df8",
-          "title": "Lindsey Graham Remembered as 'True American Original' at Capitol Memorial",
-          "url": "https://www.theguardian.com/us-news/2026/jul/28/lindsey-graham-capitol-memorial",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-28T17:26:53+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/1d1c9446bd0ad16689a83d63d1105d2bc9c955e3/540_0_4585_3667/master/4585.jpg?width=700&quality=85&auto=format&fit=max&s=b2a2a97f86966889fd6442f2318577af"
-        },
-        {
-          "id": "64639e0a34",
-          "title": "A Dog Saved Houssein Hamze from a Bomb. When War Returned, He Stayed to Care for Lebanon's Animals",
-          "url": "https://www.theguardian.com/world/2026/jul/28/man-who-stayed-to-save-lebanon-wartime-animals-mashala-shelter",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-28T04:00:28+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/84ec1fa111ce60ba5711d8b1df65f004f013f365/178_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=37fc8625f224ffb66ebde02dbd84a463"
+          "id": "f4f9f51e96",
+          "title": "Middle East ceasefire already over after 4 days: US and Saudi Arabia conduct attacks in Iraq, Iran attacks Jordan",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/gevechtspauze-al-na-4-dagen-weer-voorbij-vs-en-saudiarabie-voe~1784611610051/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/b54bbe05-d23e-4a29-b364-780e878770a7.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
