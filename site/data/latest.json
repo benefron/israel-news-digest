@@ -1,38 +1,23 @@
 {
-  "generated_at": "2026-07-29T10:12:07.904514+00:00",
+  "generated_at": "2026-07-29T16:03:24.055524+00:00",
   "date": "2026-07-29",
   "degraded": false,
   "top_general": {
-    "summary_he": "נתניהו וטראמפ נפגשו בוושינגטון ושני הצדדים תיארו את השיחה כחיובית וטובה, בעוד שבמקביל התקיימה פגישה נדירה בין נתניהו לזלנסקי בליווי הסנאטור לינדזי גראהם. במרכז הזירה הבינלאומית עמדה ההסלמה מול איראן, לאחר שזו שיגרה טילים לעבר בסיס אמריקאי בירדן וכוחות אמריקאים וסעודים תקפו בתגובה מטרות איראניות בעיראק. בזירה הפנימית נמשכת המתיחות סביב הבחירות הקרובות ופעילות צה\"ל בגדה המערבית, ובגבול הצפון דווח על פגיעת רחפן חיזבאללה בכלי הנדסי של צה\"ל.",
-    "headlines": [
-      {
-        "id": "4d95c26ccc",
-        "title": "דחפור צה\"לי נפגע מרחפן חיזבאללה, גורם ביטחוני: \"טרם התקבלה החלטה כיצד להגיב\"",
-        "url": "https://news.walla.co.il/item/3857002",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-07-29T11:22:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/3/1/3631686-46.jpg"
-      }
-    ]
-  },
-  "security_war": {
-    "summary_he": "המשבר מול איראן הועצם לאחר שיגור טילים איראניים לעבר בסיס אמריקאי בירדן, שכולם יורטו, ותקיפה משותפת של ארה\"ב וסעודיה בכוחות איראניים בעיראק. בישראל מדווח כי הבכירים קיבלו הנחיות זהירות לנוכח חשש מנקמה איראנית, ובגדה המערבית צה\"ל נערך להשתלטות על מחנות פליטים נוספים תוך חשש מעקירה המונית של תושבים. בדרום לבנון נפגע דחפור צה\"לי ברחפן חיזבאללה, וגורם ביטחוני מסר כי טרם התקבלה החלטה כיצד להגיב על ההפרה. במקביל מתועד גל מחאה חריג בבתי הכלא באיראן, שם אסירים הנידונים למוות תופרים את שפתיהם במחאה על הוצאות להורג.",
+    "summary_he": "טראמפ הצהיר כי הממשלה האמריקאית עתידה \"לפרק\" את איראן, בעקבות פעולות אמריקאיות וסעודיות נגד כוחות איראניים בעיראק וטילים שנורו על בסיס אמריקאי. במקביל, חיזבאללה הפר את הסכם הפסקת האש בהטלת רחפן נפץ על כוחות בשטח, ברמז להסלמה בוטה של העימותים בחזית הצפון.",
     "headlines": [
       {
         "id": "c69f783b5d",
-        "title": "ישראל מציבה קו אדום חדש בלבנון: \"זה לא יהיה בצד שלנו\"",
+        "title": "טראמפ מאיים על איראן: \"אנחנו הולכים לפרק להם את הצורה\"",
         "url": "https://www.globes.co.il/news/article.aspx?did=1001550756",
         "source": "globes",
         "source_label": "גלובס",
         "source_label_he": "גלובס",
-        "published_at": "2026-07-29T08:51:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1780219791/direct/Screenshot_2026-05-31_122743_wtpxzg.png"
+        "published_at": "2026-07-29T15:50:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784308104/AP26194656384758_hkiqu9.jpg"
       },
       {
         "id": "4d95c26ccc",
-        "title": "דחפור צה\"לי נפגע מרחפן חיזבאללה, גורם ביטחוני: \"טרם התקבלה החלטה כיצד להגיב\"",
+        "title": "חוזרים ללחימה? חיזבאללה הפר את ההסכם - והאש במפרץ מסלימה",
         "url": "https://news.walla.co.il/item/3857002",
         "source": "walla",
         "source_label": "וואלה",
@@ -41,76 +26,205 @@
         "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/3/1/3631686-46.jpg"
       },
       {
-        "id": "b0b5622b85",
-        "title": "הפרת חיזבאללה - וההכרעה הישראלית",
-        "url": "https://www.israelhayom.co.il/news/defense/article/21084062",
+        "id": "2576c890ea",
+        "title": "ארה\"ב וסעודיה תקפו כוחות של איראן בעיראק; טילים נורו אל בסיס אמריקאי",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-29/ty-article/.premium/0000019f-aad2-d709-a39f-affe03cc0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-28T22:26:09+00:00",
+        "image_url": null
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "בתחום הביטחון, ישראלי ששירת בסדיר ובמילואים ביחידה מסווגת הואשם בריגול לאיראן. בתחום הדיפלומטיה, לשכת נתניהו דחתה הצעה לפגישה עם זלנסקי בוושינגטון. שלושה ישראלים חצו את הגבול לסוריה. בוושינגטון, המועמד לראשות המודיעין הלאומי הבא מתואר כנעדר כל רקע רלוונטי אך נאמן לטראמפ.",
+    "headlines": [
+      {
+        "id": "ac03b8c67e",
+        "title": "ישראלי ששירת בסדיר ובמילואים ביחידה מסווגת הואשם בריגול לאיראן",
+        "url": "https://www.ynet.co.il/news/article/byfjhupbme",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-07-29T10:59:05+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/03/SyZQcn7Bex/SyZQcn7Bex_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "917cb55bb3",
+        "title": "באוקראינה אומרים שלשכת נתניהו דחתה הצעה לפגישה עם זלנסקי בוושינגטון",
+        "url": "https://www.haaretz.co.il/news/politics/2026-07-28/ty-article/.premium/0000019f-aa1e-dfac-a5df-bbdf97c60000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-28T19:52:47+00:00",
+        "image_url": null
+      },
+      {
+        "id": "0fafbe9b84",
+        "title": "שוב זה קורה: שלושה ישראלים חצו את הגבול לסוריה",
+        "url": "https://www.israelhayom.co.il/news/defense/article/21087648",
         "source": "israel_hayom",
         "source_label": "ישראל היום",
         "source_label_he": "ישראל היום",
         "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "094b5c6418",
+        "title": "ראש המודיעין הלאומי הבא של ארה\"ב: נאמן לטראמפ, נעדר כל רקע רלוונטי",
+        "url": "https://www.haaretz.co.il/news/world/america/2026-07-29/ty-article/0000019f-ace6-d51c-adff-eeff3f1e0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-07-29T09:02:56+00:00",
         "image_url": null
       }
     ]
   },
   "subjects": [
     {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "בעולם ההייטק נחתמה עסקת ענק: חברת סייארה רוכשת את אואזיס סקיוריטי הישראלית תמורת מיליארד דולר. במקביל, אפל הפכה לחברה השנייה בהיסטוריה שהגיעה לשווי של 5 טריליון דולר, ופיפ\"א מתכננת הנפקת מניות של 20 מיליארד דולר במסגרת גוף מסחרי חדש שמעורר סערה. בזירה המקומית, חברת פייבר הפחיתה משמעותית את תחזיתה השנתית בשל השפעת ה-AI.",
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "באופוזיציה ובארגוני המחאה נערכים לאיומים על טוהר הבחירות, כשיש חשש כי \"יש מי שיגרום כאוס\". בני גנץ קרא להקמת \"ממשלת אחדות\". בארצות הברית, הפריימריז הדמוקרטיים לסנאט במישיגן הפכו למשאל בנושא יחסי ישראל.",
       "headlines": [
         {
-          "id": "d606cfc5cd",
-          "title": "הדיפנס-טק פורח: מספר המשרות זינק ב-20%, השכר קפץ מעל 50 אלף שקל",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550681",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-29T02:48:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1731515572/direct/shutterstock_2543724379%D7%A7%D7%A7%D7%A7SSSSSSS_wil6pm.jpg"
+          "id": "95d94819b3",
+          "title": "\"יש מי שיגרום כאוס\": כך נערכים באופוזיציה ובארגוני המחאה לאיומים על טוהר הבחירות",
+          "url": "https://www.haaretz.co.il/news/elections/2026-07-29/ty-article-magazine/.premium/0000019f-a9aa-de01-a5bf-ffea1b5b0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-29T03:01:21+00:00",
+          "image_url": null
         },
         {
-          "id": "40dd88500c",
-          "title": "אפקט ה-AI: פייבר מפחיתה משמעותית את התחזית השנתית",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550761",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-07-29T08:22:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1776252958/direct/M_83_of_106_thfwif.jpg"
+          "id": "c7311cf984",
+          "title": "בני גנץ: \"לא אתן לאף גוש 61 - הגיע הזמן לממשלת אחדות\"",
+          "url": "https://news.walla.co.il/item/3857026",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-29T12:52:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/8/4068729-46.jpg"
+        },
+        {
+          "id": "48dd5e37f5",
+          "title": "הפריימריז הדמוקרטיים לסנאט במישיגן הפכו למשאל עם על ישראל",
+          "url": "https://www.haaretz.co.il/news/world/america/2026-07-29/ty-article/.premium/0000019f-a930-d87e-ab9f-bd7b01dd0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-29T03:01:32+00:00",
+          "image_url": null
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "בשוקי ההון נרשמה תנודתיות חדה, עם ירידות חריפות במניות השבבים באסיה וצניחה של 11% במדד הקוספי הקוריאני. בישראל מדווח כי כ-160 אלף איש נעלמו משוק העבודה, ורשות המסים בוחנת מחדש רפורמה שהצליחה יותר מהצפוי. בנוסף, חברת הנדל\"ן גב-ים דיווחה על צמיחה של 12% בהכנסות והקפצת שווי מגדל תוה\"א 2.",
+      "summary_he": "הבורסה בתל אביב ננעלה באדום, כשטבע זינקה ב-10% ומניות אנרגיה קפצו. בשוק הגלובלי, נאסדאק הגיע לשפל של שלושה חודשים והנפט קפץ מעל לתשעים דולר לחבית. חברת טבע הכתה את התחזיות והעלתה את תחזית המכירות לשנת 2026.",
       "headlines": [
         {
-          "id": "e3df9e544a",
-          "title": "גב-ים הציגה צמיחה של 12% בהכנסות והקפיצה את השווי של מגדל תוה\"א 2",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001550762",
+          "id": "5838329648",
+          "title": "הבורסה בתל אביב ננעלה באדום; טבע זינקה ב-10%, שו\"ב אנרגיה קפצה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001550727",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-07-29T07:04:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1715152079/direct/%D7%94%D7%93%D7%9E%D7%99%D7%94_ToHa_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%99%D7%A9%D7%A8_%D7%90%D7%93%D7%A8%D7%99%D7%9B%D7%9C%D7%99%D7%9D_%D7%95%D7%A8%D7%95%D7%9F_%D7%90%D7%A8%D7%93_%D7%90%D7%93%D7%A8%D7%99%D7%9B%D7%9C%D7%99%D7%9D_%D7%A7%D7%A8%D7%93%D7%99%D7%98_%D7%94%D7%93%D7%9E%D7%99%D7%99%D7%94_3_%D7%93%D7%95%D7%99%D7%96%D7%9F_xj8nru.jpg"
+          "published_at": "2026-07-29T14:32:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1645696030/direct/IMG_20200309_140611_jxtlyd.jpg"
+        },
+        {
+          "id": "76f52824d1",
+          "title": "נאסד\"ק בשפל של 3 חודשים; הנפט מזנק ב-7% מעל ל-90 דולר לחבית",
+          "url": "https://www.themarker.com/wallstreet/2026-07-29/ty-article-live/0000019f-97b8-df42-a1df-f7f90e7d0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-29T13:30:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-ada3-d6af-a9ff-affb830b0000/96/f9/e8b8992d43308aff37aa0959cd36/856202.jpg?width=108&height=81"
+        },
+        {
+          "id": "b782c812b3",
+          "title": "טבע הכתה את התחזיות והעלתה את תחזית המכירות ל–2026; המניה מזנקת ב-12%",
+          "url": "https://www.themarker.com/markets/2026-07-29/ty-article/.premium/0000019f-ad9d-d64c-a3df-bddf38090000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-07-29T11:29:06+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000195-8697-d012-aff7-e6d70afb0000/b9/95/e191a64e450a887caa08f382c55a/187086.jpg?width=108&height=81"
         }
       ]
     },
     {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "לאחר השקעה של 1.1 מיליארד שקל, המדינה מוכרת בהנחה 800 בתים שהוקמו עבור מפוני עוטף עזה.",
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "מיקרוסופט פרסמה דוחות עם דגש על השקעות הון ותשתיות מחשוב ענן.",
       "headlines": [
         {
-          "id": "43a0d25b12",
-          "title": "אחרי השקעה של 1.1 מיליארד שקל: המדינה מוכרת בהנחה 800 בתים שהוקמו למפוני העוטף",
-          "url": "https://www.themarker.com/realestate/2026-07-29/ty-article/.premium/0000019f-a8c3-d709-a39f-adefaadd0000",
+          "id": "73b9cb632f",
+          "title": "דו\"חות מיקרוסופט הלילה: השקעות הון ומחשוב ענן במוקד תשומת הלב",
+          "url": "https://www.themarker.com/wallstreet/2026-07-29/ty-article/.premium/0000019f-ae77-de01-a5bf-ff77a6940000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-07-29T03:08:42+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-a8cb-d798-a3bf-baff1f6a0000/4c/16/bb21f8d443f98ac230e5b7637e91/074350.jpg?width=108&height=81"
+          "published_at": "2026-07-29T15:39:16+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-ae79-d993-af9f-be7f806d0001/8e/03/ee3605f74157b23701bd9b0391e9/461703036.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "תחקיר ה-BBC חושף עדויות על אונס נגד כוכב בולט בתחום הבידור. בעולם הספורט, התעורר דיון על חתימת ים מדר למכבי תל אביב, כשיש הטוענים כי זו אינה החתמה גדולה ואינה הגיונית ליורוליג.",
+      "headlines": [
+        {
+          "id": "4284c0f1af",
+          "title": "תחקיר ה-BBC חושף עדויות על אונס נגד הכוכב",
+          "url": "https://www.israelhayom.co.il/forreal/global/article/21087318",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "34bc16ac55",
+          "title": "\"ים מדר למכבי תל אביב זו לא החתמה גדולה, לא הגיוני ליורוליג\"",
+          "url": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21088006",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "באירופה משתוללות שריפות ביעדים תיירותיים, מה שעשוי להשפיע על תוכניותיהם של הטסים ליבשת. קניון שנהרס ב-2016 ברעש אדמה וחזר לאחרונה תחת השם \"התחלה חדשה\", נהרס שנית בתקופה זו.",
+      "headlines": [
+        {
+          "id": "351d4d3a90",
+          "title": "טסים לאירופה בקרוב? אלה היעדים שבהם משתוללות עכשיו שריפות",
+          "url": "https://travel.walla.co.il/item/3857008",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-07-29T11:44:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/2/4082370-46.jpg"
+        },
+        {
+          "id": "8a35f520c7",
+          "title": "בקניון שנהרס ב־2016 ברעש אדמה חגגו בחודש שעבר \"התחלה חדשה\". כעת הוא הרוס שוב",
+          "url": "https://www.haaretz.co.il/news/world/asia/2026-07-29/ty-article-magazine/0000019f-ad9c-debc-a79f-edff2d060000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-07-29T13:16:45+00:00",
+          "image_url": null
         }
       ]
     }
@@ -134,8 +248,48 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "2025 marked the deadliest year for Jews in recent decades, according to antisemitism monitoring organizations in seven countries. This reflects a significant rise in antisemitic violence and incidents targeting Jewish communities globally.",
+      "summary_en": "Israel faces intensifying tensions between settlers and Palestinians in the West Bank, with reports documenting systematic attacks on Palestinian villages. The year 2025 marked the deadliest period for Jews in decades, according to antisemitism watchdogs across seven countries. Controversy over antisemitic rhetoric and calls for political accountability underscore ongoing tensions tied to the Israeli-Palestinian conflict and the rise in antisemitic incidents worldwide.",
       "headlines": [
+        {
+          "id": "a0d01a8961",
+          "title": "Israeli-Palestinian Conflict: How politicians and media in Israel fuel settler violence on the West Bank",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/29/hoe-israelische-politici-en-media-het-geweld-op-de-westelijke-jo/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/bf80f18c-7e05-4466-964d-9aa59add7693.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "9e3871837d",
+          "title": "Netanyahu compares New York with 'the 1930s' after 'hate-spewing' Mamdani calls for his arrest",
+          "url": "https://www.jta.org/2026/07/29/united-states/netanyahu-compares-new-york-with-the-1930s-after-mamdani-calls-for-his-arrest",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-29T13:06:21+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/GettyImages-2287382140.jpg"
+        },
+        {
+          "id": "c50837408e",
+          "title": "Mamdani's Netanyahu video fuels the debate over the meaning of antisemitism",
+          "url": "https://www.jta.org/2026/07/29/ideas/mamdanis-netanyahu-video-fuels-the-debate-over-the-meaning-of-antisemitism",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-07-29T12:21:23+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/MAmdani-video.png"
+        },
+        {
+          "id": "6a7a2fd427",
+          "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+          "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-07-29T05:01:12+00:00",
+          "image_url": null
+        },
         {
           "id": "ac52b1e1c2",
           "title": "2025 was deadliest year for Jews in decades, antisemitism watchdogs in 7 countries conclude",
@@ -149,167 +303,137 @@
       ]
     },
     "belgium": {
-      "summary_en": "Belgium is responding to Europe's severe forest fire crisis by sending fire trucks to Bordeaux while showcasing new firefighting equipment at home to prepare for potential risks. The Belgian economy recorded zero growth in the second quarter, its first stall since the COVID crisis. Care homes in Belgium are seeking to increase residents' fees to cover investments in cooling systems.",
+      "summary_en": "Belgium is experiencing a dramatic surge in wildfires, with the country already exceeding its entire 2025 total, prompting warnings that wildfire risk continues to rise. Severe drought conditions are impacting agriculture across the country, though consumer-facing effects remain limited so far. Police report a rise in sophisticated car thefts using signal-jamming technology, while urban housing markets face challenges from aggressive Airbnb subletting practices that disrupt traditional rental markets.",
       "headlines": [
         {
-          "id": "fbd6e419ac",
-          "title": "Forest fires across Europe LIVEBLOG: 24,000 people allowed to return home in region around Madrid, Belgium sends fire trucks to Bordeaux",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/24000-mensen-mogen-terug-naar-huis-in-regio-rond-madrid-belgie~1785314118283/",
+          "id": "65aec84d01",
+          "title": "Politics LIVEBLOG: De Ridder denies that negative advice regarding secret deal with regional airports are 'ignored'",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-ridder-ontkent-dat-negatieve-adviezen-rond-geheime-deal-met-r~1780024580839/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/27/806f5f9e-08b6-4fcf-9952-dff5c7e45e44.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/23/a0e6b7bc-277c-4812-989e-fa07890eda9f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "6b6cb79952",
-          "title": "Forest fires: Belgian fire brigade shows new vehicles in fight against forest fires",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/07/29/video-bosbouwbeurs-bertrix-demo-forest-brandbestrijding/",
+          "id": "2eb1ec9faf",
+          "title": "Wildfires: Already more wildfires in Belgium than in all of 2025: 'The risk is also rising with us'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/29/belgie-telde-dit-jaar-al-117-natuurbranden-nu-al-meer-dan-vori/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/5038abcf-b25f-4922-8699-7ea6f23fe08a.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/13/3c0dea88-80ef-491a-be33-54a600e5331f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "88eb59f342",
-          "title": "Forest fires: Can we also get large forest fires in Belgium? 'The chance is small, but in Paris they probably didn't expect it either'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/28/kunnen-we-ook-in-belgie-grote-bosbrand-krijgen/",
+          "id": "c835dd1874",
+          "title": "Drought: How farmers feel the drought hard (but consumers barely notice for now)",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/29/de-boer-voelt-de-droogte-hard-de-consument-voorlopig-nauwelijks/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/28/5270467b-3029-427a-87bf-ce705e3b07b1.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/04b2825b-62a7-49e0-9c73-68b8241db4cb.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "76d10abde0",
-          "title": "Belgian economy stalls in second quarter: first zero growth since COVID crisis",
-          "url": "https://www.hln.be/economie/belgische-economie-valt-stil-in-tweede-kwartaal-eerste-nulgroei-sinds-covidcrisis~ab8938f3/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-07-29T09:49:00+00:00",
-          "image_url": "https://images.hln.be/NTc0NGM1MDUwYjIwNTZhMGUzY2YvZGlvLzI3MTU4MTc2Mi9maXQtd2lkdGgvNDAw/een-containerschip-in-de-berendrechtsluis-haven-van-antwerpen"
-        },
-        {
-          "id": "8692282d7a",
-          "title": "Care homes want to pass on cooling investments in residents' daily rates: 'Air conditioning is not a care cost'",
-          "url": "https://www.demorgen.be/snelnieuws/woon-zorgcentra-willen-investeringen-in-verkoeling-kunnen-doorrekenen-in-dagprijs-van-bewoners-airco-is-geen-zorgkost~ba9eefc9/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-07-29T07:19:00+00:00",
-          "image_url": "https://image.demorgen.be/260301331/feature-crop/320/320/afbeelding"
+          "id": "3fb71e05f7",
+          "title": "Housing: Renting and subletting via Airbnb: duo renters are the fear of landlords in Antwerp",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/29/antwerpen-huurders-airbnb-huren-booking/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/c6184e6d-8fac-4b04-9578-64ecf8109799.png?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "europe": {
-      "summary_en": "Europe's forest fires have stretched emergency response systems to their limits as multiple countries face simultaneous blazes. The EU is proposing a Brexit reset compromise on tuition fees, while Dutch authorities arrested three young terrorism suspects in coordinated raids. UK officials are fast-tracking social care reform reviews, with the energy regulator Ofgem considering fees for datacentre grid access to reduce connection queues.",
+      "summary_en": "Europe is battling a severe drought and heatwave crisis with critical infrastructure impacts: Hungary has shut down a nuclear reactor due to dangerously low Danube water levels, while Rhine shipping faces a potential total shutdown. Devastating wildfires continue sweeping the continent—two firefighters were killed fighting a wildfire on Crete, and Spain faces new threats from an approaching heatwave that could fuel further disasters. A cruise ship ran aground on the Danube in Bulgaria as water levels plunged, exemplifying the severe environmental strain across the region.",
       "headlines": [
         {
-          "id": "9d8dea6966",
-          "title": "Forest fires: European crisis assistance for forest fire prevention reaches its limits: 'Everything is burning at the same time'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/28/europese-unie-noodhulp-bosbranden/",
+          "id": "2d00522f3f",
+          "title": "Heat and Drought LIVEBLOG: Hungary shuts down nuclear reactor because Danube is too low, shipping on Rhine threatens to come completely to a halt",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/hongarije-legt-kernreactor-stil-omdat-donau-te-laag-staat-schee~1784180635133/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/28/5dc8e744-8ba1-410d-9cbd-60b9671e05ce.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2022/08/20/d67e3fa9-2094-11ed-b07d-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "2e2d95a1db",
-          "title": "EU pitches Brexit reset tuition fees compromise",
-          "url": "https://www.politico.eu/article/eu-proposes-brexit-reset-tuition-fees-compromise/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-07-29T02:00:00+00:00",
+          "id": "7f86a4877e",
+          "title": "Wildfires in Europe LIVEBLOG: Two firefighters die in wildfire on Crete, 'next 12 hours crucial' according to Sanchez in Spain",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/twee-brandweerlui-sterven-bij-natuurbrand-op-kreta-komende-12-~1785314118283/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/49d52650-681f-49ea-9297-8f691b4c852f.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "9aea9c4547",
+          "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+          "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-07-29T14:27:13+00:00",
           "image_url": null
         },
         {
-          "id": "e9d33d784b",
-          "title": "Abroad: Police arrest 3 young terrorism suspects in raids spread across Netherlands",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/29/arrestaties-terrorisme-nederland-minderjarigen/",
+          "id": "0f1d1c6e25",
+          "title": "Drought: Cruise ship runs aground on Danube in Bulgaria, passengers evacuated",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/07/29/video-cruiseschip-donau-vastgelopen-lage-waterstand/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/0e203cbd-83e3-4830-8df8-baaa302fb099.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/543dd440-a3cf-4fd9-91c2-48519bb659af.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "bdec747cb2",
-          "title": "Datacentre projects could face fees for grid access to ease connection queue, Ofgem says",
-          "url": "https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-29T07:42:01+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/b06cb76a8d1930cd7908c77e28a524a5ece8ed02/1107_27_6317_5054/master/6317.jpg?width=700&quality=85&auto=format&fit=max&s=88723a4eef48296aecdc6bbd72a94eca"
-        },
-        {
-          "id": "bea1177d7e",
-          "title": "Burnham says it's 'shameful' politicians have failed to fix social care, as he fast-tracks Louise Casey's review – UK politics live",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/29/andy-burnham-social-care-louise-casey-tories-kemi-badenoch-reform-nigel-farage-uk-politics-latest",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-29T09:53:27+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/6e2ec94c3d43918cd09dd13ac2f0d1e5013fa6f4/490_0_3542_2835/master/3542.jpg?width=700&quality=85&auto=format&fit=max&s=3c572d2b2df39b4bc1bedb9752e763f3"
+          "id": "a53b631884",
+          "title": "European Union: 6 million Europeans have already voted on future euro banknotes",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/29/nieuwe-eurobiljetten-stemmen/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/23/9702cc1e-9fa3-4ddc-aae2-39bbdc6cb24a.png?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Major global headlines include a resurgence of tiger populations in Nepal, political developments in Australia's Victoria state election, and an escalating Middle East conflict as a ceasefire collapsed after just four days, with US and Saudi Arabian forces conducting attacks in Iraq and Iran attacking Jordan. FIFA president Infantino's controversial proposal to sell World Cup shares has drawn strong criticism from UEFA, while a notable incident involved a hiker who injured himself with his walking stick but continued 16 kilometers to reach medical help.",
+      "summary_en": "A powerful earthquake struck Japan and triggered a massive gas explosion at a shopping center, destroying an entire floor of the building and raising major safety concerns. Russia has indicted Telegram founder Pavel Durov, accusing him of aiding terrorist activities amid escalating tensions between Moscow and tech platforms operating internationally. The US-China trade conflict has intensified, with the Trump administration imposing new restrictions on Chinese humanoid robots, reflecting broader technological competition between the two powers.",
       "headlines": [
         {
-          "id": "b79f16241f",
-          "title": "Environment & Climate: Tiger undergoing remarkable expansion in Nepal, but how is it doing globally?",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/het-gaat-goed-met-de-tijger/",
+          "id": "f27e443ea6",
+          "title": "Asia: Massive gas explosion blows away entire floor of shopping center after earthquake in Japan",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/07/29/gasexplosie-aardbeving-japan-winkelcentrum-kumamoto/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/f029bd71-2aae-4438-95be-b9cf2b19bd14.png?width=200&height=200&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/ad105b07-aa53-48be-80b5-e3574da31a38.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "49656b9ad6",
-          "title": "Daniel Andrews says Ben Carroll 'can win' Victoria election in rare public statement",
-          "url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-07-29T07:34:38+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/ef51a77cb7081cc0e81bf8db9579a58a987b0f3b/1115_0_3690_2952/master/3690.jpg?width=700&quality=85&auto=format&fit=max&s=f63e6b52c4d3f654c3c273d22ffb97bb"
-        },
-        {
-          "id": "f4f9f51e96",
-          "title": "War Middle East LIVEBLOG: Ceasefire ends after 4 days again: US and Saudi Arabia conduct attacks in Iraq, Iran attacks Jordan",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/gevechtspauze-al-na-4-dagen-weer-voorbij-vs-en-saudiarabie-voe~1784611610051/",
+          "id": "408c350b51",
+          "title": "Russia: Russia charges Telegram founder Pavel Durov with aiding terrorism",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/29/telegram-pavel-doerov-aangeklaagd-in-rusland-wegens-meewerken-aa/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/b54bbe05-d23e-4a29-b364-780e878770a7.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/e4563121-afd9-4ce4-b5bd-c3ea362a441c.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "2a201c2ab9",
-          "title": "United States: Hiker pierces himself with walking stick, but walks another 16 kilometers to ambulance: 'Didn't want to pay for helicopter'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/28/verenigde-staten-hiker-valt-op-wandelstok-in-monatana/",
+          "id": "8285d2be16",
+          "title": "US-China Trade War: Trump administration bans new humanoid robots from China",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/07/29/regering-trump-verbiedt-nieuwe-chinese-humanoide-robots/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/99279712-0fd2-4c6d-81e8-e7137460a998.png?width=200&height=200&q=80&blur=90"
-        },
-        {
-          "id": "fa9591b707",
-          "title": "2026 World Cup: Is the World Cup soon really 'for sale'? FIFA president Infantino wants to sell World Cup shares, UEFA furious",
-          "url": "https://sporza.be/nl/2026/07/28/is-het-wk-straks-echt-for-sale-infantino-legt-nucleaire-bom-onder-het-voetbal-met-nieuw-miljardenplan-ook-trump-weer-betrokken~1785253197408/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/28/2883c77f-2ab7-4896-bdc5-090976320412.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/29/2b354cac-cd07-41cb-acfd-7fd6a884d52d.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
