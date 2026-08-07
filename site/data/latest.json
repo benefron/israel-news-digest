@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-08-05T08:32:55.347825+00:00",
-  "date": "2026-08-03",
+  "generated_at": "2026-08-07T05:51:43.935555+00:00",
+  "date": "2026-08-05",
   "degraded": true,
   "top_general": {
     "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "1ed012a3a6",
-        "title": "שוב התברר שטראמפ נרתע מחזרה למלחמה. בפעם הבאה שיצעק \"זאב, זאב\", איש כבר לא יקשיב",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-02/ty-article/.highlight/0000019f-c1e9-d37f-adff-d5fd4ee00000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-02T12:15:35+00:00",
-        "image_url": null
-      },
-      {
-        "id": "e40f49e885",
-        "title": "\"כבר לא נחזור אחורה\": קאנדו וענף הרחפנים האזרחי מחכים לסוף המלחמה",
-        "url": "https://www.themarker.com/news/security/2026-08-03/ty-article/.highlight/0000019f-c2ce-d2d0-af9f-fafe17040000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-08-03T03:04:51+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000019f-c32f-ded7-adbf-c3af64d60000/07/6a/df685a6548158370ddce8837d8d6/964973.jpg?width=108&height=81"
-      },
-      {
-        "id": "d0826cbdbf",
-        "title": "גורם במועצת השלום ל-N12 לאחר פרסום התוכנית: \"אין לחמאס איך לצאת מזה\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-cd8eb62f53ebf91026.htm",
+        "id": "a2cb7381f9",
+        "title": "טראמפ: \"השיחות עם איראן מתנהלות היטב, אם הן יקרסו - נתקוף אותם בעוצמה\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b3f0b1dbbefcf91027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-08-02T05:03:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/01/GettyImages-2197726784_re_autoOrient_i.jpg"
+        "published_at": "2026-08-05T03:41:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/01/AP26202575575881_autoOrient_i.jpg"
       },
       {
-        "id": "de35b05704",
-        "title": "צבא לבנון: חמישה חיילים לבנונים נפצעו בפיצוץ בבינת ג'ביל",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-02/ty-article/0000019f-c232-d2d0-af9f-fab24e3f0000",
+        "id": "cdab702a3e",
+        "title": "\"היזהרו מפושעי המלחמה - ודווחו לנו אם נתקלים בהם\": הפלייר שחולק באמסטרדם נגד ישראלים",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-f10a65d9931df91027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-05T09:40:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/04/flayer_autoOrient_i.jpg"
+      },
+      {
+        "id": "cfcdbac990",
+        "title": "נהר הדנובה בשפל היסטורי וספינות מלחמה נאציות נחשפות בזו אחר זו",
+        "url": "https://www.haaretz.co.il/nature/2026-08-05/ty-article/.premium/0000019f-d0f7-df41-a5ff-fef702fb0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-08-02T11:35:54+00:00",
+        "published_at": "2026-08-05T10:39:19+00:00",
         "image_url": null
       },
       {
-        "id": "e2e9c5ce36",
-        "title": "טראמפ מברך, ישראל חוששת: האם חמאס רק מחליף אריזה?",
-        "url": "https://news.walla.co.il/item/3857908",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-02T18:30:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/0/6/4006467-46.jpg"
+        "id": "055323ca20",
+        "title": "טראמפ נותן לאיראן עוד זמן - וטהראן לועגת: \"הוא נתקע בבוץ שהוא יצר\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-98f92c80791df91026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-05T11:10:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/04/07/AP26089055302397_autoOrient_i.jpg"
       },
       {
-        "id": "3c7948cf4f",
-        "title": "טראמפ כנראה לא התכוון לתקוף באיראן, אבל מה שחמוּר הוא שישראל הפכה לגרורה של ארה\"ב",
-        "url": "https://www.ynet.co.il/news/article/b1tpye6hmg",
+        "id": "16903c97da",
+        "title": "צה\"ל הודיע כי פתח ב\"תקיפות ממוקדות\" בדרום לבנון: \"חיזבאללה הפר את ההסכם\"",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-05/ty-article/0000019f-d16e-de9b-adff-f7ff8e460000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-05T11:51:09+00:00",
+        "image_url": null
+      },
+      {
+        "id": "62e3438ae8",
+        "title": "אי-השוויון בישראל גדל: \"יש מקום להטיל מס ירושה\"",
+        "url": "https://www.themarker.com/podcasts/2026-08-05/ty-article-podcast/0000019f-d1d0-d310-a3df-d5d360880000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-08-05T12:18:56+00:00",
+        "image_url": "https://img.haarets.co.il/bs/0000017f-db6a-db5a-a57f-db6ab0690000/fd/6c/01ad11cc5988c19b20f57c55d62d/981537891.jpg?width=108&height=81"
+      },
+      {
+        "id": "05ac6d9c4b",
+        "title": "האו\"ם: מאז מרץ איראן הוציאה להורג 56 בני אדם שהואשמו בעבירות ביטחוניות",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-05/ty-article/.premium/0000019f-d1b3-d310-a3df-d5b326f40000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-05T12:35:53+00:00",
+        "image_url": null
+      },
+      {
+        "id": "c3bc3649e6",
+        "title": "תקיפות בדרום לבנון, צה\"ל: \"חיזבאללה הפר את הפסקת האש, נפעל בעוצמה\"",
+        "url": "https://www.ynet.co.il/news/article/r1fze3ligx",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-08-02T21:37:03+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/31/Syw4mrcrGg/Syw4mrcrGg_0_91_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "8fd4f508f3",
-        "title": "טראמפ: השיחות עם איראן יחודשו מחר",
-        "url": "https://www.kan.org.il/content/kan-news/defense/live-1084906/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": "https://www.kan.org.il/media/jtbdurp4/2026-07-29t193158z_240368834_rc2vnmau7h8e_rtrmadp_3_usa-trump.jpg?rxy=0.628533376821048,0.4081143332304545&width=490&height=272&v=1dd1fb041396ad0"
-      },
-      {
-        "id": "09b790223b",
-        "title": "טראמפ: השיחות עם איראן יתחדשו היום, נשיג הסכם לפירוק הגרעין",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001551134",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": null,
-        "image_url": null
+        "published_at": "2026-08-05T12:47:13+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/05/Bkg11ylneIMl/Bkg11ylneIMl_0_717_900_507_0_medium.jpg"
       }
     ]
   },
@@ -95,18 +95,18 @@
   "sources_fetched": [
     "haaretz",
     "ynet",
-    "kan",
+    "israel_hayom",
     "mako",
     "walla",
     "globes",
     "themarker",
     "times_of_israel",
+    "maariv",
     "reshet13",
     "i24"
   ],
   "sources_failed": [
-    "israel_hayom",
-    "maariv",
+    "kan",
     "makor_rishon"
   ],
   "world": {
@@ -114,64 +114,64 @@
       "summary_en": "Automatic summary unavailable — raw headlines shown below.",
       "headlines": [
         {
-          "id": "5e0cc5e9c5",
-          "title": "Migranten naar Ceuta LIVEBLOG Europese ministers benadrukken eenheid na overleg over Ceuta: \"Iedereen heeft solidariteit betuigd met Spanje\" 17 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/europese-ministers-benadrukken-eenheid-na-overleg-over-ceuta-i~1785485718798/",
+          "id": "5f89659737",
+          "title": "Regio Oostduinkerke Kitesurfer uit Diest overlijdt na zwaar ongeval op strand van Oostduinkerke 49 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/kitesurfer-uit-diest-overlijdt-na-zwaar-ongeval-op-strand-van-oo0/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/03/76da9efd-eb14-4829-ab58-1996c71a1577.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/06/e1f1e02a-975c-40bf-9b9e-eca38a9e5438.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "886983f7aa",
-          "title": "Regio District Antwerpen Man (22) in levensgevaar na val van standbeeld Brabo op Grote Markt Antwerpen: \"We raden zulke stunttaferelen af\" 4 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/04/val-standbeeld-brabo-antwerpen-levensgevaar/",
+          "id": "bad4e139cd",
+          "title": "Regio Balen Leiding KLJ Balen slachtoffer van \"ernstig voorval\": zomerkamp in Plombières stopgezet 2 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/plombieres-klj-balen-kamp-stopgezet-leiding-slachtoffer/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/04/2c8e89eb-d181-45da-aebd-08df898e8fd5.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/06/1ab0df43-64b0-4574-88f4-a89d1d3ee334.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "09d5525d6e",
-          "title": "Justitie Uitbaters nachtwinkel overvallen in Elsene: man overleden, vrouw opgesloten 2 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/04/elsene-uitbater-nachtwinkel/",
+          "id": "b36d644db6",
+          "title": "Beperking werkloosheidsuitkering Ruim helft van werklozen die uitkering verliezen, vraagt leefloon aan 2 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/ruim-helft-van-werklozen-die-uitkering-verloor-vroeg-leefloon-a/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/04/b8fe6028-ad9a-4790-962d-c7a2a6aa8851.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/06/a4c2169f-227a-4865-99f6-6233eb0e4888.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "c3055fea00",
-          "title": "Regio Brugge Vrouw (30) en man (34) dood aangetroffen in woning in Brugge: doodsoorzaak nog onduidelijk 5 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/04/brugge-koppel-dood/",
+          "id": "4c7b30b35d",
+          "title": "Verenigd Koninkrijk Jongste zwarte professor ooit aan Cambridge stapt op na beschuldigingen van plagiaat en onjuiste beweringen 2 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/jason-arday-professor-ontslagen-camebridge/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/04/2ae30dc3-1707-4f20-9699-f3cdacc13b15.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/06/5247b22b-90ff-4a13-a19b-132fcaf65c0f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "6712336a43",
-          "title": "Regio Haven Antwerpen Na 10 jaar werken: hoogspanningslijn Brabo III officieel geopend in haven van Antwerpen 4 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/04/opening-hoogspanningslijn-brabo-iii-antwerpse-haven/",
+          "id": "44a355cec5",
+          "title": "00:40 Europa Zelfs Spaanse stranden werden even gesloten: Giftige Portugese oorlogsschepen steken 120 mensen 34 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/06/video-portugese-oorlogsschepen/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/04/4c13e0f3-9405-4a93-bce3-98c8cee1ef3d.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/06/abe837ee-0979-4ba0-85d2-c8ae84d71288.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "fe892b8a1d",
-          "title": "Tour de France Femmes \"Het is een beetje absurd\": Tourploegleiders zijn benieuwd naar boezemtests 30 minuten geleden",
-          "url": "https://sporza.be/nl/2026/08/04/-het-is-een-beetje-absurd-tourploegleiders-zijn-benieuwd-naar-boezemtests-maar-zeggen-dat-er-niets-nieuws-is~1785839833719/",
+          "id": "04f57a8160",
+          "title": "Artificiële intelligentie OpenAI onthult hoe AI-modellen maandenlang ongemerkt konden samenwerken en overleggen om te hacken 27 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/openai-geeft-meer-details-over-hack-incident-ai-modellen-deeld/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/04/ee8cb917-b36c-4127-b840-a4ec8c92e012.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2024/09/12/08abe73f-81a9-49fa-b38a-d8894a584942.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
