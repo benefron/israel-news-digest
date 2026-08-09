@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-08-07T05:51:43.935555+00:00",
-  "date": "2026-08-05",
+  "generated_at": "2026-08-09T05:54:14.534084+00:00",
+  "date": "2026-08-07",
   "degraded": true,
   "top_general": {
     "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "a2cb7381f9",
-        "title": "טראמפ: \"השיחות עם איראן מתנהלות היטב, אם הן יקרסו - נתקוף אותם בעוצמה\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b3f0b1dbbefcf91027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-05T03:41:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/01/AP26202575575881_autoOrient_i.jpg"
-      },
-      {
-        "id": "cdab702a3e",
-        "title": "\"היזהרו מפושעי המלחמה - ודווחו לנו אם נתקלים בהם\": הפלייר שחולק באמסטרדם נגד ישראלים",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-f10a65d9931df91027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-05T09:40:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/04/flayer_autoOrient_i.jpg"
-      },
-      {
-        "id": "cfcdbac990",
-        "title": "נהר הדנובה בשפל היסטורי וספינות מלחמה נאציות נחשפות בזו אחר זו",
-        "url": "https://www.haaretz.co.il/nature/2026-08-05/ty-article/.premium/0000019f-d0f7-df41-a5ff-fef702fb0000",
+        "id": "c7b90a02eb",
+        "title": "הסתיים סבב השיחות עם לבנון; ישראל מסרבת להרחיב את אזורי הפיילוט",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-06/ty-article/.premium/0000019f-d7a4-d315-a1df-ffaefa410000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-08-05T10:39:19+00:00",
+        "published_at": "2026-08-06T17:49:46+00:00",
         "image_url": null
       },
       {
-        "id": "055323ca20",
-        "title": "טראמפ נותן לאיראן עוד זמן - וטהראן לועגת: \"הוא נתקע בבוץ שהוא יצר\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-98f92c80791df91026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-05T11:10:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/04/07/AP26089055302397_autoOrient_i.jpg"
-      },
-      {
-        "id": "16903c97da",
-        "title": "צה\"ל הודיע כי פתח ב\"תקיפות ממוקדות\" בדרום לבנון: \"חיזבאללה הפר את ההסכם\"",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-05/ty-article/0000019f-d16e-de9b-adff-f7ff8e460000",
+        "id": "1ebba0e7ed",
+        "title": "כוחות הביטחון בניגריה חילצו יותר מ־300 בני ערובה שנחטפו בידי ארגונים חמושים",
+        "url": "https://www.haaretz.co.il/news/world/africa/2026-08-06/ty-article/.premium/0000019f-d821-d310-a3df-dc239b930000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-08-05T11:51:09+00:00",
+        "published_at": "2026-08-06T19:12:11+00:00",
         "image_url": null
       },
       {
-        "id": "62e3438ae8",
-        "title": "אי-השוויון בישראל גדל: \"יש מקום להטיל מס ירושה\"",
-        "url": "https://www.themarker.com/podcasts/2026-08-05/ty-article-podcast/0000019f-d1d0-d310-a3df-d5d360880000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-08-05T12:18:56+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000017f-db6a-db5a-a57f-db6ab0690000/fd/6c/01ad11cc5988c19b20f57c55d62d/981537891.jpg?width=108&height=81"
-      },
-      {
-        "id": "05ac6d9c4b",
-        "title": "האו\"ם: מאז מרץ איראן הוציאה להורג 56 בני אדם שהואשמו בעבירות ביטחוניות",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-05/ty-article/.premium/0000019f-d1b3-d310-a3df-d5b326f40000",
+        "id": "98c10c4d04",
+        "title": "איראן מתקרבת לשליטה בהורמוז, בלי שתידרש לוותר על גרעין",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-07/ty-article/.premium/0000019f-d891-d7e2-a39f-fff346f20000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-08-05T12:35:53+00:00",
+        "published_at": "2026-08-07T03:00:26+00:00",
         "image_url": null
       },
       {
-        "id": "c3bc3649e6",
-        "title": "תקיפות בדרום לבנון, צה\"ל: \"חיזבאללה הפר את הפסקת האש, נפעל בעוצמה\"",
-        "url": "https://www.ynet.co.il/news/article/r1fze3ligx",
+        "id": "a474aca692",
+        "title": "השלמת ההסדר בהורמוז עשויה לתת לאיראן פרס שבעבר לא עלה בדעתה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-07/ty-article/.highlight/0000019f-d835-d7e2-a39f-fff7153a0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-07T03:00:41+00:00",
+        "image_url": null
+      },
+      {
+        "id": "469a821196",
+        "title": "\"איפה שר הביטחון?\": כ\"ץ עזב את הקבינט לטובת חתונת בנו של ראש העיר מהליכוד",
+        "url": "https://www.ynet.co.il/news/article/bygndx7lgl",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-08-05T12:47:13+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/05/Bkg11ylneIMl/Bkg11ylneIMl_0_717_900_507_0_medium.jpg"
+        "published_at": "2026-08-07T06:22:58+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/07/S1dcOlXUMx/S1dcOlXUMx_0_468_961_541_0_medium.jpg"
+      },
+      {
+        "id": "e34d1a374f",
+        "title": "כוחות הביטחון נסוגו ממחנה הפליטים קלנדיה; הסהר האדום: 51 בני אדם נפגעו",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-07/ty-article/.premium/0000019f-da9f-d7e2-a39f-ffff65b40000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-07T06:40:48+00:00",
+        "image_url": null
+      },
+      {
+        "id": "65b874f4b6",
+        "title": "סעודיה נערכת למתקפה מתואמת מתימן ועיראק, בניצוח איראן: \"זה קרוב מאוד\"",
+        "url": "https://www.ynet.co.il/news/article/r1itpwq8mx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-07T07:50:17+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/09/B14r00N2Ze/B14r00N2Ze_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "8a78b03fc3",
+        "title": "מה קורה במשרד הביטחון: \"כל מה שמעניין את כ\"ץ זה סרטונים. נתניהו לא סופר אותו\"",
+        "url": "https://www.ynet.co.il/news/article/yokra14855554",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-07T07:57:39+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/23/Bky37dCLxl/Bky37dCLxl_290_192_787_443_0_medium.jpg"
       }
     ]
   },
@@ -95,83 +95,83 @@
   "sources_fetched": [
     "haaretz",
     "ynet",
-    "israel_hayom",
+    "kan",
     "mako",
     "walla",
     "globes",
     "themarker",
     "times_of_israel",
     "maariv",
+    "makor_rishon",
     "reshet13",
     "i24"
   ],
   "sources_failed": [
-    "kan",
-    "makor_rishon"
+    "israel_hayom"
   ],
   "world": {
     "israel_jewish": {
       "summary_en": "Automatic summary unavailable — raw headlines shown below.",
       "headlines": [
         {
-          "id": "5f89659737",
-          "title": "Regio Oostduinkerke Kitesurfer uit Diest overlijdt na zwaar ongeval op strand van Oostduinkerke 49 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/kitesurfer-uit-diest-overlijdt-na-zwaar-ongeval-op-strand-van-oo0/",
+          "id": "d0849cd7f8",
+          "title": "voetbal Nieuw schandaal rond Gianni Infantino? FIFA-voorzitter betaalde \"ontslagvergoeding van zes cijfers aan minnares in 2016\" 50 minuten geleden",
+          "url": "https://sporza.be/nl/2026/07/29/nieuw-schandaal-rond-gianni-infantino-fifa-voorzitter-betaalde-ontslagvergoeding-van-zes-cijfers-aan-minnares-in-2016~1785325277875/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/06/e1f1e02a-975c-40bf-9b9e-eca38a9e5438.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/08/0d79b53d-ccc7-4fcc-b14c-948cb8b7cf48.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "bad4e139cd",
-          "title": "Regio Balen Leiding KLJ Balen slachtoffer van \"ernstig voorval\": zomerkamp in Plombières stopgezet 2 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/plombieres-klj-balen-kamp-stopgezet-leiding-slachtoffer/",
+          "id": "ab27d37da1",
+          "title": "Regio Merchtem Drie verdachten aangehouden na overlijden van Hamza (7) in Merchtem, oom verdacht van moord 3 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/08/moeder-en-oom-aangehouden-merchtem-jongen-overleden/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/06/1ab0df43-64b0-4574-88f4-a89d1d3ee334.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/06/38890314-f69e-4765-b907-2e92a047037b.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "b36d644db6",
-          "title": "Beperking werkloosheidsuitkering Ruim helft van werklozen die uitkering verliezen, vraagt leefloon aan 2 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/ruim-helft-van-werklozen-die-uitkering-verloor-vroeg-leefloon-a/",
+          "id": "a9a828c4e2",
+          "title": "Regio Wallonië \"Tutti cadaveri\": 70 jaar geleden kwamen 262 mijnwerkers om bij grootste mijnramp uit onze geschiedenis 6 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/03/70-jaar-marcinelle-mijnramp-bois-du-cazier/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/06/a4c2169f-227a-4865-99f6-6233eb0e4888.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/03/56117eba-a745-4c72-ae42-d86e1d9aa643.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "4c7b30b35d",
-          "title": "Verenigd Koninkrijk Jongste zwarte professor ooit aan Cambridge stapt op na beschuldigingen van plagiaat en onjuiste beweringen 2 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/jason-arday-professor-ontslagen-camebridge/",
+          "id": "6bc54a63b3",
+          "title": "Verenigde Staten \"Het is zwaar en triest om te zien\": Hunter over ziekte van vader en oud-president Joe Biden 28 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/08/joe-biden-kanker-uitgezaaid-hunter-biden/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/06/5247b22b-90ff-4a13-a19b-132fcaf65c0f.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/08/c8a4ecbb-80c6-4139-aab0-dc89c232d839.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "44a355cec5",
-          "title": "00:40 Europa Zelfs Spaanse stranden werden even gesloten: Giftige Portugese oorlogsschepen steken 120 mensen 34 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/06/video-portugese-oorlogsschepen/",
+          "id": "9bb6a73eb3",
+          "title": "Samenleving Waarom je beter niet direct in het water springt als je een zwemmer in nood ziet 6 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/07/wat-doe-ik-als-ik-een-drenkeling-zie-redden-zee-water-vijver/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/06/abe837ee-0979-4ba0-85d2-c8ae84d71288.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2024/08/13/53d79ba7-1ae6-49f2-a7df-a705b52b0e22.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "04f57a8160",
-          "title": "Artificiële intelligentie OpenAI onthult hoe AI-modellen maandenlang ongemerkt konden samenwerken en overleggen om te hacken 27 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/06/openai-geeft-meer-details-over-hack-incident-ai-modellen-deeld/",
+          "id": "393cbd9966",
+          "title": "Hitte Opnieuw warme dagen op komst: vanaf vandaag maxima rond 30 graden 3 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/08/kmi-kondigt-vanaf-zaterdag-opnieuw-code-geel-af-voor-hitte/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2024/09/12/08abe73f-81a9-49fa-b38a-d8894a584942.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/08/5190ee5e-249b-40f0-b7f2-d701717df518.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
