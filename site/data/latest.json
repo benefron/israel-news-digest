@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-08-10T12:35:44.268740+00:00",
-  "date": "2026-08-09",
+  "generated_at": "2026-08-11T01:05:02.821696+00:00",
+  "date": "2026-08-10",
   "degraded": true,
   "top_general": {
     "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "b9f4b5526e",
-        "title": "דיווח בפייננשל טיימס: הסגר הימי האמריקני שיתק את יצוא הנפט מאיראן",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-e541e231401ef91026.htm",
+        "id": "23d802db10",
+        "title": "אינפלציה, אבטלה ומחלוקת בצמרת המשטר: המשבר הכלכלי באיראן שעליו מהמר טראמפ",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-601e4094c5aef91027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-08-08T11:23:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/06/18/iran_hormuz_2276029086_re_autoOrient_i.jpg"
+        "published_at": "2026-08-10T07:10:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/01/12/iran_new_protests_re_autoOrient_i.jpg"
       },
       {
-        "id": "3e3f34db6f",
-        "title": "האיום של איראן על סעודיה, והציטוט של בכיר בברית ההגנה החדשה באזור: \"ישראל מדינה בלתי לגיטימית\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-2fdd9b58be0ef91026.htm",
+        "id": "17de195c77",
+        "title": "הקיפאון בשיחות המו\"מ עם לבנון - והמחלוקות: \"ישראל סירבה להרחיב את אזור הפיילוט\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-2b98a01b5daef91026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-08-08T12:25:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/04/10/khawaja_re_autoOrient_i.jpg"
+        "published_at": "2026-08-10T08:49:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/06/26/RASHIT2_autoOrient_i.jpg"
       },
       {
-        "id": "89b47b4828",
-        "title": "המדינה החדשה שאולי תצטרף לברית ההגנה, והמסר של טורקיה לאיראן",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-3048c7f9092ef91026.htm",
+        "id": "027410ddc2",
+        "title": "לפחות 13 הרוגים ועשרות פצועים: אוקראינה ביצעה את המתקפה הקטלנית ביותר",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-51692ec784bef91026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-08-08T18:10:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/05/25/jhkfahsjdkfhjkasf_autoOrient_i.jpg"
+        "published_at": "2026-08-10T10:55:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/10/russia1008_autoOrient_i.jpg"
       },
       {
-        "id": "68d00df5f6",
-        "title": "השיטה שהצליחה בוונצואלה וכשלה באיראן: ממשל טראמפ מחפש מנהיג חדש וצייתן לקובה",
-        "url": "https://www.haaretz.co.il/news/world/america/2026-08-08/ty-article-magazine/.premium/0000019f-e18b-dbf7-afbf-ed8fcda50000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-08T19:21:27+00:00",
-        "image_url": null
+        "id": "911e56c13b",
+        "title": "הסוף העצוב של וויליאם שלחם בעזה וחזר לארה\"ב: \"היה לו קשה לבד בארץ, הוא לא קיבל עזרה\"",
+        "url": "https://www.ynet.co.il/news/article/syac07vige",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-10T11:46:42+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/SJz00CmvIzl/SJz00CmvIzl_0_436_591_333_0_medium.jpg"
       },
       {
-        "id": "e18fd18f74",
-        "title": "ארה\"ב שוחקת את מאגרי הנשק שלה באיראן. רוסיה וסין עוקבות בדריכות",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-08/ty-article/.premium/0000019f-e2ac-d7e2-a39f-f7eef6a00000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-08T19:30:37+00:00",
-        "image_url": null
+        "id": "31c891183b",
+        "title": "דיווח: מדינה באזור ייעצה למדינה אחרת ללכת להסכם עם ישראל - ולהתכונן למלחמה",
+        "url": "https://www.ynet.co.il/news/article/bkrq54w8mg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-10T12:03:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/03/21/B1JATotAa/B1JATotAa_0_312_3000_1689_0_medium.jpg"
       },
       {
-        "id": "ab173a39f9",
-        "title": "בעקבות המלחמה עם איראן: הפנטגון לוחץ על התעשיות הביטחוניות להאיץ דרמטית את קצב ייצור הנשק | דיווח",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-caea5732d73ef91026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-08T22:46:00+00:00",
-        "image_url": "https://img.mako.co.il/2024/10/20/TERMINALHIGHALTITUDE_re_autoOrient_i.jpg"
+        "id": "7ed6de40a9",
+        "title": "חיזבאללה בשפל כלכלי — והכסף לחלק למשפחות שבתיהן נהרסו אוזל",
+        "url": "https://www.themarker.com/wallstreet/2026-08-10/ty-article-magazine/.premium/0000019f-eb1f-d101-a5bf-eb1f05880000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-08-10T14:24:36+00:00",
+        "image_url": "https://img.haarets.co.il/bs/0000019f-eb29-d86b-a59f-ef3f94190001/8a/31/ee26e81b403faf6c54788912d8b0/hezbollah-finances-3.jpg?width=108&height=81"
       },
       {
-        "id": "6f0275b6ff",
-        "title": "לבנון מביעה חשש מיישום ההסכם עם ישראל, והנסיגה מדשדשת באיטיות רבה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-09/ty-article/.highlight/0000019f-e2b6-d310-a3df-e6b766cf0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-09T03:01:30+00:00",
-        "image_url": null
+        "id": "4178dc1e6c",
+        "title": "משרד הביטחון יצא למסע רכישות, והסטארט־‏אפים הבוגרים נהנו במיוחד",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001551872",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-08-10T14:31:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765131756/PAGE-3-800_ungfss.png"
       },
       {
-        "id": "2011c2ef3d",
-        "title": "משרד החוץ לישראלים ביוון: גלו ערנות מוגברת לקראת הפגנות תמיכה בעזה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-09/ty-article/.premium/0000019f-e52e-d310-a3df-e52fb8820000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-09T07:01:48+00:00",
-        "image_url": null
+        "id": "80a533caa9",
+        "title": "רעידת אדמה בעוצמה 7.4 בקולומביה: לפחות 77 נהרגו, פצועים ולכודים בבניינים שקרסו",
+        "url": "https://www.ynet.co.il/news/article/bkdvcswlzx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-10T15:07:49+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/SyyfHLDLGl/SyyfHLDLGl_0_0_850_479_0_medium.jpg"
       }
     ]
   },
@@ -101,91 +101,12 @@
     "walla",
     "globes",
     "themarker",
-    "times_of_israel",
+    "times_of_israel"
+  ],
+  "sources_failed": [
     "maariv",
     "makor_rishon",
     "reshet13",
     "i24"
-  ],
-  "sources_failed": [],
-  "world": {
-    "israel_jewish": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": [
-        {
-          "id": "b4e1497ac4",
-          "title": "Milieu & Klimaat Recordtemperaturen in zee en op land: nog nooit waren onze oceanen zo warm 2 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/07/hoogste-zeewatertemperatuur-ooit-gemeten/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/09/6f846870-04db-458f-85ed-7c29fa33843e.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "33ae23cf42",
-          "title": "Bosbranden LIVEBLOG Brand in Spanje breidt uit richting Sevilla, vrouw (80) omgekomen bij bosbranden in Canada 45 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/brand-in-spanje-breidt-uit-richting-sevilla-vrouw-80-omgekome~1785314118283/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/09/704c9cac-49f2-450a-9212-4c36b2ade409.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "cba3e1fd0f",
-          "title": "Nederland 2 Belgische tienermeisjes zwaargewond bij ongeval op autosnelweg in Nederland zo 9 aug.",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/09/ongeval-uden-nederland-belgisch-gezin/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2024/08/15/2c58e517-708d-41b6-accd-5473a75742db.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "56baea35f3",
-          "title": "WinWin Magnesium van A-merk al snel 5 keer duurder dan huismerk, maar zijn dure voedingssupplementen ook beter? 2 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/07/16/zijn-dure-voedingssuplementen-beter-dan-goedkope/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/16/45fdb76e-ce1d-4a60-be79-770abbd1de59.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "38faa4e003",
-          "title": "Verkeer Zware verkeershinder verwacht op E19 in Machelen door werken aan lus naar Brusselse Binnenring 12 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/09/werken-file-verkeer-e19-machelen-antwerpen-brussel-hinder/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/10/722699f5-cc3e-4dcf-b5d4-c58926b92f8a.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "0be43ae49c",
-          "title": "Verkeer Hinder op E17 tussen Destelbergen en Gentbrugge door heraanleg wegdek én studie 'brokkelbrug' zo 9 aug.",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/08/hinder-e17-snelweg-kortrijk-gent-antwerpen-brokkelbrug-viaduct-g/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2021/07/09/633e06bb-e08a-11eb-b07d-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
-        }
-      ]
-    },
-    "belgium": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
-    },
-    "europe": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
-    },
-    "world_top": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
-    },
-    "degraded": true
-  }
+  ]
 }
