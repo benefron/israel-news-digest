@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T10:11:21.166067+00:00",
+  "generated_at": "2026-08-11T13:10:42.728132+00:00",
   "date": "2026-08-11",
   "degraded": false,
   "top_general": {
-    "summary_he": "המאבק בליכוד סביב שיריון מקומות לשרים כ\"ץ וסער מסתעף, עם ביקורת פנימית וקריאות להתקוממות נגד המהלך. במקביל, טראמפ מאיים לדרוש מאיראן פיצויים על נפגעי הסכסוכים וההפגנות, וקולומביה מכירה בריבונות ישראל על רמת הגולן. נמשכים דיווחים על צעדי צה\"ל בזירה הצפונית ועל ניתוק אספקה לחיזבאללה.",
+    "summary_he": "בישראל התחוללו תהפוכות פוליטיות משמעותיות, כאשר בתוך הליכוד עלתה התנגדות לשריון שר הביטחון וחיים כץ, ובעקבותיה עצר בית הדין של התנועה את ההצבעה. בחזית הביטחונית עלו חששות בעקבות דיווחים על הוצאת סעיפים מהסכם עזה המחייבים שחמאס לא יחזיק בנשק. במקביל, לבנון עברה צעד היסטורי בביטול עונש המוות, למרות התנגדות חיזבאללה.",
     "headlines": [
       {
         "id": "837c65b2b0",
@@ -16,99 +16,59 @@
         "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/5/3/3953342-46.png"
       },
       {
-        "id": "bc61337444",
-        "title": "באישון ליל, בחסות \"נימוקים ביטחוניים\", החלה השתלטות נתניהו על הליכוד",
-        "url": "https://www.themarker.com/news/politics/2026-08-11/ty-article/.premium/0000019f-eed3-d101-a5bf-efd367fc0000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-08-11T03:28:35+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000019f-eedc-d28e-a3df-fedce0530001/bc/0a/f63245894f8b977da70f8729759d/358067.jpg?width=108&height=81"
-      },
-      {
-        "id": "85c6b4c4c4",
-        "title": "טראמפ: נדרוש מאיראן פיצויים על כל האנשים שהרגה בסכסוכים ובהפגנות",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-10/ty-article/.premium/0000019f-ec8c-d310-a3df-ec8f919b0000",
+        "id": "698b6ab8f9",
+        "title": "מקורות: סעיפים שקבעו במפורש כי חמאס לא יחזיק בנשק הושמטו מההסכם ברצועה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-10/ty-article/.premium/0000019f-ed08-d310-a3df-ed0b774d0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-08-10T16:41:04+00:00",
+        "published_at": "2026-08-10T19:43:20+00:00",
         "image_url": null
       },
       {
-        "id": "363c934421",
-        "title": "New Colombian government recognizes Israel’s sovereignty over Golan Heights",
-        "url": "https://www.timesofisrael.com/new-colombian-government-recognizes-israels-sovereignty-over-golan-heights/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-08-10T19:52:55+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/01/F251213MG031-1-e1767709161890-1024x640.jpg"
+        "id": "35ad738ec9",
+        "title": "היסטוריה בעולם הערבי: לבנון ביטלה את עונש המוות, חיזבאללה התנגד",
+        "url": "https://www.ynet.co.il/news/article/h11180kdlzx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-11T12:27:51+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/Byzeb9OUMx/Byzeb9OUMx_0_0_850_479_0_medium.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "צה\"ל ממשיך לפעול לניתוק חיזבאללה מאספקה כשהחשש בביירות גובר, ומשיב לישראל פעילים שחצו את הגבול בסוריה. ישראל מסרה לארה\"ב כי תמשיך לפעול נגד מחבלי 7 באוקטובר חרף עצירת פירוק הנשק בעזה, ובמדינות המפרץ מעריכים כי איראן תשלוט במצר הורמוז. במקביל דווח על הבנות בין ארה\"ב, ישראל וסוריה לנטרול אתר גרעין חשאי, ובית המחבל שביצע את הפיגוע שבו נהרגו יובל עזרא ובניהו מלט, נהרס.",
+    "summary_he": "בחזית הביטחון המצב החריף בגבולות הצפון, כשלבנון טוענת כי צה\"ל תקף בדרום המדינה למרות ההסכם בין הצדדים. במקביל, כוחות אוגדה 99 זיהו וירו לעבר צלף מחמאס בסמוך למרחב הקו הצהוב. בנוסף, הסוכנות הבינלאומית לאנרגיה אטומית מתכננת להסיר חומר גרעיני סורי שנותר מעידן אסד.",
     "headlines": [
       {
-        "id": "3251d6490d",
-        "title": "צה\"ל מנתק את חיזבאללה מאספקה - והחשש בביירות גובר",
-        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21173294",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
+        "id": "1c510fe6f5",
+        "title": "למרות ההסכם: לבנון טוענת שצה\"ל תקף בדרום המדינה",
+        "url": "https://www.makorrishon.co.il/news/defence/article/359181",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
         "published_at": null,
         "image_url": null
       },
       {
-        "id": "09450d1868",
-        "title": "פעם נוספת: הפעילים שמטרידים את צה\"ל בסוריה חצו את הגבול - והושבו לישראל",
-        "url": "https://www.ynet.co.il/news/article/bj84s700ifl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-11T05:23:47+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/22/H1nxCU8pWg/H1nxCU8pWg_216_224_790_445_0_medium.jpg"
-      },
-      {
-        "id": "df38f0e454",
-        "title": "Israel said to tell US it will keep targeting Oct. 7 terrorists as Gaza disarmament stalls",
-        "url": "https://www.timesofisrael.com/israel-said-to-tell-us-it-will-keep-targeting-oct-7-terrorists-as-gaza-disarmament-stalls/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-08-10T23:35:51+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/2023-10-07T000000Z_2004704420_RC2JN3A3ZJSW_RTRMADP_3_ISRAEL-PALESTINIANS-1-1024x640.jpg"
-      },
-      {
-        "id": "84e0af4c2e",
-        "title": "במדינות המפרץ הגיעו למסקנה קודרת: איראן תקבל את הורמוז",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001551940",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-08-11T09:51:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1779178411/direct/AP26070525672326_xdxqr8.jpg"
-      },
-      {
-        "id": "c3446debbf",
-        "title": "ארה\"ב הגיעה להבנות עם ישראל, סוריה וסבא\"א על נטרול אתר גרעין חשאי",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001551925",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-08-11T09:14:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784308104/AP26194656384758_hkiqu9.jpg"
-      },
-      {
-        "id": "4633ffb7e3",
-        "title": "לפני 50 דקות סגירת מעגל מהירה: נהרס בית המחבל שביצע את הפיגוע בו נהרגו יובל עזרא ובניהו מלט",
-        "url": "https://www.maariv.co.il/breaking-news/article-1354754",
+        "id": "a43a705735",
+        "title": "לפני 6 דקות כוחות אוגדה 99 זיהו וירו לעבר צלף מחמאס סמוך למרחב הקו הצהוב",
+        "url": "https://www.maariv.co.il/breaking-news/article-1354836",
         "source": "maariv",
         "source_label": "מעריב",
         "source_label_he": "מעריב",
         "published_at": null,
         "image_url": null
+      },
+      {
+        "id": "2e532467fd",
+        "title": "IAEA said prepping to remove Syria nuclear material left over from Assad era",
+        "url": "https://www.timesofisrael.com/iaea-said-prepping-to-remove-syria-nuclear-material-left-over-from-assad-era/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-08-11T06:49:03+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2022/10/20221006-Al-Kibar-site1-1024x640.jpg"
       }
     ]
   },
@@ -116,84 +76,64 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "המהלך לשיריון מקומות לכ\"ץ וסער ברשימת הליכוד ממשיך לעורר מחלוקת, עם טענות על השתלטות נתניהו על המפלגה וביקורת מטלי גוטליב וליברמן. נשיא בית המשפט העליון עמית הזהיר כי זו הפעם הראשונה שהכנסת מצמצמת את יכולת הציבור להצביע.",
+      "summary_he": "בעקבות התהפוכות בליכוד, עולות שאלות על האסטרטגיה הפוליטית של ראש הממשלה נתניהו לקראת הבחירות. פוליטיקאים רבים נוהרים אל רב מפורסם כדי לבקש ברכה לפני הבחירות. כמו כן, דווח כי נתניהו הבטיח לדוברונסקי את תפקיד השר בתחום הבינה המלאכותית בממשלה הבאה.",
       "headlines": [
         {
-          "id": "52194b4acd",
-          "title": "הבקשה המלאה לשריון כ\"ץ - שפעם האמין בפריימריז: \"כולנו צריכים לעמוד לבחירה\"",
-          "url": "https://www.ynet.co.il/news/article/sjpbcr00izg",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-11T07:37:00+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/SJ00Qy8OUzg/SJ00Qy8OUzg_0_0_850_479_0_medium.jpg"
-        },
-        {
-          "id": "d34f870873",
-          "title": "לפני 26 דקות טלי גוטליב מרחיבה את המלחמה בליכוד: \"מה זה הדבר הזה?\"",
-          "url": "https://www.maariv.co.il/breaking-news/article-1354762",
-          "source": "maariv",
-          "source_label": "מעריב",
-          "source_label_he": "מעריב",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "6812b4d6c0",
-          "title": "ליברמן נגד כ\"ץ: \"זה לא שר ביטחון - צריך לתת לו בום בום בראש\"",
-          "url": "https://news.walla.co.il/item/3859912",
+          "id": "c01ba49f7d",
+          "title": "מדוברונסקי ועד איראן: האסטרטגיה הפוליטית והמדינית של נתניהו",
+          "url": "https://news.walla.co.il/item/3859957",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-08-11T09:38:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/5/8/4058592-46.jpg"
+          "published_at": "2026-08-11T11:31:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/5/9/4059704-46.jpg"
         },
         {
-          "id": "542cba7d86",
-          "title": "Sa’ar, Katz to get newly added reserved slots on Likud list, expanding PM’s control",
-          "url": "https://www.timesofisrael.com/saar-katz-to-receive-reserved-slots-on-likud-list-expanding-pms-control-of-party-slate/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-11T02:32:02+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2024/11/F241110YS012-1024x640.jpg"
+          "id": "2ca40be524",
+          "title": "שרים, ח\"כים ויועצים: הפוליטיקאים שוב נוהרים לרב המפורסם לקראת הבחירות",
+          "url": "https://www.ynet.co.il/news/article/rjqklroime",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-11T07:46:05+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/r1eXPHuLfe/r1eXPHuLfe_274_272_596_336_0_medium.jpg"
         },
         {
-          "id": "6bbe2a73b7",
-          "title": "נשיא העליון עמית: זו פעם ראשונה שהכנסת מצמצמת את יכולת הציבור להצביע",
-          "url": "https://www.haaretz.co.il/news/elections/2026-08-11/ty-article/0000019f-ef6c-d28e-a3df-ff7cd8060000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-11T06:58:13+00:00",
-          "image_url": null
+          "id": "83016184f7",
+          "title": "נתניהו הבטיח לדוברונסקי את תפקיד שר ה-AI בממשלה הבאה",
+          "url": "https://news.walla.co.il/item/3859981",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-08-11T12:51:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/7/4087109-46.png"
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "TheMarker חושף כי סוכני ביטוח דחפו למבוטחים פוליסות יקרות ומיותרות, ובנק הפועלים דיווח על רווח של 2.48 מיליארד שקל ברבעון השני. בעולם, אנבידיה וענקיות וול סטריט מעמידות חצי טריליון דולר למימון תשתיות AI.",
+      "summary_he": "בשוק ההון, המדדים ירדו כשאלביט איבדה 9 אחוזים מערכה, והדולר נחלש מעט ל-2.99 שקלים. לעומת זאת, חברת תרופתי הוציאה רבעון שיא, אך אחד הנתונים מדאיג את המשקיעים. במקביל, אנבידיה וענקיות וול סטריט מעמידות יחד חצי טריליון דולר למימון תשתיות בינה מלאכותית.",
       "headlines": [
         {
-          "id": "b2631a3446",
-          "title": "300 אלף פראיירים: סוכני ביטוח דחפו למבוטחים ביטוח יקר ומיותר",
-          "url": "https://www.themarker.com/news/health/2026-08-11/ty-article/.highlight/0000019f-eb60-d310-a3df-ef63432e0000",
+          "id": "89fa3357e8",
+          "title": "הירידות בת\"א נמשכות; אלביט מאבדת 9%, הדולר נחלש ב-0.2% ל-2.99 שקלים",
+          "url": "https://www.themarker.com/markets/2026-08-11/ty-article-live/.premium/0000019f-ef56-d310-a3df-ef5707120000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-11T03:13:06+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-eb93-da6c-a9df-eb97928d0000/d9/ed/f941e9cb4f58bc1828e721ebae71/268266.jpg?width=108&height=81"
+          "published_at": "2026-08-11T05:48:21+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019b-2280-dc39-abbb-fff20d250000/fb/6a/33e346b747cda856e1276b6079a3/436046.jpg?width=108&height=81"
         },
         {
-          "id": "1fb943d1a9",
-          "title": "בנק הפועלים הרוויח 2.48 מיליארד שקל ברבעון השני - ירידה של 1% לעומת אשתקד",
-          "url": "https://www.themarker.com/markets/2026-08-11/ty-article/0000019f-ef52-d569-a5ff-ff76ac1f0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-11T05:43:16+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-eb20-d106-a7ff-fbb5033b0000/aa/d0/128b7f834e16b48d79c4405b0882/332608-2.jpg?width=108&height=81"
+          "id": "4c66f5823a",
+          "title": "תורפז עם עוד רבעון שיא, אבל את המשקיעים מדאיג נתון אחד",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001551936",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-08-11T08:12:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1752159808/direct/KAREN_COHEN_KHAZON_no_credit_iprb0u.jpg"
         },
         {
           "id": "c069bc55cf",
@@ -204,23 +144,13 @@
           "source_label_he": "TheMarker",
           "published_at": "2026-08-11T09:30:59+00:00",
           "image_url": "https://img.haarets.co.il/bs/0000019f-f01b-d569-a5ff-f07f67a90000/3d/3a/bf1777c9461a944863cfffe13ffe/856345.jpg?width=108&height=81"
-        },
-        {
-          "id": "8f578495a2",
-          "title": "מי מהישראלים שגרים בחו\"ל ישלמו מס בארץ? ברשות המסים עדיין מתלבטים",
-          "url": "https://www.themarker.com/law/2026-08-11/ty-article/.premium/0000019f-eb66-d106-a7ff-fbf738f90000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-11T03:10:33+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-ebbf-d569-a5ff-fbff93fd0000/9f/d4/5a0b4fce4c6193232d4097e7d1a3/431974.jpg?width=108&height=81"
         }
       ]
     },
     {
       "key": "health",
       "label_he": "בריאות ורפואה",
-      "summary_he": "גורמי בריאות חוששים מהדבקה באבולה אצל אדם ששב מקונגו.",
+      "summary_he": "גורמי בריאות חוששים ממקרה חשוד של אבולה אצל גבר שחזר מקונגו הדמוקרטית.",
       "headlines": [
         {
           "id": "c70f1f6db3",
@@ -235,19 +165,29 @@
       ]
     },
     {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "בית המשפט בולם תוכנית מיסוי על דירה שנייה, בבשורה רעה לממדאני.",
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "בעולם הבידור, סדרת נעורים הוצגה לקיץ עם עלילות הכוללות סודות, רומנטיקה וטריאנגולים רומנטיים. בספורט, השחקן אדמונד ספרא מעוניין בהשגת תואר האליפות עם הפועל תל אביב.",
       "headlines": [
         {
-          "id": "110024c2c8",
-          "title": "חדשות רעות לממדאני: ביהמ\"ש בולם את תוכנית המיסוי לדירה שנייה",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001551933",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-08-11T08:16:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1762340736/direct/AP25309163715647_qfj3qb.jpg"
+          "id": "41c1657d64",
+          "title": "סודות, אהבות, לסביות ומשולשים רומנטיים: סדרת הנעורים הלוהטת של הקיץ",
+          "url": "https://www.israelhayom.co.il/culture/tv/article/21175550",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "f87d687441",
+          "title": "רוצה אליפות עם הפועל תל אביב: כמה שווה אדמונד ספרא?",
+          "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21174036",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
         }
       ]
     }
@@ -270,47 +210,17 @@
   "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Netanyahu continues to face internal coalition pressure as he rejects a Gaza plan while attempting to maintain political support. The escalating Middle East conflict is paradoxically deepening India's strategic relationship with Israel. Concerns over antisemitism in the United States are highlighted by a Nazi salute incident involving a Young Republican official, while Jewish delegates at political conventions are being provided additional security protection at major Democratic events.",
+      "summary_en": "American Jewish and pro-Israel political concerns are dominating recent headlines ahead of Democratic primary elections. Senator Bernie Sanders called for Democrats to ban what he termed \"corrupt\" AIPAC spending in primary races, while Michigan Jewish community leaders sought enhanced protection for Jewish delegates at the Democratic National Convention after harassment concerns. A pro-Israel candidate is expected to emerge from South Carolina's Republican Senate primary.",
       "headlines": [
         {
-          "id": "847a3f7d97",
-          "title": "As conflict in the Middle East intensifies, India's relationship with Israel deepens",
-          "url": "https://www.theguardian.com/world/2026/aug/10/this-is-india-relationship-with-israel-modi-netanyahu",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-11T06:55:06+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/9dd9ca45dd1fe29d9a59b627ccc5348ea64937fc/526_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=854c5ff6d5c56e7f4de5ec4512341abf"
-        },
-        {
-          "id": "62ab943427",
-          "title": "Flip-flopping Netanyahu rejects Gaza plan but cannot placate all his allies",
-          "url": "https://www.theguardian.com/world/2026/aug/10/benjamin-netanyahu-rejection-us-deal-gaza-risky-gamble",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-10T17:27:54+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/07ad89ff90892a48b970c5fa6a92f4cffe3f882b/386_8_3595_2877/master/3595.jpg?width=700&quality=85&auto=format&fit=max&s=5ba451e39a9ee0d467ee72e474cf8771"
-        },
-        {
-          "id": "56f469f39f",
-          "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
-          "url": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-10T20:45:52+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/3569dec9cee41843292d1bd0fc9a412b89d6e8db/813_724_4096_3276/master/4096.jpg?width=700&quality=85&auto=format&fit=max&s=9d6f1229450e361c039f592a00a4ff05"
-        },
-        {
-          "id": "5fd3470566",
-          "title": "How 3 Jewish refugees from the Nazis built Iceland's classical music scene from scratch",
-          "url": "https://www.jta.org/2026/08/10/global/how-3-jewish-refugees-from-the-nazis-built-icelands-classical-music-scene-from-scratch",
+          "id": "b62a59bf1c",
+          "title": "Bernie Sanders urges Democrats to ban 'corrupt' AIPAC spending in primaries",
+          "url": "https://www.jta.org/2026/08/10/politics/bernie-sanders-urges-democrats-to-ban-corrupt-aipac-spending-in-primaries",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-08-10T16:00:48+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/Urbancic-conducting-firstIcelandicfilmscore.jpg"
+          "published_at": "2026-08-10T19:41:30+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/GettyImages-2286101185.jpg"
         },
         {
           "id": "04a6e25b80",
@@ -323,159 +233,149 @@
           "image_url": "https://www.jta.org/wp-content/uploads/2026/08/8-10-26-nessel.jpg"
         },
         {
-          "id": "3be06feebb",
-          "title": "NY Young Republican treasurer seen with club president after Nazi salute suspension",
-          "url": "https://www.jta.org/2026/08/10/ny/ny-young-republican-treasurer-seen-with-club-president-after-nazi-salute-suspension",
+          "id": "42defad804",
+          "title": "South Carolina's Republican Senate nominee will likely be pro-Israel, but no match for Lindsey Graham",
+          "url": "https://www.jta.org/2026/08/10/politics/south-carolinas-republican-senate-nominee-will-likely-be-pro-israel-but-no-match-for-lindsey-graham",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-08-10T21:38:53+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/GettyImages-2251197418.jpg"
+          "published_at": "2026-08-10T18:27:26+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/10-08-2026-Darline-Graham.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium faces multiple challenges across governance, security, and infrastructure. Warehouse operators are demanding 18 million euros from the Flemish government due to financial difficulties, while organized crime continues to pose threats, with gangs exploiting short-term rental properties as drug distribution hubs. A new airport flight route is being contested by Brussels residents over noise concerns exceeding 85 decibels, and Abbey Maredsous, a historic Belgian institution, is expanding into gin production and festivals to secure its economic future.",
+      "summary_en": "Recent Belgian news covers several significant domestic issues. A citizens' collective has sued the Belgian state over noise pollution from flight routes above Brussels and surrounding municipalities. Supermarket chains Colruyt and Delhaize have recalled free-range eggs due to possible salmonella contamination. Additionally, Western Europe's largest nuclear power plant near the Belgian border has had three reactors shut down due to jellyfish clogging its cooling systems.",
       "headlines": [
         {
-          "id": "3909f9e6e0",
-          "title": "Gangs using Airbnb-type rentals as drug stash houses, top Belgian official says",
-          "url": "https://www.theguardian.com/technology/2026/aug/11/airbnb-type-rentals-drugs-crime-gangs-belgium",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-11T07:47:13+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/3de368fa17834b67d4e848bdb01528fe6c5a0db8/597_13_4159_3328/master/4159.jpg?width=700&quality=85&auto=format&fit=max&s=1d82b3eb16f2709a0c8dd4e8c00b77c8"
-        },
-        {
-          "id": "384586df95",
-          "title": "42 families from Brussels western suburbs taking to court against new flight route: 'Up to 85 decibels per aircraft'",
-          "url": "https://www.hln.be/dilbeek/42-gezinnen-uit-brusselse-westrand-stappen-naar-rechter-tegen-nieuwe-aanvliegroute-tot-85-decibel-per-vliegtuig~adb6a64c/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-11T09:14:00+00:00",
-          "image_url": "https://images.hln.be/MDY0YmZlMjkzYjdhNWYwMTlhNTMvZGlvLzI3NDAxMTcyMS9maXQtd2lkdGgvNDAw/landend-vliegtuig-aanvliegroute-vliegtuig-boven-brussel-en-randgemeenten"
-        },
-        {
-          "id": "7d8eda6f26",
-          "title": "Financial setback for budget: over 200 warehouses collectively demanding up to 18 million euros from Flemish government",
-          "url": "https://www.hln.be/binnenland/financiele-tegenvaller-voor-begroting-meer-dan-200-loodsen-eisen-samen-tot-18-miljoen-euro-van-de-vlaamse-overheid~a41f5607/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-11T09:18:00+00:00",
-          "image_url": "https://images.hln.be/ZTJjZGMxMWY0YzU3NmEwZTVlZTYvZGlvLzI3NjY0ODM0Ny9maXQtd2lkdGgvNDAw/tewerkstelling-haven-inzet-brussel-belgium-may-28-annick-de-ridder-pictured-during-an-interview-on-28-may-2026-in-brussel-belgium-28-05-2026-gregory-van-gansen-photo-news"
-        },
-        {
-          "id": "b401deeaa9",
-          "title": "From cheese and beer to gin and festivals: how Abbey Maredsous is trying to secure its future",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/abdij-maredsous-kaas-bier-dj-festival-whisky/",
+          "id": "1daadd8a70",
+          "title": "Citizen collective sues Belgian state over noisy flight route above Brussels and surrounding municipalities",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/burgercollectief-rechter-lawaaihinder-vliegtuigen-route/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/f71c07f8-295e-4c71-a5f6-1945392d6793.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/7612187b-e880-4efc-bde3-b0ece9487df0.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "66f7e4489e",
-          "title": "Man from Lommel (41) arrested for murder of partner (40) following fatal hit-and-run in Leopoldsburg",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/10/vrouw-40-overleden-na-aanrijding-door-partner-41-in-leopolds/",
+          "id": "22c5c101f8",
+          "title": "Free-range eggs from Colruyt and Delhaize recalled due to possible salmonella",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/laerco-bv-terugroepactie-scharreleieren-salmonella/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/10ec4d54-7eaa-4658-bb6f-57bc709d5109.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/85f9008f-fd27-415b-832d-a103049977a6.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "d0d108cb21",
+          "title": "Jellyfish shut down three reactors of largest nuclear power plant in Western Europe, near Belgian border",
+          "url": "https://www.hln.be/buitenland/kwallen-leggen-drie-reactoren-van-grootste-kerncentrale-in-west-europa-stil-vlak-bij-belgische-grens~a9993945/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-11T11:51:00+00:00",
+          "image_url": "https://images.hln.be/NTY4MWI2OGI2YjRkOTRkMGIxYjcvZGlvLzI3NjY1MTI4My9maXQtd2lkdGgvNDAw/files-jellyfish-lay-on-the-shore-near-the-gravelines-nuclear-power-plant-in-gravelines-northern-france-on-august-12-2025-a-massive-influx-of-jellyfish-into-the-seawater-pumping-stations-at-the-gravelines-nuclear-power-plant-nord-forced-edf-on-august-10-2026-to-shut-down-three-of-its-reactors-the-group-announced-on-its-website-on-august-11-2026-photo-by-sameer-al-doumy-afp"
         }
       ]
     },
     "europe": {
-      "summary_en": "Europe faces interconnected environmental and geopolitical crises. A severe drought is affecting major European rivers, with the Thames reaching historic lows at 95 percent below normal levels, while scorching summer temperatures are significantly eroding economic growth across the continent. In response to Ukraine's ongoing conflict with Russia, Turkey is preparing to deliver American long-range missiles, and concerns are mounting over Europe's depleting Patriot missile stocks as Ukraine braces for Russia's anticipated winter offensive. The EU is also working with Meta and TikTok to address the migrant crisis in Ceuta.",
+      "summary_en": "European news is dominated by escalating developments in the Russia-Ukraine war and security concerns. Turkey announced a major weapons package including American long-range missiles for Ukraine, while intelligence reports indicate North Korea is preparing to send up to 50,000 troops to Russia. Poland and Baltic NATO allies are preparing defenses against potential Russian hybrid attacks. In border security, Latvia discovered a secret migrant tunnel at its Belarus frontier, while Western Europe faces extreme weather emergencies, including heat warnings in England and severe water shortages across the continent.",
       "headlines": [
         {
-          "id": "79f852ffd5",
-          "title": "EU opens channel with Meta, TikTok to tackle Ceuta migrant crisis",
-          "url": "https://www.politico.eu/article/eu-meta-tiktok-ceuta-migrant-crisis-spain-morocco/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-08-10T18:27:34+00:00",
-          "image_url": null
-        },
-        {
-          "id": "ee2b5125db",
-          "title": "Large sections of five European rivers run dry: Thames at record low with up to 95 percent reduction",
-          "url": "https://www.demorgen.be/nieuws/grote-delen-van-vijf-europese-rivieren-vallen-droog-tot-95-procent-van-de-theems-op-laagterecord~b7872fcc/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-10T17:16:00+00:00",
-          "image_url": "https://image.demorgen.be/276576968/feature-crop/320/320/romania-extreme-weather-heat"
-        },
-        {
-          "id": "bd55e02625",
-          "title": "Europe's scorching summer is erasing its economic growth, says report",
-          "url": "https://www.politico.eu/article/europes-scorching-summer-could-erase-blocs-2026-growth/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-08-10T15:53:32+00:00",
-          "image_url": null
-        },
-        {
-          "id": "b1b7bb9311",
-          "title": "Europe is running out of Patriot missiles as Ukraine braces for Russia's winter attacks",
-          "url": "https://www.politico.eu/article/europe-patriot-missile-ukraine-russia-war-winter-attack/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-08-10T14:54:52+00:00",
-          "image_url": null
-        },
-        {
           "id": "c80c5c9137",
-          "title": "Turkey will deliver large weapons package with American long-range missiles to Ukraine",
+          "title": "Turkey will deliver large weapons package with American long-range rockets to Ukraine",
           "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/oorlog-rusland-oekraine-bestelt-amerikaanse-atacams-raketten-van/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/f63783eb-18d4-4bee-977a-b525c5836ce1.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/f63783eb-18d4-4bee-977a-b525c5836ce1.jpg?width=200&height=200&q=80&blur=90"
+        },
+        {
+          "id": "53129689e6",
+          "title": "North Korea prepares to send up to 50,000 troops to Russia, according to Zelensky",
+          "url": "https://www.hln.be/buitenland/noord-korea-bereidt-zich-voor-om-tot-50-000-militairen-naar-rusland-te-sturen-volgens-zelensky~a2c8eb7b/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-11T13:01:00+00:00",
+          "image_url": "https://images.hln.be/YjM1OWUzYzA4OTViNTUxYjY4NjgvZGlvLzI2NjY0NjM3MC9maXQtd2lkdGgvNDAw/this-picture-taken-on-december-12-2025-and-released-from-north-korea-s-official-korean-central-news-agency-kcna-on-december-13-shows-north-korean-leader-kim-jong-un-welcoming-soldiers-from-the-korean-people-s-army-s-528th-regiment-of-engineers-which-returned-from-an-overseas-deployment-in-russia-s-kursk-region-during-moscow-s-war-with-ukraine-in-front-of-the-april-25-house-of-culture-in-pyongyang-photo-by-kcna-via-kns-afp-south-korea-out-editors-note-restricted-to-editorial-use-mandatory-credit-afp-photo-kcna-via-kns-no-marketing-no-advertising-campaigns-distributed-as-a-service-to-clients-this-picture-was-made-available-by-a-third-party-afp-can-not-independently-verify-the-authenticity-location-date-and-content-of-this-image"
+        },
+        {
+          "id": "b2c97974c9",
+          "title": "Fear of Russian false flag operation grows: Poland and Baltic states prepare for possible hybrid attack",
+          "url": "https://www.demorgen.be/nieuws/vrees-voor-russische-valsevlagoperatie-groeit-hoe-polen-en-de-baltische-staten-zich-voorbereiden-op-een-mogelijke-hybride-aanval~b401e39b/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-11T11:00:00+00:00",
+          "image_url": "https://image.demorgen.be/276628790/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "f53a57a05f",
+          "title": "Latvia discovers secret migrant tunnel at Belarus frontier",
+          "url": "https://www.politico.eu/article/latvia-migrant-tunnel-border-belarus/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-08-11T11:56:59+00:00",
+          "image_url": null
+        },
+        {
+          "id": "cef2d7b263",
+          "title": "'Extreme heat' warning issued for parts of England on Thursday as temperatures could reach 38C – latest news",
+          "url": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-11T12:23:37+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/fcf80d6af5a29c812141753455828f62cfcde900/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=25549567ec5add72114ddb0e0634d96c"
         }
       ]
     },
     "world_top": {
-      "summary_en": "A devastating earthquake in Colombia has resulted in over 130 deaths, prompting authorities to declare a state of emergency. In the United States, a new Trump administration executive order aims to reduce childhood vaccinations based on unsubstantiated claims about autism prevention, raising significant concerns among medical professionals and public health officials.",
+      "summary_en": "A severe earthquake in Colombia has killed at least 224 people, with dozens of aftershocks recorded. In the Middle East, a Syrian court has sentenced former President Bashar al-Assad to death in absentia. U.S. primary races in Wisconsin and Minnesota are set to feature clashes between progressive and establishment-backed Democrats. Meanwhile, former President Donald Trump's Truth Social platform's parent company continues to face severe financial difficulties, reporting $238 million in additional losses.",
       "headlines": [
         {
-          "id": "49053c5d49",
-          "title": "Over 130 deaths reported following severe earthquake in Colombia, state of emergency declared",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/al-meer-dan-130-doden-na-zware-aardbeving-in-colombia-noodtoest~1786374330952/",
+          "id": "5ff2cd4445",
+          "title": "At least 224 deaths after severe earthquake in Colombia, dozens of aftershocks measured",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/al-zeker-224-doden-na-zware-aardbeving-in-colombia-tientallen-n~1786374330952/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/005e2b5f-e31a-4eff-b702-3526872870fe.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/6738b6e8-1b12-4112-a315-537a52da351f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "555e38bcca",
-          "title": "Trump signs decree for reduced childhood vaccines to 'curb autism'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/trump-minder-kindervaccins-in-basisschema/",
+          "id": "fcd2bceaa4",
+          "title": "Syrian president Bashar al-Assad sentenced to death in absentia by court in Damascus",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/syrie-damascus-bashar-al-assad-ter-dood-veroordeeld/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/b4e4f908-4d67-4bd7-be83-4dae19ad1ff3.jpg?width=200&height=200&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/004292b6-0a00-4ce4-b0e7-8fd0bb3bc6d1.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "ab5424f4ca",
-          "title": "Ilhan Omar questions whether Trump administration has used ICE to 'surveil' critics",
-          "url": "https://www.theguardian.com/us-news/2026/aug/10/ilhan-omar-trump-ice-surveil-political-opponents",
+          "id": "d52b88ac38",
+          "title": "Progressives and establishment-backed Democrats set to clash in Wisconsin and Minnesota primaries – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-08-10T22:28:32+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/a208570c64817de3037c6e17f2b7498e463806c9/691_0_6913_5531/master/6913.jpg?width=700&quality=85&auto=format&fit=max&s=01d27868d16d2f0e23cd2d637807eb7e"
+          "published_at": "2026-08-11T12:17:19+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/2b8849ccc84895b577c71d3dea957bd2250b6f92/523_0_5233_4186/master/5233.jpg?width=700&quality=85&auto=format&fit=max&s=7767e4fd897f1681a156f5b6888de3f5"
+        },
+        {
+          "id": "24a96659ca",
+          "title": "Trump's Truth Social parent company stacks up losses: again 238 million dollars in the red",
+          "url": "https://www.demorgen.be/snelnieuws/live-moederbedrijf-van-trumps-truth-social-stapelt-verliezen-op-opnieuw-238-miljoen-dollar-in-het-rood~b13cc951/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-11T10:10:00+00:00",
+          "image_url": "https://image.demorgen.be/275875639/roi/320/320/3180/1640.4099999999999/afbeelding"
         }
       ]
     },
