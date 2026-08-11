@@ -1,58 +1,78 @@
 {
-  "generated_at": "2026-08-11T13:10:42.728132+00:00",
+  "generated_at": "2026-08-11T15:11:35.158426+00:00",
   "date": "2026-08-11",
   "degraded": false,
   "top_general": {
-    "summary_he": "בישראל התחוללו תהפוכות פוליטיות משמעותיות, כאשר בתוך הליכוד עלתה התנגדות לשריון שר הביטחון וחיים כץ, ובעקבותיה עצר בית הדין של התנועה את ההצבעה. בחזית הביטחונית עלו חששות בעקבות דיווחים על הוצאת סעיפים מהסכם עזה המחייבים שחמאס לא יחזיק בנשק. במקביל, לבנון עברה צעד היסטורי בביטול עונש המוות, למרות התנגדות חיזבאללה.",
+    "summary_he": "רעידת אדמה בקולומביה גבתה מעל 200 הרוגים, ורשויות המדינה ממשיכות לעדכן את מספרם. בישראל נמשך החיפוש אחר אם ובתה שנעלמו בווינה, ואותר אקדח טעון בתוך קיר בגן ילדים בצפון. בזירה הפוליטית עצר בג\"ץ הצבעה על שריון שר מהליכוד בשל טענות לניגוד עניינים, ונמשך המשבר סביב הקמת הרשימה המשותפת.",
     "headlines": [
       {
-        "id": "837c65b2b0",
-        "title": "התקוממות ראשונה בליכוד נגד שיריוני שר הביטחון וחיים כץ | פרסום ראשון",
-        "url": "https://news.walla.co.il/item/3859921",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-11T11:00:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/5/3/3953342-46.png"
-      },
-      {
-        "id": "698b6ab8f9",
-        "title": "מקורות: סעיפים שקבעו במפורש כי חמאס לא יחזיק בנשק הושמטו מההסכם ברצועה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-10/ty-article/.premium/0000019f-ed08-d310-a3df-ed0b774d0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-10T19:43:20+00:00",
-        "image_url": null
-      },
-      {
-        "id": "35ad738ec9",
-        "title": "היסטוריה בעולם הערבי: לבנון ביטלה את עונש המוות, חיזבאללה התנגד",
-        "url": "https://www.ynet.co.il/news/article/h11180kdlzx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-11T12:27:51+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/Byzeb9OUMx/Byzeb9OUMx_0_0_850_479_0_medium.jpg"
-      }
-    ]
-  },
-  "security_war": {
-    "summary_he": "בחזית הביטחון המצב החריף בגבולות הצפון, כשלבנון טוענת כי צה\"ל תקף בדרום המדינה למרות ההסכם בין הצדדים. במקביל, כוחות אוגדה 99 זיהו וירו לעבר צלף מחמאס בסמוך למרחב הקו הצהוב. בנוסף, הסוכנות הבינלאומית לאנרגיה אטומית מתכננת להסיר חומר גרעיני סורי שנותר מעידן אסד.",
-    "headlines": [
-      {
-        "id": "1c510fe6f5",
-        "title": "למרות ההסכם: לבנון טוענת שצה\"ל תקף בדרום המדינה",
-        "url": "https://www.makorrishon.co.il/news/defence/article/359181",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
+        "id": "265e5f04d6",
+        "title": "קולומביה: מניין ההרוגים ברעידת האדמה עלה ל-224",
+        "url": "https://www.kan.org.il/content/kan-news/global/1088002/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
         "published_at": null,
         "image_url": null
       },
       {
+        "id": "26b86098cb",
+        "title": "\"מיום ראשון יש רק 'וי' אחד בוואטסאפ\": אחותה של הישראלית שנעלמה עם בתה באוסטריה בשיחה בלעדית עם N12",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-4fc00216dc0ff91026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-11T13:20:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/11/amliliel11080111_autoOrient_i.jpg"
+      },
+      {
+        "id": "1308bda6e5",
+        "title": "אקדח טעון בתוך הקיר: נשק אותר בגן ילדים בצפון",
+        "url": "https://www.ynet.co.il/news/article/bkun3loifl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-11T08:48:07+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/HkIP11vuUGe/HkIP11vuUGe_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "04eaead1f9",
+        "title": "בית הדין הוציא צו ביניים, ההצבעה על שריון השר מהליכוד נעצרה: \"טענות לניגוד עניינים\"",
+        "url": "https://www.ynet.co.il/news/article/bjk1jt008ze",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-11T11:25:03+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/r111eTF00Izx/r111eTF00Izx_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "543415fd31",
+        "title": "המשבר בהקמת הרשימה המשותפת: הצעת הפשרה - ותחושת הקיפוח של טיבי",
+        "url": "https://www.ynet.co.il/news/article/bkbyxy00ugx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-11T11:58:33+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/29/r1b3pfkx7zg/r1b3pfkx7zg_0_133_1280_721_0_medium.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "צה\"ל ירה, לראשונה מאז ההנחיות החדשות, על צלף חמאס בצפון הרצועה, וכוחות אוגדה 99 זיהו וירו לעבר צלף נוסף סמוך לקו הצהוב. כוחות 669 חילצו פצועים בלבנון. בזירה האסטרטגית, מתפרסמות התייחסויות למתיחות מול איראן ולמלחמה הכלכלית מול טהראן.",
+    "headlines": [
+      {
+        "id": "6f042e46f5",
+        "title": "לראשונה מאז ההנחיות החדשות: צה\"ל ירה על צלף של חמאס בצפון הרצועה",
+        "url": "https://www.ynet.co.il/news/article/hk4j09uize",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-11T13:17:43+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/14/HkealmAs311x/HkealmAs311x_0_157_1600_901_0_medium.jpg"
+      },
+      {
         "id": "a43a705735",
-        "title": "לפני 6 דקות כוחות אוגדה 99 זיהו וירו לעבר צלף מחמאס סמוך למרחב הקו הצהוב",
+        "title": "15:54 כוחות אוגדה 99 זיהו וירו לעבר צלף מחמאס סמוך למרחב הקו הצהוב",
         "url": "https://www.maariv.co.il/breaking-news/article-1354836",
         "source": "maariv",
         "source_label": "מעריב",
@@ -61,14 +81,44 @@
         "image_url": null
       },
       {
-        "id": "2e532467fd",
-        "title": "IAEA said prepping to remove Syria nuclear material left over from Assad era",
-        "url": "https://www.timesofisrael.com/iaea-said-prepping-to-remove-syria-nuclear-material-left-over-from-assad-era/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-08-11T06:49:03+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2022/10/20221006-Al-Kibar-site1-1024x640.jpg"
+        "id": "4807be5e33",
+        "title": "כוחות 669 מחלצים פצועים מלבנון: \"האויב חכם, אבל אנחנו יותר\"",
+        "url": "https://13tv.co.il/item/news/politics/security/uca2z-905154770/?pid=62&refc=902992425",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "c181e68c10",
+        "title": "מלחמה כלכלית דורשת אורך נשימה, ולאיראן למודת הסנקציות יש ממנו יותר משיש לטראמפ",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-11/ty-article/.premium/0000019f-ed3a-db03-a9ff-ff3b57ee0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-11T03:01:07+00:00",
+        "image_url": null
+      },
+      {
+        "id": "9068a82867",
+        "title": "המשבר שמפחיד את איראן יותר מתקיפה אמריקנית",
+        "url": "https://www.israelhayom.co.il/news/geopolitics/article/21175160",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "abe9299f6b",
+        "title": "הנשק הסודי של ישראל - בעידן שבו ארה\"ב ואיראן משנות את הכללים",
+        "url": "https://news.walla.co.il/item/3859827",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-08-11T12:06:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/1/8/4018666-46.jpeg"
       }
     ]
   },
@@ -76,27 +126,37 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בעקבות התהפוכות בליכוד, עולות שאלות על האסטרטגיה הפוליטית של ראש הממשלה נתניהו לקראת הבחירות. פוליטיקאים רבים נוהרים אל רב מפורסם כדי לבקש ברכה לפני הבחירות. כמו כן, דווח כי נתניהו הבטיח לדוברונסקי את תפקיד השר בתחום הבינה המלאכותית בממשלה הבאה.",
+      "summary_he": "בג\"ץ עצר הצבעה על שריון שר מהליכוד בעקבות טענות לניגוד עניינים, ונמשך המשבר סביב הקמת הרשימה המשותפת, על רקע תחושת קיפוח אצל טיבי. נחשף כי פחות מרבע מבקשות חופש המידע ללשכת נתניהו נענו במלואן ב-2025, ונתניהו הבטיח תפקיד שר ה-AI בממשלה הבאה.",
       "headlines": [
         {
-          "id": "c01ba49f7d",
-          "title": "מדוברונסקי ועד איראן: האסטרטגיה הפוליטית והמדינית של נתניהו",
-          "url": "https://news.walla.co.il/item/3859957",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-11T11:31:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/5/9/4059704-46.jpg"
-        },
-        {
-          "id": "2ca40be524",
-          "title": "שרים, ח\"כים ויועצים: הפוליטיקאים שוב נוהרים לרב המפורסם לקראת הבחירות",
-          "url": "https://www.ynet.co.il/news/article/rjqklroime",
+          "id": "04eaead1f9",
+          "title": "בית הדין הוציא צו ביניים, ההצבעה על שריון השר מהליכוד נעצרה: \"טענות לניגוד עניינים\"",
+          "url": "https://www.ynet.co.il/news/article/bjk1jt008ze",
           "source": "ynet",
           "source_label": "Ynet",
           "source_label_he": "Ynet",
-          "published_at": "2026-08-11T07:46:05+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/r1eXPHuLfe/r1eXPHuLfe_274_272_596_336_0_medium.jpg"
+          "published_at": "2026-08-11T11:25:03+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/r111eTF00Izx/r111eTF00Izx_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "543415fd31",
+          "title": "המשבר בהקמת הרשימה המשותפת: הצעת הפשרה - ותחושת הקיפוח של טיבי",
+          "url": "https://www.ynet.co.il/news/article/bkbyxy00ugx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-11T11:58:33+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/29/r1b3pfkx7zg/r1b3pfkx7zg_0_133_1280_721_0_medium.jpg"
+        },
+        {
+          "id": "2994e6085a",
+          "title": "פחות מרבע מבקשות חופש המידע ללשכת נתניהו נענו במלואן ב־2025",
+          "url": "https://www.haaretz.co.il/news/elections/2026-08-11/ty-article/.premium/0000019f-eccc-d310-a3df-eccf45420000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-11T03:31:28+00:00",
+          "image_url": null
         },
         {
           "id": "83016184f7",
@@ -107,87 +167,134 @@
           "source_label_he": "וואלה",
           "published_at": "2026-08-11T12:51:00+00:00",
           "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/7/4087109-46.png"
+        },
+        {
+          "id": "7fd2320060",
+          "title": "שר הביטחון של הפריימריז: הדחת האלוף - והכתם של כ\"ץ",
+          "url": "https://13tv.co.il/item/news/opinions/zucb9-905294439/?pid=62&refc=902992437",
+          "source": "reshet13",
+          "source_label": "חדשות 13",
+          "source_label_he": "חדשות 13",
+          "published_at": null,
+          "image_url": null
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "בשוק ההון, המדדים ירדו כשאלביט איבדה 9 אחוזים מערכה, והדולר נחלש מעט ל-2.99 שקלים. לעומת זאת, חברת תרופתי הוציאה רבעון שיא, אך אחד הנתונים מדאיג את המשקיעים. במקביל, אנבידיה וענקיות וול סטריט מעמידות יחד חצי טריליון דולר למימון תשתיות בינה מלאכותית.",
+      "summary_he": "בזירה הכלכלית, גריאני ממנה בכירות חדשות להנהלת כאל לקראת הכרעה על מכירתה, ומקס סטוק מדווחת על צמיחה בשוק הקמעונאות. באלביט ובנקסט ויז'ן מציינים כי תוצאות טובות אינן מספיקות עוד למשקיעים.",
       "headlines": [
         {
-          "id": "89fa3357e8",
-          "title": "הירידות בת\"א נמשכות; אלביט מאבדת 9%, הדולר נחלש ב-0.2% ל-2.99 שקלים",
-          "url": "https://www.themarker.com/markets/2026-08-11/ty-article-live/.premium/0000019f-ef56-d310-a3df-ef5707120000",
+          "id": "41c3d2f041",
+          "title": "רגע לפני ההכרעה על המכירה — גריאני ממנה שתי בכירות חדשות להנהלת כאל",
+          "url": "https://www.themarker.com/markets/2026-08-11/ty-article/.premium/0000019f-efb4-d28e-a3df-fff4cf210000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-11T05:48:21+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019b-2280-dc39-abbb-fff20d250000/fb/6a/33e346b747cda856e1276b6079a3/436046.jpg?width=108&height=81"
+          "published_at": "2026-08-11T08:16:32+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000017f-e6c1-da9b-a1ff-eeefac800000/7a/02/3ceda2054c1b8a900ce23e85de77/061099.jpg?width=108&height=81"
         },
         {
-          "id": "4c66f5823a",
-          "title": "תורפז עם עוד רבעון שיא, אבל את המשקיעים מדאיג נתון אחד",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001551936",
+          "id": "82d2a1ace0",
+          "title": "ההפתעה של מקס סטוק: צומחת מדריסת הרגל שלה בשוק של פוקס ו–AM:PM",
+          "url": "https://www.themarker.com/markets/2026-08-11/ty-article/.premium/0000019f-f083-db94-a3df-fd8342f90000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-11T11:54:22+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-f089-d310-a3df-f48b045a0000/43/47/4b3146014dcba72ce8f9c81ff6de/360316.jpg?width=108&height=81"
+        },
+        {
+          "id": "b3a2c54a94",
+          "title": "אלביט ונקסט ויז'ן למדו בדרך הקשה: להציג תוצאות טובות זה לא מספיק",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001551956",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-08-11T08:12:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1752159808/direct/KAREN_COHEN_KHAZON_no_credit_iprb0u.jpg"
+          "published_at": "2026-08-11T13:39:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1786451963/%D7%91%D7%95%D7%A6%D7%99_%D7%9E%D7%9B%D7%9C%D7%99%D7%A1_%D7%9E%D7%A0%D7%9B%D7%9C_%D7%90%D7%9C%D7%91%D7%99%D7%98_11_jibrq5_iogbuo.jpg"
         },
         {
-          "id": "c069bc55cf",
-          "title": "אנבידיה וענקיות וול סטריט מעמידות יחד חצי טריליון דולר למימון תשתיות AI",
-          "url": "https://www.themarker.com/wallstreet/2026-08-11/ty-article/.premium/0000019f-efc4-db03-a9ff-ffd7ac2e0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-11T09:30:59+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-f01b-d569-a5ff-f07f67a90000/3d/3a/bf1777c9461a944863cfffe13ffe/856345.jpg?width=108&height=81"
+          "id": "9d9fb17241",
+          "title": "\"ביקוש אדיר\": מנכ\"ל אלביט אופטימי, אז למה המניה נופלת?",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001551928",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-08-11T09:34:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1758204993/direct/%D7%91%D7%95%D7%A6%D7%99_%D7%9E%D7%9B%D7%9C%D7%99%D7%A1_%D7%9E%D7%A0%D7%9B%D7%9C_%D7%90%D7%9C%D7%91%D7%99%D7%98_11_jibrq5.jpg"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "אונדס זכתה במכרז משרד הביטחון לפיתוח דור חדש של רחפני תקיפה, וחברות ההייטק הביטחוני ממשיכות לעמוד במרכז העניינים הכלכלי.",
+      "headlines": [
+        {
+          "id": "c7d0c6586d",
+          "title": "אונדס זכתה במכרז משרד הביטחון לפיתוח דור חדש של רחפני תקיפה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001551955",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-08-11T13:02:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1779197640/direct/%D7%90%D7%95%D7%A0%D7%93%D7%95%D7%A1_e3vfn9.jpg"
         }
       ]
     },
     {
       "key": "health",
       "label_he": "בריאות ורפואה",
-      "summary_he": "גורמי בריאות חוששים ממקרה חשוד של אבולה אצל גבר שחזר מקונגו הדמוקרטית.",
+      "summary_he": "מחקר חושף כי פינוי בני נוער בעוטף עזה מהטילים הציל חיים אך גבה מחיר נפשי כבד. במקביל, מתפרסמות טענות והסתה נגד רופאים ברמב\"ם.",
       "headlines": [
         {
-          "id": "c70f1f6db3",
-          "title": "Health officials suspect Ebola in man who returned from DR Congo",
-          "url": "https://www.timesofisrael.com/health-officials-suspect-ebola-in-man-who-returned-from-dr-congo/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-11T08:03:14+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/F260330YA13-1024x640.jpg"
+          "id": "5a72a448bb",
+          "title": "הפינוי הציל מהטילים, אבל גבה מחיר נפשי: המחקר על בני הנוער בעוטף",
+          "url": "https://news.walla.co.il/item/3860013",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-08-11T14:18:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/1/7/9/0/1790722-46.jpg"
+        },
+        {
+          "id": "6cf62d93f1",
+          "title": "בעקבות הטענות נגד רמב\"ם: \"הסתה נגד רופאים היא חציית קו אדום\"",
+          "url": "https://news.walla.co.il/item/3859987",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-08-11T12:55:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/2/5/4025649-46.jpg"
         }
       ]
     },
     {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "בעולם הבידור, סדרת נעורים הוצגה לקיץ עם עלילות הכוללות סודות, רומנטיקה וטריאנגולים רומנטיים. בספורט, השחקן אדמונד ספרא מעוניין בהשגת תואר האליפות עם הפועל תל אביב.",
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "מנכ\"ל אמות מדווח על התאוששות מרשימה בביקוש לנדל\"ן מניב בתל אביב והתעוררות בשוק המשרדים, גם אם קשה לסגור עסקאות מחוץ למרכז.",
       "headlines": [
         {
-          "id": "41c1657d64",
-          "title": "סודות, אהבות, לסביות ומשולשים רומנטיים: סדרת הנעורים הלוהטת של הקיץ",
-          "url": "https://www.israelhayom.co.il/culture/tv/article/21175550",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
+          "id": "d60a204abb",
+          "title": "מנכ\"ל אמות: התאוששות מרשימה בביקוש לנדל\"ן מניב בתל אביב",
+          "url": "https://www.themarker.com/markets/2026-08-11/ty-article/.premium/0000019f-f0b9-d101-a5bf-fbb98db50000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-11T12:55:13+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000198-9e65-dff4-a39e-bfff91710000/b2/b6/e28d1c2e4c9688f43705751f662f/534348.jpg?width=108&height=81"
         },
         {
-          "id": "f87d687441",
-          "title": "רוצה אליפות עם הפועל תל אביב: כמה שווה אדמונד ספרא?",
-          "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21174036",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
+          "id": "ffb0787a92",
+          "title": "מנכ\"ל אמות: \"מורגשת התעוררות בשוק המשרדים, עדיין קשה לסגור עסקאות מחוץ לת\"א\"",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001551944",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-08-11T12:15:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1739265474/direct/%D7%A9%D7%9E%D7%A2%D7%95%D7%9F_%D7%90%D7%91%D7%95%D7%93%D7%A8%D7%94%D7%9D_%D7%9E%D7%A0%D7%9B%D7%9C_%D7%90%D7%9E%D7%95%D7%AA._%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%90%D7%91%D7%99%D7%A9%D7%99_%D7%A4%D7%99%D7%A0%D7%A7%D7%9C%D7%A9%D7%98%D7%99%D7%99%D7%9F_v1pizj.jpg"
         }
       ]
     }
@@ -210,17 +317,17 @@
   "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "American Jewish and pro-Israel political concerns are dominating recent headlines ahead of Democratic primary elections. Senator Bernie Sanders called for Democrats to ban what he termed \"corrupt\" AIPAC spending in primary races, while Michigan Jewish community leaders sought enhanced protection for Jewish delegates at the Democratic National Convention after harassment concerns. A pro-Israel candidate is expected to emerge from South Carolina's Republican Senate primary.",
+      "summary_en": "Israeli politics continues to draw international scrutiny, with Benjamin Netanyahu's leadership and policies remaining a focal point in global discourse. At the same time, Jewish diaspora communities, particularly in the United States, are taking active steps to protect their members from harassment and antisemitic incidents, as evidenced by efforts by rabbis in Michigan to safeguard Jewish delegates at major conventions.",
       "headlines": [
         {
-          "id": "b62a59bf1c",
-          "title": "Bernie Sanders urges Democrats to ban 'corrupt' AIPAC spending in primaries",
-          "url": "https://www.jta.org/2026/08/10/politics/bernie-sanders-urges-democrats-to-ban-corrupt-aipac-spending-in-primaries",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-08-10T19:41:30+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/GettyImages-2286101185.jpg"
+          "id": "68fc2bc5f6",
+          "title": "Strongmen: Benjamin Netanyahu",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/machthaber-benjamin-netanjahu/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-08-11T03:30:00+00:00",
+          "image_url": null
         },
         {
           "id": "04a6e25b80",
@@ -231,151 +338,131 @@
           "source_label_en": "JTA",
           "published_at": "2026-08-10T19:23:13+00:00",
           "image_url": "https://www.jta.org/wp-content/uploads/2026/08/8-10-26-nessel.jpg"
-        },
-        {
-          "id": "42defad804",
-          "title": "South Carolina's Republican Senate nominee will likely be pro-Israel, but no match for Lindsey Graham",
-          "url": "https://www.jta.org/2026/08/10/politics/south-carolinas-republican-senate-nominee-will-likely-be-pro-israel-but-no-match-for-lindsey-graham",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-08-10T18:27:26+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/10-08-2026-Darline-Graham.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Recent Belgian news covers several significant domestic issues. A citizens' collective has sued the Belgian state over noise pollution from flight routes above Brussels and surrounding municipalities. Supermarket chains Colruyt and Delhaize have recalled free-range eggs due to possible salmonella contamination. Additionally, Western Europe's largest nuclear power plant near the Belgian border has had three reactors shut down due to jellyfish clogging its cooling systems.",
+      "summary_en": "Belgium is preparing for a rare solar eclipse on August 12, which will be a once-in-a-generation viewing opportunity for many Flemish residents. The country is also facing a shortage of veterinarians in the Ardennes region, where low pay and long working hours are deterring professionals. Additionally, Belgian policymakers are calling for a shift from frustration-driven politics toward practical solutions for water management and irrigation challenges.",
       "headlines": [
         {
-          "id": "1daadd8a70",
-          "title": "Citizen collective sues Belgian state over noisy flight route above Brussels and surrounding municipalities",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/burgercollectief-rechter-lawaaihinder-vliegtuigen-route/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/7612187b-e880-4efc-bde3-b0ece9487df0.jpg?width=200&height=125&q=80&blur=90"
+          "id": "c26f196d94",
+          "title": "Belgium prepares for an exceptional eclipse: 'For many Flemish people, it's now or never'",
+          "url": "https://www.demorgen.be/beter-leven/belgie-maakt-zich-op-voor-een-uitzonderlijke-eclips-voor-veel-vlamingen-is-dit-nu-kijken-of-nooit~bf433586/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-11T12:00:00+00:00",
+          "image_url": "https://image.demorgen.be/276648007/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "22c5c101f8",
-          "title": "Free-range eggs from Colruyt and Delhaize recalled due to possible salmonella",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/laerco-bv-terugroepactie-scharreleieren-salmonella/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/85f9008f-fd27-415b-832d-a103049977a6.jpg?width=200&height=125&q=80&blur=90"
+          "id": "b76d6ec69d",
+          "title": "Long distances for relatively little money and compromised private life: veterinarian shortage threatens the Ardennes",
+          "url": "https://www.demorgen.be/nieuws/veel-kilometers-voor-relatief-weinig-geld-en-een-aangetast-priveleven-in-de-ardennen-dreigt-een-tekort-aan-veeartsen~bdf655a7/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-11T01:01:06+00:00",
+          "image_url": "https://image.demorgen.be/276633531/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "d0d108cb21",
-          "title": "Jellyfish shut down three reactors of largest nuclear power plant in Western Europe, near Belgian border",
-          "url": "https://www.hln.be/buitenland/kwallen-leggen-drie-reactoren-van-grootste-kerncentrale-in-west-europa-stil-vlak-bij-belgische-grens~a9993945/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-11T11:51:00+00:00",
-          "image_url": "https://images.hln.be/NTY4MWI2OGI2YjRkOTRkMGIxYjcvZGlvLzI3NjY1MTI4My9maXQtd2lkdGgvNDAw/files-jellyfish-lay-on-the-shore-near-the-gravelines-nuclear-power-plant-in-gravelines-northern-france-on-august-12-2025-a-massive-influx-of-jellyfish-into-the-seawater-pumping-stations-at-the-gravelines-nuclear-power-plant-nord-forced-edf-on-august-10-2026-to-shut-down-three-of-its-reactors-the-group-announced-on-its-website-on-august-11-2026-photo-by-sameer-al-doumy-afp"
+          "id": "f9a1d9be53",
+          "title": "It is high time for Belgian policy to evolve from frustration to irrigation",
+          "url": "https://www.demorgen.be/meningen/het-is-hoog-tijd-dat-de-belgische-irritatiepolitiek-evolueert-naar-irrigatiepolitiek~b7c8d93e/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-11T01:01:00+00:00",
+          "image_url": "https://image.demorgen.be/276538071/feature-crop/320/320/afbeelding"
         }
       ]
     },
     "europe": {
-      "summary_en": "European news is dominated by escalating developments in the Russia-Ukraine war and security concerns. Turkey announced a major weapons package including American long-range missiles for Ukraine, while intelligence reports indicate North Korea is preparing to send up to 50,000 troops to Russia. Poland and Baltic NATO allies are preparing defenses against potential Russian hybrid attacks. In border security, Latvia discovered a secret migrant tunnel at its Belarus frontier, while Western Europe faces extreme weather emergencies, including heat warnings in England and severe water shortages across the continent.",
+      "summary_en": "Europe's political landscape shifted as former Supreme Court judge Tamás Baka was elected Hungary's new president, marking another rebuke to Prime Minister Viktor Orbán's authoritarian governance. The continent faces an escalating water crisis, with the Danube River reaching historic low levels that threaten Romania's ability to operate its last active nuclear reactor for power generation. In sharp contrast, Norway has experienced weeks of persistent rainfall while the rest of Europe struggles with severe drought conditions.",
       "headlines": [
         {
-          "id": "c80c5c9137",
-          "title": "Turkey will deliver large weapons package with American long-range rockets to Ukraine",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/oorlog-rusland-oekraine-bestelt-amerikaanse-atacams-raketten-van/",
+          "id": "1bf4b58ce1",
+          "title": "Former judge Baka elected new Hungarian president in another break from Orbán era – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-11T14:45:09+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/ca1425538127823dbb5ec49d993017f66c26c1c8/2273_180_3713_2970/master/3713.jpg?width=700&quality=85&auto=format&fit=max&s=7319e43811d9b32775a1f5bb0a11c7a8"
+        },
+        {
+          "id": "40b82b0b41",
+          "title": "Live – Danube water level reaches new low: Romania faces potential shutdown of last active nuclear reactor",
+          "url": "https://www.demorgen.be/snelnieuws/live-waterpeil-donau-op-nieuw-dieptepunt-roemenie-dreigt-laatste-actieve-kernreactor-te-moeten-uitzetten~b9a760bb/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-11T11:22:00+00:00",
+          "image_url": "https://image.demorgen.be/276619918/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "48e3945f74",
+          "title": "While the rest of Europe thirsts for water, it has been raining in Norway for weeks",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/noorwegen-nat/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/f63783eb-18d4-4bee-977a-b525c5836ce1.jpg?width=200&height=200&q=80&blur=90"
-        },
-        {
-          "id": "53129689e6",
-          "title": "North Korea prepares to send up to 50,000 troops to Russia, according to Zelensky",
-          "url": "https://www.hln.be/buitenland/noord-korea-bereidt-zich-voor-om-tot-50-000-militairen-naar-rusland-te-sturen-volgens-zelensky~a2c8eb7b/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-11T13:01:00+00:00",
-          "image_url": "https://images.hln.be/YjM1OWUzYzA4OTViNTUxYjY4NjgvZGlvLzI2NjY0NjM3MC9maXQtd2lkdGgvNDAw/this-picture-taken-on-december-12-2025-and-released-from-north-korea-s-official-korean-central-news-agency-kcna-on-december-13-shows-north-korean-leader-kim-jong-un-welcoming-soldiers-from-the-korean-people-s-army-s-528th-regiment-of-engineers-which-returned-from-an-overseas-deployment-in-russia-s-kursk-region-during-moscow-s-war-with-ukraine-in-front-of-the-april-25-house-of-culture-in-pyongyang-photo-by-kcna-via-kns-afp-south-korea-out-editors-note-restricted-to-editorial-use-mandatory-credit-afp-photo-kcna-via-kns-no-marketing-no-advertising-campaigns-distributed-as-a-service-to-clients-this-picture-was-made-available-by-a-third-party-afp-can-not-independently-verify-the-authenticity-location-date-and-content-of-this-image"
-        },
-        {
-          "id": "b2c97974c9",
-          "title": "Fear of Russian false flag operation grows: Poland and Baltic states prepare for possible hybrid attack",
-          "url": "https://www.demorgen.be/nieuws/vrees-voor-russische-valsevlagoperatie-groeit-hoe-polen-en-de-baltische-staten-zich-voorbereiden-op-een-mogelijke-hybride-aanval~b401e39b/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-11T11:00:00+00:00",
-          "image_url": "https://image.demorgen.be/276628790/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "f53a57a05f",
-          "title": "Latvia discovers secret migrant tunnel at Belarus frontier",
-          "url": "https://www.politico.eu/article/latvia-migrant-tunnel-border-belarus/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-08-11T11:56:59+00:00",
-          "image_url": null
-        },
-        {
-          "id": "cef2d7b263",
-          "title": "'Extreme heat' warning issued for parts of England on Thursday as temperatures could reach 38C – latest news",
-          "url": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-11T12:23:37+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/fcf80d6af5a29c812141753455828f62cfcde900/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=25549567ec5add72114ddb0e0634d96c"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/07c98c17-a4a0-4320-b83e-bee5d01ebbea.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "A severe earthquake in Colombia has killed at least 224 people, with dozens of aftershocks recorded. In the Middle East, a Syrian court has sentenced former President Bashar al-Assad to death in absentia. U.S. primary races in Wisconsin and Minnesota are set to feature clashes between progressive and establishment-backed Democrats. Meanwhile, former President Donald Trump's Truth Social platform's parent company continues to face severe financial difficulties, reporting $238 million in additional losses.",
+      "summary_en": "A major earthquake struck Colombia, killing at least 169 people in what marked the country's largest seismic event in years. Thailand suspended new gun permits in response to a mass shooting as part of efforts to curb firearm violence. International developments included U.S. demands for Iranian compensation over decades of soldier deaths, Lebanon's historic abolition of capital punishment—a regional first for the Middle East—and Australia's decision to mandate a minimum wage of $31.30 per hour for delivery drivers, setting a new global standard.",
       "headlines": [
         {
-          "id": "5ff2cd4445",
-          "title": "At least 224 deaths after severe earthquake in Colombia, dozens of aftershocks measured",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/al-zeker-224-doden-na-zware-aardbeving-in-colombia-tientallen-n~1786374330952/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/6738b6e8-1b12-4112-a315-537a52da351f.jpg?width=200&height=125&q=80&blur=90"
+          "id": "4152215b50",
+          "title": "At least 169 killed in Colombia's largest earthquake in years",
+          "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-11T13:21:32+00:00",
+          "image_url": null
         },
         {
-          "id": "fcd2bceaa4",
-          "title": "Syrian president Bashar al-Assad sentenced to death in absentia by court in Damascus",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/syrie-damascus-bashar-al-assad-ter-dood-veroordeeld/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/004292b6-0a00-4ce4-b0e7-8fd0bb3bc6d1.jpg?width=200&height=125&q=80&blur=90"
+          "id": "f54e7619cf",
+          "title": "Thailand suspends new gun permits after mass shooting",
+          "url": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-11T14:16:44+00:00",
+          "image_url": null
         },
         {
-          "id": "d52b88ac38",
-          "title": "Progressives and establishment-backed Democrats set to clash in Wisconsin and Minnesota primaries – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
+          "id": "56f469f39f",
+          "title": "Trump demands Iran pay compensation for decades of US soldier deaths",
+          "url": "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-08-11T12:17:19+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/2b8849ccc84895b577c71d3dea957bd2250b6f92/523_0_5233_4186/master/5233.jpg?width=700&quality=85&auto=format&fit=max&s=7767e4fd897f1681a156f5b6888de3f5"
+          "published_at": "2026-08-10T20:45:52+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/3569dec9cee41843292d1bd0fc9a412b89d6e8db/813_724_4096_3276/master/4096.jpg?width=700&quality=85&auto=format&fit=max&s=9d6f1229450e361c039f592a00a4ff05"
         },
         {
-          "id": "24a96659ca",
-          "title": "Trump's Truth Social parent company stacks up losses: again 238 million dollars in the red",
-          "url": "https://www.demorgen.be/snelnieuws/live-moederbedrijf-van-trumps-truth-social-stapelt-verliezen-op-opnieuw-238-miljoen-dollar-in-het-rood~b13cc951/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-11T10:10:00+00:00",
-          "image_url": "https://image.demorgen.be/275875639/roi/320/320/3180/1640.4099999999999/afbeelding"
+          "id": "9b9a71b0c1",
+          "title": "Historic first in the Middle East: Lebanon abolishes capital punishment",
+          "url": "https://www.hln.be/buitenland/primeur-in-het-midden-oosten-libanon-schaft-doodstraf-af~a0eb673c/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-11T13:19:04+00:00",
+          "image_url": "https://images.hln.be/MWRjMWU3YzBhZmM3YzljM2JkNmMvZGlvLzI3NjY1MDE2MS9maXQtd2lkdGgvNDAw/epa13161009-lebanese-lawmakers-attend-a-parliamentary-session-to-discuss-a-proposed-general-amnesty-law-the-abolition-of-the-death-penalty-and-the-salaries-of-retired-members-of-lebanons-security-forces-in-beirut-lebanon-11-august-2026-the-session-took-place-as-retired-military-personnel-protested-outside-the-lebanese-parliament-calling-for-the-full-implementation-of-six-salary-increases-rather-than-distributing-them-in-installments-epa-wael-hamzeh"
+        },
+        {
+          "id": "f1a3f8ecbd",
+          "title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in 'world-leading' decision",
+          "url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-11T08:25:41+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/b08c2f80d5ee7504b93805cda932ee6594e25005/1206_1334_3932_3146/master/3932.jpg?width=700&quality=85&auto=format&fit=max&s=1a8665d593c0271755cf5577da4cd0eb"
         }
       ]
     },
