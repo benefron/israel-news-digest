@@ -1,344 +1,97 @@
 {
-  "generated_at": "2026-08-11T17:06:20.408079+00:00",
+  "generated_at": "2026-08-12T07:13:49.770760+00:00",
   "date": "2026-08-11",
-  "degraded": false,
+  "degraded": true,
   "top_general": {
-    "summary_he": "אנבידיה וחברות וול סטריט הכריזו על מימון ענק בהיקף של חצי טריליון דולר לתשתיות בינה מלאכותית. בטורקיה אושרה חנינה על תנאי לחמושים כורדים, מהלך שעשוי לחזק את ארדואן. בישראל נמשכת דרמה פוליטית סביב שריון שרים ומועמדים בליכוד ומשבר בהקמת הרשימה המשותפת, ולבנון הפכה למדינה הערבית הראשונה שמבטלת את עונש המוות.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "c069bc55cf",
-        "title": "אנבידיה וענקיות וול סטריט מעמידות יחד חצי טריליון דולר למימון תשתיות AI",
-        "url": "https://www.themarker.com/wallstreet/2026-08-11/ty-article/.premium/0000019f-efc4-db03-a9ff-ffd7ac2e0000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-08-11T09:30:59+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000019f-f01b-d569-a5ff-f07f67a90000/3d/3a/bf1777c9461a944863cfffe13ffe/856345.jpg?width=108&height=81"
-      },
-      {
-        "id": "d54047862e",
-        "title": "הפרלמנט הטורקי אישר חנינה על תנאי לאלפי חמושים כורדים; המרוויח עשוי להיות ארדואן",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-11/ty-article/0000019f-f058-dd5f-a39f-ffdeb8ad0000",
+        "id": "39147d0153",
+        "title": "האם צה\"ל ושב\"כ באמת מנעו מנתניהו להתנקש בבכירי חמאס?",
+        "url": "https://www.haaretz.co.il/news/elections/2026-08-11/ty-article/0000019f-3cbd-d379-abdf-bfbfa4430000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-08-11T11:13:08+00:00",
+        "published_at": "2026-08-11T07:42:39+00:00",
         "image_url": null
       },
       {
-        "id": "3482ab9a69",
-        "title": "דרמה בליכוד: בית הדין של המפלגה עצר את ההצבעה לאישור שריון חיים כץ",
-        "url": "https://news.walla.co.il/item/3860011",
+        "id": "f4de51c587",
+        "title": "המפלגה היחידה ברוסיה שמתנגדת למלחמה באוקראינה נפסלה מהתמודדות בבחירות לפרלמנט",
+        "url": "https://www.haaretz.co.il/news/world/europe/2026-08-11/ty-article/0000019f-efc4-df06-a3bf-efffa9170000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-11T08:32:18+00:00",
+        "image_url": null
+      },
+      {
+        "id": "e95cd6a7b4",
+        "title": "בשאר אל־אסד נידון למוות שלא בפניו בגין פשעי מלחמה ופשעים נגד האנושות בסוריה",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-11/ty-article/0000019f-f007-d1d8-a5ff-f49f85120000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-11T09:49:49+00:00",
+        "image_url": null
+      },
+      {
+        "id": "d07e2db203",
+        "title": "משבר הסיעוד: כך תוודאו שרשת הביטחון של המשפחה באמת מספיקה",
+        "url": "https://www.themarker.com/agents/2026-08-11/ty-article/0000019f-f0d2-d310-a3df-f4d341790000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-08-11T16:46:54+00:00",
+        "image_url": "https://img.haarets.co.il/bs/0000019f-f1b2-db94-a3df-fdb3b0df0000/a8/9a/069345684ab58320e1f4fceeaf94/263769.jpg?width=108&height=81"
+      },
+      {
+        "id": "1c191006e3",
+        "title": "כשהמתנחלים סגרו עליי בקוסרה וצה\"ל התעלם, הבנתי שלא ימנע את רצח דוואבשה הבא",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-11/ty-article/.premium/0000019f-f1a3-d569-a5ff-f1e726ad0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-11T17:20:37+00:00",
+        "image_url": null
+      },
+      {
+        "id": "bd2c37b54d",
+        "title": "לבנון ביטלה את עונש המוות: \"מחויבים לקדושת החיים\"",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-11/ty-article/.premium/0000019f-f18e-d310-a3df-f58f77e30000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-11T18:12:23+00:00",
+        "image_url": null
+      },
+      {
+        "id": "3db66269d3",
+        "title": "ממדאני בסקנדל נוסף: אשתו תטוס לסוריה וללבנון - האם תאובטח על חשבון משלם המיסים?",
+        "url": "https://news.walla.co.il/item/3860057",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-08-11T14:10:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/5/4075396-46.jpg"
+        "published_at": "2026-08-11T18:30:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/9/4/3994722-46.jpg"
       },
       {
-        "id": "543415fd31",
-        "title": "המשבר בהקמת הרשימה המשותפת: הצעת הפשרה - ותחושת הקיפוח של טיבי",
-        "url": "https://www.ynet.co.il/news/article/bkbyxy00ugx",
+        "id": "2318e97229",
+        "title": "בתו של השגריר ישנה במקלט בגיל 9 ימים: \"אנשים פה קשוחים, מהאזעקה חזרה ליין\"",
+        "url": "https://www.ynet.co.il/news/article/r1zny300lme",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-08-11T11:58:33+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/29/r1b3pfkx7zg/r1b3pfkx7zg_0_133_1280_721_0_medium.jpg"
-      },
-      {
-        "id": "a32afda96a",
-        "title": "Lebanon abolishes death penalty in landmark vote, becoming first Arab nation to do so",
-        "url": "https://www.timesofisrael.com/lebanon-abolishes-death-penalty-in-landmark-vote-becoming-first-arab-nation-to-do-so/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-08-11T15:02:40+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/01/AFP__20250109__36TC7YA__v1__HighRes__LebanonPoliticsVotePresident-1024x640.jpg"
+        "published_at": "2026-08-11T18:58:01+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/05/Hym11jpi1pxx/Hym11jpi1pxx_796_216_1592_896_0_medium.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "מסוק אמריקני תקף ספינה במצר הורמוז, ומדינות המפרץ מביעות חשש קודר מהמשך ההסלמה שם, זאת בעודות דיווחים על התקרבות אפשרית בין ארה\"ב לאיראן להסכם. בישראל, צה\"ל נערך לפינוי אוהלי מתיישבים סמוך לכפר פלסטיני, והחטוף לשעבר סאגי דקל-חן חוזר להופיע בפומבי עם שירים שכתב בשבי חמאס.",
-    "headlines": [
-      {
-        "id": "29a7ea6396",
-        "title": "מסוק אמריקני תקף ספינה במצר הורמוז: \"ניסתה לפרוץ את המצור על נמלי איראן\" | דיווח",
-        "url": "https://news.walla.co.il/item/3860033",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-11T16:14:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/4/6/4046535-46.jpg"
-      },
-      {
-        "id": "84e0af4c2e",
-        "title": "מדינות המפרץ הגיעו למסקנה בנוגע להורמוז - והיא קודרת",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001551940",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-08-11T12:40:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1779178411/direct/AP26070525672326_xdxqr8.jpg"
-      },
-      {
-        "id": "bcceb4c0c9",
-        "title": "האמריקנים תקפו ספינה בהורמוז, פקיסטן: \"ארה\"ב ואיראן קרובות להסכם כלשהו\"",
-        "url": "https://www.ynet.co.il/news/article/rkryxq00uzl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-11T12:54:49+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/18/Sy1Uy3e6Wx/Sy1Uy3e6Wx_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "749bcda1c6",
-        "title": "בשטח הכפר: צה\"ל מתכונן לפינוי אוהלי מתיישבים סמוכים לבתים פלסטיניים",
-        "url": "https://www.israelhayom.co.il/news/defense/article/21176914",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "bfd3c893b0",
-        "title": "Former hostage Sagui Dekel-Chen returns home to perform songs he composed in Hamas captivity",
-        "url": "https://www.timesofisrael.com/former-hostage-sagui-dekel-chen-returns-home-to-perform-songs-he-composed-in-hamas-captivity/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-08-11T13:37:48+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/שגיא-דקל-חן-צילום-אורית-פניני-1024x640.jpg"
-      },
-      {
-        "id": "84a74aa336",
-        "title": "עשור שלם, 2 מלחמות ומו\"מ בלתי נגמר: איראן חזרה לנקודת ההתחלה?",
-        "url": "https://13tv.co.il/item/news/politics/state-policy/iran-project-905213530/?pid=62&refc=902992425",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
-        "published_at": null,
-        "image_url": null
-      }
-    ]
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "בליכוד נמשכת סערה סביב שריון עסקנים ושרים, לאחר שבית הדין המפלגתי עצר את ההצבעה על שריון חיים כץ בעקבות טענות לניגוד עניינים, וגם בקרב שורות המפלגה נשמעת ביקורת חריפה. במקביל, מתנהל משבר בהקמת הרשימה המשותפת סביב תחושת קיפוח של טיבי, ובבג\"ץ נדונה עתירה בנוגע למיקום קלפיות בבתי אבות.",
-      "headlines": [
-        {
-          "id": "04eaead1f9",
-          "title": "בית הדין הוציא צו ביניים, ההצבעה על שריון השר מהליכוד נעצרה: \"טענות לניגוד עניינים\"",
-          "url": "https://www.ynet.co.il/news/article/bjk1jt008ze",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-11T11:25:03+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/r111eTF00Izx/r111eTF00Izx_0_0_850_479_0_medium.jpg"
-        },
-        {
-          "id": "3482ab9a69",
-          "title": "דרמה בליכוד: בית הדין של המפלגה עצר את ההצבעה לאישור שריון חיים כץ",
-          "url": "https://news.walla.co.il/item/3860011",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-11T14:10:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/5/4075396-46.jpg"
-        },
-        {
-          "id": "9ddea5e925",
-          "title": "בליכוד מותחים ביקורת על השריונים של נתניהו: \"לשריין את העסקנים האלו זו מכת מחץ\"",
-          "url": "https://www.haaretz.co.il/news/elections/2026-08-11/ty-article/.premium/0000019f-f00f-d569-a5ff-f06f60950000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-11T09:56:48+00:00",
-          "image_url": null
-        },
-        {
-          "id": "543415fd31",
-          "title": "המשבר בהקמת הרשימה המשותפת: הצעת הפשרה - ותחושת הקיפוח של טיבי",
-          "url": "https://www.ynet.co.il/news/article/bkbyxy00ugx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-11T11:58:33+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/29/r1b3pfkx7zg/r1b3pfkx7zg_0_133_1280_721_0_medium.jpg"
-        },
-        {
-          "id": "ad62c213a5",
-          "title": "High Court hears arguments as petitioners seek to keep ballot boxes at retirement homes",
-          "url": "https://www.timesofisrael.com/high-court-hears-arguments-as-petitioners-seek-to-keep-ballot-boxes-at-retirement-homes/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-11T14:02:09+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/F260811CG11-1024x640.jpg"
-        },
-        {
-          "id": "3e5a458a3d",
-          "title": "בן גביר רוצה לבטל את הורדת סף האכיפה במצלמות: \"אדבר עם המפכ\"ל\"",
-          "url": "https://www.ynet.co.il/news/article/ryz7lculmg",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-11T13:00:22+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/r16t4xSHMe/r16t4xSHMe_284_85_2321_1307_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "לינקדאין סוגרת את מרכז הפיתוח שלה בישראל ותפטר כ-35 עובדים, ורשת חברתית נוספת מצמצמת עשרות משרות. במקביל, אנבידיה וגופי השקעה גדולים מגייסים מימון עתק לתשתיות בינה מלאכותית, ורופא תובע את דרופבוקס לאחר שהאלגוריתם האשים אותו בפשע.",
-      "headlines": [
-        {
-          "id": "64f38b1290",
-          "title": "לינקדאין סוגרת את מרכז הפיתוח בישראל – כ-35 עובדים יפוטרו",
-          "url": "https://www.themarker.com/technation/2026-08-11/ty-article/.highlight/0000019f-f0c7-d28e-a3df-f0d74c530000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-11T12:26:11+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-f0c8-d569-a5ff-f0ecd0730000/cd/fd/570f2a89441c8cd92aa63bee9981/685504.jpg?width=108&height=81"
-        },
-        {
-          "id": "317dece68a",
-          "title": "צמצומים ברשת החברתית בישראל: עשרות עובדים יפוטרו",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001551954",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-08-11T13:11:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1786453044/shutterstock_2141031889_ifj8yw.jpg"
-        },
-        {
-          "id": "fb18ad616d",
-          "title": "איפה שאר ההייטקיסטים? בקשת העברת הבעלות של רשת כוללת שני שמות בלבד",
-          "url": "https://www.themarker.com/news/themedia/2026-08-11/ty-article/.premium/0000019f-f0a1-d569-a5ff-f0e57ce40000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-11T13:07:05+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-f0af-d101-a5bf-fbbfa25a0001/7a/74/2989981640f58f46308d053660d5/tm-2-split.jpg?width=108&height=81"
-        },
-        {
-          "id": "3b0498b303",
-          "title": "כשהאלגוריתם מאשים בפשע נורא ואיום: רופא תובע את דרופבוקס לאחר שנחסם",
-          "url": "https://www.themarker.com/law/2026-08-11/ty-article/.premium/0000019f-eff9-db03-a9ff-fffbf87e0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-11T11:55:42+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-efff-db03-a9ff-ffffd9490000/e4/e7/0db01a22495b80fcd9cfad2b2da2/269503.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "שוק ההון בתל אביב ננעל מעורב, כשהמניות הביטחוניות צוללות והבנקים והאנרגיה עולים, לצד ירידה חדה במניית נאייקס. בינתיים מוצעות דרכים לחיסכון של עד 35% בחשבון החשמל בשיא הקיץ.",
-      "headlines": [
-        {
-          "id": "6906087c7f",
-          "title": "ת\"א 35 ננעל יציב ות\"א 90 ירד; הביטחוניות צללו, הבנקים והאנרגיה עלו",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001551909",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-08-11T14:43:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1645696030/direct/IMG_20200309_140611_jxtlyd.jpg"
-        },
-        {
-          "id": "8f97ad7a22",
-          "title": "נאייקס התרסקה ב-25% ביומיים - בית ההשקעות שמזהה הזדמנות",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001552067",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-08-11T16:24:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1712754288/direct/%D7%99%D7%90%D7%99%D7%A8_%D7%A0%D7%97%D7%9E%D7%93_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%93%D7%95%D7%99%D7%93_%D7%96%D7%99%D7%A1%D7%A8_si8bcd.jpg"
-        },
-        {
-          "id": "fa65997677",
-          "title": "כך תורידו 35% מחשבון החשמל בשיא הקיץ",
-          "url": "https://www.israelhayom.co.il/you-may-find-interesting/article/21030506",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "9d9fb17241",
-          "title": "\"ביקוש אדיר\": מנכ\"ל אלביט אופטימי, אז למה המניה נופלת?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001551928",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-08-11T09:34:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1758204993/direct/%D7%91%D7%95%D7%A6%D7%99_%D7%9E%D7%9B%D7%9C%D7%99%D7%A1_%D7%9E%D7%A0%D7%9B%D7%9C_%D7%90%D7%9C%D7%91%D7%99%D7%98_11_jibrq5.jpg"
-        }
-      ]
-    },
-    {
-      "key": "health",
-      "label_he": "בריאות ורפואה",
-      "summary_he": "מחקר בריטי מצא כי רוכבי קורקינטים חשמליים חשופים פי שלושה לפגיעות מוח בהשוואה לרוכבי אופנועים, ובישראל מדווח על מטופל שממתין כבר שלושה חודשים ללא טיפול.",
-      "headlines": [
-        {
-          "id": "9a37d997c6",
-          "title": "E-scooter riders 3 times more likely to suffer brain injury than motorcyclists – UK study",
-          "url": "https://www.timesofisrael.com/e-scooter-riders-3-times-more-likely-to-suffer-brain-injury-than-motorcyclists-uk-study/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-11T13:43:52+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2024/05/F240522MA017-1024x640.jpg"
-        },
-        {
-          "id": "c7015ec386",
-          "title": "כבר 3 חודשים בלי טיפול: החשש הגדול של אבישי בן שמעון",
-          "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21177595",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "כוכבת התוכנית 'חתונמי' חושפת פרטים לקראת סיום העונה, והחטוף לשעבר סאגי דקל-חן חוזר להופיע עם שירים שחיבר בשבי.",
-      "headlines": [
-        {
-          "id": "9c67b5523e",
-          "title": "כוכבת ''חתונמי'' רגע לפני סיום העונה: ''אני הולכת עם הטבעת''",
-          "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21176660",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "bfd3c893b0",
-          "title": "Former hostage Sagui Dekel-Chen returns home to perform songs he composed in Hamas captivity",
-          "url": "https://www.timesofisrael.com/former-hostage-sagui-dekel-chen-returns-home-to-perform-songs-he-composed-in-hamas-captivity/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-11T13:37:48+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/שגיא-דקל-חן-צילום-אורית-פניני-1024x640.jpg"
-        }
-      ]
-    }
-  ],
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -354,168 +107,5 @@
     "reshet13",
     "i24"
   ],
-  "sources_failed": [],
-  "world": {
-    "israel_jewish": {
-      "summary_en": "As conflict in the Middle East continues to intensify, India's relationship with Israel is reportedly deepening, according to The Guardian. This reflects broader geopolitical realignments as countries navigate ties with Israel amid the ongoing regional tensions.",
-      "headlines": [
-        {
-          "id": "847a3f7d97",
-          "title": "As conflict in the Middle East intensifies, India's relationship with Israel deepens",
-          "url": "https://www.theguardian.com/world/2026/aug/10/this-is-india-relationship-with-israel-modi-netanyahu",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-11T06:55:06+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/9dd9ca45dd1fe29d9a59b627ccc5348ea64937fc/526_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=854c5ff6d5c56e7f4de5ec4512341abf"
-        }
-      ]
-    },
-    "belgium": {
-      "summary_en": "Belgian news includes ongoing noise complaints around Brussels Airport, with a decision expected by early October. A new EU packaging law is causing major cost and paperwork burdens for small webshop owners, exemplified by a bead seller facing €15,000 in expenses. Meanwhile, Picnic-PostNL faces fresh financial concerns following the bankruptcy of its bike sponsor, and former Anderlecht player Yari Verschaeren is reportedly close to joining Italian second-tier club Sampdoria.",
-      "headlines": [
-        {
-          "id": "0e1a2f5325",
-          "title": "Complaints about noise pollution around Brussels Airport persist: 'A decision must be made by early October'",
-          "url": "https://www.hln.be/binnenland/klachten-over-geluidshinder-rond-brussels-airport-blijven-aanhouden-tegen-begin-oktober-moet-er-beslissing-zijn~a9cb0fe2/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-11T16:00:00+00:00",
-          "image_url": "https://images.hln.be/YmIwZTE5MmY2NGY0MTljYzRlYTMvZGlvLzI3NjY1ODc5NS9maXQtd2lkdGgvNDAw/steenokkerzeel-belgium-vliegtuig-brussels-airlines-landt-op-brussels-airport-pictured-on-august-10-2026-in-steenokkerzeel-belgium-10-08-2026-photo-by-joel-hoylaerts-photonews-inzet-minister-of-climate-and-mobility-jean-luc-crucke-pictured-during-a-plenary-session-of-the-chamber-at-the-federal-parliament-in-brussels-wednesday-13-may-2026-belga-photo-dirk-waem"
-        },
-        {
-          "id": "507eabb043",
-          "title": "New packaging law hits webshop owner Ingeborg (61): '€15,000 in costs and a mountain of paperwork to ship a few beads'",
-          "url": "https://www.hln.be/binnenland/nieuwe-verpakkingswet-treft-webshop-ingeborg-61-15-000-euro-kosten-en-een-berg-papierwerk-om-een-paar-kralen-te-versturen~a0bb85b8/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-11T15:53:00+00:00",
-          "image_url": "https://images.hln.be/NGFlYjE1N2M4MjZjMjM3OTk0OGEvZGlvLzI3NjY1NDIwOC9maXQtd2lkdGgvNDAw/20260810-antwerpen-nieuwe-europese-verpakkingswet-legt-kleine-webshops-aan-banden-getuigenis-van-ingeborg-d-hoker-context-vanaf-12-augustus-treedt-de-nieuwe-europese-verpakkingsverordening-ppwr-in-werking-die-moet-verpakkingsafval-verminderen-en-recyclage-stimuleren-maar-zorgt-tegelijk-voor-onrust-bij-heel-wat-kleine-webshops-ik-vrees-dat-ik-in-een-groot-deel-van-europa-niet-langer-zal-kunnen-verkopen-ik-moet-mij-in-verschillende-eu-landen-registreren-en-jaarlijks-rapporteren-voor-een-eenmanszaak-is-dat-onbegonnen-werk-alleen-al-de-jaarlijkse-kost-loopt-voor-mij-op-tot-ruim-7-600-euro-vertelt-onderneemster-ingeborg-d-hoker-61-aan-hln-consumentenexperte-safia-yachou-zij-baat-een-winkel-en-webshop-in-kralen-uit-in-antwerpen-ook-ondernemersorganisaties-trekken-aan-de-alarmbel-handelsfederatie-comeos-steunt-de-europese-doelstellingen-maar-waarschuwt-dat-bedrijven-vandaag-nog-met-veel-onduidelijkheden-zitten-over-de-praktische-uitvoering-en-vraagt-voldoende-tijd-en-rechtszekerheid-om-zich-aan-de-nieuwe-regels-aan-te-passen-vanaf-12-augustus-treedt-de-nieuwe-europese-verpakkingsverordening-ppwr-in-werking-die-moet-verpakkingsafval-verminderen-en-recyclage-stimuleren-maar-zorgt-tegelijk-voor-onrust-bij-heel-wat-kleine-webshops-ik-vrees-dat-ik-in-een-groot-deel-van-europa-niet-langer-zal-kunnen-verkopen-ik-moet-mij-in-verschillende-eu-landen-registreren-en-jaarlijks-rapporteren-voor-een-eenmanszaak-is-dat-onbegonnen-werk-alleen-al-de-jaarlijkse-kost-loopt-voor-mij-op-tot-ruim-7-600-euro-vertelt-onderneemster-ingeborg-d-hoker-61-aan-hln-consumentenexperte-safia-yachou-zij-baat-een-winkel-en-webshop-in-kralen-uit-in-antwerpen-ook-ondernemersorganisaties-trekken-aan-de-alarmbel-handelsfederatie-comeos-steunt-de-europese-doelstellingen-maar-waarschuwt-dat-bedrijven-vandaag-nog-met-veel-onduidelijkheden-zitten-over-de-praktische-uitvoering-en-vraagt-voldoende-tijd-en-rechtszekerheid-om-zich-aan-de-nieuwe-regels-aan-te-passen-ingeborg-d-hoker-etsy-kralen-ondernemer-portret-portretten-webshop-website-winkel-202608101735-id-jeffrey-torremans-20260810-antwerpen-nieuwe-europese-verpakkingswet-legt-kleine-webshops-aan-banden-getuigenis-van-ingeborg-d-hoker-context-vanaf-12-augustus-treedt-de-nieuwe-europese-verpakkingsverordening-ppwr-in-werking-die-moet-verpakkingsafval-verminderen-en-recyclage-stimuleren-maar-zorgt-tegelijk-voor-onrust-bij-heel-wat-kleine-webshops-ik-vrees-dat-ik-in-een-groot-deel-van-europa-niet-langer-zal-kunnen-verkopen-ik-moet-mij-in-verschillende-eu-landen-registreren-en-jaarlijks-rapporteren-voor-een-eenmanszaak-is-dat-onbegonnen-werk-alleen-al-de-jaarlijkse-kost-loopt-voor-mij-op-tot-ruim-7-600-euro-vertelt-onderneemster-ingeborg-d-hoker-61-aan-hln-consumentenexperte-safia-yachou-zij-baat-een-winkel-en-webshop-in-kralen-uit-in-antwerpen-ook-ondernemersorganisaties-trekken-aan-de-alarmbel-handelsfederatie-comeos-steunt-de-europese-doelstellingen-maar-waarschuwt-dat-bedrijven-vandaag-nog-met-veel-onduidelijkheden-zitten-over-de-praktische-uitvoering-en-vraagt-voldoende-tijd-en-rechtszekerheid-om-zich-aan-de-nieuwe-regels-aan-te-passen-vanaf-12-augustus-treedt-de-nieuwe-europese-verpakkingsverordening-ppwr-in-werking-die-moet-verpakkingsafval-verminderen-en-recyclage-stimuleren-maar-zorgt-tegelijk-voor-onrust-bij-heel-wat-kleine-webshops-ik-vrees-dat-ik-in-een-groot-deel-van-europa-niet-langer-zal-kunnen-verkopen-ik-moet-mij-in-verschillende-eu-landen-registreren-en-jaarlijks-rapporteren-voor-een-eenmanszaak-is-dat-onbegonnen-werk-alleen-al-de-jaarlijkse-kost-loopt-voor-mij-op-tot-ruim-7-600-euro-vertelt-onderneemster-ingeborg-d-hoker-61-aan-hln-consumentenexperte-safia-yachou-zij-baat-een-winkel-en-webshop-in-kralen-uit-in-antwerpen-ook-ondernemersorganisaties-trekken-aan-de-alarmbel-handelsfederatie-comeos-steunt-de-europese-doelstellingen-maar-waarschuwt-dat-bedrijven-vandaag-nog-met-veel-onduidelijkheden-zitten-over-de-praktische-uitvoering-en-vraagt-voldoende-tijd-en-rechtszekerheid-om-zich-aan-de-nieuwe-regels-aan-te-passen-ingeborg-d-hoker-etsy-kralen-ondernemer-portret-portretten-webshop-website-winkel-202608101739-id-jeffrey-torremans"
-        },
-        {
-          "id": "c13e2f4e44",
-          "title": "New financial concerns for Picnic-PostNL after bankruptcy of bike sponsor?",
-          "url": "https://www.hln.be/wielrennen/nieuwe-financiele-zorgen-voor-picnic-postnl-na-faillissement-van-fietssponsor~a98ef736/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-11T16:33:00+00:00",
-          "image_url": "https://images.hln.be/N2IwMDFhM2JlMjU1N2Q5OTBhN2IvZGlvLzI3NjU4NDAxMC9maXQtd2lkdGgvNDAw/kocierz-poland-cycling-cyclisme-radsport-wielrennen-roosen-timo-ned-team-picnic-postnl-de-jong-timo-team-picnic-postnl-pictured-during-stage-6-from-bukovina-resort-to-bukowina-tatrzanska-125-5-km-for-men-elite-2-pro-photo-szymon-gruchalski-cor-vos-2026-cor-vos-2026-photo-news-only-belgium"
-        },
-        {
-          "id": "e4ca7d1462",
-          "title": "Has he found a new club after leaving Anderlecht? 'Yari Verschaeren close to Italian second-division side Sampdoria'",
-          "url": "https://www.hln.be/voetbal/heeft-hij-een-nieuwe-club-gevonden-na-zijn-vertrek-bij-anderlecht-yari-verschaeren-dicht-bij-italiaanse-tweedeklasser-sampdoria~a320a706/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-11T16:39:00+00:00",
-          "image_url": "https://images.hln.be/NGJiYWJiNmM1MmNmMGE0OTMyYjIvZGlvLzI3Mjg3MDUyMC9maXQtd2lkdGgvNDAw/anderlecht-belgium-april-26-verschaeren-yari-midfielder-of-rsc-anderlecht-during-the-jupiler-pro-league-champions-play-off-match-between-rsc-anderlecht-and-royale-union-saint-gilloise-on-april-26-2026-in-anderlecht-belgium-26-04-2026-photo-by-david-hagemann-photonews"
-        }
-      ]
-    },
-    "europe": {
-      "summary_en": "A fierce fire broke out in a parking garage near Paris's Charles de Gaulle airport, with smoke visible as far as central Paris. In Switzerland, an entrepreneur is building a massive vault beneath the Alps. Elsewhere, Flemish eclipse tourists are traveling to Spain for the best view of the 2026 solar eclipse, while grid operators warn of nearly 10 gigawatts less solar power output during the event.",
-      "headlines": [
-        {
-          "id": "643c6668f9",
-          "title": "France: Fierce fire in parking garage near Charles de Gaulle airport, smoke visible in central Paris",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/brand-woedt-nabij-luchthaven-charles-de-gaulle-rookpluim-te-zie/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/3d935938-eb38-45e2-ab9b-bcfbe8826d4c.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "2c2f353ace",
-          "title": "Swiss entrepreneur builds giant vault under a mountain in the Alps",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/11/video-kluis-onder-berg-in-de-alpen/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/1d22ef4d-0bab-4623-9f4b-acfbfb51d2c7.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "01d935ef2b",
-          "title": "Flemish eclipse tourists travel to Spain for the best view of the 2026 solar eclipse: 'Out of wonder for nature'",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/11/video-zonsverduistering-toerisme/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/8a5dd06b-67da-461b-a31f-48c77fbb824f.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "4b02f53fb1",
-          "title": "Solar eclipse liveblog: Grid operators predict nearly 10 gigawatts less solar power during eclipse",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/bijna-10-gigawatt-minder-stroom-uit-zonnepanelen-tijdens-zonsver~1786017162880/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2022/10/03/74f51a3f-4309-11ed-b07d-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
-        }
-      ]
-    },
-    "world_top": {
-      "summary_en": "A powerful earthquake in Colombia has killed at least 224 people, with dozens of aftershocks recorded. In the Russia-Ukraine war, Ukraine struck air defenses near 'Putin's palace' on the Black Sea coast, while Turkey plans to deliver a major weapons package, including US long-range missiles, to Ukraine. Russia released an American former serviceman held for over four years, and a notable report claims Trump secretly switched planes via a catering container after a NATO summit due to an Iranian threat.",
-      "headlines": [
-        {
-          "id": "5ff2cd4445",
-          "title": "Earthquake in Colombia: At least 224 dead after severe quake, dozens of aftershocks recorded",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/al-zeker-224-doden-na-zware-aardbeving-in-colombia-tientallen-n~1786374330952/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/16171ae5-fb92-400c-97e4-0ad73dcf879e.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "9cbf58a316",
-          "title": "Russia-Ukraine war: Ukraine attacks air defenses near 'Putin's palace' on the Black Sea - is the residence itself next?",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/oorlog-rusland-oekraine-paleis-van-vladimir-poetin-luchtverdedgi/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/21fec806-da07-45e9-b24d-646086cd3483.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "c80c5c9137",
-          "title": "Russia-Ukraine war: Turkey to deliver major weapons package with US long-range missiles to Ukraine",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/oorlog-rusland-oekraine-bestelt-amerikaanse-atacams-raketten-van/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/f63783eb-18d4-4bee-977a-b525c5836ce1.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "e859ddd775",
-          "title": "Russia releases American ex-serviceman held for over 4 years",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/rusland-amerikaanse-militair-vrijgelaten/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/f5f09db1-576d-4a42-bc9d-73af7c4727b3.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "d6529d4352",
-          "title": "United States: 'Trump secretly switched planes via catering container after NATO summit': remarkable story about Iranian threat",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/president-trump-nam-stiekem-ander-vliegtuig-na-navo-top-uit-drei/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/e002f8a8-3d6a-452b-80ab-307586142e2b.jpg?width=200&height=200&q=80&blur=90"
-        }
-      ]
-    },
-    "degraded": false
-  }
+  "sources_failed": []
 }
