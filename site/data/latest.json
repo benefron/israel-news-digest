@@ -1,89 +1,24 @@
 {
-  "generated_at": "2026-08-12T10:11:00.765803+00:00",
+  "generated_at": "2026-08-12T13:10:24.540193+00:00",
   "date": "2026-08-12",
   "degraded": false,
   "top_general": {
-    "summary_he": "עיקר הכותרות היום עוסקות במתיחות הביטחונית מול איראן ובחששות משיגור טיל לעבר טראמפ, לצד החיפושים אחר שתי הישראליות שנעלמו באוסטריה. בארץ נרשמה תאונה קטלנית בקניון בחדרה, וצה\"ל פינה מאחז ישראלי בקוסרה בעקבות מחאה.",
+    "summary_he": "דיווחים על אדם עם טיל כתף שנצפה בקרבת מלון בו שהה הנשיא טראמפ בטורקיה מעוררים הדים בינלאומיים. בישראל, הליכוד פנה לבג\"ץ בבקשה להכרעה מיידית בעניין דחיית הפריימריז, על רקע מחלוקת סביב שריון מועמדים. במקביל, המשטרה נערכת למחאת חרדים צפויה בבני ברק שעלולה לשבש את התנועה באזור.",
     "headlines": [
       {
-        "id": "fc7fb3a6f9",
-        "title": "המודיעין האמריקני זיהה איום איראני לשיגור טיל לעבר טראמפ | דיווח",
-        "url": "https://news.walla.co.il/item/3860241",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-12T12:00:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/7/4087316-46.jpg"
-      },
-      {
-        "id": "83035e893e",
-        "title": "הטלפונים של הנעדרות מלי וליאל יהלומי אוכנו בשבת בבוקר באזור תחנת רכבת בווינה",
-        "url": "https://www.haaretz.co.il/news/law/2026-08-12/ty-article/0000019f-f4b4-d28e-a3df-f4f459ca0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-12T07:12:26+00:00",
+        "id": "a8a053b803",
+        "title": "נשיא על הכוונת: \"אדם עם טיל כתף נצפה מחוץ למלון של טראמפ\"",
+        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21181723",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
         "image_url": null
       },
       {
-        "id": "27315324ef",
-        "title": "תאונה קטלנית בקניון בחדרה: נהגת דרסה למוות אישה - והתנגשה בחנות",
-        "url": "https://www.ynet.co.il/news/article/ryxo99y8fe",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-12T07:06:19+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/12/BJKHAstLMe/BJKHAstLMe_0_30_1280_721_0_medium.jpg"
-      },
-      {
-        "id": "5439aa9400",
-        "title": "בנוכחות האלוף בלוט: צה\"ל פינה את המאחז הישראלי בקוסרה, עשרות ישראלים חוסמים צירים באזור קרא עוד..",
-        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-561b68e0",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": "https://cdn.i24news.tv/uploads/02/cc/93/6a/a7/36/7f/da/3e/da/e5/90/25/ab/9b/dd/02cc936aa7367fda3edae59025ab9bdd.png?width=750"
-      }
-    ]
-  },
-  "security_war": {
-    "summary_he": "המודיעין האמריקני זיהה איום איראני לשיגור טיל לעבר טראמפ, ולפי דיווח נוסף המודיעין הישראלי הוא שהניע את ההחלטה להבריחו מהמטוס. במקביל דווח כי מסוק אמריקני פתח באש לעבר ספינה שניסתה להפר את המצור על איראן, וטראמפ הזהיר כי ארה\"ב תפציץ אם המשטר יפעל. בגזרה נוספת פינה צה\"ל מאחז ישראלי בקוסרה, ולאחר המלחמה נחשף גם רווח השיא של בז\"ן.",
-    "headlines": [
-      {
-        "id": "fc7fb3a6f9",
-        "title": "המודיעין האמריקני זיהה איום איראני לשיגור טיל לעבר טראמפ | דיווח",
-        "url": "https://news.walla.co.il/item/3860241",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-12T12:00:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/7/4087316-46.jpg"
-      },
-      {
-        "id": "f18952697b",
-        "title": "Israeli intel on Iranian plot said to have spurred decision to sneak Trump off Air Force One",
-        "url": "https://www.timesofisrael.com/israeli-intel-on-iranian-plot-said-to-have-spurred-decision-to-sneak-trump-off-air-force-one/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-08-11T23:03:28+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/WhatsApp-Image-2026-07-28-at-18.53.21-1024x640.jpeg"
-      },
-      {
-        "id": "4a22029fe6",
-        "title": "דיווח: מסוק אמריקני פתח באש לעבר ספינה שניסתה להפר את המצור על איראן",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-ab7324788d0ff91027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-11T12:47:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/01/irantkifa01082_autoOrient_i.jpg"
-      },
-      {
-        "id": "a7c8d4c385",
-        "title": "טראמפ על איראן: \"אנחנו בעמדה טובה, אם יעשו משהו נפציץ אותם\"",
-        "url": "https://13tv.co.il/item/news/politics/security/gwv05-905307749/?pid=62&refc=902992386",
+        "id": "f8acde49e1",
+        "title": "\"אדם נצפה עם טיל כתף\": הברחת טראמפ מהמטוס וההטעיה בטורקיה",
+        "url": "https://13tv.co.il/item/news/politics/security/kt5nb-905308647/?pid=62&refc=902992386",
         "source": "reshet13",
         "source_label": "חדשות 13",
         "source_label_he": "חדשות 13",
@@ -91,14 +26,59 @@
         "image_url": null
       },
       {
-        "id": "5439aa9400",
-        "title": "בנוכחות האלוף בלוט: צה\"ל פינה את המאחז הישראלי בקוסרה, עשרות ישראלים חוסמים צירים באזור קרא עוד..",
-        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-561b68e0",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": "https://cdn.i24news.tv/uploads/02/cc/93/6a/a7/36/7f/da/3e/da/e5/90/25/ab/9b/dd/02cc936aa7367fda3edae59025ab9bdd.png?width=750"
+        "id": "3da2579086",
+        "title": "הליכוד מבקש מהעליון הכרעה עוד היום: אלה ההשלכות של דחיית הפריימריז",
+        "url": "https://www.ynet.co.il/news/article/b1clmjqigl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-12T12:36:02+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/12/ByVtUgZEGe/ByVtUgZEGe_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "82d265bf10",
+        "title": "חסימות כבישים ועומסי תנועה כבדים: היערכות המשטרה למחאת חרדים בבני ברק",
+        "url": "https://news.walla.co.il/item/3860303",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-08-12T15:12:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/7/4087540-46.png"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "צה\"ל גינה הקמת מאחז מתנחלים בחצר משפחה פלסטינית אך נמנע מפינויו. במקביל מתפרסם דיווח על נקודת תורפה שישראל זיהתה אצל חיזבאללה, ובזירה הדיפלומטית מתוארים קשיים בקידום תוכנית עזה על ידי מועצת השלום.",
+    "headlines": [
+      {
+        "id": "97bb8b6371",
+        "title": "צה\"ל גינה את המתנחלים שהקימו מאחז בחצר משפחה פלסטינית – אך לא פינה אותם",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-11/ty-article/.premium/0000019f-f23e-db94-a3df-ffbf51c30000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-11T19:13:18+00:00",
+        "image_url": null
+      },
+      {
+        "id": "901a7696bd",
+        "title": "לא רק טילים: נקודת התורפה של חיזבאללה שישראל זיהתה",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001552096",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-08-12T10:00:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1772447613/direct/AP25328527736577_vv8muv.jpg"
+      },
+      {
+        "id": "3db037d9e6",
+        "title": "Board of Peace blurs Yellow Line as it wages uphill battle to advance Gaza plan",
+        "url": "https://www.timesofisrael.com/board-of-peace-blurs-yellow-line-as-it-wages-uphill-battle-to-advance-gaza-plan/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-08-12T05:48:03+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/2026-07-27T000000Z_1611557506_MT1SIPA000O8YQ2Q_RTRMADP_3_SIPA-USA-1024x640.jpg"
       }
     ]
   },
@@ -106,28 +86,113 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "נתניהו התערב לטובת אלמוג כהן לקראת הפריימריז בליכוד, ואורן סמדג'ה הצטרף לקריאתו של גלעד ארדן לאחדות פוליטית. בנוסף דווח כי הרב הראשי לשעבר יצחק יוסף הורה לתלמידיו שלא להצביע לש\"ס.",
+      "summary_he": "שר המשפטים אמר כי אם ייבחר מחדש, שופטי העליון הליברליים \"ייכחדו\", בעוד בית הדין של הליכוד אישר את השריון של חיים כץ. שר נוסף מהליכוד תקף מי שאינו חי בישראל אך מבקש להשפיע על השלטון.",
       "headlines": [
         {
-          "id": "032f31131d",
-          "title": "נתניהו התערב לטובת אלמוג כהן ואפשר לו להתמודד בפריימריז בליכוד",
-          "url": "https://www.haaretz.co.il/news/elections/2026-08-12/ty-article/.premium/0000019f-f4b2-d101-a5bf-ffb275c10000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-12T06:44:55+00:00",
+          "id": "6070be80b6",
+          "title": "Justice minister says if he’s reelected, liberal Supreme Court justices ‘will go extinct’",
+          "url": "https://www.timesofisrael.com/justice-minister-says-if-hes-reelected-liberal-supreme-court-justices-will-go-extinct/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-08-12T08:51:56+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/F260708YS88-1024x640.jpg"
+        },
+        {
+          "id": "49306755b9",
+          "title": "בית הדין של הליכוד אישר את השריון של חיים כץ",
+          "url": "https://www.kan.org.il/content/kan-news/politic/live-1088132/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
           "image_url": null
         },
         {
-          "id": "0faa7d19f8",
-          "title": "אורן סמדג'ה מצטרף לגלעד ארדן: \"האחדות חשובה מכל מחלוקת פוליטית\"",
-          "url": "https://www.ynet.co.il/news/article/r1yuaqflmx",
+          "id": "363df68acd",
+          "title": "השר מהליכוד: \"מי שלא חי כאן שלא יבוא להחליף את השלטון בגלל הרק לא ביבי\"",
+          "url": "https://www.ynet.co.il/news/article/hj5uuyclgl",
           "source": "ynet",
           "source_label": "Ynet",
           "source_label_he": "Ynet",
-          "published_at": "2026-08-12T07:17:27+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/30/SJql8ygelx/SJql8ygelx_102_17_529_298_0_medium.jpg"
-        },
+          "published_at": "2026-08-12T12:38:02+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/SJeRI7wLNMl/SJeRI7wLNMl_0_54_1280_721_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "חברת בז\"ן דיווחה על רווח שיא של 263 מיליון דולר בעקבות המלחמות באיראן ובאוקראינה שהשפיעו על שוקי האנרגיה.",
+      "headlines": [
+        {
+          "id": "464fe5a606",
+          "title": "המלחמות באיראן ובאוקראינה ייצרו לבזן רווח שיא של 263 מיליון דולר",
+          "url": "https://www.themarker.com/markets/2026-08-12/ty-article/.premium/0000019f-f4aa-d929-afff-f6abed7e0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-12T06:59:02+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-f4bf-db94-a3df-fdbf71720001/3f/ad/43f346aa4d66aab2c2db59e46841/864720.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "כתבה עוסקת בשאלות אחריות משפטית כאשר סוכן בינה מלאכותית פועל בבנק וגורם לטעויות.",
+      "headlines": [
+        {
+          "id": "e723b76255",
+          "title": "סוכן ה-AI שלכם נכנס לבנק ועשה שטויות. מי ייקח אחריות?",
+          "url": "https://www.themarker.com/podcasts/2026-08-12/ty-article-podcast/0000019f-f5e4-d929-afff-f7efbd0e0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-12T12:24:12+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000198-51a5-dc50-a9bf-fdf7f8670000/34/fb/5f46ba884feebec3528bedcc6287/016361.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "גופים מוסדיים בוחנים כיצד להפיק רווח כלכלי ממשבר האקלים המחריף.",
+      "headlines": [
+        {
+          "id": "43b4e35d4f",
+          "title": "המוסדיים רואים את משבר האקלים — ומחפשים דרך להרוויח ממנו",
+          "url": "https://www.themarker.com/markets/2026-08-12/ty-article/.premium/0000019f-f425-d569-a5ff-f4651ded0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-12T05:17:59+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-f48e-d28e-a3df-f4de35490000/c2/92/b8fa7d9c40419e2e39aa2ea1850b/428752.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "נתוני הפסיכומטרי מראים ירידה חדה באיכות המורים החדשים, כאשר רבע מהם עוזבים את המקצוע תוך שלוש שנים.",
+      "headlines": [
+        {
+          "id": "c1d3a38cb4",
+          "title": "460 בפסיכומטרי: איכות המורים החדשים צנחה לשפל חסר תקדים - רבע מהם עוזבים תוך שלוש שנים",
+          "url": "https://www.themarker.com/news/education/2026-08-12/ty-article/.premium/0000019f-f58c-d569-a5ff-f5ecd74f0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-12T11:46:44+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-f5aa-d569-a5ff-f5ee01e20001/46/97/7cc747014b47963967bb0b77ed88/418067-2.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "הרב לשעבר יצחק יוסף הורה, על פי דיווחים, לתלמידיו שלא להצביע לש\"ס, על רקע מתיחות פוליטית-דתית.",
+      "headlines": [
         {
           "id": "8ed09eba7c",
           "title": "Former chief rabbi Yitzhak Yosef reportedly orders students not to vote for Shas",
@@ -141,107 +206,19 @@
       ]
     },
     {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "בז\"ן דיווחה על רווח שיא של 263 מיליון דולר בעקבות המלחמות באיראן ובאוקראינה, בעוד כתבה נפרדת עוסקת בקושי למצוא עובדים איכותיים גם בשכר גבוה יחסית.",
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "בירושלים הושק מבצע המציע ביקור משפחתי בשישה אתרים תמורת 160 שקל.",
       "headlines": [
         {
-          "id": "464fe5a606",
-          "title": "המלחמות באיראן ובאוקראינה ייצרו לבזן רווח שיא של 263 מיליון דולר",
-          "url": "https://www.themarker.com/markets/2026-08-12/ty-article/.premium/0000019f-f4aa-d929-afff-f6abed7e0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-12T06:59:02+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-f4bf-db94-a3df-fdbf71720001/3f/ad/43f346aa4d66aab2c2db59e46841/864720.jpg?width=108&height=81"
-        },
-        {
-          "id": "2d0682e346",
-          "title": "\"אנשים מחפשים עבודה קלה עם מקסימום שכר, אבל גם 80 שקל לשעה לא יהפכו עובד למעולה\"",
-          "url": "https://www.themarker.com/career/2026-08-12/ty-article-magazine/.premium/0000019f-eb19-da6c-a9df-eb9f2ee60002",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-12T03:00:21+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-f0ab-d310-a3df-f4abb15d0000/dd/39/412396dd4db28ea08203ee2f894b/061944.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "environment",
-      "label_he": "סביבה ואקלים",
-      "summary_he": "התחזית מדווחת על עומסי חום כבדים עד קיצוניים ברוב הארץ, עם סיכוי לגשם בסוף השבוע.",
-      "headlines": [
-        {
-          "id": "2d5c385499",
-          "title": "עומסי חום כבדים עד קיצוניים ברוב הארץ, סיכוי לגשם בסופ\"ש | התחזית",
-          "url": "https://www.ynet.co.il/news/article/a3ycj6i3k",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-12T02:29:59+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/08/SkDn00iXnZg/SkDn00iXnZg_0_187_3000_1689_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "חרדים מתכננים לחסום כבישים בעקבות מעצר משתמט, בטענה שהמפכ\"ל הפר הבטחה, וטלי גוטליב מתחה ביקורת חריפה על סרטון לעידוד גיוס חרדים ל-8200.",
-      "headlines": [
-        {
-          "id": "acd1f224e4",
-          "title": "חרדים יחסמו היום כבישים בגלל מעצר משתמט: \"המפכ\"ל הפר הבטחה\"",
-          "url": "https://www.ynet.co.il/news/article/hyndgkfifg",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-12T05:24:08+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/28/HkGvtLAreMe/HkGvtLAreMe_0_0_1280_721_0_medium.jpg"
-        },
-        {
-          "id": "01aa012244",
-          "title": "טלי גוטליב: \"הסרטון לעידוד גיוס של חרדים ל-8200 הזכיר לי את גרמניה הנאצית ואושוויץ\"",
-          "url": "https://news.walla.co.il/item/3860181",
+          "id": "27dcafc272",
+          "title": "בירושלים מציעים ביקור בשישה אתרים ב-160 שקל למשפחה",
+          "url": "https://travel.walla.co.il/item/3860208",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-08-12T08:55:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/0/7/3607189-46.jpeg"
-        }
-      ]
-    },
-    {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "כתבה סוקרת את השינויים בשיטת פינוי-בינוי ואת השפעתם על סוג הדירה שיקבלו הדיירים.",
-      "headlines": [
-        {
-          "id": "a42183d43a",
-          "title": "השיטה משתנה: איזו דירה תקבלו בפינוי־בינוי?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001552033",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-08-12T06:04:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1773919075/direct/3_teadcd.jpg"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "סטארט-אפ הדיפנס קובננט ערך ניסוי במרוקו לטיל השיוט החדש שפיתח.",
-      "headlines": [
-        {
-          "id": "3c45541ce8",
-          "title": "ניסוי במרוקו חשף את טיל השיוט החדש של סטארט־אפ הדיפנס קובננט",
-          "url": "https://www.themarker.com/technation/2026-08-12/ty-article/.highlight/0000019f-f4ad-d28e-a3df-f4fdd9880000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-12T07:20:20+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-f4be-db94-a3df-fdbf7a700001/c6/ba/a93b51a844e482ffae201b50a5df/zahov.jpg?width=108&height=81"
+          "published_at": "2026-08-12T10:39:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/7/4087397-46.png"
         }
       ]
     }
@@ -264,8 +241,38 @@
   "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Jewish and pro-Israel organizations have raised concerns about political developments. Firefighters have accused Israeli forces of deliberately starting wildfires in southern Lebanon. In the United States, the sister of pro-Israel Senator Lindsey Graham has advanced to a runoff in an election race.",
+      "summary_en": "Israeli-Palestinian tensions escalate amid multiple incidents. Israeli settlers are besieging Palestinian families in a West Bank village, while Israel has rejected a White House-backed peace plan. Environmental organizations in Lebanon accuse Israel of deliberately setting forest fires, raising questions about military conduct in the region.",
       "headlines": [
+        {
+          "id": "b86fbc4ab5",
+          "title": "Israeli settlers besieging Palestinian families in West Bank village",
+          "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-12T12:16:22+00:00",
+          "image_url": null
+        },
+        {
+          "id": "a8c0d3f234",
+          "title": "Why the White House can live with Israel rejecting its peace plan",
+          "url": "https://www.politico.com/news/2026/08/12/tolerating-netanyahu-two-step-why-white-house-can-live-with-israels-rejection-peace-plan-01033659",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-08-12T10:04:07+00:00",
+          "image_url": null
+        },
+        {
+          "id": "695e0262e9",
+          "title": "Live - 'Ecocide' in South Lebanon? Fire brigades and environmental organizations accuse Israel of deliberately setting forest fires",
+          "url": "https://www.demorgen.be/snelnieuws/live-ecocide-in-zuid-libanon-brandweer-en-milieuorganisaties-beschuldigen-israel-van-het-bewust-stichten-van-bosbranden~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-12T06:30:00+00:00",
+          "image_url": "https://image.demorgen.be/276647579/roi/320/320/691.1999999999999/529.2/afbeelding"
+        },
         {
           "id": "cb1a0b3f9e",
           "title": "Rabbis tell Mamdani: 'This is not going well'",
@@ -275,55 +282,15 @@
           "source_label_en": "JTA",
           "published_at": "2026-08-12T04:07:01+00:00",
           "image_url": "https://www.jta.org/wp-content/uploads/2026/08/mamdani-meeting.jpg"
-        },
-        {
-          "id": "93a2529732",
-          "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
-          "url": "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-12T04:00:20+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/768b59211b73d36e593c2a99cd68cfb928ef96fb/845_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=ddf235d1c2b6ba55b6b837218ad75930"
-        },
-        {
-          "id": "05dc872426",
-          "title": "Sister of pro-Israel stalwart Lindsey Graham wins runoff slot",
-          "url": "https://www.jta.org/2026/08/11/default/sister-of-pro-israel-stalwart-lindsey-graham-wins-runoff-slot",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-08-12T00:53:23+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/GettyImages-2288380658.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium's new gift tax (Pakjestaks) generated over 42 million euros in its first month of operation. An industrial incident at Agristo in Wielsbeke left seven people ill after a gas leak. Belgium will experience its largest solar eclipse since 1999 tonight. American senators have raised concerns about a golden ring that Donald Trump received from Antwerp diamond dealers, with critics describing it as \"cartoonish corruption.\"",
+      "summary_en": "Belgium faces extreme weather and notable scientific events. Temperatures are climbing above 33 degrees, with code orange heat alerts issued for multiple provinces over the coming days. Tonight brings Belgium's largest solar eclipse since 1999. In technology news, a hydrogen-powered vehicle has set a new speed record of 654 kilometers per hour.",
       "headlines": [
         {
-          "id": "e0216615b1",
-          "title": "Gift tax brings Belgian treasury over 42 million euros in first month",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/12/pakjestaks-webwinkel/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/12/053ae467-c665-43db-b307-46f7dd10f7b9.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "985c89d11a",
-          "title": "Seven people become ill from leaked gases at Agristo in Wielsbeke",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/12/agristo-zeven-personeel-onwel-wielsbeke/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/12/2a8820ed-7f9a-4058-8db1-321b150f8f7f.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
           "id": "2e99a9c5cb",
-          "title": "Tonight's largest solar eclipse in Belgium since 1999",
+          "title": "Tonight's solar eclipse: Belgium's largest since 1999—here's what you need to know",
           "url": "https://www.vrt.be/vrtnws/nl/2026/07/27/zonsverduistering-belgie-wat-je-moet-weten/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -332,23 +299,43 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2022/10/25/c91caa4d-544c-11ed-b07d-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "9e4026f4b3",
-          "title": "American senators question golden ring Trump received from Antwerp diamond dealers",
-          "url": "https://www.demorgen.be/snelnieuws/live-trump-bevestigt-vliegtuigwissel-in-turkije-wegens-dreiging-zus-overleden-senator-lindsey-graham-wint-voorronde-republikeinse-voorverkiezing-south-carolina~b13cc951/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-12T09:38:00+00:00",
-          "image_url": "https://image.demorgen.be/276152251/roi/320/320/3180/1640.4099999999999/afbeelding"
+          "id": "60000ce76a",
+          "title": "Heat and drought: Temperatures climbing to 33 degrees; code orange alerts issued for multiple provinces",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/temperaturen-klimmen-tot-33-graden-komende-dagen-code-oranje-in~1784180635133/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/12/63ed0a61-b415-4849-b085-153eb947181d.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "e4dce9812f",
+          "title": "'Speeding rocket' sets new speed record for hydrogen cars at 654 kilometers per hour",
+          "url": "https://www.hln.be/nieuws/rijdende-raket-vestigt-nieuw-snelheidsrecord-voor-waterstofautos-met-654-kilometer-per-uur~a918fda4/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-12T12:37:47+00:00",
+          "image_url": "https://images.hln.be/NDFiY2JlNTRjMzQ0MDc2OTQyM2UvZGlvLzI3NjY4MDQ5NC9maXQtd2lkdGgvNDAw/british-driver-andy-green-celebrates-with-jcb-chairman-anthony-bamford-and-the-jcb-hydromax-engineering-team-after-receiving-an-official-fia-land-speed-record-trophy-on-the-bonneville-salt-flats-near-wendover-utah-on-august-11-2026-photo-by-charles-mcclintock-wilson-nurphoto-via-getty-images"
         }
       ]
     },
     "europe": {
-      "summary_en": "Germany's investigation into a drone attack in Leipzig has uncovered new evidence potentially linking it to Russia, including a suspicious antenna and an individual of Ukrainian nationality. New European Union packaging regulations take effect today, leaving some small business owners uncertain about compliance. Tensions between Russia and Ukraine are escalating as Putin threatens retaliation if Western nations seize Russian vessels, while Ukraine pursues military operations against the Russian Black Sea Fleet. A major wildfire near Seville, Spain, has proven less severe than initially feared.",
+      "summary_en": "Europe faces mounting crises across energy, security, and climate. Romania's last operating nuclear reactor is shutting down Thursday due to drought, creating an emergency for the country's energy supply. Germany reports new evidence pointing to Russian involvement in a drone attack on Leipzig. The European Union is implementing new packaging rules today amid business concerns, and the UK is battling an unprecedented heatwave, with authorities considering bans on disposable barbecues to prevent wildfires.",
       "headlines": [
         {
+          "id": "5395a32f49",
+          "title": "Romania's last nuclear reactor to shut down Thursday due to drought: energy supply emergency",
+          "url": "https://www.hln.be/weernieuws/laatste-kernreactor-in-roemenie-donderdag-stil-door-droogte-noodtoestand-voor-energievoorziening~afce368d/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-12T12:58:00+00:00",
+          "image_url": "https://images.hln.be/MTUwN2E0NzNiYjVkZjBiZWRmOTgvZGlvLzI3NTg3MDE3MS9maXQtd2lkdGgvNDAw/brand-fontainebleau"
+        },
+        {
           "id": "ab55770f84",
-          "title": "Suspicious antenna and Ukrainian with canned goods: new evidence for Russian link in Leipzig drone attack",
+          "title": "Germany: New evidence suggests Russian involvement in Leipzig drone attack, including suspicious antenna and suspicious items",
           "url": "https://www.vrt.be/vrtnws/nl/2026/08/12/aanval-luchthaven-duitsland-leipzig-steeds-meer-bewijs-voor-rusl/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -357,74 +344,34 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2026/08/12/649c925d-0382-42be-877f-2df97d3dae95.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "6bbf548ddc",
-          "title": "New EU packaging rules come into force today",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/11/ppwr-treedt-in-voege-wat-is-het/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/12/614158ec-1292-4cb6-947a-0ed2d39aca14.png?width=200&height=125&q=80&blur=90"
+          "id": "71ae979d6a",
+          "title": "New EU packaging rules take effect today, but businesses still have many questions",
+          "url": "https://www.demorgen.be/nieuws/nieuwe-eu-regels-voor-verpakkingen-gelden-vanaf-vandaag-maar-ondernemers-zitten-nog-met-veel-vragen~b5bf6bdf/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-12T05:53:00+00:00",
+          "image_url": "https://image.demorgen.be/209788162/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "d8232188a3",
-          "title": "Putin: 'Russia will retaliate if West seizes Russian ships' - Ukraine attacks last major Russian Black Sea Fleet stronghold",
-          "url": "https://www.hln.be/buitenland/poetin-rusland-zal-terugslaan-als-westen-russische-schepen-in-beslag-neemt-oekraine-valt-laatste-grote-bolwerk-russische-zwarte-zeevloot-aan~a93df6b5/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-12T08:35:00+00:00",
-          "image_url": "https://images.hln.be/NGU3OGRmMGIzMzA4MTRhMjE4MDgvZGlvLzI3NjY3NDcyOC9maXQtd2lkdGgvNDAw/russian-president-vladimir-putin-visits-the-varyag-missile-cruiser-of-the-pacific-fleet-to-watch-a-military-exercise-near-yuzhno-sakhalinsk-on-sakhalin-island-russia-wednesday-aug-12-2026-gavriil-grigorov-sputnik-kremlin-pool-photo-via-ap"
-        },
-        {
-          "id": "107f51a513",
-          "title": "Major wildfire near Seville significantly less severe",
-          "url": "https://www.hln.be/weernieuws/grote-natuurbrand-bij-sevilla-aanzienlijk-minder-hevig~afce368d/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-12T08:33:00+00:00",
-          "image_url": "https://images.hln.be/MTUwN2E0NzNiYjVkZjBiZWRmOTgvZGlvLzI3NTg3MDE3MS9maXQtd2lkdGgvNDAw/brand-fontainebleau"
+          "id": "9583aaf09a",
+          "title": "UK heatwave live: Burnham considers ban on disposable barbecues to prevent wildfires",
+          "url": "https://www.theguardian.com/environment/live/2026/aug/12/heatwave-extreme-heat-cobra-uk-wildfires-drought-latest-news-updates",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-12T12:39:42+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/5150659ee52117008e96e7d35a4cde1ee5287088/623_0_4635_3708/master/4635.jpg?width=700&quality=85&auto=format&fit=max&s=a69bcb3b241028a7a647465c8b037a17"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Russia has released an American veteran who had been imprisoned for four years, though he is in severely deteriorated health. Wisconsin's Democratic primary elections show setbacks for the party's progressive wing, with David Crowley defeating the more left-leaning candidate, Francesca Hong, in the gubernatorial race. A devastating earthquake in Colombia has killed over 250 people, with rescue operations still under way. Former U.S. President Donald Trump confirmed that he switched planes in Turkey, stating he follows Secret Service protocols.",
+      "summary_en": "Devastating natural disasters strike multiple continents. A powerful earthquake in Colombia has killed more than 250 people, prompting the government to declare three days of national mourning. In Zimbabwe, a ferry capsized on Lake Kariba, killing at least 44 people. Global shipping faces economic pressure as Panama Canal fees have surged due to the Iran conflict and El Niño weather effects.",
       "headlines": [
         {
-          "id": "754c6528d6",
-          "title": "Russia releases American veteran after four years in prison in severely deteriorated health",
-          "url": "https://www.demorgen.be/oorlog-in-oekraine/rusland-laat-amerikaanse-veteraan-vrij-na-vier-jaar-cel-in-sterk-verslechterde-gezondheid~b72a3e76/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-12T06:30:56+00:00",
-          "image_url": "https://image.demorgen.be/276655878/feature-crop/320/320/robert-gilman-in-een-russische-rechtbank-in-april"
-        },
-        {
-          "id": "7f9562a36c",
-          "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
-          "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-08-12T09:55:40+00:00",
-          "image_url": null
-        },
-        {
-          "id": "92e3c32fac",
-          "title": "David Crowley defeats Francesca Hong to win Democratic primary for Wisconsin governor",
-          "url": "https://www.theguardian.com/us-news/2026/aug/12/david-crowley-defeats-francesca-hong-to-win-democratic-primary-for-wisconsin-governor",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-12T09:12:29+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/b5af928443ea9378ea68235b0408c676108e3dcd/720_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=dc3efbbd5fe61c867a16dcbc415f4cd7"
-        },
-        {
-          "id": "b6108c97b9",
-          "title": "Colombia earthquake: More than 250 dead, rescue forces save woman and baby alive from debris",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/al-meer-dan-250-doden-verenigde-krachten-redden-vrouw-en-baby-l~1786374330952/",
+          "id": "cee7ce6883",
+          "title": "Devastating earthquake in Colombia kills over 250; government declares three days of national mourning",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/al-meer-dan-250-doden-regering-kondigt-3-dagen-van-nationale-ro~1786374330952/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
@@ -432,14 +379,24 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2026/08/12/d7f68856-b1d1-42ce-9083-e7d0591098b3.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "c2c198eecb",
-          "title": "Trump confirms plane switch in Turkey: 'I do what the Secret Service says'",
-          "url": "https://www.hln.be/buitenland/trump-bevestigt-vliegtuigwissel-in-turkije-ik-doe-wat-de-secret-service-zegt~aad574c0/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-12T09:15:00+00:00",
-          "image_url": "https://images.hln.be/NjlkMjdlM2MwMmQzNzEzZmQzOWMvZGlvLzI3NjY2OTMzMC9maXQtd2lkdGgvNDAw/joint-base-andrews-maryland-august-11-u-s-president-donald-trump-speaks-to-reporters-after-stepping-off-air-force-one-on-august-11-2026-in-joint-base-andrews-maryland-trump-was-asked-about-the-secret-decoy-flight-he-took-out-of-turkey-in-a-military-aircraft-the-president-was-returning-to-washington-dc-after-traveling-to-ohio-to-attend-the-2026-patriot-games-anna-moneymaker-getty-images-afp-photo-by-anna-moneymaker-getty-images-north-america-getty-images-via-afp"
+          "id": "d0a2a0e7e4",
+          "title": "Ferry capsizes on Lake Kariba in Zimbabwe; at least 44 dead",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/12/doden-gekapseisde-veerboot-zimbabwe/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2022/11/28/1aa52e92-6f46-11ed-b07d-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "53a5f62de5",
+          "title": "Panama canal fees soar due to Iran war and El Niño as ship 'pays $4m to jump queue'",
+          "url": "https://www.theguardian.com/business/2026/aug/12/panama-canal-fees-iran-war-el-nino-ship-jump-queue",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-12T12:26:48+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/a8cd351277cff5701058900b7fd425d7ef6802d1/563_0_6658_5327/master/6658.jpg?width=700&quality=85&auto=format&fit=max&s=5363b36cb0d14dbb42dce74c30a918a9"
         }
       ]
     },
