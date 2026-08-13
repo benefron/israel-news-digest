@@ -1,97 +1,227 @@
 {
-  "generated_at": "2026-08-13T07:15:54.918032+00:00",
-  "date": "2026-08-12",
-  "degraded": true,
+  "generated_at": "2026-08-13T10:12:02.514401+00:00",
+  "date": "2026-08-13",
+  "degraded": false,
   "top_general": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "summary_he": "צו איסור פרסום הוטל על חקירת היעלמותן של מלי וליאל יהלומי בווינה, כשהמשפחה מכחישה חלק מהחשדות. במקביל נמשכת סערה פוליטית: בג\"ץ הבליט בפסיקתו את מחדלי השר לוין בפרשת הפצ\"רית, וסקר חדש מראה כי הקמת רשימה משותפת עשויה להעלות את המפלגות הערביות ל-14 מנדטים. בכחול לבן פרצה מחלוקת סביב הקמפיין נגד נתניהו.",
     "headlines": [
       {
-        "id": "e32894b436",
-        "title": "Eyeing Israel’s near-wins, Eurovision to bar conflict-hit countries from hosting contest",
-        "url": "https://www.timesofisrael.com/eyeing-israels-near-wins-eurovision-to-bar-conflict-hit-countries-from-hosting-contest/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-08-12T17:18:44+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2019/05/Untitled-24-1-1024x640.jpg"
+        "id": "d51d7e4026",
+        "title": "תעלומת היעלמות מלי וליאל בווינה: בצל החשדות החדשים - צו איסור פרסום הוצא בישראל על חקירת הפרשה",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-da6ddf3bf49ff91026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-13T04:17:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/11/amliliel11080111_autoOrient_i.jpg"
       },
       {
-        "id": "f0b1bcbb6c",
-        "title": "בעקבות מצור המתנחלים: הרמטכ\"ל הנחה לתגבר את הגזרה בגדוד חי\"ר נוסף",
-        "url": "https://news.walla.co.il/item/3860342",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-12T18:22:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/7/4087391-46.png"
-      },
-      {
-        "id": "25be0ac068",
-        "title": "הפועל ת\"א ספגה, אבל עדיין קרובה לפלייאוף הקונפרנס ליג",
-        "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21185262",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "2ae615ae1a",
-        "title": "סגירת מעגל מרגשת: אביו של גיבור מיגונית המוות יכתוב את כתובתם של שורד השבי ובת זוגו",
-        "url": "https://news.walla.co.il/item/3860357",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-12T20:02:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/7/4087641-46.png"
-      },
-      {
-        "id": "fadc9d75c0",
-        "title": "עמית סגל על ראש הממשלה הבא: ''פחות מ-50 אחוז סיכוי''",
-        "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21185878",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "b34b8b5b2b",
-        "title": "המורשת של רני תועבר לדור הבא: מכינה קדם משטרתית תוקם במתקן חולות של שב\"ס",
-        "url": "https://news.walla.co.il/item/3860362",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-12T20:27:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/0/6/4006084-46.jpeg"
-      },
-      {
-        "id": "0a2e38ec8c",
-        "title": "חוקר שטען שישראל מבצעת רצח עם בעזה פוצה לאחר שאיבד את משרתו באוניברסיטה בארה\"ב",
-        "url": "https://www.haaretz.co.il/news/world/america/2026-08-12/ty-article/.premium/0000019f-f0a2-d456-a99f-f4ea2b2a0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-12T07:37:45+00:00",
-        "image_url": null
-      },
-      {
-        "id": "2935f1e868",
-        "title": "צה\"ל תקף בעזה יום שני ברציפות, בארה\"ב נותנים \"מרחב\" לנתניהו: \"יש בחירות\"",
-        "url": "https://www.ynet.co.il/news/article/rkfn0yq8fg",
+        "id": "e02d3aa51f",
+        "title": "צו איסור פרסום הוטל על חקירת הנעדרות בווינה. המשפחה: \"הן לא משכו כסף\"",
+        "url": "https://www.ynet.co.il/news/article/hydevpqigg",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-08-12T15:25:51+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/04/BJGAmISD1Wl/BJGAmISD1Wl_0_193_3000_1689_0_medium.jpg"
+        "published_at": "2026-08-13T04:21:53+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/12/SyQhyOlqUMe/SyQhyOlqUMe_0_240_1280_721_0_medium.jpg"
+      },
+      {
+        "id": "c0695f79cd",
+        "title": "צו איסור פרסום הוטל על כל פרטי חקירת היעלמותן של מלי וליאל יהלומי בווינה",
+        "url": "https://www.haaretz.co.il/news/law/2026-08-13/ty-article/.premium/0000019f-f960-db94-a3df-fde3b9070000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-13T04:35:05+00:00",
+        "image_url": null
+      },
+      {
+        "id": "85d21b19d9",
+        "title": "הבלגן בכחול לבן, והח\"כ שיצא נגד הקמפיין: \"לא לשבת עם נתניהו. קודם להזיז אותו\"",
+        "url": "https://www.ynet.co.il/news/article/bkatlwiugx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-13T09:17:15+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/02/BJxeW000w0IZg/BJxeW000w0IZg_0_109_1280_721_0_medium.jpg"
+      },
+      {
+        "id": "fa8890274f",
+        "title": "בפסיקתו על חקירת הפצ\"רית, בג\"ץ הבליט את חומרת מחדליו של לוין",
+        "url": "https://www.haaretz.co.il/news/law/2026-08-13/ty-article/.premium/0000019f-f799-d101-a5bf-ff99b1530000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-13T02:57:22+00:00",
+        "image_url": null
+      },
+      {
+        "id": "d85187e677",
+        "title": "סקר חדשות 13: הקמת הרשימה המשותפת תעלה את המפלגות הערביות ל־14 מנדטים",
+        "url": "https://www.haaretz.co.il/news/elections/2026-08-12/ty-article/.premium/0000019f-f730-d101-a5bf-ff30d95d0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-12T19:17:45+00:00",
+        "image_url": null
       }
     ]
   },
   "security_war": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
-    "headlines": []
+    "summary_he": "קוריאה הצפונית שיגרה טיל נוסף ואיימה באיום קיומי על יריביה. בגזרת הצפון הציב צה\"ל גדוד נוסף באזור הכפר קוסרה בעקבות אירועים חמורים, ובד בבד נערך תרגיל ביו\"ש להיערכות לסיבוב נוסף מול חיזבאללה. בעזה כוח צנחנים ירה במחבל שחצה את הקו הצהוב, ומתפרסמים פרטים חדשים על 50 מחבלים שזוהו בלילה ללא תקיפה. במקביל מדווח על אנשי צוות שניסו להתאבד מרוב עומס בנושאת המטוסים האמריקנית לינקולן.",
+    "headlines": [
+      {
+        "id": "40d5cffa36",
+        "title": "קוריאה הצפונית שוב משגרת טיל ומאיימת: \"יכולת שתהפוך את הישרדות האויב לבלתי אפשרית\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-cf2cadf59c5ff91027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-12T16:10:00+00:00",
+        "image_url": "https://img.mako.co.il/2025/05/25/KIMUSH_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "bea07a5aaf",
+        "title": "צה\"ל הציב גדוד נוסף באזור הכפר קוסרה: \"יש למנוע את המשך האירועים החמורים\"",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-12/ty-article/.premium/0000019f-f6a2-d28e-a3df-f6f2344c0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-12T16:10:40+00:00",
+        "image_url": null
+      },
+      {
+        "id": "50826179b8",
+        "title": "\"מתכוננים למלחמה\": התרגיל ביו\"ש שהכין את הנח\"ל לעוד סיבוב מול חיזבאללה",
+        "url": "https://www.ynet.co.il/news/article/hj00gg5tlge",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-13T06:12:31+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/12/B1Nkv0FYIzx/B1Nkv0FYIzx_0_86_1280_721_0_medium.jpg"
+      },
+      {
+        "id": "bfa3f05a0a",
+        "title": "פרטים חדשים: 50 מחבלים זוהו ב-3:00 בלילה, צה\"ל סירב לתקוף",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001552207",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-08-13T09:22:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1737533343/direct/AP24257812235580_ftpx7k.jpg"
+      },
+      {
+        "id": "f11990e1f1",
+        "title": "כוח צנחנים ירה במחבל שחצה את הקו הצהוב בדרום רצועת עזה",
+        "url": "https://news.walla.co.il/item/3860477",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-08-13T11:06:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/8/8/3988435-46.jpg"
+      },
+      {
+        "id": "7e59692a82",
+        "title": "קורסים תחת העומס: אנשי צוות ניסו להתאבד בנושאת המטוסים לינקולן",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-fd15f6451f9ff91027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-13T07:21:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/01/26/USSLNCLN_autoOrient_i.jpg"
+      }
+    ]
   },
-  "subjects": [],
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "הממונה על חקירת מקורבי בן גביר במח\"ש ביקשה לעבור תפקיד, בעיצומה של טלטלה בצמרת הרשות. במקביל, נחשף כי רוב מצביעי תראבין בחרו בליכוד, אך מביעים תסכול מהשנה האחרונה.",
+      "headlines": [
+        {
+          "id": "6fd2431379",
+          "title": "טלטלה בצמרת מח\"ש: הממונה על חקירת מקורבי בן גביר ביקשה לעבור תפקיד",
+          "url": "https://www.ynet.co.il/news/article/skxtgjjlfl",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-13T06:30:41+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/13/BygQ6ki8fe/BygQ6ki8fe_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "822fcad0cc",
+          "title": "רוב מצביעי תראבין בחרו בליכוד. אחרי השנה האחרונה הם מבהירים: לא עוד",
+          "url": "https://www.haaretz.co.il/news/elections/2026-08-13/ty-article-magazine/.premium/0000019f-f126-d569-a5ff-f166a6430000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-13T02:57:53+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "יבואני הרכב שיצאו להשקעות בנדל\"ן חזרו עם הפסדים, ובספרד חילקו מיליוני זוגות משקפיים לנופשים לקראת אירוע שמימי נדיר, כשהמחירים לנופשים מזנקים.",
+      "headlines": [
+        {
+          "id": "e2c984d7e7",
+          "title": "יבואני הרכב יצאו לסיבוב השקעות בנדל\"ן — וחזרו עם הפסדים",
+          "url": "https://www.themarker.com/markets/2026-08-13/ty-article/.highlight/0000019f-f13b-d28e-a3df-f17bc78d0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-13T03:15:11+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-f5ce-d28e-a3df-f5dec6180001/0a/69/ecf422804f1daa67959630ed354c/ashirim.jpeg?width=108&height=81"
+        },
+        {
+          "id": "a39301e941",
+          "title": "בספרד חילקו מיליוני זוגות משקפיים, המחירים לנופשים מזנקים | הכנות באירופה לקראת \"אירוע שמימי\" נדיר",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-90e9c673746ff91026.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-08-12T16:25:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/08/12/likui120811_re_autoOrient_i.jpg"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "בעולם ההייטק, וויקס מנסה לחקות את מהלכי מאנדיי מול איום בינה מלאכותית על מודל העסקים הוותיק שלה.",
+      "headlines": [
+        {
+          "id": "32f0a363f2",
+          "title": "וויקס עושה מאנדיי: כשה-AI מאיים על העסק הוותיק, כולם אורזים מחדש מודלים",
+          "url": "https://www.themarker.com/markets/2026-08-13/ty-article/.premium/0000019f-f5d9-d101-a5bf-ffd9294e0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-13T03:10:50+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-f642-d569-a5ff-f666e40d0001/37/a9/6d24cad348949354a6be882c60b3/wix-1-1-jpg.jpeg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "חברת אדלטק נמצאת במגעים ראשוניים עם ג'נריישן לרכישת מחצית מתחנת הכוח חגית מזרח בעסקה של מאות מיליוני שקלים.",
+      "headlines": [
+        {
+          "id": "eb440e1b7d",
+          "title": "אדלטק במגעים ראשוניים עם ג'נריישן לרכישת 50% מתחנת הכוח חגית מזרח ב-400-300 מיליון שקל",
+          "url": "https://www.themarker.com/markets/2026-08-13/ty-article/0000019f-f96e-d101-a5bf-fb7e646b0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-13T04:51:52+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000018a-422f-dbb1-a1ff-423fd73a0000/a7/9f/4b1408cc4f90ba99ae40d5954990/53312158.JPG?width=108&height=81"
+        }
+      ]
+    }
+  ],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -107,5 +237,168 @@
     "reshet13",
     "i24"
   ],
-  "sources_failed": []
+  "sources_failed": [],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israeli troops are being deployed to a West Bank village currently besieged by Israeli settlers. Israeli militants are simultaneously surrounding Palestinian families in their homes across the West Bank. Additionally, Israeli forces have been accused by firefighters of deliberately starting wildfires in southern Lebanon.",
+      "headlines": [
+        {
+          "id": "09443cca3d",
+          "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+          "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-13T08:12:53+00:00",
+          "image_url": null
+        },
+        {
+          "id": "f6ff8e5d9d",
+          "title": "Israeli militants besiege two Palestinian families in their West Bank homes",
+          "url": "https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-13T06:45:27+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/f1244b4345a3512e56d767dc57d3409840717735/571_0_6829_5464/master/6829.jpg?width=700&quality=85&auto=format&fit=max&s=c2699e8b8465626a88ac1693d9932453"
+        },
+        {
+          "id": "93a2529732",
+          "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
+          "url": "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-12T16:17:55+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/768b59211b73d36e593c2a99cd68cfb928ef96fb/845_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=ddf235d1c2b6ba55b6b837218ad75930"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium is experiencing a severe heatwave with temperatures reaching 37–38 degrees Celsius, prompting orange weather alerts across Antwerp, Limburg, Flemish Brabant, Walloon Brabant, and Brussels. Nearly twice as many swimming bans have been imposed compared to the previous year due to dangerous blue algae blooms. A fatal fire erupted at a camping site in Grobbendonk, with prosecutors not ruling out foul play. Separately, a 19-year-old was struck and killed by a train while crossing a closed level crossing at Wijgmaal station.",
+      "headlines": [
+        {
+          "id": "1ff4de11f5",
+          "title": "Heat and drought liveblog: highs of 35 degrees today, tomorrow even warmer with orange alert for Antwerp, Limburg, Flemish Brabant, Walloon Brabant and Brussels",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/vandaag-maxima-tot-35-graden-morgen-nog-warmer-code-oranje-voo~1784180635133/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/13/3f45f0fb-8356-4570-97bf-d5a144ffd9cb.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "8c38bb9818",
+          "title": "Nearly double the swimming bans compared to last year: 'perfect cocktail' for blue algae",
+          "url": "https://www.hln.be/binnenland/al-bijna-dubbel-zoveel-zwemverboden-als-vorig-jaar-perfecte-cocktail-voor-blauwalg~a0247a64/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-13T08:56:09+00:00",
+          "image_url": "https://images.hln.be/YzA2ZGIxZjdkNjY2NjAyMTkxZjgvZGlvLzI3NjcwNzk3My9maXQtd2lkdGgvNDAw/de-langerei-zwemmers-verwijderen-waterplanten-in-de-damse-vaart-om-beter-te-kunnen-zwemmen-inzet-blauwalg-slaat-toe-voorzichtig-aan-het-water"
+        },
+        {
+          "id": "2561bfab90",
+          "title": "Fatal victim in severe fire at camping site in Grobbendonk, prosecutor does not rule out foul play",
+          "url": "https://www.demorgen.be/snelnieuws/dodelijk-slachtoffer-bij-zware-brand-op-camping-in-grobbendonk-parket-sluit-kwaad-opzet-niet-uit~bd067eb0/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-13T09:13:00+00:00",
+          "image_url": "https://image.demorgen.be/276704038/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "b6a30f9fe3",
+          "title": "19-year-old dies after crossing closed level crossing at Wijgmaal station: 'struck by train from the other direction'",
+          "url": "https://www.hln.be/leuven/19-jarige-sterft-nadat-ze-gesloten-overweg-aan-station-van-wijgmaal-oversteekt-ze-werd-gegrepen-door-een-trein-uit-de-andere-richting~a439ee22/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-13T09:22:00+00:00",
+          "image_url": "https://images.hln.be/MGU5NDVkOGNlODA5NWQ3ZDg2MzMvZGlvLzIyNjM3Mzg5Mi9maXQtd2lkdGgvNDAw/station-wijgmaal-overweg"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "The 2026 Eurovision Song Contest will be hosted in Burgas, a seaside city in Bulgaria. A solar eclipse swept across Europe, with observers in multiple countries experiencing the astronomical event from distinctive viewing angles, including a complete eclipse in Iceland. Two Belgian hikers who disappeared 34 years ago have been discovered deceased in the Swiss Alps. The UK's Metropolitan Police is facing renewed criticism for its inability to reform, according to the mother of the murdered sisters in the Simon Levy case.",
+      "headlines": [
+        {
+          "id": "caa1ea1d09",
+          "title": "Eurovision Song Festival to be held next year in Bulgarian seaside city Burgas",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/13/gaststad-songfestival/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/13/f1f4e015-8a6f-4b2b-bff1-94ca793d9b06.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "c66b28b804",
+          "title": "Solar eclipse 2026: eclipse flight offered a special viewing perspective",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/12/video-eclipsvlucht/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/13/15012891-4a10-419d-ae01-0044c6646eb1.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "c55e0d5b41",
+          "title": "Bodies of two missing Belgian hikers found in Swiss Alps after 34 years",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/12/zwitserse-alpen-lichaam-teruggevonden-na-34-jaar/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/12/34246c9d-df60-4c40-b86b-ff30e3503edb.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "7aef9e4e47",
+          "title": "Met police incapable of change, says mother of murdered sisters after Simon Levy case",
+          "url": "https://www.theguardian.com/uk-news/2026/aug/13/met-police-mina-smallman-simon-levy-case",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-13T08:31:45+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/05ed9d4f026cbfcbdccd7335964e148f38b631fa/198_0_3331_2664/master/3331.jpg?width=700&quality=85&auto=format&fit=max&s=31e6104a4a7923f69680ba7727134708"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "A former Catholic bishop in Australia was convicted of hosting alcohol-fueled parties to sexually abuse Aboriginal men. Karoline Leavitt, a prominent Trump loyalist and defender, is departing from the administration. Jewish businessmen Joshua Kushner and Bob Iger have purchased the Los Angeles Lakers for a record $12.5 billion.",
+      "headlines": [
+        {
+          "id": "eff6528ac7",
+          "title": "Former Catholic bishop accused of hosting alcohol-fuelled parties to sexually abuse Aboriginal men found guilty",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/13/former-catholic-bishop-accused-of-hosting-alcohol-fuelled-parties-to-sexually-abuse-aboriginal-men-found-guilty-ntwnfb",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-13T08:59:19+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/33f43eddac2f0451c6ca5ab4d168a5c1263ee0bc/92_0_2947_2357/master/2947.jpg?width=700&quality=85&auto=format&fit=max&s=72c2a1518dc9015002477fd0286d9fb6"
+        },
+        {
+          "id": "f49ff2fa76",
+          "title": "She called journalists 'left-wing clowns' and attracted Orbán's attention: now that Karoline Leavitt departs, Trump loses his most loyal defender",
+          "url": "https://www.demorgen.be/nieuws/ze-maakte-journalisten-uit-voor-linkse-prutser-en-trok-de-aandacht-van-orban-nu-karoline-leavitt-vertrekt-verliest-trump-zijn-loyaalste-verdediger~baedf2e1/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-13T08:59:00+00:00",
+          "image_url": "https://image.demorgen.be/276694246/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "50a2ac4935",
+          "title": "Jewish businessmen Joshua Kushner, Bob Iger buy Los Angeles Lakers for record $12.5b",
+          "url": "https://www.jta.org/2026/08/12/sports/jewish-businessmen-joshua-kushner-bob-iger-buy-los-angeles-lakers-for-record-12-5b",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-08-12T20:31:57+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/GettyImages-2290205536.jpg"
+        }
+      ]
+    },
+    "degraded": false
+  }
 }
