@@ -39,6 +39,7 @@ def verify_summaries(digest: dict) -> dict:
             claude_model=config.VERIFY_MODEL,
             claude_max_budget=config.VERIFY_MAX_BUDGET_USD,
             copilot_fallback_model=config.COPILOT_FALLBACK_VERIFY_MODEL,
+            claude_effort=config.VERIFY_EFFORT,
         )
 
         digest["top_general"]["summary_he"] = structured["top_general_summary"]
@@ -82,6 +83,7 @@ def verify_world_summaries(world: dict) -> dict:
             claude_model=config.VERIFY_MODEL,
             claude_max_budget=config.VERIFY_MAX_BUDGET_USD,
             copilot_fallback_model=config.COPILOT_FALLBACK_VERIFY_MODEL,
+            claude_effort=config.VERIFY_EFFORT,
         )
         world["israel_jewish"]["summary_en"] = structured["israel_jewish_summary"]
         world["belgium"]["summary_en"]       = structured["belgium_summary"]

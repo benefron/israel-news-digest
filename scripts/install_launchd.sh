@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Installs the daily LaunchAgent: runs automation/run_daily.py at 07:00,
-# 12:00, 15:00, and 19:00, catching up on the next wake if the Mac was
+# 12:00, and 15:45, catching up on the next wake if the Mac was
 # asleep/off at any of those times (see the .plist.template for why
 # RunAtLoad is deliberately not used).
 set -euo pipefail
@@ -61,5 +61,5 @@ echo "== done =="
 launchctl list | grep "$LABEL" || echo "(not showing in launchctl list yet — it only appears once scheduled to run)"
 echo "Installed: $DEST"
 echo "Logs: $REPO_ROOT/automation/logs/launchd.{out,err}.log"
-echo "Scheduled: 07:00 / 10:00 / 12:00 / 15:00 / 17:00 / 19:00 / 21:00 daily (or next wake if missed)"
+echo "Scheduled: 07:00 / 12:00 / 15:45 daily (or next wake if missed)"
 echo "Manual test run: $REPO_ROOT/scripts/run_now.sh"

@@ -49,6 +49,9 @@ SUMMARIZE_MAX_BUDGET_USD = "0.50"
 # this fails.
 VERIFY_MODEL = "claude-sonnet-5"
 VERIFY_MAX_BUDGET_USD = "0.30"
+# Verify is a light proofreading pass, not analysis — low effort keeps the
+# Sonnet call cheap and fast without changing what it checks.
+VERIFY_EFFORT = "low"
 
 # When the Claude CLI is unavailable (credit exhausted, auth failure, timeout),
 # fall back to the GitHub Copilot chat completions API. Auth uses `gh auth token`
@@ -85,11 +88,11 @@ MAX_HEADLINES_TO_LLM = 150
 # pool so raw feed volume can't crowd out other sources.
 MAX_HEADLINES_PER_SOURCE = 20
 
-# Runs up to 7x/day (07:00, 10:00, 12:00, 15:00, 17:00, 19:00, 21:00 — see
-# scripts/install_launchd.sh), each slot catching up on next wake if the Mac
-# was asleep/off. The smallest gap between consecutive slots is 2h (e.g. 10→12);
-# 1.5h keeps legitimate slots from blocking each other while still absorbing
-# near-duplicate wake-catchup fires.
+# Runs up to 3x/day (07:00, 12:00, 15:45 — see scripts/install_launchd.sh),
+# each slot catching up on next wake if the Mac was asleep/off. The smallest
+# gap between consecutive slots is 3h45m (12:00→15:45); 1.5h keeps legitimate
+# slots from blocking each other while still absorbing near-duplicate
+# wake-catchup fires.
 MIN_HOURS_BETWEEN_RUNS = 1.5
 
 REQUEST_HEADERS = {

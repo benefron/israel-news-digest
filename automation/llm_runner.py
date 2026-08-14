@@ -55,20 +55,21 @@ def _try_claude(
     schema: dict,
     model: str,
     max_budget: str,
+    effort: str | None = None,
 ) -> dict:
     """Runs Claude CLI and returns the structured output dict. Raises on any failure."""
-    result = subprocess.run(
-        [
-            "claude", "-p", prompt,
-            "--model", model,
-            "--safe-mode",
-            "--allowedTools", "Read",
-            "--output-format", "json",
-            "--json-schema", json.dumps(schema),
-            "--max-budget-usd", max_budget,
-        ],
-        capture_output=True, text=True, timeout=180,
-    )
+    args = [
+        "claude", "-p", prompt,
+        "--model", model,
+        "--safe-mode",
+        "--allowedTools", "Read",
+        "--output-format", "json",
+        "--json-schema", json.dumps(schema),
+        "--max-budget-usd", max_budget,
+    ]
+    if effort:
+        args += ["--effort", effort]
+    result = subprocess.run(args, capture_output=True, text=True, timeout=180)
     if result.returncode != 0:
         raise RuntimeError(f"claude exited {result.returncode}: {result.stderr[:500]}")
     envelope = json.loads(result.stdout)
@@ -112,6 +113,7 @@ def run_with_schema(
     claude_model: str,
     claude_max_budget: str,
     copilot_fallback_model: str,
+    claude_effort: str | None = None,
 ) -> dict:
     """Returns the structured output dict. Tries Claude CLI first, then Copilot API.
 
@@ -126,11 +128,12 @@ def run_with_schema(
         claude_model: Model ID for the Claude CLI call.
         claude_max_budget: Budget cap string for the Claude CLI call.
         copilot_fallback_model: Model ID for the Copilot API fallback.
+        claude_effort: Optional --effort level (low/medium/high/xhigh/max) for the Claude CLI call.
     """
     prompt = f"{instructions}\n\nקרא את הקובץ הזה: {input_path}"
 
     try:
-        structured = _try_claude(prompt, schema, claude_model, claude_max_budget)
+        structured = _try_claude(prompt, schema, claude_model, claude_max_budget, claude_effort)
         log.info("llm_runner: used Claude CLI (%s)", claude_model)
         return structured
     except Exception as claude_exc:

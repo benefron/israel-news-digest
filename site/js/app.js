@@ -112,19 +112,45 @@
   }
 
   // ── Card builders ──────────────────────────────────────────────────────────
-  // Feature the first headline that has an image as the hero, so image-less
-  // sources (e.g. Haaretz) don't leave the card without a picture. Falls back
-  // to the top-ranked headline when none in the card has an image.
-  function splitHero(headlines) {
-    const idx = headlines.findIndex((h) => h && h.image_url);
-    const heroIdx = idx > 0 ? idx : 0;
-    return [headlines[heroIdx], headlines.filter((_, i) => i !== heroIdx)];
+  // Track the images and articles already featured as heroes so no photo (or
+  // article) is showcased twice across sections. Reset once per render().
+  function newUsedTracker() {
+    return { images: new Set(), ids: new Set() };
   }
 
-  function alwaysOnCard({ title, cssClass, data, summaryField }) {
+  // Pick the hero for a card, preferring a headline whose picture hasn't been
+  // featured elsewhere yet, so each section highlights a different article and
+  // the reader never sees the same photo twice. Falls back to any unused
+  // article, then to the top-ranked headline. When the chosen hero's picture is
+  // already used elsewhere, it is shown without the image rather than repeating
+  // the photo. `used` accumulates across sections in render order.
+  function pickHero(headlines, used) {
+    // Prefer a fresh photo attached to a not-yet-featured article.
+    let idx = headlines.findIndex(
+      (h) => h && h.image_url && !used.images.has(h.image_url) && !used.ids.has(h.id)
+    );
+    // Otherwise any article not yet featured as a hero.
+    if (idx === -1) idx = headlines.findIndex((h) => h && !used.ids.has(h.id));
+    if (idx === -1) idx = 0;
+
+    let hero = headlines[idx];
+    const rest = headlines.filter((_, i) => i !== idx);
+    if (hero) {
+      used.ids.add(hero.id);
+      if (hero.image_url && used.images.has(hero.image_url)) {
+        // Same photo already featured — show this hero without the picture.
+        hero = { ...hero, image_url: null };
+      } else if (hero.image_url) {
+        used.images.add(hero.image_url);
+      }
+    }
+    return [hero, rest];
+  }
+
+  function alwaysOnCard({ title, cssClass, data, summaryField, used }) {
     if (!data || !data.headlines || !data.headlines.length) return "";
     const sf = summaryField || "summary_he";
-    const [lead, rest] = splitHero(data.headlines);
+    const [lead, rest] = pickHero(data.headlines, used);
     return `
       <div class="card ${cssClass || ""}">
         <div class="card-title-row"><h3>${title}</h3></div>
@@ -134,8 +160,8 @@
       </div>`;
   }
 
-  function subjectCard(subject) {
-    const [lead, rest] = splitHero(subject.headlines);
+  function subjectCard(subject, used) {
+    const [lead, rest] = pickHero(subject.headlines, used);
     return `
       <div class="card" data-subject-card="${subject.key}">
         <div class="card-title-row">
@@ -163,11 +189,12 @@
     if (!world) {
       return `<div class="empty-state">World & Belgium digest not yet available — check back later.</div>`;
     }
+    const used = newUsedTracker();
     const sections = [];
     for (const { key, title } of WORLD_CARDS) {
       const sec = world[key];
       if (!sec || !sec.headlines || !sec.headlines.length) continue;
-      sections.push(alwaysOnCard({ title, data: sec, summaryField: "summary_en" }));
+      sections.push(alwaysOnCard({ title, data: sec, summaryField: "summary_en", used }));
     }
     return sections.length
       ? `<div class="section">${sections.join("")}</div>`
@@ -216,21 +243,23 @@
       dateLine.textContent = timeStr ? `${dateStr} · עודכן ${timeStr}` : dateStr;
     }
 
-    // Israel tab content
+    // Israel tab content. A single tracker threaded through every card in
+    // render order guarantees no photo/article is featured as a hero twice.
+    const israelUsed = newUsedTracker();
     const israelSections = [];
     if (data.degraded) {
       israelSections.push(`<div class="demo-banner">⚠️ זהו תוכן לדוגמה. העדכון האמיתי היומי עדיין לא הופעל.</div>`);
     }
     israelSections.push(`<div class="section">
-      ${alwaysOnCard({ title: "📰 הכותרות המרכזיות", data: data.top_general })}
+      ${alwaysOnCard({ title: "📰 הכותרות המרכזיות", data: data.top_general, used: israelUsed })}
     </div>`);
     israelSections.push(`<div class="section">
-      ${alwaysOnCard({ title: "🛡️ ביטחון ומלחמה", cssClass: "security", data: data.security_war })}
+      ${alwaysOnCard({ title: "🛡️ ביטחון ומלחמה", cssClass: "security", data: data.security_war, used: israelUsed })}
     </div>`);
     if (data.subjects && data.subjects.length) {
       israelSections.push(`<div class="section">
         <div class="section-title">✨ התחומים שאת עוקבת אחריהם</div>
-        ${data.subjects.map(subjectCard).join("")}
+        ${data.subjects.map((s) => subjectCard(s, israelUsed)).join("")}
       </div>`);
     }
 
