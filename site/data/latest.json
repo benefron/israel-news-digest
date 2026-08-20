@@ -1,99 +1,109 @@
 {
-  "generated_at": "2026-08-14T13:54:47.652270+00:00",
-  "date": "2026-08-14",
+  "generated_at": "2026-08-20T08:54:24.293308+00:00",
+  "date": "2026-08-20",
   "degraded": false,
   "top_general": {
-    "summary_he": "חבר הכנסת אלעזר שטרן הודיע על פרישה מ\"יש עתיד\" והתפטרות מהכנסת, על רקע ציפיות למהלך משותף עם גנץ ואיזנקוט. במקביל נמשכת התססה בפריימריז הליכוד עם פרישת ח\"כ צגה מלקו. בזירה הביטחונית אישר צה\"ל חיסול בכיר חמאס בעזה, וארה\"ב מאיימת בסנקציות חסרות תקדים על איראן. באירופה משתוללות שריפות ענק שהובילו לפינוי אלפים.",
+    "summary_he": "טראמפ הכריז על מלחמה כלכלית חסרת תקדים נגד איראן, ואיחוד האמירויות הודיעה על השעיית כל קשרי המסחר איתה. באיראן זלזלו באיומים וטענו שמדובר בהסחת דעת, בעוד דיווחים מצביעים על כך שהצעד קשור גם ללחצים אזוריים ולזיגזוגים מדיניים של וושינגטון.",
     "headlines": [
       {
-        "id": "df0e5c0af6",
-        "title": "חבר הכנסת אלעזר שטרן הודיע על עזיבת \"יש עתיד\" והתפטרות מהכנסת",
-        "url": "https://news.walla.co.il/item/3860688",
+        "id": "62cb937597",
+        "title": "טראמפ הכריז על \"D-Day כלכלי\" נגד איראן: \"זו תהיה לוחמה חסרת תקדים\"",
+        "url": "https://www.ynet.co.il/news/article/hjtgj37pml",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-19T23:26:06+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/25/SkmkIY11iZl/SkmkIY11iZl_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "8b226a591b",
+        "title": "טראמפ הכריז מלחמה כלכלית נגד איראן. כך היא תעבוד",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001552875",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-08-20T02:50:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781697046/direct/AP26168422564376_kt31aq.jpg"
+      },
+      {
+        "id": "75cd66ca04",
+        "title": "טראמפ עובר ל\"לוחמה כלכלית\" מול איראן; ביטקוין מזנק לשיא של שלושה חודשים",
+        "url": "https://www.themarker.com/wallstreet/2026-08-20/ty-article-live/000001a0-0de8-db35-afee-7fea66450000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-08-20T08:33:00+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a0-1e12-d293-a1e7-1e9220970000/02/72/1078b6a640dba84ec00d527350f3/145566.jpg?width=108&height=81"
+      },
+      {
+        "id": "6c0f1cf386",
+        "title": "איחוד האמירויות הודיעה כי היא משעה את כל קשרי המסחר שלה עם איראן",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-19/ty-article/.premium/000001a0-1aed-dd2f-a1b6-7bef7b1b0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-19T16:59:09+00:00",
+        "image_url": null
+      },
+      {
+        "id": "a71445e36b",
+        "title": "מצור, הסלמה מאיראן - ואיום החות'י: מה עמד מאחורי הזיגזג של טראמפ? | דיווח",
+        "url": "https://news.walla.co.il/item/3861964",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-08-14T12:49:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/4/5/8/3458789-46.jpg"
+        "published_at": "2026-08-20T11:15:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/0/4090287-46.jpg"
       },
       {
-        "id": "839027c390",
-        "title": "בדרך לאיזנקוט? אלעזר שטרן עוזב את \"יש עתיד\" ומתפטר מהכנסת",
-        "url": "https://www.ynet.co.il/news/article/sym4hw3lzg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-14T10:00:48+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/14/BkgQOD3UMg/BkgQOD3UMg_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "dac75c2b82",
-        "title": "ח\"כ צגה מלקו  פרשה מהפריימריז; גורמים בליכוד גיששו עם פנינה תמנו-שטה",
-        "url": "https://www.ynet.co.il/news/article/bkg11uuh8ge",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-14T09:47:52+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/14/Hy8LFUnUMx/Hy8LFUnUMx_0_107_614_346_0_medium.jpg"
-      },
-      {
-        "id": "173da59e93",
-        "title": "צה\"ל מאשר שבכיר בחמאס חוסל בעזה: \"החזיק חטופים רבים בשבי\"",
-        "url": "https://www.ynet.co.il/news/article/rkx11wb3imx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-14T07:31:30+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/14/Sy1NCE38ze/Sy1NCE38ze_785_316_476_268_0_medium.jpg"
-      },
-      {
-        "id": "c6c1baa82b",
-        "title": "אירופה בוערת: אלפים נמלטו מבתיהם, עיירות נופש פונו ולהבות מאיימות על אתרים היסטוריים",
-        "url": "https://news.walla.co.il/item/3860717",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-14T16:00:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/8/4088197-46.jpg"
-      }
-    ]
-  },
-  "security_war": {
-    "summary_he": "צה\"ל אישר חיסול בכיר בחמאס בעזה שהחזיק חטופים רבים בשבי. ארה\"ב מאיימת על איראן בבידוד כלכלי חסר תקדים, וסגן הנשיא ואנס הביע אמון ביכולת למנוע ממנה נשק גרעיני, בעוד מדווח על ניסוי מוצלח של טיל החץ. במקביל, החות'ים בתימן תוקפים בית זיקוק סעודי, ומטוסי נאט\"ו יירטו כטב\"ם בשמי לטביה.",
-    "headlines": [
-      {
-        "id": "173da59e93",
-        "title": "צה\"ל מאשר שבכיר בחמאס חוסל בעזה: \"החזיק חטופים רבים בשבי\"",
-        "url": "https://www.ynet.co.il/news/article/rkx11wb3imx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-14T07:31:30+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/14/Sy1NCE38ze/Sy1NCE38ze_785_316_476_268_0_medium.jpg"
-      },
-      {
-        "id": "ae019fdb7c",
-        "title": "ארה\"ב מאיימת בצעדים חסרי תקדים על איראן: \"בידוד כלכלי שלא נראה מעולם\"",
-        "url": "https://news.walla.co.il/item/3860659",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-14T07:56:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/9/8/3898581-46.jpg"
-      },
-      {
-        "id": "5dcc284bcb",
-        "title": "סגן הנשיא ואנס: \"מאמין שנוכל למנוע מאיראן נשק גרעיני\"",
-        "url": "https://13tv.co.il/item/news/politics/security/vans-905311558/?pid=62&refc=902992386",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
+        "id": "2ac6dc435c",
+        "title": "איראן מזלזלת באיומי טראמפ: \"אתם מתחננים לעזרה\"",
+        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21238597",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
         "published_at": null,
         "image_url": null
       },
       {
-        "id": "c0ee32a1ef",
-        "title": "לפני 28 דקות פאניקה באיראן: \"הניסוי של טיל החץ עמד מעבר לציפיות\"; זה מה שאפשר לספר",
-        "url": "https://www.maariv.co.il/breaking-news/article-1355934",
+        "id": "c715392b20",
+        "title": "טראמפ הכריז על \"בידוד כלכלי\", באיראן השיבו: \"הסחת דעת\"",
+        "url": "https://www.kan.org.il/content/kan-news/global/1091057/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "בוושינגטון, דמשק ואנקרה מקשרים בין התקיפה בסוריה לבחירות הקרובות לכנסת, וכץ האשים את ארדואן ב'גרירת טורקיה להרפתקאות מסוכנות' בעקבות תקיפת צה\"ל בבסיס אווירי. במקביל תרגל צה\"ל ביהודה ושומרון אירועים מתפרצים, וגורמים מערביים הביעו ביקורת על מדיניות ישראל בגדה ובעזה.",
+    "headlines": [
+      {
+        "id": "baa90a1d37",
+        "title": "Katz says Erdogan ‘dragging Turkey into dangerous adventures in Syria,’ amid tensions over IDF strike on airbase",
+        "url": "https://www.timesofisrael.com/liveblog-august-20-2026/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-08-19T23:31:08+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/montage-2up-20260820-192328-1024x640.jpg"
+      },
+      {
+        "id": "3c427238e5",
+        "title": "בוושינגטון, דמשק ואנקרה משוכנעים שהתקיפה בסוריה קשורה לבחירות לכנסת",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-20/ty-article/.premium/000001a0-1b6e-dfad-a3a1-bfef186a0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-20T03:01:13+00:00",
+        "image_url": null
+      },
+      {
+        "id": "c82d60a16e",
+        "title": "לפני 35 דקות תרגיל נרחב ביהודה ושומרון: צה\"ל תרגל אירועים מתפרצים במקביל",
+        "url": "https://www.maariv.co.il/breaking-news/article-1357868",
         "source": "maariv",
         "source_label": "מעריב",
         "source_label_he": "מעריב",
@@ -101,24 +111,14 @@
         "image_url": null
       },
       {
-        "id": "8af4be804d",
-        "title": "Yemen’s Houthis say they attacked Saudi Aramco refinery, imperiling strained truce",
-        "url": "https://www.timesofisrael.com/yemens-houthis-say-they-attacked-saudi-aramco-refinery-imperiling-strained-truce/",
+        "id": "7bfcfec380",
+        "title": "Western allies rebuke Israel over West Bank plan, Gaza probes, ‘inhumane’ rhetoric",
+        "url": "https://www.timesofisrael.com/western-allies-rebuke-israel-over-west-bank-plan-gaza-probes-inhumane-rhetoric/",
         "source": "times_of_israel",
         "source_label": "Times of Israel",
         "source_label_he": "Times of Israel",
-        "published_at": "2026-08-14T09:55:38+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AFP__20260722__C2VA49E__v1__HighRes__YemenIranSaudiUsIsraelWarProtest-2-e1785321741872-1024x640.jpg"
-      },
-      {
-        "id": "a16baf0b0c",
-        "title": "מטוסי נאט\"ו יירטו כטב\"ם בשמי לטביה; לברוב: אין אפשרות להפסקת אש מיידית",
-        "url": "https://www.haaretz.co.il/news/world/europe/2026-08-14/ty-article/0000019f-ff92-d88f-abbf-ff9f7edd0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-14T09:53:16+00:00",
-        "image_url": null
+        "published_at": "2026-08-20T07:41:19+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/06/5845937191715017241-e1780760859632-1024x640.jpg"
       }
     ]
   },
@@ -126,22 +126,32 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בזירה הפוליטית ממשיכה התסיסה סביב הפריימריז בליכוד, עם פרישת ח\"כ צגה מלקו וגישושים לקראת מועמדת חלופית. אלעזר שטרן פרש מ\"יש עתיד\", וכן נשמעות הערכות כי נתניהו נחלש מבחינה פוליטית אך יריביו עשויים דווקא לסייע לו.",
+      "summary_he": "בליכוד נשמעת ביקורת על בן גביר על ניסיון 'לגדול על חשבון המפלגה', ולוין יקבל ייצוג משפטי נפרד בעתירות נגד חוק מח\"ש. במקביל מתפרסמים פרטים על עלויות יום הבחירות ואפשרויות התעסוקה בו.",
       "headlines": [
         {
-          "id": "dac75c2b82",
-          "title": "ח\"כ צגה מלקו  פרשה מהפריימריז; גורמים בליכוד גיששו עם פנינה תמנו-שטה",
-          "url": "https://www.ynet.co.il/news/article/bkg11uuh8ge",
+          "id": "7276ad841c",
+          "title": "בליכוד זועמים על בן גביר: \"מנסה לגדול על חשבוננו\"",
+          "url": "https://www.ynet.co.il/news/article/yokra14871391",
           "source": "ynet",
           "source_label": "Ynet",
           "source_label_he": "Ynet",
-          "published_at": "2026-08-14T09:47:52+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/14/Hy8LFUnUMx/Hy8LFUnUMx_0_107_614_346_0_medium.jpg"
+          "published_at": "2026-08-19T21:00:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/25/BJ4pp7nd11g/BJ4pp7nd11g_0_0_850_479_0_medium.jpg"
         },
         {
-          "id": "c204696a5b",
-          "title": "פורשת נוספת לפני הפריימריז - בליכוד יפנו לח\"כית של גנץ?",
-          "url": "https://www.israelhayom.co.il/news/politics/article/21198004",
+          "id": "a2589c7dec",
+          "title": "לוין יקבל ייצוג נפרד בעתירות נגד חוק מח\"ש - כמה זה יעלה למדינה?",
+          "url": "https://www.ynet.co.il/news/article/hj96uvqpmg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-20T06:20:20+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/27/SysIP2j1ll/SysIP2j1ll_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "326a74b62f",
+          "title": "3,000 שקלים ליום: כל התפקידים שבהם תוכלו לעבוד ביום הבחירות",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21238594",
           "source": "israel_hayom",
           "source_label": "ישראל היום",
           "source_label_he": "ישראל היום",
@@ -149,29 +159,9 @@
           "image_url": null
         },
         {
-          "id": "5375ba2367",
-          "title": "נתניהו מעולם לא נראה חלש יותר - והיריבים שלו עוד עלולים להציל אותו",
-          "url": "https://news.walla.co.il/item/3860644",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-14T14:23:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/0/4070071-46.png"
-        },
-        {
-          "id": "6904378d25",
-          "title": "השאלה שבנט מסרב לענות עליה - והתרחיש הפוליטי שישנה את המדינה",
-          "url": "https://news.walla.co.il/item/3860550",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-14T11:17:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/7/4087931-46.jpg"
-        },
-        {
-          "id": "0ffcc4e5e3",
-          "title": "\"יאיר גולן מצער אותי, אבל יש אצלו ח\"כים מדהימים\"",
-          "url": "https://www.israelhayom.co.il/magazine/hashavua/article/21185785",
+          "id": "7aadf2f7db",
+          "title": "הסכום המטורף שיום הבחירות עולה לנו",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21238951",
           "source": "israel_hayom",
           "source_label": "ישראל היום",
           "source_label_he": "ישראל היום",
@@ -179,149 +169,149 @@
           "image_url": null
         },
         {
-          "id": "985896d623",
-          "title": "בחירות 2026: כל הסקרים בחירות 2026: כל הסקרים",
-          "url": "https://www.kan.org.il/lobby/skarim/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": null
+          "id": "afab10b709",
+          "title": "חידון הבחירות של וואלה: מה אתם באמת יודעים על פוליטיקה?",
+          "url": "https://news.walla.co.il/item/3861803",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-08-20T09:00:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/6/4076307-46.png"
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "מדד המחירים לצרכן עלה ב-0.3% ביולי, בעוד שוק ההון ננעל בירידות קלות בת\"א והדולר נחלש מעט. בוול סטריט נרשמה פתיחה מעורבת עם עלייה חדה במניית סנדיסק.",
+      "summary_he": "בין הכתבות הכלכליות: טיפים להוזלת חשבון החשמל בשיא הקיץ, לצד עדכון על עליות ומגמות במסחר בבורסה.",
       "headlines": [
         {
-          "id": "1a32885efc",
-          "title": "הירידה במדד מחירי הדירות נבלמה; מדד המחירים לצרכן עלה ביולי ב-0.3%",
-          "url": "https://www.themarker.com/news/macroeconomics/2026-08-14/ty-article/0000019f-fbb5-d28e-a3df-fbf5e6a50000",
+          "id": "fa65997677",
+          "title": "כך תורידו 35% מחשבון החשמל בשיא הקיץ",
+          "url": "https://www.israelhayom.co.il/you-may-find-interesting/article/21030506",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "c1782d033d",
+          "title": "עליות במסחר: ביטוח ישיר מזנקת ב-7%; ארית נופלת ב-7%; הדולר נחלש",
+          "url": "https://www.themarker.com/markets/2026-08-20/ty-article-live/000001a0-1d92-d293-a1e7-1d92fafc0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-14T11:00:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-fbbd-d337-a7df-fffdca140000/04/63/d76aad1a4552947046795becb8dc/411789.jpg?width=108&height=81"
-        },
+          "published_at": "2026-08-20T05:18:44+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000198-4ab8-d2f9-af98-6bbe1c180000/33/6f/76239a66467d84dd2bfa16c28dc6/436066.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "יוטיוב מציעה סכומי עתק ליוצרי תוכן כדי למנוע שיתוף פעולה עם נטפליקס, ואפל הורתה על הוזלת מחירי האייפון בישראל.",
+      "headlines": [
         {
-          "id": "6adf0e5867",
-          "title": "ננעלה בירידות: ת\"א 35 ות\"א 90 איבדו 0.3%; הדולר נחלש מעט",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001552343",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-08-14T11:19:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1596744530/old/1601838.jpg"
-        },
-        {
-          "id": "ebe96b8e2b",
-          "title": "פתיחה מעורבת בוול סטריט; סנדיסק מזנקת בעקבות המלצה מג'יי. פי. מורגן",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001552391",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-08-14T13:32:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg"
-        },
-        {
-          "id": "9260501b11",
-          "title": "בהשראת מאסק: שכר המנכ\"לים במדד S&P 500 מזנק לשיא",
-          "url": "https://www.themarker.com/wallstreet/2026-08-14/ty-article/.premium/0000019f-feff-d19c-af9f-ffffefa30000",
+          "id": "27919643fc",
+          "title": "יוטיוב מציעה מיליוני דולרים ליוצרי תוכן כדי לא לשתף פעולה עם נטפליקס",
+          "url": "https://www.themarker.com/wallstreet/2026-08-20/ty-article/.premium/000001a0-1e15-d399-afb3-9e3f21d70000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-14T09:53:22+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-ff0f-d28e-a3df-ff5f1d910000/8d/50/2e9515c0427ba7945ed2143e30ff/957875.jpg?width=108&height=81"
+          "published_at": "2026-08-20T08:17:53+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-1e2e-d293-a1e7-1ebe83a10000/23/3b/d9f195c04d1ab9af894c6c713237/758887.jpg?width=108&height=81"
+        },
+        {
+          "id": "3d85194d69",
+          "title": "אפל הורתה להוריד בכ-300 שקל את מחירי האייפון בישראל, ועדיין יש קאץ'",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001552885",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-08-20T07:18:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1772468879/direct/Apple-iPhone-17e-family-lineup-260302_big.jpg.large_2x_bmvyjp.jpg"
         }
       ]
     },
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "נתונים חדשים מצביעים על בלימת הירידה במדד מחירי הדירות, במקביל לעלייה במדד המחירים לצרכן.",
+      "summary_he": "בענף הנדל\"ן: ג'י סיטי תממש נכסים בהיקף של 6 מיליארד שקל לאחר ביטול עסקה, דמרי מדווחת על מכירות גבוהות יותר ללא זינוק ברווח, ושיכון ובינוי מציגה פער חריג בין הרווח התפעולי לרווח הנקי.",
       "headlines": [
         {
-          "id": "1a32885efc",
-          "title": "הירידה במדד מחירי הדירות נבלמה; מדד המחירים לצרכן עלה ביולי ב-0.3%",
-          "url": "https://www.themarker.com/news/macroeconomics/2026-08-14/ty-article/0000019f-fbb5-d28e-a3df-fbf5e6a50000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-14T11:00:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-fbbd-d337-a7df-fffdca140000/04/63/d76aad1a4552947046795becb8dc/411789.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "היועמ\"שית הודיעה לבג\"ץ כי יש לחתוך כבר השנה את התקציב למוסדות שאינם מלמדים ליבה, כאשר המשך תקצוב רשתות החינוך החרדי מותנה בכך.",
-      "headlines": [
-        {
-          "id": "7230ecdeef",
-          "title": "היועמ\"שית לבג\"ץ: יש לחתוך כבר השנה את התקציב למוסדות שאינם מלמדים ליבה",
-          "url": "https://www.themarker.com/news/education/2026-08-14/ty-article/.premium/000001a0-005b-db35-afee-77fbf86d0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-14T13:09:11+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-006c-d75f-a3be-187e240e0000/5c/56/f30314294da08220e27b72f568ef/432433.jpg?width=108&height=81"
+          "id": "fdf7cd0d70",
+          "title": "אחרי ביטול העסקה עם אבו: ג'י סיטי תממש נכסים ב-6 מיליארד שקל",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001552888",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-08-20T07:08:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1706433203/direct/%D7%97%D7%99%D7%99%D7%9D_%D7%9B%D7%A6%D7%9E%D7%9F_%D7%9E%D7%99%D7%99%D7%A1%D7%93_%D7%95%D7%9E%D7%A0%D7%9B%D7%9C_%D7%92_%D7%99_%D7%A1%D7%99%D7%98%D7%99_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%90%D7%A8%D7%99%D7%A7_%D7%A1%D7%95%D7%9C%D7%98%D7%9F_vohnlx.jpg"
         },
         {
-          "id": "9afc363887",
-          "title": "היועמש\"ית לבג\"ץ: המשך תקצוב רשתות החינוך החרדי - מותנה בלימודי ליבה",
-          "url": "https://news.walla.co.il/item/3860716",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-14T15:54:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/2/4062153-46.jpg"
+          "id": "acfe8663a9",
+          "title": "בזכות מחיר למשתכן: דמרי מכרה יותר דירות, אבל לא בהרבה יותר כסף",
+          "url": "https://www.themarker.com/markets/2026-08-20/ty-article/.premium/000001a0-1dc8-d129-a3ba-5fea88190000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-20T06:18:27+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-1dd7-d129-a3ba-5fff31370000/83/38/f87d61af44fa9ea06ad15b6d4fcf/369405.jpg?width=108&height=81"
+        },
+        {
+          "id": "19c40ccf33",
+          "title": "הרווח התפעולי של שיכון ובינוי קרס ב-70% - אז איך הרווח הנקי זינק?",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001552883",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-08-20T06:41:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1723105379/direct/800_yrlx87.jpg"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "עמדת היועמ\"שית בנוגע לתקצוב מוסדות חרדים ללא לימודי ליבה ממשיכה לעורר דיון, לצד דיווחים על מגמת \"השתלטות\" חרדית בעיר מסוימת.",
+      "summary_he": "עיריית תל אביב פירקה בכוח מחיצת הפרדה שהקימו פעילי ימין בתפילה בכיכר הבימה, אירוע שמעלה שוב את המתח סביב סוגיות דת ומרחב ציבורי.",
       "headlines": [
         {
-          "id": "9afc363887",
-          "title": "היועמש\"ית לבג\"ץ: המשך תקצוב רשתות החינוך החרדי - מותנה בלימודי ליבה",
-          "url": "https://news.walla.co.il/item/3860716",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-14T15:54:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/2/4062153-46.jpg"
-        },
-        {
-          "id": "09dcc6307c",
-          "title": "ה\"השתלטות\" החרדית בעיר הכי מיוחדת",
-          "url": "https://www.israelhayom.co.il/magazine/hashavua/article/21181680",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
+          "id": "e25bb0e272",
+          "title": "עיריית ת\"א פירקה בכוח מחיצה בתפילה בהפרדה של פעילי ימין בכיכר הבימה",
+          "url": "https://www.haaretz.co.il/news/local/2026-08-19/ty-article/000001a0-1ac0-df5c-afeb-bbfc79960000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-19T16:17:30+00:00",
           "image_url": null
         }
       ]
     },
     {
-      "key": "environment",
-      "label_he": "סביבה ואקלים",
-      "summary_he": "גלי חום ושריפות ענק פוקדים את אירופה, אלפים נאלצו לנטוש את בתיהם ועיירות נופש פונו כאשר הלהבות מאיימות גם על אתרים היסטוריים.",
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "שני סרטים חדשים בוחנים את תנועות המחאה הישראליות דרך נשים ומלחמה, וצופית גרנט משתפת בפומבי על מערכת היחסים שלה ושל שולי.",
       "headlines": [
         {
-          "id": "c6c1baa82b",
-          "title": "אירופה בוערת: אלפים נמלטו מבתיהם, עיירות נופש פונו ולהבות מאיימות על אתרים היסטוריים",
-          "url": "https://news.walla.co.il/item/3860717",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-14T16:00:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/8/4088197-46.jpg"
+          "id": "a9abc4a248",
+          "title": "War, women and democracy: How two new films frame Israel’s storied protest movements",
+          "url": "https://www.timesofisrael.com/war-women-and-democracy-how-two-new-films-frame-israels-storied-protest-movements/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-08-20T04:28:33+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/rising-key-still-1-1024x640.jpeg"
+        },
+        {
+          "id": "d78f6392f3",
+          "title": "צופית גרנט החליטה להפסיק להסתיר את מה שהיא ושולי עושים: \"השפיות שלי\"",
+          "url": "https://www.israelhayom.co.il/forreal/localy/article/21238340",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
         }
       ]
     }
@@ -344,192 +334,192 @@
   "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Tensions escalate in the West Bank as Israeli troops and settlers force Palestinian families from their homes in an ongoing campaign affecting multiple villages. Global antisemitism cases are progressing, with a judge dismissing Trump's Harvard antisemitism lawsuit for lack of evidence and Apple settling a federal antisemitism lawsuit for $150,000. In Israel, Tel Aviv has formally renamed \"Hostages Square\" to commemorate those held captive, cementing the hostage issue in public discourse.",
+      "summary_en": "The UN Secretary-General condemned Israeli National Security Minister Ben-Gvir's statements about eliminations in Gaza, calling them scandalous and dehumanizing. Israel's military confirmed that soldiers fired at the car of 5-year-old Hind Rajab, killing her, and has opened a criminal investigation following international outcry; Australia expressed outrage after Israel initially decided not to investigate the death of an aid worker. Israeli forces conducted multiple deadly strikes in Gaza within a 24-hour period, while the government moved forward with opening bids for a sensitive West Bank settlement project.",
       "headlines": [
         {
-          "id": "09443cca3d",
-          "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-          "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+          "id": "d27da6d465",
+          "title": "Israeli-Palestinian conflict LIVEBLOG: 'Scandalous, dehumanizing and dangerous': UN chief condemns Ben-Gvir's statements on eliminations in Gaza",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/schandalig-ontmenselijkend-en-gevaarlijk-vnbaas-veroordeelt~1787143375321/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/19/920c1f3c-d84f-4071-877a-220d9b55819c.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "765837de0b",
+          "title": "01:39 News: 'I am so scared, please come': Israeli army to investigate death of Hind (5) in Gaza",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/19/video-onderzoek-naar-dood-hind-rajab-in-israel/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/19/55036bb8-9a6c-4ca4-906c-6f14614cd3d9.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "088e31d8fd",
+          "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+          "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-08-13T20:12:17+00:00",
+          "published_at": "2026-08-20T07:33:11+00:00",
           "image_url": null
         },
         {
-          "id": "3124f65e47",
-          "title": "Judge throws out Trump's Harvard antisemitism lawsuit, citing lack of evidence",
-          "url": "https://www.jta.org/2026/08/13/united-states/judge-throws-out-trumps-harvard-antisemitism-lawsuit-citing-lack-of-evidence",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-08-13T19:00:55+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/03/harvard-lawsuit.jpg"
+          "id": "f0db32b6db",
+          "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+          "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-20T04:17:53+00:00",
+          "image_url": null
         },
         {
-          "id": "8246a8c5bd",
-          "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
-          "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-13T18:54:09+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/984b705b2dc75d9b66b3afd2357474640da9ad05/681_0_6830_5464/master/6830.jpg?width=700&quality=85&auto=format&fit=max&s=bfa4920fe6aa72c6c5bb4a7c177f1a28"
+          "id": "3d02ce96b2",
+          "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+          "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-20T00:53:20+00:00",
+          "image_url": null
         },
         {
-          "id": "da7e655369",
-          "title": "Apple pays $150k to settle federal antisemitism lawsuit",
-          "url": "https://www.jta.org/2026/08/13/united-states/apple-pays-150k-to-settle-federal-antisemitism-lawsuit",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-08-13T18:33:14+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/apple-store.jpg"
-        },
-        {
-          "id": "a99e797999",
-          "title": "'History cannot be erased': 'Hostages Square' in Tel Aviv is formalized in official name change",
-          "url": "https://www.jta.org/2026/08/13/israel/history-cannot-be-erased-hostages-square-in-tel-aviv-is-formalized-in-official-name-change",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-08-13T15:59:55+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/08-13-2026-Hostages-Square-scaled.jpg"
+          "id": "a0e824c0fe",
+          "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+          "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-19T17:46:01+00:00",
+          "image_url": null
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium faces extreme weather conditions as temperatures reach 35.7 degrees Celsius in Ukkel, marking the hottest day of the year, while forest fires in the Hoge Venen region restrict access to four municipalities. A treasure discovered in Dendermonde is believed to have belonged to the wealthy brewer family Van Assche. On the sports front, Belgian footballer Mika Godts is moving to Paris Saint-Germain after Ajax and the club reached a €55 million transfer agreement.",
+      "summary_en": "Rising interest rates are pushing Belgium toward economic danger, with calls for government intervention before market forces take full control. Heavy storms struck the Ardennes region, with a mini-tornado destroying a house in Büllingen and prompting dozens of firefighter interventions around Malmedy. The Pukkelpop music festival provided a significant economic boost, delivering tens of millions of euros to the Limburg economy. Critics have condemned the silence of Belgian climate ministers, particularly as citizens have consistently called for stronger climate action.",
       "headlines": [
         {
-          "id": "1accacc609",
-          "title": "Forest fires in Hoge Venen: access forbidden to 4 municipalities",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/natuurbrand-in-hoge-venen-toegang-verboden-tot-4-gemeenten~1785314118283/",
+          "id": "5f08019675",
+          "title": "Politics: Rising interest rates push Belgium toward danger zone: 'It's up to the government to intervene, before the markets do'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/19/stijgende-rente-gevolgen-begroting/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2023/06/01/40ccce0d-0058-11ee-91d7-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/19/6cf01848-b432-47c6-8edd-3df78aaded8d.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "00665d07b2",
-          "title": "Gold treasure was likely from wealthy brewer family Van Assche, says former mayor of Dendermonde",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/eigenaar-schat-goud-dendermonde-gebouw-werf/",
+          "id": "cdb47088ee",
+          "title": "'Mini-tornado' destroys house in Büllingen, dozens of firefighter interventions around Malmedy after heavy storm",
+          "url": "https://www.demorgen.be/nieuws/mini-tornado-vernielt-woning-in-bullingen-tiental-brandweerinterventies-rond-malmedy-na-hevig-onweer~b84df515/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-20T05:10:00+00:00",
+          "image_url": "https://image.demorgen.be/276905224/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "6d318eb37a",
+          "title": "Pukkelpop delivers tens of millions of euros to Limburgian economy",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/19/pukkelpop-tientallen-miljoenen-euro-s-meerwaarde-voka-economie-l/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/13/e9110678-db2a-4290-ad52-c6a223fabfee.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/19/bc03555f-b7e4-4cc5-aa61-9c293177c099.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "4361339fa3",
-          "title": "35.7 degrees in Ukkel: now officially the hottest day of the year",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/357-graden-in-ukkel-nu-ook-officieel-de-warmste-dag-van-het-ja~1784180635133/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/14/63f085ec-a436-4e28-b7b0-8b98a5808e24.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "3803da4b8c",
-          "title": "Red Devil Mika Godts is really on his way to PSG, which reaches principle agreement with Ajax over transfer fee of €55 million",
-          "url": "https://www.hln.be/rode-duivels/rode-duivel-mika-godts-nu-echt-op-weg-naar-psg-dat-princiepsakkoord-vindt-met-ajax-over-transfersom-van-55-miljoen-euro~ae64c576/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-14T11:39:00+00:00",
-          "image_url": "https://images.hln.be/ZmU5ZmIxY2ZjMGE3ZjZhYTFkMjIvZGlvLzI3NjQ0ODUwMS9maXQtd2lkdGgvNDAw/amsterdam-netherlands-july-30-mika-godts-of-afc-ajax-during-the-uefa-conference-league-match-between-afc-ajax-and-fk-vojvodina-at-johan-cruijff-arena-on-july-30-2026-in-amsterdam-netherlands-photo-by-marcel-van-plateringen-orange-pictures-orange-pictures-photo-news-only-belgium"
+          "id": "c652d326b7",
+          "title": "The silence of our climate ministers is a disgrace, especially since citizens of our country have been demanding more climate action for years",
+          "url": "https://www.demorgen.be/meningen/de-stilte-van-onze-klimaatministers-is-een-schande-des-te-meer-omdat-de-burgers-van-ons-land-al-jaren-meer-klimaatactie-eisen~bd8fc747/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-20T01:01:00+00:00",
+          "image_url": "https://image.demorgen.be/276897135/feature-crop/320/320/afbeelding"
         }
       ]
     },
     "europe": {
-      "summary_en": "Ukraine has launched a major counteroffensive that has reportedly reversed nearly all Russian territorial gains from the past year, even as Moscow faces mounting recruitment challenges amid rising losses. NATO fighter jets have shot down a drone over Latvia in response to escalating tensions. Europe is also grappling with natural disasters, with significant forest fires spreading in England and Croatia that have hospitalized nineteen people and prompted the evacuation of thousands.",
+      "summary_en": "Ukraine faces mounting pressure as Russia continues intense attacks on Kyiv, killing at least 13 people, while the country struggles with chronic air defense shortages. An unprecedented political crisis has unfolded in Ukraine as a key official's call for early elections has put President Zelensky in a difficult position, threatening political unity at a critical time. The broader European political landscape shows the political center losing ground in online discourse, as more extreme positions gain digital traction.",
       "headlines": [
         {
-          "id": "b216827fc5",
-          "title": "Zelensky's long-concealed counteroffensive: 'Nearly the entire Russian territorial gains from the past year pushed back'",
-          "url": "https://www.demorgen.be/oorlog-in-oekraine/het-lang-verzwegen-tegenoffensief-van-zelensky-vrijwel-hele-russische-terreinwinst-van-afgelopen-jaar-teruggedrongen~bc659538/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-14T01:00:55+00:00",
-          "image_url": "https://image.demorgen.be/275350890/feature-crop/320/320/combat-mission-of-bm-21-grad-crew-from-ukraine-s-148th-artillery"
-        },
-        {
-          "id": "b7f15279f3",
-          "title": "NATO fighter jets shoot down drone over Latvia",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/drone-neergehaald-boven-letland-navo-gevechtsvliegtuigen/",
+          "id": "89cd191920",
+          "title": "Russia-Ukraine war: 'Unprecedented political crisis': how Fedorov's call for elections puts Zelensky in difficult position",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/19/zit-zelensky-in-problemen-nu-oud-minister-oproept-to-verkiezing/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2024/09/08/4d3f0555-895a-42c0-9d34-98db9a7d1944.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/19/69c78b7d-18cd-4838-a6ca-ec3326054d41.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "e73d1aac07",
-          "title": "Nineteen people taken to hospital after England fire, as thousands evacuated in Croatia – Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-14T13:38:40+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/5dc6da1a308c2f60602d733a2465de7e989e64b3/716_0_5573_4458/master/5573.jpg?width=700&quality=85&auto=format&fit=max&s=53fb8809225aa1ae9d9bceb42f8e7317"
+          "id": "63e66c5101",
+          "title": "Russia-Ukraine war LIVEBLOG: Ukrainian capital Kyiv attacked again with Russian ballistic rockets",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/oekraiense-hoofdstad-kiev-opnieuw-doelwit-van-russische-aanval-m~1781787179742/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/02/6c55fd8c-a97e-4d30-a022-ae20e480610d.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "14bcadbfa6",
-          "title": "Putin's recruiters scramble to avoid second mass mobilisation as Ukraine losses mount",
-          "url": "https://www.theguardian.com/world/2026/aug/14/russia-ukraine-putin-recruiters-mobilisation",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-14T13:00:27+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/60688a54bbd26e1a312dbf4312b3d3b0403d3283/612_7_5684_4547/master/5684.jpg?width=700&quality=85&auto=format&fit=max&s=6b04531ea292bc7c1ba9158c70f105f9"
+          "id": "cedf7f5c01",
+          "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+          "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-20T08:39:26+00:00",
+          "image_url": null
+        },
+        {
+          "id": "af2b716bc7",
+          "title": "Why the political center is losing online",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/warum-die-politische-mitte-online-verliert-mit-clara-von-nathusius/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-08-20T03:05:00+00:00",
+          "image_url": null
         }
       ]
     },
     "world_top": {
-      "summary_en": "Japan has been struck by unprecedented rainfall that has killed five people and left thousands stranded at an airport. A dangerous incident aboard a Ryanair flight saw broken engine parts shatter a window, nearly sucking a passenger out of the aircraft. Spanish authorities evacuated medieval remains from a monastery ahead of an advancing forest fire, while Brazilian police recovered stolen Matisse artworks in a significant cultural heritage recovery operation.",
+      "summary_en": "The United States' national debt has surpassed 40 trillion dollars for the first time, marking a significant fiscal milestone. Former President Trump announced plans for what he called \"the most destructive economic operation ever\" against Iran, though he provided no specifics on the intended measures. A NASA rescue mission for an important space telescope has failed, leaving the satellite at risk of burning up in the atmosphere.",
       "headlines": [
         {
-          "id": "95d71d336c",
-          "title": "'Unprecedented' rain kills five in Japan as thousands stranded at airport",
-          "url": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-14T13:11:48+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/17e68e19ed25b80e37efd7f163ec27d98dba3af4/284_0_2842_2274/master/2842.jpg?width=700&quality=85&auto=format&fit=max&s=2d64a29be26eb435c37e80299257c24f"
+          "id": "6050cf4d78",
+          "title": "American national debt exceeds 40 trillion dollars for the first time",
+          "url": "https://www.demorgen.be/snelnieuws/live-verenigde-staten-halveren-metaalheffingen-voor-canada~b13cc951/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-20T05:10:00+00:00",
+          "image_url": "https://image.demorgen.be/275201342/roi/320/320/3180/1640.4099999999999/afbeelding"
         },
         {
-          "id": "05650b84d2",
-          "title": "Broken engine parts shattered window of Ryanair aircraft, nearly sucking passenger out of plane",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/ryanair-oorzaak-gebroken-raam-vlucht/",
+          "id": "8d1fbfa0ff",
+          "title": "Middle East conflict LIVEBLOG: Trump announces 'most destructive economic operation ever' against Iran, but gives no details",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/trump-kondigt-meest-verwoestende-economische-operatie-ooit-teg~1784611610051/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/14/9cb74b42-9ef0-41e5-9bd4-e2ed960619a5.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/14/0e0e3863-4681-42ee-a80e-424bc48934bc.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "853182269f",
-          "title": "Remains of medieval kings removed from monastery in Spain as advancing forest fire spreads",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/14/spanje-oude-koningen-geevacueerd-wegens-brand/",
+          "id": "5aec1b9fea",
+          "title": "Space travel: Rescue mission of important NASA space telescope fails, satellite threatens to burn up in atmosphere",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/19/nasa-maakt-bekend-dat-haar-missie-om-een-telescoop-in-een-baan-o/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/14/e5a5970a-52a1-4a9e-a939-85c573a750c5.png?width=200&height=200&q=80&blur=90"
-        },
-        {
-          "id": "01a8723d16",
-          "title": "Stolen Matisse artworks recovered by police in Brazil",
-          "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-08-14T10:55:39+00:00",
-          "image_url": null
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/19/ac646443-e444-4f7b-89d4-ccf48f27722f.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
