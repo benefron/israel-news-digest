@@ -1,124 +1,114 @@
 {
-  "generated_at": "2026-08-20T15:32:02.669834+00:00",
-  "date": "2026-08-20",
+  "generated_at": "2026-08-21T10:10:37.154231+00:00",
+  "date": "2026-08-21",
   "degraded": false,
   "top_general": {
-    "summary_he": "בג\"ץ פסל פה אחד את החלטת הממשלה לסגור את גלי צה\"ל, בקביעה שהתקבלה על יסוד שיקול זר. במקביל, טראמפ הכריז על מבצע להחמרת הבידוד הכלכלי של איראן, במה שכינה \"יום D-Day כלכלי\", מבלי לפרט את מרכיביו. בזירה הפוליטית, נתניהו ניצח בליכוד אך לא מתקרב לניצחון בבחירות, בעוד איזנקוט משתפר בסקרים.",
+    "summary_he": "השביתה הפרועה בנתב\"ג ממשיכה להשפיע, ונתב\"ג נמנה עם השדות המושבתים ביותר בעולם, כשנתניהו דורש להדיח את פנחס עידן מהליכוד בעקבותיה. במקביל, הלחץ הכלכלי על איראן מתגבר עם הרחבת המצור של טראמפ, וסקר מעריב מראה התחזקות של הקואליציה מול איזנקוט.",
     "headlines": [
       {
-        "id": "7ed099b757",
-        "title": "לפני 11 דקות בג\"צ סגירת גל\"צ: נפסלה החלטת הממשלה לסגור את גלי צה\"ל - התקבלה על יסוד שיקול זר",
-        "url": "https://www.maariv.co.il/breaking-news/article-1358059",
-        "source": "maariv",
-        "source_label": "מעריב",
-        "source_label_he": "מעריב",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "f5faa5dbd3",
-        "title": "בג\"ץ פסל פה אחד את החלטת הממשלה לסגור את גל\"צ",
-        "url": "https://www.themarker.com/news/themedia/2026-08-20/ty-article/000001a0-1fbd-dc38-a7f1-3fbfcb040000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-08-20T15:16:05+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000017f-e175-d9aa-afff-f97ddc600000/00/24/ec5b011c3ab2adea0c243fdf4b22/3482023969.jpg?width=108&height=81"
-      },
-      {
-        "id": "0797f0f922",
-        "title": "טראמפ הכריז על מבצע להחמרת הבידוד הכלכלי של איראן מבלי לפרט מה יכלול",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-20/ty-article/.premium/000001a0-1d2b-df5c-afeb-bdbf1b070000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-20T03:39:58+00:00",
-        "image_url": null
-      },
-      {
-        "id": "1d2273f78d",
-        "title": "Declaring ‘economic D-Day,’ Trump says any country trading with Iran will be sanctioned",
-        "url": "https://www.timesofisrael.com/declaring-economic-d-day-trump-says-any-country-trading-with-iran-will-be-sanctioned/",
+        "id": "aee40c1ae9",
+        "title": "Ben Gurion Airport among most disrupted in the world, day after wildcat labor strike",
+        "url": "https://www.timesofisrael.com/ben-gurion-airport-among-most-disrupted-in-the-world-day-after-wildcat-labor-strike/",
         "source": "times_of_israel",
         "source_label": "Times of Israel",
         "source_label_he": "Times of Israel",
-        "published_at": "2026-08-20T03:46:36+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26231808349364-e1787181862213-1024x640.jpg"
+        "published_at": "2026-08-21T06:02:07+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/F260820AVS0020-1024x640.jpg"
       },
       {
-        "id": "4ffba7b7c8",
-        "title": "גם אחרי שניצח בליכוד, נתניהו לא מתקרב לניצחון בבחירות. איזנקוט דווקא כן",
-        "url": "https://www.haaretz.co.il/news/elections/sakran/2026-08-20/ty-article/.premium/000001a0-1b6c-d129-a3ba-5b6ec5900000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-20T03:01:01+00:00",
-        "image_url": null
+        "id": "17980e32a9",
+        "title": "נתניהו נגד פנחס עידן: \"הורה להדיחו מהליכוד בגלל השביתה הפרועה בנתב\"ג\"",
+        "url": "https://www.ynet.co.il/news/article/rktzekrdze",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-20T22:03:57+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/Skhrb1SDMe/Skhrb1SDMe_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "c8caa353d3",
+        "title": "המצור הכלכלי על איראן עולה מדרגה: אילו מדינות נמצאות על הכוונת של טראמפ?",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001552935",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-08-20T16:30:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784308104/AP26194656384758_hkiqu9.jpg"
+      },
+      {
+        "id": "24b571e530",
+        "title": "איזנקוט \"משאיר אבק\" לנתניהו, אך הקואליציה מתחזקת - ומה עם בנט? | סקר מעריב",
+        "url": "https://news.walla.co.il/item/3862185",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-08-21T08:00:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/0/4090717-46.png"
       }
     ]
   },
   "security_war": {
-    "summary_he": "באוקראינה, רוסיה שיגרה עשרות טילים בליסטיים והיפרסוניים לאזור קייב, ובתקיפה נהרגו 16 בני אדם ועשרות נפצעו; בצל המלחמה הודח שר ההגנה האוקראיני על ידי זלנסקי בקריאה חסרת תקדים לבחירות. בעזה מדווח על שורת חיסולי חשבונות פנימיים, כאשר לפי הדיווחים חמאס עומד מאחורי הצעד. במקביל נמשך הדיון סביב מצר הורמוז ומעורבות המתנחלים במצור על בתים בקוסרה, שעשויה להוביל לסנקציות.",
+    "summary_he": "צה\"ל חיסל בעזה מחבל חמאס שהחזיק חטופים בשבי, ובג'נין חוסל אביו של מבצע פיגוע דיזנגוף לאחר שניסה לדקור לוחם. חיזבאללה שוקל להחריף פעולות נגד צה\"ל, וגורמים בעוטף מביעים חשש מחדש נוכח שיקום גדודי חמאס. במקביל התגלה טיפול משטרתי באירוע אבנים בגוש עציון וגם חשיפת מנגנון להעברת כספים לחמאס.",
     "headlines": [
       {
-        "id": "436c0b352e",
-        "title": "אוקראינה: רוסיה שיגרה עשרות טילים בליסטיים וטילים היפרסוניים לאזור קייב, 16 בני אדם נהרגו ועשרות נפצעו",
-        "url": "https://www.haaretz.co.il/news/world/europe/2026-08-20/ty-article/.premium/000001a0-1e33-d399-afb3-9e3b1b470000",
+        "id": "e6c1adb701",
+        "title": "צה\"ל: חוסל בעזה מחבל חמאס שהחזיק חטופים רבים בשבי",
+        "url": "https://www.kan.org.il/content/kan-news/defense/live-1091444/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": "https://www.kan.org.il/media/nwjl1f0m/whatsapp-image-2026-08-21-at-100122.jpeg?width=490&height=272&v=1dd3154c7495a30"
+      },
+      {
+        "id": "8407630bb2",
+        "title": "1 דקות ביטחוני חוסל בג'נין אביו של המחבל מפיגוע הירי בדיזנגוף ב-2022 המחבל, חמוש בסכין, ניסה לדקור לוחם צה\"ל בעת שהכוחות היו בפעילות התקפית במרחב מחנה הפליטים - וחוסל בירי • לפי דיווחים מדובר בפתחי חאזם, אביו של המחבל שביצע את הפיגוע בבר האילקה בת\"א ב-2022 זמן קריאה: 1 דקות.",
+        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-ee08399a",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
+        "published_at": null,
+        "image_url": "https://cdn.i24news.tv/uploads/64/ed/0a/df/6b/81/18/c5/f6/fc/af/0f/4f/1c/1c/f2/64ed0adf6b8118c5f6fcaf0f4f1c1cf2.jpeg?width=350"
+      },
+      {
+        "id": "091f21af95",
+        "title": "\"שקט מתעתע\": חיזבאללה שוקל להחריף את פעולותיו נגד צה\"ל",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001553064",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-08-21T06:16:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1780219791/direct/Screenshot_2026-05-31_122743_wtpxzg.png"
+      },
+      {
+        "id": "8da714b3b1",
+        "title": "חמאס משקם גדודים, ומעט האמון של תושבי העוטף בצבא שוב נסדק",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-21/ty-article/.highlight/000001a0-2067-dc38-a7f1-3f6fcd670000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-08-20T08:33:00+00:00",
+        "published_at": "2026-08-21T03:00:06+00:00",
         "image_url": null
       },
       {
-        "id": "cdd2dc8102",
-        "title": "מרד פוליטי: שר ההגנה האוקראיני שהודח על ידי זלנסקי בקריאה חסרת תקדים לבחירות בצל המלחמה",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-a8f2f5b006910a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-19T17:36:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/19/GettyImages-2270802844_re_autoOrient_i.jpg"
-      },
-      {
-        "id": "758e9f7ac1",
-        "title": "שורת חיסולי החשבונות הפנימיים שמטלטלת את עזה: \"כאוס, חמאס עומד מאחורי הצעד המסוכן\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-9de48ba0d1a10a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-19T16:14:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/07/05/AP26136413847747_autoOrient_i.jpg"
-      },
-      {
-        "id": "2eaaeb2f58",
-        "title": "מי שולט במצר הורמוז? הנתונים המבלבלים והטענות הסותרות",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-4b771bcfaf810a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-19T14:38:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/12/n20-1208-trump_iran-ibud-1-1_re_autoOrient_i.jpg"
-      },
-      {
-        "id": "1101c1d035",
-        "title": "האקבי: המתנחלים המעורבים במצור על בתים בקוסרה עשויים לעמוד בפני סנקציות",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-20/ty-article/.premium/000001a0-1efe-d1cc-afb6-3efe64dd0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-20T13:11:55+00:00",
+        "id": "49a9ecf974",
+        "title": "טיול לא מאושר באזור גוש עציון הותקף באבנים, איש ביטחון הגיב בירי",
+        "url": "https://www.israelhayom.co.il/news/defense/article/21248435",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
         "image_url": null
       },
       {
-        "id": "fcb210dd98",
-        "title": "הקרב על התוכנית הרגישה באזור ירושלים: ניסיון לעצור את הבנייה ב-E1",
-        "url": "https://news.walla.co.il/item/3862135",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-20T16:12:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/4/2/3/3423368-46.jpg"
+        "id": "04ba72eeb0",
+        "title": "המסמכים, הפגישות - והקשר לסינוואר: כך עבר הכסף לחמאס",
+        "url": "https://13tv.co.il/item/news/politics/security/byat4-905313963/?pid=62&refc=902992425",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
       }
     ]
   },
@@ -126,207 +116,143 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "גוש השינוי מתרחק מהסיכוי להקים ממשלה, בעוד שבמשטרה המפכ\"ל עצר בפעם נוספת ברגע האחרון את סבב הקידומים.",
+      "summary_he": "בזירה הפוליטית, בנט וליברמן חושדים שאיזנקוט פועל נגדם, ובאופוזיציה הריבים נמשכים. בתוך הליכוד מתמודדים גם עם פרשת הדחת אלוף וכתם שמיוחס לשר הביטחון, וקלוגהפט מזהיר מבחירות אפשריות כבר ב-2027.",
       "headlines": [
         {
-          "id": "0974e37781",
-          "title": "גוש השינוי מתרחק מהסיכוי להקים ממשלה",
-          "url": "https://www.israelhayom.co.il/news/politics/article/21242587",
+          "id": "5efe9f6637",
+          "title": "בנט וליברמן משוכנעים שאיזנקוט פנה נגדם, ובאופוזיציה לא מפסיקים לריב",
+          "url": "https://www.haaretz.co.il/news/elections/2026-08-21/ty-article/.highlight/000001a0-205c-d399-afb3-b47e8dbe0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-21T03:00:29+00:00",
+          "image_url": null
+        },
+        {
+          "id": "7fd2320060",
+          "title": "שר הביטחון של הפריימריז: הדחת האלוף - והכתם של כ\"ץ",
+          "url": "https://13tv.co.il/item/news/opinions/zucb9-905294439/?pid=62&refc=902992437",
+          "source": "reshet13",
+          "source_label": "חדשות 13",
+          "source_label_he": "חדשות 13",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "98c76fd6c0",
+          "title": "בחירות גם ב-2027: כבר לא תרחיש דמיוני | משה קלוגהפט",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21245033",
           "source": "israel_hayom",
           "source_label": "ישראל היום",
           "source_label_he": "ישראל היום",
           "published_at": null,
           "image_url": null
-        },
-        {
-          "id": "a117555e56",
-          "title": "פעם נוספת: המפכ\"ל עצר ברגע האחרון את סבב הקידומים במשטרה",
-          "url": "https://www.ynet.co.il/news/article/rybr3bvvzl",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-20T10:20:46+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/13/SyU7uzjLzl/SyU7uzjLzl_0_62_1280_720_0_medium.jpg"
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "הכאוס בנתב\"ג נמשך עם שאלות סביב איסוף מזוודות, בעוד שברקע נמשכת תלות הכלכלה הישראלית בחברות טכנולוגיה בודדות כמו אינטל ואנבידיה. בתחום העסקי, שיערוך של כמיליארד שקל הקפיץ את רווחי ג'נריישן במחצית הראשונה של השנה.",
+      "summary_he": "הפנים הכלכליות של המערכה מול איראן מקבלות משנה תוקף, כשישראל עוברת ממאבק צבאי למאבק כלכלי. בארה\"ב מתחדשת המחלוקת סביב מיסוי עשירים לעומת ביטול מס הכנסה.",
       "headlines": [
         {
-          "id": "b24ab4ddd2",
-          "title": "הכאוס בנתב״ג: הטיסה אולי תמריא, אבל מה עם המזוודות?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001552936",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-08-20T12:56:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1787230478/WhatsApp_Image_2026-08-20_at_14.51.01_rfrmb6.jpg"
+          "id": "0d3295e137",
+          "title": "הפנים לאיראן: ממערכה צבאית למערכה כלכלית",
+          "url": "https://www.ynet.co.il/news/article/syve6uepme",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-21T08:37:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/05/HkwAmGbLzg/HkwAmGbLzg_0_0_850_479_0_medium.jpg"
         },
         {
-          "id": "9f86c8eb3c",
-          "title": "מאינטל לאנבידיה: הכלכלה הישראלית שוב מהמרת על ענקית טכנולוגיה אחת",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001552828",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-08-20T09:34:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/c_auto,g_north_west,h_392,w_800/v1736945596/direct/IMG-20250115-WA0003_lyqku2.jpg"
-        },
-        {
-          "id": "d21d76dc13",
-          "title": "שיערוך של כמיליארד שקל הקפיץ את רווחי ג'נריישן במחצית הראשונה של השנה",
-          "url": "https://www.themarker.com/markets/2026-08-20/ty-article/.premium/000001a0-1ea4-d293-a1e7-1eb4a0340000",
+          "id": "2008b9d6c7",
+          "title": "למסות את העשירים או לבטל את מס ההכנסה? המחלוקת שקורעת את ארה\"ב",
+          "url": "https://www.themarker.com/wallstreet/2026-08-21/ty-article/.premium/0000019f-f0fc-d310-a3df-f4ff54fd0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-20T10:42:40+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-1ebd-d129-a3ba-5ebfb5410000/a4/37/60144fd746cd9e217ead24f5ac9d/430559.jpg?width=108&height=81"
+          "published_at": "2026-08-21T06:20:43+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019d-aada-ded5-abdd-befaf5720000/c4/01/6f38ab234f76acd9d1cd58e75556/663465.jpg?width=108&height=81"
         }
       ]
     },
     {
       "key": "tech",
       "label_he": "טכנולוגיה והייטק",
-      "summary_he": "הכלכלה הישראלית ממשיכה להמר על ענקית טכנולוגיה בודדת, כאשר המוקד עובר מאינטל לאנבידיה.",
+      "summary_he": "חברה ישראלית תמכור מל\"טים מתאבדים לארה\"ב, ואנתרופיק מצפה שהנפקתה תתחרה בזו של ספייס-אקס.",
       "headlines": [
         {
-          "id": "9f86c8eb3c",
-          "title": "מאינטל לאנבידיה: הכלכלה הישראלית שוב מהמרת על ענקית טכנולוגיה אחת",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001552828",
+          "id": "56dfb986b6",
+          "title": "החברה הישראלית שתמכור לארה\"ב מל\"טים מתאבדים",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001552423",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-08-20T09:34:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/c_auto,g_north_west,h_392,w_800/v1736945596/direct/IMG-20250115-WA0003_lyqku2.jpg"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "הנסיך הארי ורעייתו מייגן חוזרים לגור בבריטניה לאחר שש שנים בארה\"ב וסכסוך עם משפחת המלוכה. בישראל התחתן שורד השבי אליה כהן עם בת זוגו הוותיקה בטקס מלא סמליות, ובתעשיית הטלוויזיה נזכר מת'יו פרי בסדרת \"חברים\".",
-      "headlines": [
-        {
-          "id": "d19fce08b8",
-          "title": "אחרי שש שנים בארה\"ב וסכסוך עם משפחת המלוכה, הנסיך הארי ורעייתו מייגן חוזרים לגור בבריטניה",
-          "url": "https://www.haaretz.co.il/news/world/europe/2026-08-20/ty-article/.premium/000001a0-1d99-dd2f-a1b6-7ddbc5dc0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-20T05:30:30+00:00",
-          "image_url": null
+          "published_at": "2026-08-21T03:45:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1717759184/direct/Hero-120_sky_fwueyk.jpg"
         },
         {
-          "id": "f87b5546ce",
-          "title": "Former hostage Eliya Cohen and longtime girlfriend wed in ceremony full of symbolism",
-          "url": "https://www.timesofisrael.com/former-hostage-eliya-cohen-and-longtime-girlfriend-wed-in-ceremony-full-of-symbolism/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-20T13:59:54+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/Screenshot-2026-08-20-at-3.44.24-PM-e1787229909191-1024x640.png"
-        },
-        {
-          "id": "249a9339fa",
-          "title": "מפיק ובמאי \"חברים\": \"מת'יו פרי חי לנצח, כל חמש דקות מישהו, איפשהו, צופה בסדרה\"",
-          "url": "https://e.walla.co.il/item/3862012",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-20T18:09:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/7/5/7/3757975-46.jpg"
-        }
-      ]
-    },
-    {
-      "key": "environment",
-      "label_he": "סביבה ואקלים",
-      "summary_he": "בבתי ספר בנגב דורשים להתנתק מגנרטורים מזהמים ומסוכנים לטובת לוחות סולאריים.",
-      "headlines": [
-        {
-          "id": "e935504ffc",
-          "title": "מזהמים, מסוכנים, רועשים: בבתי ספר בנגב דורשים להתנתק מהגנרטורים לטובת לוחות סולאריים",
-          "url": "https://www.haaretz.co.il/nature/2026-08-20/ty-article/.premium/000001a0-1e18-d129-a3ba-5e3a94720000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-20T09:41:49+00:00",
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "יפה בן־דויד מכריזה כי תילחם בתוכנית לפרק את משרד החינוך ומתנגדת לחוזים אישיים למורים. במקביל, ראש עיריית חיפה התריע על משבר בחינוך והציג כדוגמה את קצונת צה\"ל.",
-      "headlines": [
-        {
-          "id": "1cdd432bd0",
-          "title": "יפה בן־דויד: \"אלחם בתוכנית לפרק את משרד החינוך. חוזים אישיים? מי יבוא למערכת כזאת\"",
-          "url": "https://www.themarker.com/news/education/2026-08-20/ty-article/000001a0-1e6f-d293-a1e7-1eff8fbf0000",
+          "id": "d4196e3441",
+          "title": "אנתרופיק מצפה שהנפקתה תשתווה לזו של ספייס־אקס — או תתעלה עליה",
+          "url": "https://www.themarker.com/wallstreet/2026-08-21/ty-article/.premium/000001a0-20aa-d399-afb3-b4aaf1810000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-20T10:21:28+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-1e8d-d293-a1e7-1e9d16f90000/60/c6/0f64ece34f52bcde8b52a9055686/060633.jpg?width=108&height=81"
-        },
-        {
-          "id": "4eddc79c6c",
-          "title": "ראש עיריית חיפה התריע על משבר בחינוך - והציג כדוגמה את קצונת צה\"ל",
-          "url": "https://news.walla.co.il/item/3862113",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-20T14:15:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/0/4090397-46.jpeg"
+          "published_at": "2026-08-21T05:23:51+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-20be-d293-a1e7-38be1c580000/bf/6a/ee3be2e448909c1b2952e095347b/775579.jpg?width=108&height=81"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "כתבה חושפת עולם של פוליגמיה בנגב, שבו גבר אחד חי עם 9 נשים ו-45 ילדים.",
+      "summary_he": "הרב יצחק יוסף ניצח בקרב פנימי, אך דרעי לא מוותר במאבק על השליטה בש\"ס. במקביל מתפרסם טור על הסכנה שבקיצוניות יהודית.",
       "headlines": [
         {
-          "id": "4df013f92a",
-          "title": "גבר אחד, 9 נשים ו-45 ילדים: הצצה לעולם הפוליגמיה בנגב",
-          "url": "https://news.walla.co.il/item/3862110",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-20T15:30:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/0/4090560-46.jpeg"
+          "id": "d7f646d870",
+          "title": "הרב יצחק יוסף ניצח בקרב, אבל דרעי לא מתכוון לוותר במלחמה על ש\"ס",
+          "url": "https://www.haaretz.co.il/news/elections/2026-08-21/ty-article/.premium/000001a0-208a-d293-a1e7-389aff200000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-21T03:00:11+00:00",
+          "image_url": null
+        },
+        {
+          "id": "580ddaf933",
+          "title": "Yossi Klein Halevi: Why Jewish extremism is so seductive – and dangerous",
+          "url": "https://www.timesofisrael.com/yossi-klein-halevi-why-jewish-extremism-is-so-seductive-and-dangerous/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-08-21T08:41:37+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/2-2-1024x640.jpg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "עומסי חום קיצוניים צפויים ברוב הארץ בסוף השבוע, על פי תחזית מזג האוויר.",
+      "headlines": [
+        {
+          "id": "422baee706",
+          "title": "עומסי חום קיצוניים ברוב הארץ | תחזית מזג האוויר לסופ\"ש",
+          "url": "https://www.ynet.co.il/news/article/qrmmsgpk7",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-21T02:53:52+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/15/B18fp1kiBA/B18fp1kiBA_0_97_3000_1689_0_medium.jpg"
         }
       ]
     },
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "קיבוץ אמור לקבל 34 דירות בתמורה לשטח שיושב לרשות מקרקעי ישראל, ובענף הנדל\"ן מעלות שדרגה את דירוג החוב של שיכון ובינוי בעקבות מכירת נכסים.",
+      "summary_he": "כתבה בוחנת את עלות רכישת אי פרטי בהשוואה למחיר דירה בתל אביב.",
       "headlines": [
-        {
-          "id": "6e318408c1",
-          "title": "הקיבוץ שיקבל 34 דירות בתמורה לשטח שיושב לרמ\"י",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001552904",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-08-20T12:31:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1787220780/800_qc2m8j.jpg"
-        },
-        {
-          "id": "1d2da9bf73",
-          "title": "מעלות העלתה את החוב של שיכון ובינוי לדירוג A+ בעקבות מכירת נכסים",
-          "url": "https://www.themarker.com/markets/2026-08-20/ty-article/.premium/000001a0-1f0e-d293-a1e7-1f9e8a540000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-20T12:17:09+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-1f22-d293-a1e7-1fb21ac40000/9b/08/9b7d9b1647ddb2a2d2e719ded45c/434002.jpg?width=108&height=81"
-        },
         {
           "id": "213636f70f",
           "title": "פחות מדירה בת\"א: כמה עולה לקנות אי פרטי?",
@@ -358,182 +284,212 @@
   "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israel faced multiple controversies this week involving military operations and political statements in Gaza. National Security Minister Itamar Ben-Gvir posted a provocative video showing a gallows site intended for Palestinians, drawing widespread criticism. The Israeli military confirmed it fired on a car, killing a child, Hind Rajab, in Gaza, and opened a criminal investigation into the incident, though Australia expressed outrage after Israel declined to investigate the separate killing of an aid worker in the same region. Additionally, German authorities identified a neo-Nazi suspect in connection with a deadly 1970 arson attack on a Jewish retirement home in Munich.",
+      "summary_en": "The Israeli-Palestinian conflict continues to escalate, with significant developments regarding settlements and military operations. Belgian Foreign Minister Prévot strongly condemned plans for 1,200 new Israeli homes on occupied Palestinian territory as unacceptable. Israel has re-established a previously closed West Bank settlement despite international protests, while Israeli settler attacks are intensifying in West Bank areas under Palestinian control. Israel also acknowledged that its soldiers fired at a vehicle in which Palestinian child Hind Rajab was killed.",
       "headlines": [
         {
-          "id": "e675145349",
-          "title": "Israel's Ben-Gvir posts video of gallows site for hanging Palestinians",
-          "url": "https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians",
+          "id": "3663adf908",
+          "title": "Israeli-Palestinian conflict LIVEBLOG: Minister Prévot critical of new Israeli colonies on West Bank: \"Unacceptable\"",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/minister-prevot-scherp-voor-nieuwe-israelische-kolonies-op-weste~1787143375321/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/20/0b07fe0c-9f27-4146-a4b0-1d7b8874f47a.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "fe5cbb9945",
+          "title": "Prévot: \"1,200 Israeli homes on occupied Palestinian territory? Unacceptable\"",
+          "url": "https://www.hln.be/buitenland/prevot-1-200-israelische-woningen-op-bezet-palestijns-gebied-onaanvaardbaar~a99e0324/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-21T09:56:00+00:00",
+          "image_url": "https://images.hln.be/ZTM4MGQzMDhhNjFjNTk3ZTkyY2IvZGlvLzI3NjkxMTM3Mi9maXQtd2lkdGgvNDAw/deputy-prime-minister-and-minister-of-foreign-affairs-european-affairs-and-development-cooperation-of-the-kingdom-of-belgium-maxime-prevot-speaks-at-a-joint-press-conference-with-his-ukrainian-counterpart-andrii-sybiha-following-their-meeting-kyiv-ukraine-on-august-18-2026-photo-by-hennadii-minchenko-ukrinform-abacapress-com"
+        },
+        {
+          "id": "a6be9f29c6",
+          "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
+          "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-08-20T12:34:11+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/3417d5f446a8f6c4730ccf40c42443a5bc30ee6d/0_329_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=609fa498464e586bc7e76cd50b6d15a0"
+          "published_at": "2026-08-21T06:00:26+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/54e13f301954108c3b5370909d458d3d8875f235/560_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=41c8530d911d6e69960de74c7fa64593"
         },
         {
-          "id": "f0db32b6db",
-          "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-          "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+          "id": "be74360785",
+          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+          "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-08-20T04:17:53+00:00",
+          "published_at": "2026-08-21T05:00:57+00:00",
           "image_url": null
         },
         {
-          "id": "088e31d8fd",
-          "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-          "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-08-20T07:33:11+00:00",
-          "image_url": null
-        },
-        {
-          "id": "1acfe0c022",
-          "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-          "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-08-20T13:04:15+00:00",
-          "image_url": null
+          "id": "50063425df",
+          "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
+          "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-20T19:15:09+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/f8230805cca357ae6ff4dce57acf9547484cc359/52_27_1153_922/master/1153.jpg?width=700&quality=85&auto=format&fit=max&s=655a4f305619bd552aa62615f85a6036"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium experienced significant institutional and environmental developments this week. Anne Thilly, an 88-year-old Belgian public figure who became prominent during the Marc Dutroux case era, passed away. Ghent University suspended controversial researcher Nathan Cofnas following the death of a Black Cambridge professor. A waterspout was spotted off the Belgian coast, with authorities warning that surfers and sailors could be swept away by the dangerous phenomenon.",
+      "summary_en": "Belgium faces multiple domestic challenges across the housing and education sectors. The social housing crisis is deepening as more subsidized apartments sit vacant while waiting lists continue to expand. Ghent University rector Petra De Sutter has suspended professor Nathan Cofnas following months of student protests over his controversial views. In the Ardennes region, the situation in Hoge Venen has improved following recent evacuations but remains fragile, with roads closed and the area still restricted to essential access.",
       "headlines": [
         {
-          "id": "b2081ceee9",
-          "title": "Anne Thilly (88) deceased: how she became the 'iron lady' of the Dutroux years",
-          "url": "https://www.hln.be/binnenland/anne-thilly-88-overleden-hoe-ze-uitgroeide-tot-iron-lady-van-de-dutroux-jaren~a148ae33/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-20T13:30:00+00:00",
-          "image_url": "https://images.hln.be/ZjE5OTJhMWQ5MTUwOTg2YzQ0YzAvZGlvLzI3NjkxNzA2My9maXQtd2lkdGgvNDAw/rentree-judiciaire-a-liege-photo-la-mercuriale-de-rentree-du-procureur-general-mme-anne-thily-ps-politicus-alain-van-der-biest-58-pleegt-zelfmoord-reactie-van-anne-thily-luiks-procureur-generaal-verschenen-19-03-2002-p4-brussel-luik-cassatie-fluit-anne-thily-terug-in-behandeling-van-klacht-tegen-minnares-van-haar-man-topmagistrate-wou-rechter-en-partij-zijn-verschenen-21-6-2002-p3-tekst-jose-masschelin-inzet-melissa-russo-et-julie-lejeune"
+          "id": "3bbd98d054",
+          "title": "Increasingly more social housing units stand empty, while waiting list continues to grow",
+          "url": "https://www.demorgen.be/nieuws/steeds-meer-sociale-woningen-staan-leeg-terwijl-wachtlijst-blijft-aangroeien~bad4e827/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-21T01:00:13+00:00",
+          "image_url": "https://image.demorgen.be/275710937/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "107cf69b66",
-          "title": "UGent suspends controversial researcher Nathan Cofnas after death of Black Cambridge professor",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/20/gent-schorsing-cofnas-omstreden-rassenrealist-cambridge-jason-ar/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/20/ec79b57c-3e17-424a-a6f1-514517ad3aec.jpg?width=200&height=125&q=80&blur=90"
+          "id": "70b1a30aee",
+          "title": "After months of protests, Ghent University suspends 'race realist' Nathan Cofnas: why does rector Petra De Sutter act now?",
+          "url": "https://www.demorgen.be/nieuws/na-maanden-protest-schorst-ugent-rassenrealist-nathan-cofnas-waarom-grijpt-rector-petra-de-sutter-nu-wel-in~b3b216bf/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-20T18:05:00+00:00",
+          "image_url": "https://image.demorgen.be/276900490/roi/320/320/1561/1159/afbeelding"
         },
         {
-          "id": "c044862363",
-          "title": "Waterspout spotted at Belgian coast: \"Surfers or sailors could be swept away\"",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/20/waterhoos-verschenen-door-warm-zeewater-veel-minder-gevaarlijk/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/20/7232095f-e97e-4ad3-8011-6849cdac9da6.png?width=200&height=125&q=80&blur=90"
+          "id": "0d39a09009",
+          "title": "Live - Situation in Hoge Venen improves but remains fragile: 'Roads remain closed and area remains forbidden territory,' emphasizes Liège province",
+          "url": "https://www.demorgen.be/snelnieuws/live-situatie-in-de-hoge-venen-verbetert-maar-blijft-fragiel-wegen-blijven-afgesloten-en-gebied-blijft-verboden-terrein-benadrukt-provincie-luik~b9a760bb/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-21T09:14:00+00:00",
+          "image_url": "https://image.demorgen.be/276943072/feature-crop/320/320/hoge-venen-brandweer-zone-rand"
+        },
+        {
+          "id": "b59ab4cc3c",
+          "title": "Therapeutic theatre or a slap in the face? The biggest dilemma of day two on Pukkelpop",
+          "url": "https://www.demorgen.be/festivals/therapeutisch-theater-of-een-klap-tegen-je-kanis-het-grootste-dilemma-van-dag-twee-op-pukkelpop~b6606faf/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-21T01:00:00+00:00",
+          "image_url": "https://image.demorgen.be/276918208/feature-crop/320/320/afbeelding"
         }
       ]
     },
     "europe": {
-      "summary_en": "Europe faces mounting geopolitical tensions and economic pressures. The Ukraine-Russia war escalated as Russian ballistic missile attacks killed at least 15 people in Kyiv, while Romanian F-16 fighters destroyed a Russian naval drone near a Black Sea gas project, prompting European Commission President Ursula von der Leyen to warn of escalating threats. New threats from Trump pushed oil prices higher, sending European gas prices to their highest levels in months. In French politics, former Prime Minister François Fillon was suspended from a top national honor following his conviction in a fake jobs scandal.",
+      "summary_en": "Europe faces mounting economic and security challenges amid war, natural disasters, and infrastructure concerns. Anxiety over conflict, wildfires, and cyber threats has prompted a significant increase in cash holdings among EU residents seeking financial security. Ukraine continues active military operations, integrating Starlink drones against Russian ballistic missile systems, while recent Russian drone strikes killed two women in Kharkiv. In Britain, retail sales have declined despite strong summer demand driven by rising temperatures. Cyclist Julian Alaphilippe, a two-time world champion, has retired after competing in the Tour de France.",
       "headlines": [
         {
-          "id": "29c6fd446f",
-          "title": "EU's von der Leyen warns of 'escalating campaign of threats' as Romania destroys naval drone – Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+          "id": "c1ad5b3fd4",
+          "title": "Anxiety over war, wildfires and cyber-attacks leads to growth in cash stocks in EU",
+          "url": "https://www.theguardian.com/world/2026/aug/21/anxiety-over-war-wildfires-and-cyber-attacks-leads-to-growth-in-cash-stocks-in-eu",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-08-20T14:47:39+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/7214ea56392894e1c394cec5f2e922223c61f631/342_0_924_739/master/924.jpg?width=700&quality=85&auto=format&fit=max&s=5cbf5137b2361de66c1685e1327544ef"
+          "published_at": "2026-08-21T04:00:24+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/3d86e0a74d5b086fa0a264cb2c5d7c8a58d86989/202_0_3540_2832/master/3540.jpg?width=700&quality=85&auto=format&fit=max&s=d909b1d3935dae8d927f29e48628b58e"
         },
         {
-          "id": "2d927146d7",
-          "title": "At least 15 dead after Russian attack with ballistic missiles on Kyiv",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/minstens-15-doden-na-russische-aanval-met-ballistische-raketten-~1781787179742/",
+          "id": "764734e72e",
+          "title": "Live - Ukraine wants to deploy drones with Starlink to destroy Russian ballistic missile launchers • Two women killed by Russian drones in Kharkiv",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-oekraine-wil-drones-met-starlink-inzetten-om-russische-ballistische-raketlanceerders-te-vernietigen-twee-doden-bij-oekraiense-aanval-op-de-krim~b38bed0a/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-21T08:41:00+00:00",
+          "image_url": "https://image.demorgen.be/234096731/roi/320/320/2416.74/1439.76/afbeelding"
+        },
+        {
+          "id": "2e4500d414",
+          "title": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
+          "url": "https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-21T08:58:10+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/c0fd22059f3e8aaae715dbf1d523b0735b5fe1e4/483_0_3252_2603/master/3252.jpg?width=700&quality=85&auto=format&fit=max&s=a4006013ebe4dd3d11fbbb7019094cef"
+        },
+        {
+          "id": "681c930b17",
+          "title": "Two-time world champion Julian Alaphilippe ends career: Tour de France was his final race",
+          "url": "https://www.demorgen.be/sport/tweevoudig-wereldkampioen-julian-alaphilippe-zet-punt-achter-carriere-tour-de-france-was-zijn-laatste-koers~b1c80a91/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-21T05:17:00+00:00",
+          "image_url": "https://image.demorgen.be/276935929/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "77f8b28ba7",
+          "title": "Europe - The 'sacred sand' of Spotorno: Italian nuns angry because municipality takes away their beach patch",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/20/italie-zusters-strijden-om-stukje-strand/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/02/6c55fd8c-a97e-4d30-a022-ae20e480610d.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "85103bb500",
-          "title": "Romanian F-16s destroy Russian sea drone near Neptun Deep gas project: \"This is hybrid warfare\"",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/20/roemenie-drone-maritiem-neptun-deep-gas-project/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/20/d28bf322-2cd6-460c-b859-6dc8b4ec8203.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "1d51105abc",
-          "title": "Former PM Fillon suspended from top French honor over fake jobs conviction",
-          "url": "https://www.politico.eu/article/francois-fillon-suspended-highest-french-honor-fake-jobs-scandal/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-08-20T08:05:53+00:00",
-          "image_url": null
-        },
-        {
-          "id": "6b41f5db75",
-          "title": "New threats from Trump push up oil prices - European gas prices to highest level in months",
-          "url": "https://www.hln.be/economie/nieuwe-dreigementen-van-trump-stuwen-de-olieprijs-europese-gasprijs-naar-hoogste-niveau-in-maanden~a634e96a/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-20T14:34:00+00:00",
-          "image_url": "https://images.hln.be/YjhiMzA4OGZkNWRhNGYyNGMzMmIvZGlvLzI3NjkyMjk0OS9maXQtd2lkdGgvNDAw/8-19-2026-washington-district-of-columbia-united-states-of-america-washington-dc-august-19-us-president-donald-trump-speaks-during-a-meeting-with-us-president-donald-trump-and-crypto-and-prediction-market-executives-in-the-roosevelt-room-of-the-white-house-in-washington-dc-us-on-wednesday-aug-19-2026-al-drago-cnp-polaris-only-belgium-local-caption-08295047-a-photo-illustration-shows-gas-burning-on-a-domestic-hob-in-london-on-october-10-2021-european-and-uk-gas-prices-surged-to-record-peaks-last-week-energised-by-fears-of-runaway-demand-in-the-upcoming-northern-hemisphere-winter-photo-by-niklas-halle-n-afp"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/20/cacb6cda-c409-40c1-8a4a-a08ea7a3f955.jpg?width=200&height=200&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Global news this week featured significant developments across multiple continents. North Korea fired ballistic missiles again amid ongoing diplomatic tensions as Trump seeks rapprochement in the region. A tragic maritime disaster in Nigeria killed at least 40 children when an overloaded boat capsized. Prince Harry and Meghan surprised observers by temporarily returning to the United Kingdom. UK cinemas are considering banning Meta smart glasses due to concerns about unauthorized video recording and piracy.",
+      "summary_en": "Global crises and economic concerns dominate international headlines. The Ebola outbreak in Congo has claimed an estimated 2,500 lives according to UN figures, marking a severe public health emergency. The United States is confronting mounting economic pressures, with national debt exceeding $40 trillion and rising interest rates prompting widespread concern. Geopolitical tensions remain elevated in the Middle East, as a new U.S. aircraft carrier arrived for crew rotations while Iran continues to condemn American sanctions as crimes against humanity. Hong Kong authorities have convicted two activists for commemorating the 1989 Tiananmen Square protests.",
       "headlines": [
         {
-          "id": "074c428735",
-          "title": "North Korea reportedly fires ballistic missiles again as Trump seeks rapprochement",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/20/noord-korea-kim-jong-un-ballistische-raketten/",
+          "id": "100aa10aad",
+          "title": "Ebola outbreak in Congo LIVEBLOG - Ebola outbreak in Congo has claimed 2,500 lives, says UN",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/ebolauitbraak-in-congo-eiste-al-2500-mensenlevens-zegt-vn~1779777185712/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/20/96643d26-91f2-4796-a1c5-f17d55f67bd3.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/21/0ffcaa02-d32b-4905-81a2-5563a31608b8.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "76e033f9a6",
-          "title": "At least forty children killed after overloaded boat capsizes in Nigeria",
-          "url": "https://www.hln.be/buitenland/zeker-veertig-kinderen-omgekomen-nadat-overvolle-boot-kapseist-in-nigeria~a66c272e/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-20T15:26:08+00:00",
-          "image_url": "https://images.hln.be/MTY3MGM3YTA2ZjhiZGJlNDY1NjAvZGlvLzI3NjkyMzYxOC9maXQtd2lkdGgvNDAw/bodies-of-victims-of-a-boat-accident-lie-in-the-forecourt-of-a-community-mosque-ahead-of-their-burial-in-gorau-sokoto-state-nigeria-august-20-2026-picture-taken-with-a-mobile-phone-reuters-abubakar-imam"
+          "id": "4c55b050e7",
+          "title": "US national debt now higher than $40 trillion, and interest rates keep rising",
+          "url": "https://www.demorgen.be/nieuws/amerikaanse-staatsschuld-nu-hoger-dan-40-biljoen-en-de-rente-loopt-maar-op~b3be58ca/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-21T09:30:47+00:00",
+          "image_url": "https://image.demorgen.be/276906442/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "747ea491bc",
-          "title": "Prince Harry and Meghan surprise again and (temporarily) return to the United Kingdom",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/20/kinderen-harry-en-meghan-lopen-school-in-verenigd-koninkrijk/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/20/fe321b43-a271-4965-9b8f-6a46b9e6f301.jpg?width=200&height=125&q=80&blur=90"
+          "id": "4f5d67d601",
+          "title": "Why the US economy is ringing alarm bells",
+          "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-21T08:38:18+00:00",
+          "image_url": null
         },
         {
-          "id": "a40a6718df",
-          "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
-          "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-20T14:57:25+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/092980621b33770617e1cd5770cc6ae9ff39734f/121_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=f7fabfcb833be22780481a41ea78153a"
+          "id": "76ba84fc08",
+          "title": "Live - New aircraft carrier arrived in Middle East to relieve crew after 250 days at sea • Iran: US sanctions are crimes against humanity",
+          "url": "https://www.demorgen.be/snelnieuws/live-nieuw-vliegdekschip-aangekomen-in-midden-oosten-om-bemanning-af-te-lossen-na-250-dagen-op-zee-iran-sancties-vs-zijn-misdaad-tegen-de-mensheid~be9c4f82/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-21T04:42:00+00:00",
+          "image_url": "https://image.demorgen.be/276897968/roi/320/320/2805/1918.28/afbeelding"
+        },
+        {
+          "id": "7ee9c49c93",
+          "title": "Two Hong Kong activists convicted for commemorating Tiananmen protest",
+          "url": "https://www.demorgen.be/nieuws/twee-hongkongse-activisten-veroordeeld-voor-herdenken-tiananmen-protest~b8185ce1/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-21T06:20:00+00:00",
+          "image_url": "https://image.demorgen.be/276939363/feature-crop/320/320/afbeelding"
         }
       ]
     },
