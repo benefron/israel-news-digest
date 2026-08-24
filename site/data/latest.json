@@ -1,39 +1,59 @@
 {
-  "generated_at": "2026-08-23T10:25:54.317616+00:00",
+  "generated_at": "2026-08-24T08:52:58.630527+00:00",
   "date": "2026-08-23",
-  "degraded": false,
+  "degraded": true,
   "top_general": {
-    "summary_he": "הכוח הרב-לאומי אמור להיכנס לשטח מוגדר ברצועת עזה, בעוד המתיחות בזירה הסורית והטורקית ממשיכה להעסיק את הדרג המדיני והביטחוני בישראל. במקביל, אירוע אלימות חמור במזרח ירושלים הותיר שלושה הרוגים לאחר סכסוך משפחתי שהסתיים בירי שוטרים. בזירה הבינלאומית דווח כי איראן השביתה תחנת כוח בבריטניה במתקפת סייבר חסרת תקדים, ובאוקראינה נהרגו 16 בני אדם במתקפת כטב\"מים על קניון.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "1b7f30db90",
-        "title": "השטח בעזה שאליו ייכנס הכוח הרב-לאומי הראשון",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001553078",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-08-22T06:33:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1737533343/direct/AP24257812235580_ftpx7k.jpg"
+        "id": "2ea2a4120a",
+        "title": "המרוויחים הבלתי צפויים ממלחמת איראן: הפיראטים של סומליה חוזרים לים",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b0afe75f00120a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-22T20:50:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/21/GettyImages-147107958_re_autoOrient_i.jpg"
       },
       {
-        "id": "5a1939f7a0",
-        "title": "התקיפה בסוריה חושפת פיצול אישיות בהסברה הישראלית",
-        "url": "https://www.haaretz.co.il/news/elections/2026-08-22/ty-article/000001a0-28a5-d399-afb3-bcafa8430000",
+        "id": "53e9266198",
+        "title": "בצה\"ל צפויים להבהיר לכץ כי אי אפשר להעביר למשטרה סמכויות בגדה בלי סיפוחה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-23/ty-article/.premium/000001a0-1eb0-d129-a3ba-5eba9b620000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-08-22T17:56:18+00:00",
+        "published_at": "2026-08-23T03:00:47+00:00",
         "image_url": null
       },
       {
-        "id": "571ff2c1d3",
-        "title": "01:31 מזרח ירושלים: סכסוך משפחתי בסילוואן יצא משליטה - לפחות 3 הרוגים | צפו",
-        "url": "https://www.maariv.co.il/breaking-news/article-1358648",
-        "source": "maariv",
-        "source_label": "מעריב",
-        "source_label_he": "מעריב",
-        "published_at": null,
+        "id": "a2e1597db2",
+        "title": "\"טיולי המתנחלים\" בגדה מסתיימים בעוד הרוגים. בצה\"ל ובמשטרה מתנערים מאחריות",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-23/ty-article/.premium/000001a0-29b2-dc38-a7f1-3fbf64db0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-23T03:01:04+00:00",
         "image_url": null
+      },
+      {
+        "id": "4875b116bd",
+        "title": "דיווח: איראן הצליחה להשבית לראשונה תחנת כוח בבריטניה",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-c84437b765b20a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-23T03:53:00+00:00",
+        "image_url": "https://img.mako.co.il/2019/03/02/697871_I.jpg"
+      },
+      {
+        "id": "075fc39361",
+        "title": "משבר בצפון אמריקה: ארה\"ב הטילה מכסים של 50% על מוצרים מקנדה לאחר קריסת שיחות הסחר",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-4fb6d76d92820a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-23T04:59:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/04/AP26215667694119_re_autoOrient_i.jpg"
       },
       {
         "id": "01cd375fd0",
@@ -46,259 +66,32 @@
         "image_url": null
       },
       {
-        "id": "c9e6576a7c",
-        "title": "מתקפת הכטב\"מים על הקניון באוקראינה: 16 הרוגים ויותר מ-130 פצועים",
-        "url": "https://news.walla.co.il/item/3862435",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-22T18:38:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/0/4090984-46.jpg"
+        "id": "0d2f542518",
+        "title": "פיגוע דקירה ליד יריחו: צעיר בן 24 נפצע בינוני; הדוקר נמלט מהזירה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-23/ty-article/.premium/000001a0-2d5e-dd2f-a1b6-7ddee8d50000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-23T06:46:30+00:00",
+        "image_url": null
+      },
+      {
+        "id": "31d3da690b",
+        "title": "כולל טיל ישראלי: תוכנית ההתעצמות הצבאית הענקית של גרמניה - נגד רוסיה",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-2f005aaa97d20a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-23T07:22:00+00:00",
+        "image_url": "https://img.mako.co.il/2025/09/19/AP25246532126140_re_autoOrient_i.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "צה\"ל תקף מספר יעדים בדרום לבנון וברכס עלי טאהר, ובסוריה בוצעה תקיפה שמעוררת פולמוס פוליטי בישראל. בעזה מדווח על עפיפונים שחצו את הגבול באזור נחל עוז, כשבצה\"ל מעריכים כי מדובר בנערים המופעלים על ידי חמאס. מלבנון והמזרח התיכון עולה חשש מהסלמה מול טורקיה, ובד בבד מתפרסמים דיווחים על מו\"מ בין איראן לארה\"ב סביב הסנקציות.",
-    "headlines": [
-      {
-        "id": "766fcbc63d",
-        "title": "דיווח: ישראל תקפה ברכס עלי טאהר ובאזורים נוספים בדרום לבנון",
-        "url": "https://13tv.co.il/item/news/politics/security/day-1052-905323191/?pid=62&refc=902992383",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "9612de8c2b",
-        "title": "מ\"שלום מקיף\" ל\"פרובוקציה של מלחמה\": ההסלמה בזירה הסורית - והקשר לטורקיה",
-        "url": "https://www.ynet.co.il/news/article/hjamigvvmg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-22T21:25:28+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/HyOsbJfDfx/HyOsbJfDfx_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "0a48e00fa0",
-        "title": "שישה עפיפונים חצו לעוטף עזה - בצה\"ל מעריכים: חמאס מפעיל נערים",
-        "url": "https://news.walla.co.il/item/3862466",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-23T08:50:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/2/6/2/2/2622460-46.jpg"
-      },
-      {
-        "id": "d417adf32a",
-        "title": "איראן: כל מדינה שתצטרף לסנקציות האמריקניות תיחשב \"אויבת\"",
-        "url": "https://www.makorrishon.co.il/news/middleeast/article/362691",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "6eaf866822",
-        "title": "דיווח: איראן הוזמנה להצטרף להסכם מכה – בטהרן בוחנים את ההצעה",
-        "url": "https://www.makorrishon.co.il/news/middleeast/article/362682",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
-        "image_url": null
-      }
-    ]
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "בזירה הפוליטית הפנימית, נמשך הוויכוח סביב סמכויות המשטרה בגדה והביקורת על שר הביטחון כ\"ץ. שב\"כ החליט שלא לאבטח את גדעון איזנקוט, מועמד מרכזי לבחירות, מה שעורר ביקורת בקרב מפלגתו. במקביל, ח\"כ עבאס קרא להכיר במדינה פלסטינית - קריאה שעוררה זעם במפלגות הציוניות.",
-      "headlines": [
-        {
-          "id": "ca130a6cc6",
-          "title": "שב\"כ החליט שלא לאבטח את איזנקוט; מפלגת ישר: \"האיום עליו הולך וגובר\"",
-          "url": "https://www.haaretz.co.il/news/elections/2026-08-22/ty-article/.premium/000001a0-2a76-d293-a1e7-3af6185d0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-22T18:05:13+00:00",
-          "image_url": null
-        },
-        {
-          "id": "11f90ca252",
-          "title": "עבאס קרא להכיר במדינה פלסטינית; איזנקוט: זה לא יקרה בממשלה שנקים",
-          "url": "https://www.haaretz.co.il/news/elections/2026-08-22/ty-article/000001a0-2a9c-d293-a1e7-3a9c98d30000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-22T18:38:59+00:00",
-          "image_url": null
-        },
-        {
-          "id": "53e9266198",
-          "title": "בצה\"ל צפויים להבהיר לכץ שלא ניתן להעביר למשטרה סמכויות בגדה בלי סיפוחה",
-          "url": "https://www.haaretz.co.il/news/politics/2026-08-23/ty-article/.premium/000001a0-1eb0-d129-a3ba-5eba9b620000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-23T03:00:47+00:00",
-          "image_url": null
-        },
-        {
-          "id": "a17ffe4c81",
-          "title": "Bennett: ‘Anarchist’ Netanyahu’s toxic campaigning may lead to violence against his rivals",
-          "url": "https://www.timesofisrael.com/bennett-anarchist-netanyahus-toxic-campaigning-may-lead-to-violence-against-his-rivals/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-22T23:21:34+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/DUAL555-1024x640.jpeg"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "משבר סחר בין ארה\"ב לקנדה החריף לאחר שארה\"ב הטילה מכסים של 50% על מוצרים קנדיים בעקבות קריסת שיחות הסחר. בישראל, משבר בנתב\"ג נמשך עם איומי שביתה של הסבלים ותלונות על שכר, ומדווח כי מתחוללת תפנית בשוק המשכנתאות לטובת הבנקים הקטנים.",
-      "headlines": [
-        {
-          "id": "075fc39361",
-          "title": "משבר בצפון אמריקה: ארה\"ב הטילה מכסים של 50% על מוצרים מקנדה לאחר קריסת שיחות הסחר",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-4fb6d76d92820a1027.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-08-23T04:59:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/08/04/AP26215667694119_re_autoOrient_i.jpg"
-        },
-        {
-          "id": "7ab8ef2ad4",
-          "title": "מחירי הכאוס: 30 אלף שקל בחודש לסבלים בנתב\"ג - ופנחס עידן מתלונן שמקפחים אותם",
-          "url": "https://news.walla.co.il/item/3862261",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-22T20:00:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/0/4090564-46.jpeg"
-        },
-        {
-          "id": "0deda43ef2",
-          "title": "פנחס עידן מאיים: \"לא מבטיח שהכל יהיה בסדר בנתב\"ג בשבוע הבא\"",
-          "url": "https://news.walla.co.il/item/3862446",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-22T20:13:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/2/9/7/4/2974457-46.jpg"
-        },
-        {
-          "id": "2816b04afb",
-          "title": "תפנית בשוק המשכנתאות: הבנקים הקטנים נגסו בנתח של הגדולים",
-          "url": "https://www.themarker.com/realestate/2026-08-23/ty-article/.highlight/000001a0-2932-d129-a3ba-6b3a57d50000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-23T03:00:02+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-29d6-dd2f-a1b6-79deb3ff0000/ac/01/2a886fe8451baa8b2a0340717c7b/849970.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "חברת טיקטוק תשלם קנס של 400 מיליון דולר בארה\"ב בעקבות פגיעה בפרטיות ילדים. בעולם הבינה המלאכותית מדווח על תחרות עזה בין OpenAI לאנתרופיק שעשויה לעצב את עתיד התחום, וכן על ירידה בציוני מבחנים בעקבות שימוש נרחב ב-AI בקרב תלמידים.",
-      "headlines": [
-        {
-          "id": "2904993225",
-          "title": "טיקטוק פגעה בפרטיות ילדים — ותשלם קנס של 400 מיליון דולר בארה\"ב",
-          "url": "https://www.themarker.com/wallstreet/2026-08-22/ty-article/.premium/000001a0-27d9-dd2f-a1b6-7fdb80180000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-22T08:49:11+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-27de-dd2f-a1b6-7fde3bbe0000/cd/31/a805b9834ebe866bc32e4cb24556/775079.jpg?width=108&height=81"
-        },
-        {
-          "id": "93707f4147",
-          "title": "קרב יצרי ואישי: היריבות בין OpenAI לאנתרופיק תגדיר את עתיד ה–AI",
-          "url": "https://www.themarker.com/technation/2026-08-23/ty-article/.highlight/000001a0-287e-dd2f-a1b6-79fef0610000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-23T03:10:27+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-297b-dd2f-a1b6-79fb580d0000/f4/c1/567f090246ab94ef6f78f764f811/168170.jpg?width=108&height=81"
-        },
-        {
-          "id": "4f3b420d27",
-          "title": "ציוני המבחנים נפלו אחרי שהתלמידים החלו להשתמש ב-AI — אבל לא לכולם",
-          "url": "https://www.themarker.com/wallstreet/2026-08-23/ty-article/.highlight/000001a0-1e34-d293-a1e7-1eb4a58e0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-23T03:02:21+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-1e39-d399-afb3-9e3b50e60000/22/e1/1bdb2f1d4bd9a818ffca30e6037b/022911.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "משרד החינוך מבטיח תוכנית ליבה אחידה לכלל התלמידים, אך עולה חשש שהדבר יוביל להנמכת רמת הלימודים. במקביל, מתפרסמת ביקורת על תפקודו של שר החינוך קיש בתפקידו.",
-      "headlines": [
-        {
-          "id": "f25d5d9ae0",
-          "title": "משרד החינוך מבטיח תוכנית ליבה לכולם — האם רמת הלימודים תונמך לשם כך?",
-          "url": "https://www.themarker.com/news/education/2026-08-23/ty-article/.premium/000001a0-2865-dd2f-a1b6-79efe3e90000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-23T03:01:14+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-2940-d129-a3ba-6b6ab4c30000/45/56/9d65343f4a218e9bf735bd882c6d/010585-2.jpg?width=108&height=81"
-        },
-        {
-          "id": "5fbcf64e9a",
-          "title": "הציון טעון שיפור - והוא מבקש מועד ב': הקדנציה של קיש במשרד החינוך",
-          "url": "https://www.ynet.co.il/news/article/yokra14855737",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-22T21:00:00+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/29/BJxBBa11lmzl/BJxBBa11lmzl_0_0_1080_720_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "בצפת ובמירון פרצו עימותים בין מפגינים חרדים למשטרה סביב יציאת אוטובוסים בשבת. במקביל, משרד העבודה ביטל יריד תעסוקה לחרדים בשל הגבלות על הפרדה מגדרית, ולאחר מכן הכחיש זאת.",
-      "headlines": [
-        {
-          "id": "0248e61bcc",
-          "title": "עימותים בצפת ובמירון: מפגינים חרדים ניסו לחסום יציאת אוטובוסים",
-          "url": "https://news.walla.co.il/item/3862437",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-22T19:13:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/5/4085955-46.jpeg"
-        },
-        {
-          "id": "8328904322",
-          "title": "משרד העבודה ביטל יריד תעסוקה לחרדים בגלל הגבלה על הפרדה מגדרית - והכחיש",
-          "url": "https://www.ynet.co.il/news/article/yokra14873137",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-23T05:18:25+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2012/07/12/4038280/4038280_0_114_983_554_0_medium.jpg"
-        }
-      ]
-    }
-  ],
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -317,162 +110,202 @@
   "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Syria has condemned an Israeli military strike near Damascus as a violation of international law. The strike represents a continued escalation in military operations affecting the broader Middle East region.",
+      "summary_en": "The headlines cover Israel's diplomatic engagement with Syria, international pressure regarding Gaza, and concerns about antisemitic hate campaigns. Syria has expressed interest in renewed talks with Israel despite previous failed negotiations. UK Labour leadership faces calls to recognize Israel's actions in Gaza as genocide. Academic figures associated with antisemitic conspiracy narratives have been identified conducting targeted hate campaigns.",
       "headlines": [
         {
-          "id": "e31109fac9",
-          "title": "Syria says Israeli strike near Damascus violation of international law",
-          "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-08-22T21:42:42+00:00",
-          "image_url": null
+          "id": "1f08c1663d",
+          "title": "We did not see the will to reach agreement: why Syria wants to sit down with Israel again",
+          "url": "https://www.demorgen.be/nieuws/we-zagen-niet-de-wil-om-tot-overeenstemming-te-komen-waarom-syrie-toch-weer-met-israel-aan-tafel-wil~b483bbd6/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-24T01:00:00+00:00",
+          "image_url": "https://image.demorgen.be/277011740/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "0f7415ce5b",
+          "title": "Burnham to face pressure at Labour conference to recognise Israel's actions in Gaza as genocide",
+          "url": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-23T11:26:40+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/ec0744852a17ac2bbbae27142080744bd3f9b1e2/889_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=77cdd9062b137221fcc735988c4cf56a"
+        },
+        {
+          "id": "f7cb7bcb07",
+          "title": "Cofnas is not only an academic whistleblower, he conducted a targeted hate campaign",
+          "url": "https://www.demorgen.be/meningen/cofnas-is-niet-alleen-een-academische-klokkenluider-hij-voerde-een-gerichte-haatcampagne~b08f54b6/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-24T01:00:00+00:00",
+          "image_url": "https://image.demorgen.be/276932496/feature-crop/320/320/lezing-nathan-cofnas-aan-de-u-gent"
+        },
+        {
+          "id": "12242fafe9",
+          "title": "'The US is the epicenter of resistance against the one-world state': who is Peter Thiel, the billionaire in the network around Nathan Cofnas?",
+          "url": "https://www.demorgen.be/nieuws/de-vs-zijn-het-epicentrum-van-het-verzet-tegen-de-eenwereldstaat-wie-is-peter-thiel-de-miljardair-in-het-netwerk-rond-nathan-cofnas~b2221984/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-23T17:53:00+00:00",
+          "image_url": "https://image.demorgen.be/212513900/feature-crop/320/320/peter-thiel-visits-fox-en-friends"
         }
       ]
     },
     "belgium": {
-      "summary_en": "A man was injured in a drug-related shooting in Brussels following an attack on a police station. Authorities report that only two-thirds of foreign motorists pay Belgian traffic fines, highlighting enforcement challenges. Meanwhile, the discovery of a gold treasure in Dendermonde has sparked widespread public interest and debate over its rightful ownership. The country is also seeing increased focus on sustainable housing design, with several ecologically conscious home projects being developed.",
+      "summary_en": "Belgian headlines highlight environmental controversy, health concerns, and sporting developments. Authorities resumed controversial tree-felling operations in Deurne despite public opposition, with a heavy police presence. The Mechelen-Willebroek region has activated health alerts as West Nile virus spreads among animals. French-language education faces ongoing tensions, while Antwerp's harbor confronts climate pressures from drought and low tides. Belgium's national hockey team (the Red Lions) failed to advance past the group stage at the World Championships after drawing 1-1 with Spain.",
       "headlines": [
         {
-          "id": "e2467eda81",
-          "title": "Man injured in drug-linked Brussels shooting after attack on police station",
-          "url": "https://www.politico.eu/article/man-injured-in-drug-linked-brussels-shooting-after-attack-on-police-station/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-08-23T09:06:40+00:00",
-          "image_url": null
-        },
-        {
-          "id": "192377a2e6",
-          "title": "Only two-thirds of foreigners pay Belgian traffic fines",
-          "url": "https://www.hln.be/binnenland/slechts-twee-derde-van-buitenlanders-betaalt-belgische-verkeersboete~ac16d377/",
+          "id": "833149a9d2",
+          "title": "Controversial felling of 'rescued' trees in Deurne started: heavy police presence, area closed off",
+          "url": "https://www.hln.be/deurne/fel-gecontesteerde-kap-van-geredde-bomen-in-deurne-gestart-politie-massaal-aanwezig-omgeving-afgesloten~abc3e562/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-08-23T07:58:24+00:00",
-          "image_url": "https://images.hln.be/ZWI0YTgxOGU1ZDhlYzViNGY2ODAvZGlvLzI0Mjg4MTk4Ny9maXQtd2lkdGgvNDAw/20150820-brussels-belgium-illustration-picture-shows-a-speed-control-camera-pictured-on-the-brussels-ring-way-in-strombeek-bever-thursday-20-august-2015-belga-photo-nicolas-maeterlinck"
+          "published_at": "2026-08-24T06:01:00+00:00",
+          "image_url": "https://images.hln.be/Y2E0MGM2Njc2MmEyNDhhNTI0OTQvZGlvLzI3NzA0NjQwOC9maXQtd2lkdGgvNDAw/kap-van-geredde-bomen-in-deurne-gestart-politie-massaal-aanwezig-omgeving-afgesloten"
         },
         {
-          "id": "baaaf83ca8",
-          "title": "Who really owns the gold treasure in Dendermonde? Here's how you stay updated on the story gripping Flanders",
-          "url": "https://www.hln.be/binnenland/wie-komt-de-goudschat-in-dendermonde-echt-toe-zo-bent-u-helemaal-mee-in-het-verhaal-dat-vlaanderen-niet-loslaat~ad316171/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-23T08:53:00+00:00",
-          "image_url": "https://images.hln.be/MzE2N2FiZGMyNzM4YmYxZjk4NzUvZGlvLzI3NjczODg4NS9maXQtd2lkdGgvNDAw/in-dit-gebouw-werd-de-goudschat-gevonden-inzet-goudklompen"
+          "id": "241d172ca3",
+          "title": "Doctors and hospitals in Mechelen-Willebroek region alerted as animals infected with West Nile virus",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/23/westnijlvirus-vastgesteld-in-regio-mechelen-willebroek-geen-re/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/23/2eebe0c3-b493-4f81-8fc6-42eaac40ed86.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "ffab96701d",
-          "title": "These five homes are futureproof: 'The ecological mindset was crucial for us'",
-          "url": "https://www.demorgen.be/beter-leven/deze-vijf-woningen-zijn-futureproof-de-ecologische-mindset-was-voor-ons-cruciaal~bcd2b441/",
+          "id": "563cf86a47",
+          "title": "'There is little needed for the bucket to overflow again': Robin, Stefaan and Hans on unrest in French-language education",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/21/getuigen-nieuw-schooljaar-franstalig-onderwijs/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/24/f20243cd-9386-4268-847d-aeaef33c88b5.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "ff724de717",
+          "title": "How drought and low tide put pressure on Antwerp harbor, and why the rain came just in time",
+          "url": "https://www.demorgen.be/nieuws/hoe-droogte-en-doodtij-de-haven-van-antwerpen-onder-druk-zetten-en-waarom-de-regen-net-op-tijd-kwam~bbb158e1/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-08-23T09:19:31+00:00",
-          "image_url": "https://image.demorgen.be/276922546/feature-crop/320/320/afbeelding"
+          "published_at": "2026-08-24T01:00:00+00:00",
+          "image_url": "https://image.demorgen.be/274177459/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "3b45715b99",
-          "title": "With Mamadou Diakhon, without newcomer Jan Virgili: these are the suspected lineups for the Bruges derby",
-          "url": "https://www.hln.be/jupiler-pro-league/met-mamadou-diakhon-zonder-nieuwkomer-jan-virgili-dit-zijn-de-vermoedelijke-opstellingen-voor-de-brugse-derby~a34c2a51f/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-23T08:17:00+00:00",
-          "image_url": "https://images.hln.be/YjhkYjUwMmIzMDhkMzhiOGUzMWMvZGlvLzI3Njc5NzE4NC9maXQtd2lkdGgvNDAw/club-s-jan-virgili-is-pictured-during-a-soccer-match-between-oud-heverlee-leuven-and-club-brugge-saturday-15-august-2026-in-leuven-on-day-2-of-the-2026-2027-jupiler-pro-league-first-division-of-the-belgian-championship-belga-photo-bruno-fahy"
+          "id": "08c907259e",
+          "title": "Red Lions eliminated: hockey players draw 1-1 against Spain and fail to advance to semi-final",
+          "url": "https://sporza.be/nl/matches/hockey/2026-08/voor-3e-jaar-op-een-rij-is-spanje-de-boeman-red-lions-maken-opnieuw-de-kansen-niet-af-en-zijn-uitgeschakeld-op-wk~1787244643990/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/23/50d174ff-6ca0-4835-bd18-2b395f8c2921.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "europe": {
-      "summary_en": "President Zelensky has firmly rejected holding elections during wartime, warning that doing so would shatter Ukraine, while France announced plans to significantly increase military support to Ukraine. The Russia-Ukraine conflict made headlines again as a woman was accused of assassinating a Russian commander in Crimea. Severe weather struck multiple European countries, with storms affecting Spain, Italy, and Austria. Security concerns also emerged as Iran-linked hackers were blamed for a cyberattack that disabled a UK power plant.",
+      "summary_en": "European institutions and member states are navigating significant political and humanitarian challenges. The European Union approved €6.1 billion in aid for Ukraine as military operations continue to cause civilian casualties. Germany's political establishment is strategizing to counter far-right influence. France's international presence is shifting as a European Parliament member announces a presidential candidacy. Norway's King Harald, aged 89, experienced health complications requiring hospitalization and treatment for a bacterial infection.",
       "headlines": [
         {
-          "id": "7e69830dfb",
-          "title": "Zelensky opposed to elections in wartime: 'Elections would be a tsunami that would shatter Ukraine'",
-          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-poetin-dreigt-kiev-heeft-nu-zelf-geest-uit-de-fles-doen-ontsnappen-vier-doden-bij-oekraiense-droneaanvallen-in-zuiden-van-rusland~b38bed0a/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-23T09:44:00+00:00",
-          "image_url": "https://image.demorgen.be/277013490/roi/320/320/2416.74/1439.76/afbeelding"
-        },
-        {
-          "id": "e94ef3d2c4",
-          "title": "France to ramp up Ukraine support, says Macron",
-          "url": "https://www.politico.eu/article/france-to-ramp-up-ukraine-support-says-emmanuel-macron/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-08-22T14:30:38+00:00",
-          "image_url": null
-        },
-        {
-          "id": "2c5c0676a0",
-          "title": "The 'ordinary' woman accused of assassinating a Russian commander in Crimea",
-          "url": "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-23T04:00:22+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/061a2f31d3ba8a955314059e370bf330d7233aa3/0_129_1440_1152/master/1440.jpg?width=700&quality=85&auto=format&fit=max&s=f2146013678fbde94d4e1c967b77065f"
-        },
-        {
-          "id": "3ddb120e61",
-          "title": "Various regions in Spain, Italy, and Austria hit by severe weather",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/22/verschillende-regio-s-in-spanje-oostenrijk-en-italie-hebben-noo/",
+          "id": "d74fb2582d",
+          "title": "Europe approves 6.1 billion euros in aid, children killed in Ukrainian drone attack",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/europa-keurt-61-miljard-euro-aan-steun-goed-kinderen-omgekomen~1781787179742/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/22/1b89310f-cf6e-4e71-b422-c8cfce34d636.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/24/4544fb47-6010-4504-8ce9-579cc80acb3e.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "0508b87dbf",
-          "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-          "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-23T09:07:44+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/677e2019dcd9c7efa20b39c0eef036ad95af750b/376_0_3743_2994/master/3743.jpg?width=700&quality=85&auto=format&fit=max&s=f73ae467f37d9b31533ed8589fce94e3"
+          "id": "4ab86d5542",
+          "title": "Germany's establishment has a plan to contain the far right. Sort of.",
+          "url": "https://www.politico.eu/article/germany-afd-saxony-anhalt-ulrich-siegmund-government/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-08-24T02:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "ccfbe6edb3",
+          "title": "European Parliament member Raphaël Glucksmann candidate for French presidency",
+          "url": "https://www.hln.be/buitenland/europarlementslid-raphael-glucksmann-kandidaat-voor-frans-presidentschap~adccf317a/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-24T05:04:24+00:00",
+          "image_url": "https://images.hln.be/YjRlZDBiNjQ3NmRlODA0ZDcwOGQvZGlvLzI3NjU0MjY2Ny9maXQtd2lkdGgvNDAw/files-french-politician-centre-left-party-place-publique-s-leader-and-mep-raphael-glucksmann-reacts-as-he-speaks-during-a-visit-to-an-organic-farm-in-bruges-near-bordeaux-south-western-france-on-july-14-2026-an-investigation-has-been-launched-into-allegations-of-russian-interference-targeting-the-likely-left-wing-presidential-candidate-raphael-glucksmann-following-the-broadcast-of-a-fake-news-report-seeking-to-discredit-him-the-paris-public-prosecutors-office-announced-on-august-6-2026-in-response-to-an-enquiry-from-afp-photo-by-romain-perrocheau-afp"
+        },
+        {
+          "id": "10da0b7664",
+          "title": "Health of Norwegian King Harald (89) worsens in hospital",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/23/gezondheidstoestand-koning-harald-noorwegen-in-ziekenhuis-versle/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/03/02/8069b1aa-4639-445f-9468-3384fca87dcf.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Iran's new security chief declared that nations joining the United States' economic war against Tehran will be treated as enemies, intensifying Middle East tensions. In Australia, party leader Hanson was forced to intervene after a One Nation MP's controversial remarks comparing the party's migration targets to Labor's sparked internal conflict. A tragic incident in the United States claimed the life of a 68-year-old French tourist, who died from extreme heat exposure after a vehicle breakdown in Death Valley, California.",
+      "summary_en": "Major global events span humanitarian crises, political tensions, and natural disasters. A waste site collapse in Guinea killed at least 30 people. Iran executed a political protester who took part in demonstrations against the regime. US-Canada trade negotiations collapsed, with tensions escalating as Trump criticized Canadian tariffs. Massive wildfires in Nevada forced nearly 90,000 evacuations amid fast-moving blazes. In Central Africa, DR Congo and M23 rebels agreed on a roadmap for peace talks, marking potential progress in their long-standing conflict.",
       "headlines": [
         {
-          "id": "1f5d1456e5",
-          "title": "Iran's new security chief says neighbours who join US economic war will be considered 'enemies'",
-          "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-23T03:34:27+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/9f4b6e8cc4cc111f0a7886d32b166aae30122886/257_4_1250_999/master/1250.jpg?width=700&quality=85&auto=format&fit=max&s=3c0ba885a2c5f4045596f9860fa749ed"
-        },
-        {
-          "id": "fb2509a178",
-          "title": "Hanson forced to intervene after One Nation MP says party's migration target 'not too different' from Labor's",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/23/one-nation-mp-david-farley-immigration-target-net-overseas-migration-not-too-different-labor-rural-workforce",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-23T03:12:58+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/9c107767a63fa9f7b9e7b9ad6af354114d40b043/522_0_7857_6286/master/7857.jpg?width=700&quality=85&auto=format&fit=max&s=78668037befa81f983f4b1416053d4a4"
-        },
-        {
-          "id": "1a5166048b",
-          "title": "68-year-old French tourist dies from extreme heat after car breakdown in Death Valley",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/22/toerist-frankrijk-sterft-death-valley/",
+          "id": "77d45561ec",
+          "title": "Waste site collapses onto houses in Guinea: at least 30 dead",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/23/dertig-doden-door-instorten-vuilnisbelt-in-guinee/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/22/e3e4f6f6-5f20-4c31-b163-d62d5a8c3a33.jpg?width=200&height=200&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/23/8a9afdca-ee91-4d1c-9cc8-f47a777b1436.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "53c5d27bcc",
+          "title": "Iran executes Majid Adineh, protester who participated in protest against regime",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/23/majid-adineh-executie-iran/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/24/9efd0e9e-3105-4772-b060-322db6307773.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "85ca0920eb",
+          "title": "Trump lashes out at Canada after failed negotiations: 'They have been charging our farmers huge tariffs for years. Done with it!'",
+          "url": "https://www.hln.be/buitenland/trump-haalt-fel-uit-naar-canada-na-mislukte-onderhandelingen-ze-rekenen-onze-boeren-al-jaren-enorme-tarieven-aan-gedaan-ermee~a79c6d94/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-24T05:54:00+00:00",
+          "image_url": "https://images.hln.be/MThlMWJjMGMwMDJlZjk0N2VlN2QvZGlvLzI3NzAwNjI4My9maXQtd2lkdGgvNDAw/combo-this-combination-of-pictures-created-on-august-22-2026-shows-us-president-donald-trump-in-washington-dc-on-july-13-2026-and-canadian-prime-minister-mark-carney-on-august-22-2026-canadian-prime-minister-mark-carney-announced-retaliatory-tariffs-on-the-united-states-on-august-22-after-walking-away-from-a-bad-deal-on-trade-in-a-deepening-rift-between-the-longtime-allies-negotiations-between-the-neighboring-countries-broke-down-august-21-in-washington-putting-into-force-new-50-percent-us-tariffs-impacting-about-20-billion-worth-of-goods-or-5-5-percent-of-canadian-exports-to-the-united-states-photo-by-saul-loeb-and-dave-chan-afp"
+        },
+        {
+          "id": "191e15f7be",
+          "title": "Possibly almost 90,000 evacuations due to wildfires in Nevada",
+          "url": "https://www.hln.be/buitenland/mogelijk-bijna-90-000-evacuaties-voor-natuurbranden-in-nevada~ae5ed55b/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-24T04:51:00+00:00",
+          "image_url": "https://images.hln.be/ZTQyMDkyYTM4NGNiOTVjZGE4Y2EvZGlvLzI3NzAzNTQ2OS9maXQtd2lkdGgvNDAw/smoke-and-flames-rise-from-the-hawk-fire-in-reno-nevada-u-s-august-22-2026-in-this-screengrab-from-a-video-obtained-from-social-media-squintdev-via-reuters-this-image-has-been-supplied-by-a-third-party-mandatory-credit-no-resales-no-archives-verification-reuters-verified-the-location-from-houses-road-layout-and-street-signs-that-matched-archive-and-satellite-imagery-of-the-area-the-date-was-verified-from-original-file-metadata-and-official-reports-of-a-fire-in-the-area-on-august-22"
+        },
+        {
+          "id": "02fe1f5a45",
+          "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+          "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-23T12:52:08+00:00",
+          "image_url": null
         }
       ]
     },
