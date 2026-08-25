@@ -1,114 +1,94 @@
 {
-  "generated_at": "2026-08-24T13:55:25.510190+00:00",
-  "date": "2026-08-24",
+  "generated_at": "2026-08-25T08:04:59.053774+00:00",
+  "date": "2026-08-25",
   "degraded": false,
   "top_general": {
-    "summary_he": "איראן מגיבה בהתרסה להכרזת ה\"D-Day הכלכלי\" של טראמפ, בעוד וושינגטון טוענת שהיא קורסת. בישראל, מתיחות ביו\"ש הובילה את נתניהו לביקור בפיקוד מרכז, וגורמי צבא מאוגנדה ובורונדי דיווחו כי ביקרו בישראל לדון בהצטרפות אפשרית לכוח בינלאומי בעזה. בזירה הפוליטית, בן גביר שולל חיבור עם סמוטריץ' וסקר מצביע על התחזקות המפלגות הערביות.",
+    "summary_he": "אסון כבד בגינאה: עשרות נהרגו בקריסת אתר פסולת בבירה. בישראל נמשך הפולמוס סביב ח\"כ סוכות שניפץ אנדרטה לזכר מחבלים, כאשר צה\"ל מאשים אותו בהטעיה, וסוכות עצמו מאיים בתביעה נגד יאיר גולן. במקביל, ארה\"ב מזהירה מדינות זרות מפני קשרים עם איראן ומאיימת בסנקציות.",
     "headlines": [
       {
-        "id": "48ea1e45a0",
-        "title": "US warns of ‘economic D-Day’ for Iran as defiant Tehran set to hold talks on Hormuz",
-        "url": "https://www.timesofisrael.com/us-warns-of-economic-d-day-for-iran-as-defiant-tehran-set-to-hold-talks-on-hormuz/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-08-24T10:42:45+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26208466949396-e1785422983213-1024x640.jpg"
+        "id": "abf32ee666",
+        "title": "אסון בגינאה: עשרות נהרגו בקריסת אתר פסולת בעיר הבירה",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-ae1c1e56ac230a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-24T08:06:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/24/CONKARY_re_autoOrient_i.jpg"
       },
       {
-        "id": "8ddcf9b798",
-        "title": "טראמפ לפני ההכרזה על ה-D-day הכלכלי: \"איראן קורסת לחלוטין\"",
-        "url": "https://13tv.co.il/item/news/politics/security/qkrq4-905325225/?pid=62&refc=902992383",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
+        "id": "12b00cac14",
+        "title": "סוכות ניפץ אנדרטה; צה\"ל: \"שיקר ופעל באופן מניפולטיבי\"",
+        "url": "https://www.israelhayom.co.il/news/defense/article/21271577",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
         "published_at": null,
         "image_url": null
       },
       {
-        "id": "48ff6b80de",
-        "title": "בצל המתיחות ביו\"ש: נתניהו ביקר בפיקוד מרכז",
-        "url": "https://www.kan.org.il/content/kan-news/defense/live-1092149/",
+        "id": "b23b60c595",
+        "title": "ח\"כ סוכות ניפץ אנדרטה למחבלים; צה\"ל: חיילים סוכנו לשווא",
+        "url": "https://www.kan.org.il/content/kan-news/local/1092507/",
         "source": "kan",
         "source_label": "כאן 11",
         "source_label_he": "כאן 11",
         "published_at": null,
-        "image_url": "https://www.kan.org.il/media/yomhyab0/אוליבייה-פיטוסי-פלאש90.jpg?rxy=0.43083067887716503,0.437984496124031&width=490&height=272&v=1da9198c67f29d0"
-      },
-      {
-        "id": "d8320fb6ee",
-        "title": "1 דקות ביטחוני יצטרפו לכוח הבינלאומי בעזה? דיווח: גורמי צבא מאוגנדה ובורונדי ביקרו בישראל מספר כלי תקשורת בינלאומיים דיווחו כי גורמי צבא משתי מדינות באפריקה ביקרו בישראל בשבוע שעבר - במטרה לדון בהצטרפות אפשרית לכוח הבינלאומי • עדיין לא ברור האם המגעים יצליחו ומה יהיה היקף הכוחות שישלחו זמן קריאה: 1 דקות.",
-        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-4ba55ae9",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
         "image_url": null
       },
       {
-        "id": "3e78ca9f22",
-        "title": "בן גביר שולל חיבור עם סמוטריץ': \"אני מאבד את הפריפריה והצעירים\"",
-        "url": "https://news.walla.co.il/item/3862828",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-24T13:12:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/5/4/4054379-46.jpg"
+        "id": "a61aa3a8d7",
+        "title": "וושינגטון לעולם: התרחקו מאיראן - או שתסתכנו בסנקציות",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-e12eda8fa9430a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-24T16:38:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/12/dfvfdvdf_autoOrient_i.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "צה\"ל חושש מ\"אשליית שקט\" בגבול עם סוריה למרות שהטורקים טרם הגיעו, וגורמים עוינים כבר פעילים באזור. סוריה, בפגישה עם ישראל, עמדה על זכותה לפתח את צבאה. ברצועת עזה נהרגו שני פלסטינים בתקיפות צה\"ל, ובמקביל מתקדמות יוזמות הומניטריות להקמת מרפאות לילדים באזור.",
+    "summary_he": "מתקפת סייבר המיוחסת לאיראן השביתה תחנת כוח בבריטניה לארבעה ימים, על רקע החרפת המתיחות מול טהראן. וושינגטון מזהירה גורמים בעולם מפני קשרים עם איראן ומאיימת בסנקציות, אך גורמים בישראל מציינים כי לסנקציות אלו קיים סיבוך משמעותי - סין. בנוסף, מדווח על פעילות לוחמי התיעוד של צה\"ל בזירות מסוכנות.",
     "headlines": [
       {
-        "id": "d79582fada",
-        "title": "הטורקים עוד לא על הגבול, בצה\"ל חוששים מאשליית השקט: \"כבר יש גורמים עוינים\"",
-        "url": "https://www.ynet.co.il/news/article/bkuoeifdfx",
+        "id": "4e14c46d9a",
+        "title": "מתקפת סייבר בבריטניה: האקרים המזוהים עם איראן השביתו תחנת כוח ל-4 ימים",
+        "url": "https://news.walla.co.il/item/3862975",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-08-25T06:00:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/2/4/5/2/2452746-46.jpg"
+      },
+      {
+        "id": "a61aa3a8d7",
+        "title": "וושינגטון לעולם: התרחקו מאיראן - או שתסתכנו בסנקציות",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-e12eda8fa9430a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-24T16:38:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/12/dfvfdvdf_autoOrient_i.jpg"
+      },
+      {
+        "id": "0220a696ca",
+        "title": "לסנקציות הכלכליות על איראן יש סיבוך קשה שקוראים לו סין",
+        "url": "https://www.themarker.com/wallstreet/2026-08-25/ty-article/.premium/000001a0-3770-dfc3-abf8-b7768da60000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-08-25T06:36:20+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a0-3774-d268-a1fe-3f74ae810000/35/ba/b7ced4fe43f49033a23c3d582503/355816.jpg?width=108&height=81"
+      },
+      {
+        "id": "41d73c629c",
+        "title": "לוחמי התיעוד של צה\"ל - והפעילות בזירות מסוכנות: \"להיות בחוד ולחלץ את הסיפור\"",
+        "url": "https://www.ynet.co.il/news/article/rkt07e5pgx",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-08-24T12:44:52+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/23/SkG5MeS0Ieg/SkG5MeS0Ieg_0_312_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "a9c91cba96",
-        "title": "סוריה: בפגישה עם ישראל, דמשק עמדה על זכותה לפתח את צבאה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-23/ty-article/.premium/000001a0-305d-ddec-a7a5-34ff803a0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-23T20:59:14+00:00",
-        "image_url": null
-      },
-      {
-        "id": "5b2a5ed3d1",
-        "title": "גורמי רפואה ברצועה: שני פלסטינים נהרגו בתקיפות צה\"ל, בהם ילד בן ארבע",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-23/ty-article/.premium/000001a0-2fc6-ddec-a7a5-2ff66eee0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-23T18:06:33+00:00",
-        "image_url": null
-      },
-      {
-        "id": "ab7e29d84d",
-        "title": "ביוזמת אליס מילר: מרפאה ישראלית תיפתח בעזה ותטפל בכ-10,000 ילדים",
-        "url": "https://www.ynet.co.il/news/article/hkdonfydgg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-24T10:59:31+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/SylQTqFDfe/SylQTqFDfe_0_0_1672_941_0_medium.jpg"
-      },
-      {
-        "id": "0c1d8c500d",
-        "title": "ארגון ישראלי יקים מרפאה לילדים במחנה עקורים בעזה: \"לכל ילד מגיעה גישה לטיפול\"",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-24/ty-article-magazine/.premium/000001a0-3029-dc1a-abac-f2fb00cf0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-24T03:00:36+00:00",
-        "image_url": null
+        "published_at": "2026-08-24T18:16:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/HyfqKVgcvGx/HyfqKVgcvGx_0_29_1280_721_0_medium.jpg"
       }
     ]
   },
@@ -116,166 +96,99 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בן גביר שולל חיבור עם סמוטריץ' וטוען שהוא מאבד את הפריפריה והצעירים, בעוד סקר כאן 11 מראה התחזקות המפלגות הערביות לקראת בחירות 2026. במקביל, לשכת ליברמן מגייסת עוד איש צבא, וח\"כ לשעבר אלעזר שטרן עובר לרשימת אייזנקוט.",
+      "summary_he": "עופר וינטר צפוי להקים מפלגה חדשה שתומכת בהקמת מדינה פלסטינית, מה שמעורר ביקורת בקרב הימין. בנוסף, בנט תוהה על היעדרותו של לפיד ומדגיש את הצורך בשיתוף פעולה פוליטי, והמחנות העולים מנסה להקים התנחלות חדשה בבקעה.",
       "headlines": [
         {
-          "id": "3e78ca9f22",
-          "title": "בן גביר שולל חיבור עם סמוטריץ': \"אני מאבד את הפריפריה והצעירים\"",
-          "url": "https://news.walla.co.il/item/3862828",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-24T13:12:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/5/4/4054379-46.jpg"
-        },
-        {
-          "id": "47ab5240ea",
-          "title": "סקר כאן 11: המפלגות הערביות מתחזקות במנדט לאחר איחוד הרשימה המשותפת",
-          "url": "https://www.haaretz.co.il/news/elections/2026-08-23/ty-article/.premium/000001a0-2fb2-d7ba-aff3-bfb6b3f10000",
+          "id": "258f66b9c6",
+          "title": "ימנים, היזהרו – עופר וינטר יקים את מדינת פלסטין",
+          "url": "https://www.haaretz.co.il/news/elections/mesarim/2026-08-25/ty-article/.premium/000001a0-3486-de46-a3a8-fc9f987a0000",
           "source": "haaretz",
           "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-08-23T18:30:58+00:00",
+          "published_at": "2026-08-25T02:54:29+00:00",
           "image_url": null
         },
         {
-          "id": "0329d024e0",
-          "title": "הרכש החדש של ישראל ביתנו: איש צבא נוסף חובר לליברמן",
-          "url": "https://news.walla.co.il/item/3862863",
+          "id": "5539815cfa",
+          "title": "איפה לפיד? בנט: \" אנחנו כל הזמן אומרים שצריך לעבוד ביחד\"",
+          "url": "https://news.walla.co.il/item/3863015",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-08-24T15:35:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/1/4091872-46.jpeg"
+          "published_at": "2026-08-25T09:05:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/0/4090508-46.jpg"
         },
         {
-          "id": "6930091332",
-          "title": "Former Yesh Atid MK Elazar Stern makes widely expected jump to Eisenkot’s Yashar",
-          "url": "https://www.timesofisrael.com/former-yesh-atid-mk-elazar-stern-makes-widely-expected-jump-to-eisenkots-yashar/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-24T08:32:08+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/HQd-kB8XYAAmucf-e1787557742457-1024x640.jpeg"
+          "id": "441c9c4221",
+          "title": "המחנות העולים מנסה להקים התנחלות חדשה בבקעה: \"השמאל צריך להיות פה או שיהיו אחרים\"",
+          "url": "https://www.haaretz.co.il/news/politics/2026-08-25/ty-article/.premium/000001a0-34fc-d02f-a9ed-7cff7dc30000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-25T02:55:39+00:00",
+          "image_url": null
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "ארה\"ב הכריזה מלחמת סחר על קנדה, מהלך שצפוי לפגוע בשתי המדינות. בשוקי ההון נרשמות ירידות בחוזים על וול סטריט והדולר הקנדי נחלש בעקבות המכסים, ובישראל נרשמת עלייה בביטולי רכישות דירות עקב מימון פיננסי מסוכן של יזמים.",
+      "summary_he": "דו\"ח חדש חושף בור של 800 מיליארד שקל בביטוח הלאומי, לצד ביקורת על מדיניות רכישות האג\"ח של שר האוצר האמריקאי. בעולם הביטוח, הפניקס מדווחת על עלייה ברווח החציוני ושיתוף פעולה עם לוידס.",
       "headlines": [
         {
-          "id": "3023c1da4b",
-          "title": "ארה\"ב הכריזה מלחמת סחר על קנדה: שתיהן ייפגעו, אבל אדם אחד הרוויח בגדול",
-          "url": "https://www.themarker.com/wallstreet/2026-08-24/ty-article/.premium/000001a0-32ff-d9cb-a3f3-3affdbd20000",
+          "id": "6f4d8d9f6d",
+          "title": "800 מיליארד שקל: הבור בביטוח לאומי | עם גד ליאור",
+          "url": "https://www.ynet.co.il/news/theheadline/article/seuxyi696",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-25T02:00:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/BkaT0dFwGl/BkaT0dFwGl_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "513fef0861",
+          "title": "סטנלי דרוקנמילר, שהיה המנטור של שר האוצר האמריקאי, אומר שרכישות האג\"ח שלו הן טעות גדולה",
+          "url": "https://www.themarker.com/wallstreet/2026-08-25/ty-article/.premium/000001a0-379d-d02f-a9ed-7fff69a70000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-24T11:59:16+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-33e1-d02f-a9ed-7feb65790000/16/66/f5229e4f4d9bb1e5396605e3c88b/135912.jpg?width=108&height=81"
+          "published_at": "2026-08-25T07:37:27+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000190-d119-dc8b-a1dd-d9fde5d00000/64/36/047f9ece4e718c1e433e113d4a1f/57689624.JPG?width=108&height=81"
         },
         {
-          "id": "32d457ef34",
-          "title": "ירידות בחוזים על וול סטריט; הדולר הקנדי נחלש ב-0.6% על רקע המכסים",
-          "url": "https://www.themarker.com/wallstreet/2026-08-24/ty-article-live/000001a0-31f7-d9cb-a3f3-39f7940b0000",
+          "id": "0cb7a0ddf1",
+          "title": "הפניקס מציגה עלייה ברווח החציוני ברבעון ושיתוף פעולה עם לוידס לביטוח משנה",
+          "url": "https://www.themarker.com/markets/2026-08-25/ty-article/.premium/000001a0-377a-d936-a7ac-3f7fd0860000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-24T11:32:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-338a-d9cb-a3f3-3bfb43500000/cb/36/e7e778d444bbbd4f4bd2e6cc2238/867919.jpg?width=108&height=81"
-        },
-        {
-          "id": "620ae719f0",
-          "title": "Israel home purchase cancellations spike as risky developer financing takes toll",
-          "url": "https://www.timesofisrael.com/israel-home-purchase-cancellations-spike-as-risky-developer-financing-takes-toll/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-24T13:20:41+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/F251029YA052-1024x640.jpg"
+          "published_at": "2026-08-25T06:36:34+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000017f-db1f-df0f-a17f-df5faac80000/f8/c9/6dc955f7dd7daee6ee2560043c2c/2073042480.jpg?width=108&height=81"
         }
       ]
     },
     {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "בכירות מתריעות על מבנה תקצוב לפי שעות לימוד שמדרבן חוסר יעילות, ועל התפתחות מערך חינוך פוליטי-דתי ממומן שפוגע באמון הנוער בדמוקרטיה. ראש עיריית גני תקווה מתארת מצב קשה במערכת החינוך המקומית.",
+      "key": "health",
+      "label_he": "בריאות ורפואה",
+      "summary_he": "טשטוש בראייה חשף מקרה של סרטן ריאות גרורתי, וסקר מצביע על החששות המרכזיים של הישראלים מאשפוז בבתי חולים - זיהומים, אוכל ורשלנות רפואית.",
       "headlines": [
         {
-          "id": "62f90f5445",
-          "title": "מירב כהן: \"התקצוב הוא לפי שעות. זה מדרבן את המערכת ללמד שעות באופן לא יעיל. צריך להסב את השעות לתקציב\"",
-          "url": "https://www.themarker.com/news/education/2026-08-24/ty-article/000001a0-33e8-dfc3-abf8-b7fea6900000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-24T08:44:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-3338-d9cb-a3f3-3bfbe1810000/32/d4/2f673ef5483c8627425dc09b70b2/190316.jpg?width=108&height=81"
-        },
-        {
-          "id": "a73d87512c",
-          "title": "רמי הוד, מנכ\"ל המרכז הרעיוני קרן ברל כצנלסון: \"התפתח פה מערך חינוך פוליטי־דתי ענף וממומן. מה הפלא שבני הנוער פחות מאמינים בדמוקרטיה?\"",
-          "url": "https://www.themarker.com/news/education/2026-08-24/ty-article/000001a0-32f9-d7ba-aff3-b2fffe4f0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-24T08:59:58+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-32fb-ddec-a7a5-36ff55340000/1d/6e/e721229c466b93d1a0289f95d8c7/190270.jpg?width=108&height=81"
-        },
-        {
-          "id": "bbcdf6ddc5",
-          "title": "ראש עיריית גני תקווה, ליזי דלריצ'ה: \"אין מערכת חינוך. אין כלום. פשיטת רגל. צריך להתחיל מחדש\"",
-          "url": "https://www.themarker.com/news/education/2026-08-24/ty-article/000001a0-33ee-d936-a7ac-3bef194f0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-24T08:59:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-333b-d9cb-a3f3-3bfb6f0a0000/32/58/c91d003c416b8c67317f9a929ee3/190473-3.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "חרדים צפויים להפגין נגד מעצר עריק עם חסימות כבישים צפויות במרכז, ומדיניות העמימות מעוררת בלבול בחוג הבית. במקביל, פרשה של ראש מועצה החשוד בריבוי נישואים עם ארבע נשים ו-45 ילדים נחשפת לראשונה.",
-      "headlines": [
-        {
-          "id": "a3b5c6ada7",
-          "title": "חרדים יפגינו נגד מעצר עריק, צפי לחסימות כבישים במרכז",
-          "url": "https://www.kan.org.il/content/kan-news/local/1092184/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/jind0jcl/f260617avs04.jpg?width=490&height=272&v=1dcfe545f522840"
-        },
-        {
-          "id": "ea540f8b96",
-          "title": "ארבע נשים ו-45 ילדים: ראש מועצה מוכר נחקר בחשד לריבוי נישואים | פרסום ראשון",
-          "url": "https://news.walla.co.il/item/3862804",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-24T11:52:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/0/9/6/3096492-46.jpg"
-        },
-        {
-          "id": "3fbb6dacae",
-          "title": "מדיניות העמימות: הנדל וטרופר בלבלו את המשתתפים בחוג הבית",
-          "url": "https://www.makorrishon.co.il/news/politcal/article/363448",
-          "source": "makor_rishon",
-          "source_label": "מקור ראשון",
-          "source_label_he": "מקור ראשון",
+          "id": "3ca21deb87",
+          "title": "הטשטוש בראייה חשף את המחלה הנדירה: סרטן ריאות גרורתי",
+          "url": "https://www.israelhayom.co.il/health/article/21271469",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
           "published_at": null,
           "image_url": null
         },
         {
-          "id": "3c8347cdd4",
-          "title": "רגע לפני 1 בספטמבר: המדינה מהדקת את הלחץ הכלכלי על החברה החרדית",
-          "url": "https://www.makorrishon.co.il/news/economy/article/363496",
-          "source": "makor_rishon",
-          "source_label": "מקור ראשון",
-          "source_label_he": "מקור ראשון",
+          "id": "3fb5b42865",
+          "title": "אוכל, זיהומים ורשלנות: ממה הישראלים הכי חוששים בבתי החולים?",
+          "url": "https://www.israelhayom.co.il/health/article/21272347",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
           "published_at": null,
           "image_url": null
         }
@@ -284,12 +197,32 @@
     {
       "key": "culture_entertainment",
       "label_he": "תרבות ובידור",
-      "summary_he": "סערה דתית פרצה ברשת סביב מקום החתונה של עומר אדם, המתואר כ\"בית של ישו\".",
+      "summary_he": "מסקירת תרבות ובידור: נטע ואביתר תועדו יחד לאחר פרידתם, קוונטין טרנטינו צולם בדרכו הביתה מלונדון, ויעל שלביה מקבלת תפקיד חדש לצד מגי אזרזר.",
       "headlines": [
         {
-          "id": "e641fbeac8",
-          "title": "\"מתחתן בבית של ישו\": סערה דתית ברשת סביב החתונה של עומר אדם",
-          "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21266446",
+          "id": "e1d4d74011",
+          "title": "נטע ואביתר תועדו יחד אחרי הפרידה (פפראצי)",
+          "url": "https://www.israelhayom.co.il/forreal/paparazzi/article/21271323",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "b1b581a51e",
+          "title": "פפראצי: קוונטין טרנטינו בדרך הביתה מלונדון",
+          "url": "https://www.israelhayom.co.il/forreal/global/article/21271304",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "31858312cf",
+          "title": "לצד מגי אזרזר: התפקיד החדש של יעל שלביה",
+          "url": "https://www.israelhayom.co.il/culture/tv/article/21272678",
           "source": "israel_hayom",
           "source_label": "ישראל היום",
           "source_label_he": "ישראל היום",
@@ -301,44 +234,61 @@
     {
       "key": "environment",
       "label_he": "סביבה ואקלים",
-      "summary_he": "גל חום נוסף צפוי ביוון עם טמפרטורות שיטפסו עד 40 מעלות, מה שעשוי להשפיע על ישראלים המתכננים לבקר במדינה.",
+      "summary_he": "דוח מזהיר כי הקיץ הבא צפוי להיות חם ומזוהם במיוחד, בשל תלות מתמשכת בייצור חשמל מפחם שרחוק מלהסתיים.",
       "headlines": [
         {
-          "id": "57335017dc",
-          "title": "לידיעת הישראלים: גל חום נוסף ביוון - הטמפרטורות יטפסו עד 40 מעלות",
-          "url": "https://travel.walla.co.il/item/3862835",
+          "id": "1360bd5aa0",
+          "title": "הקיץ הבא יהיה חם ומזהם: ייצור החשמל מפחם עוד רחוק מלהסתיים",
+          "url": "https://www.themarker.com/news/energy/2026-08-25/ty-article/.premium/000001a0-332f-d7ba-aff3-b3af3b200000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-25T03:11:03+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3388-d7ba-aff3-b38e440e0000/f6/1a/325bbe7f47eca7d6eab5ef37fbc4/435031.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "באיראן נמשך המאבק של המשטר נגד מרחבי בילוי לצעירים, הפעם בבתי קפה. בגרמניה, ניאו-נאצי זוהה כאחראי להצתת בית אבות יהודי לפני 56 שנה.",
+      "headlines": [
+        {
+          "id": "ae5e23c9ce",
+          "title": "המשטר באיראן נלחם במקומות הבילוי האחרונים שנותרו לצעירים: בתי הקפה",
+          "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-24/ty-article-magazine/.premium/000001a0-3461-d936-a7ac-3c6de4ef0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-24T16:27:32+00:00",
+          "image_url": null
+        },
+        {
+          "id": "b982a88fdc",
+          "title": "\"אובססיבי להיטלר\": 56 שנה אחרי, ניאו-נאצי זוהה כמצית בית האבות היהודי במינכן",
+          "url": "https://news.walla.co.il/item/3862980",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-08-24T13:28:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/7/2/2/3722607-46.jpeg"
+          "published_at": "2026-08-25T06:00:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/4/9/0/3490440-46.jpg"
         }
       ]
     },
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "עלייה בביטולי רכישות דירות בישראל בעקבות מימון מסוכן של יזמים, במקביל לדיווח על יישוב שצפוי לגדול ב-40% תוך חמש שנים.",
+      "summary_he": "מכרז הענק במעלה אדומים מעורר חששות בשל עתירות, לחץ בינלאומי ועלויות פיתוח גבוהות.",
       "headlines": [
         {
-          "id": "620ae719f0",
-          "title": "Israel home purchase cancellations spike as risky developer financing takes toll",
-          "url": "https://www.timesofisrael.com/israel-home-purchase-cancellations-spike-as-risky-developer-financing-takes-toll/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-24T13:20:41+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/F251029YA052-1024x640.jpg"
-        },
-        {
-          "id": "8d5731f27c",
-          "title": "היישוב שצפוי לגדול ב-40% - בתוך חמש שנים | פרסום ראשון",
-          "url": "https://www.israelhayom.co.il/news/local/article/21266619",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
+          "id": "fbba027b0c",
+          "title": "עתירות, לחץ בינלאומי ועלויות פיתוח גבוהות: הסיכונים במכרז הענק במעלה אדומים",
+          "url": "https://www.themarker.com/realestate/2026-08-25/ty-article/.highlight/000001a0-3367-ddec-a7a5-37f7b4d90000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-25T03:05:33+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3403-dfc3-abf8-b617d01d0000/c4/22/bccf75e147a7b25cef3d5532a3fc/292741.jpg?width=108&height=81"
         }
       ]
     }
@@ -362,17 +312,37 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israel faces international criticism for closing an investigation into the deaths of seven World Central Kitchen workers. In the United States, the NYPD has pledged enhanced protection for the Jewish community at Central Synagogue following a recent Shabbat attack.",
+      "summary_en": "Israeli politics and Jewish community security dominate these headlines. Netanyahu promoted a campaign video inviting constituents to call him directly with concerns. Israel threatened a forceful response to kites launched from Gaza. The NYPD increased security measures at Central Synagogue following a Shabbat attack. A man's parole was denied for the second time in a case involving anti-Israel graffiti charges, with a judge offering scathing criticism of the proceedings.",
       "headlines": [
         {
-          "id": "1834fe2c31",
-          "title": "Israel slammed for closing probe into killing of seven World Central Kitchen workers",
-          "url": "https://www.jta.org/2026/08/24/default/israel-slammed-for-closing-probe-into-killing-of-seven-world-central-kitchen-workers",
+          "id": "06e2df69d0",
+          "title": "Man denied parole a second time over anti-Israel graffiti despite judge's scathing critique of case",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/25/sydney-denied-parole-anti-israel-graffiti-despite-supreme-court-ruling-antisemitism-ntwnfb",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-25T06:55:31+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/225eff494ea4f98775fe78f69be05d9cc285666f/160_0_2400_1920/master/2400.jpg?width=700&quality=85&auto=format&fit=max&s=498c90b3317464e10a85bbf0a6d45a03"
+        },
+        {
+          "id": "b69dcfae4f",
+          "title": "'Have a problem, call the PM,' says Netanyahu as he gives out his number in campaign video",
+          "url": "https://www.jta.org/2026/08/24/default/have-a-problem-call-the-pm-says-netanyahu-as-he-gives-out-his-number-in-campaign-video",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-08-24T08:54:29+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/wck.jpg"
+          "published_at": "2026-08-24T20:51:26+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/Netanyahu-phone-B-1.jpg"
+        },
+        {
+          "id": "c5704ab79e",
+          "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+          "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-24T13:56:22+00:00",
+          "image_url": null
         },
         {
           "id": "e384a95272",
@@ -387,137 +357,137 @@
       ]
     },
     "belgium": {
-      "summary_en": "Belgium's bond market demonstrated strong performance, with a new 10-year state bond achieving its highest yield in years, while 1-year bonds offered 1.93% net returns. The Belgian football club Union will now host its European home matches at Den Dreef stadium in Leuven. Belgium's coastal waters reached a record sea surface temperature of 21 degrees Celsius on Saturday, the highest level ever recorded.",
+      "summary_en": "Belgium's news cycle is dominated by a tragic criminal case: authorities found the body of missing five-year-old Tyméo in Onhaye, with strong evidence confirming his identification, while police expanded search efforts for the boy's father, Bryan. Brussels faces persistent gang violence, with three shootings reported in Sint-Gillis in as many days, characterized as territorial disputes between drug traffickers. Health officials detected West Nile virus in bird populations in the Laken district, though complications in humans remain rare. Belgian equestrian athlete Thibeau Spits won silver at the World Championship in show jumping.",
       "headlines": [
         {
-          "id": "0fa54249a2",
-          "title": "Belgium's economy issues new 1-year state bond yielding 1.93% net",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/24/staatsbon-1-jaar-10-jaar-rendement/",
+          "id": "c27bc7c4db",
+          "title": "'Strong indications' that body found in Onhaye is of missing Tyméo (5)",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/24/verdwijningszaak-onhaye-kind/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2023/09/12/778bca03-5199-11ee-91d7-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/24/9bbca0a1-5992-47ce-9d73-e11ffa821b50.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "9b91bd2f5b",
-          "title": "State bond on 10 years gets highest return in years, 1-year state bond yields 1.93% net",
-          "url": "https://www.demorgen.be/nieuws/staatsbon-op-10-jaar-krijgt-hoogste-rendement-in-jaren-eenjarige-staatsbon-levert-1-93-procent-netto-op~b120ffcb/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-24T10:57:00+00:00",
-          "image_url": "https://image.demorgen.be/233877346/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "1531733642",
-          "title": "Union will play European home matches at Den Dreef in Leuven",
-          "url": "https://www.hln.be/voetbal/union-zal-europese-thuiswedstrijden-spelen-aan-den-dreef-in-leuven~aba07c04/",
+          "id": "89bc3b73bd",
+          "title": "Search resumes for Bryan, father of Tyméo (5), after boy's body was found",
+          "url": "https://www.hln.be/binnenland/zoektocht-hervat-naar-bryan-vader-van-tymeo-5-nadat-lichaam-van-jongetje-werd-gevonden~a407f848/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-08-24T11:33:00+00:00",
-          "image_url": "https://images.hln.be/MjY5YmZjYTlkNzQyYjMzNjljNDAvZGlvLzI3Njc5NDI1OS9maXQtd2lkdGgvNDAw/ohl-s-king-power-at-den-dreef-stadium-pictured-during-a-soccer-match-between-oud-heverlee-leuven-and-club-brugge-saturday-15-august-2026-in-leuven-on-day-2-of-the-2026-2027-jupiler-pro-league-first-division-of-the-belgian-championship-belga-photo-emile-windal"
+          "published_at": "2026-08-25T07:56:00+00:00",
+          "image_url": "https://images.hln.be/NjBiMWMxMWY5OWEzYjk0NjcwMzUvZGlvLzI3NzA3MjY1Ni9maXQtd2lkdGgvNDAw/verdwenen-tymeo-5-onhaye-vader-verdwenen-tymeo-5-onhaye"
         },
         {
-          "id": "704175050e",
-          "title": "Sea surface temperature reached 21 degrees Celsius on Saturday: highest temperature ever recorded",
-          "url": "https://www.hln.be/nieuws/zeeoppervlaktetemperatuur-bereikte-zaterdag-21-graden-celsius-hoogste-temperatuur-ooit-gemeten~a8261df1/",
+          "id": "e362beb062",
+          "title": "Three shootings in three days in Sint-Gillis; Minister Quintin: 'We must not stop now that it is dangerous'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/schietpartij-sint-gillis/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/25/dedc9290-c31d-497a-b899-f5664b4abbfb.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "82a6a096df",
+          "title": "Brussels birds infected with West Nile virus: 'Complications are very rare in humans'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/brusselse-vogels-besmet-met-westnijlvirus-complicaties-zijn-zee/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/25/6c1ffb56-dfc4-4273-8c1c-b1af66761b06.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "f59a72f054",
+          "title": "Thibeau Spits wins silver at World Championship jumping several months after tragic death of girlfriend at family riding stable: 'I especially thought of Jill'",
+          "url": "https://www.hln.be/binnenland/thibeau-spits-pakt-zilver-op-wk-jumping-enkele-maanden-na-tragisch-overlijden-van-vriendin-op-familiemanege-ik-heb-extra-aan-jill-gedacht~a2529c77/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-08-24T11:02:00+00:00",
-          "image_url": "https://images.hln.be/M2JiODFhOWU2YmU0MTg5MzBhMDAvZGlvLzI3NjU0NDIxNC9maXQtd2lkdGgvNDAw/mallorca-spain-july-30-a-boy-jumps-into-the-sea-from-the-rocks-of-magaluf-beach-on-july-30-2020-in-mallorca-spain-the-united-kingdom-whose-citizens-comprise-the-largest-share-of-foreign-tourists-in-spain-added-mallorca-and-other-spanish-islands-to-its-advice-against-non-essential-travel-to-the-country-citing-a-rise-in-coronavirus-cases-the-change-follows-the-uk-s-decision-to-reimpose-a-14-day-isolation-period-for-travelers-returning-from-spain-photo-by-clara-margais-getty-images"
+          "published_at": "2026-08-25T07:00:00+00:00",
+          "image_url": "https://images.hln.be/ZDIyZDI2ZTZiYjY3MzZhZjViYzMvZGlvLzI3NzA2Njg4NC9maXQtd2lkdGgvNDAw/sint-katelijne-waver-belgium-24-08-2026-thibeau-spits-25-vicewereldkampioen-jumping-en-zijn-mama-en-opa-op-de-manege-van-de-familie-photo-by-vincent-duterne-photonews"
         }
       ]
     },
     "europe": {
-      "summary_en": "The Russia-Ukraine conflict continues to intensify, with Russian forces launching major attacks that killed at least 8 people on Ukraine's Independence Day. Zelensky directly addressed Putin, rejecting claims that Ukraine has grown weary, as military analysts warn Russia is escalating pressure while Ukraine faces a vulnerable period heading into winter. In European cultural news, Dutch broadcaster AVROTROS has withdrawn from the Eurovision Song Contest for the second time, with Dutch public broadcaster NPO now deciding on participation in 2027.",
+      "summary_en": "A severe tornado struck southern France near Carcassonne, injuring 41 people and destroying approximately 300 homes. An Italian teenager safely escaped a potential kidnapper by using an SOS hand gesture. Fighting persists on the Ukraine-Russia front as Zelensky appeals to European leaders for increased financial support and air defense systems. European train operator European Sleeper announced plans to expand night train service to Copenhagen and Malmö by 2028.",
       "headlines": [
         {
-          "id": "7e823b3dc1",
-          "title": "Russia-Ukraine war liveblog: Zelensky addresses Putin on Independence Day: 'He hopes we've gotten tired'",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/europese-leiders-in-kiev-voor-oekraiense-onafhankelijkheidsdag-~1781787179742/",
+          "id": "a8a1acec22",
+          "title": "Multiple deaths in attacks between Ukraine and Russia; Zelensky asks Europe for more financial support and air defense",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/verschillende-doden-bij-aanvallen-van-oekraine-en-rusland-zelen~1781787179742/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/24/59df96e1-ddd8-4fe6-abf0-69a1a7725c85.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/24/c4ba9eb3-e801-4a3c-8bb0-f2b74670c9e2.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "22ea312a87",
-          "title": "Russia-Ukraine war: Jan Balliauw sees Russia intensifying pressure as Ukraine is vulnerable: 'And winter months are still to come'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/24/geld-voor-oekraine-wanneer-rusland-sterker-staat/",
+          "id": "93b1bc508d",
+          "title": "41 injured and around 300 homes damaged after tornado passes through southern France",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/24/noodweer-frankrijk-spanje/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/02/24/9106282e-6c7a-49be-8e05-b41fdc7f6410.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/25/35ebf2c3-2da2-443b-af05-e007f0b978cd.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "981529825f",
-          "title": "Eight dead in Russian attacks on the day Ukraine commemorates independence from the Soviet Union",
-          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-britse-premier-geeft-oekraine-toegang-tot-geheime-plannen-van-langeafstandsraketten-kremlin-vk-gooit-olie-op-het-vuur~b38bed0a/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-24T13:02:00+00:00",
-          "image_url": "https://image.demorgen.be/277053669/roi/320/320/2416.74/1439.76/afbeelding"
+          "id": "245c745693",
+          "title": "14-year-old girl in Italy escapes kidnapper thanks to SOS gesture",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/24/italie-signal-for-help/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/24/3e276fa5-857c-4622-bcf3-ecb68c09f780.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "9bb15f1369",
-          "title": "Dutch broadcaster AVROTROS withdraws from Eurovision again: NPO decides on 2027 participation",
-          "url": "https://www.demorgen.be/tv-cultuur/nederlandse-omroep-avrotros-trekt-zich-opnieuw-terug-uit-eurovisiesongfestival-npo-beslist-nu-over-deelname-in-2027~be054652/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-24T08:31:00+00:00",
-          "image_url": "https://image.demorgen.be/276780432/feature-crop/320/320/afbeelding"
+          "id": "28b3b20063",
+          "title": "European Sleeper wants night train connection to Copenhagen and Malmö by 2028",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/european-sleeper-wil-in-2028-nachttreinverbinding-naar-kopenhage/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/03/27/50847c10-709b-4670-b971-b01a2fc736fe.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "US-Iran tensions have escalated dramatically, with Iran reportedly placing a $10 million bounty on Trump's youngest son, as Trump claimed Iran is \"completely collapsing\" ahead of new sanctions. The US Treasury Secretary declared the conflict with Iran to be in an \"endgame\" phase, with the Iranian currency falling to its lowest-ever level against the dollar. In Britain, twelve people have been arrested following a fatal A66 crash that killed seven people, including two police officers.",
+      "summary_en": "Iran threatened retaliation against the United States following expanded sanctions, asserting that its response options remain open. Two UN peacekeepers were killed in an armed ambush in South Sudan. A devastating wildfire ravaged Nevada, with emergency responders reporting unprecedented destruction across affected regions.",
       "headlines": [
         {
-          "id": "9c247651cc",
-          "title": "Iran places 10 million dollar bounty on Trump's youngest son: how real is the threat to Barron Trump?",
-          "url": "https://www.hln.be/buitenland/iran-plakt-10-miljoen-dollar-op-het-hoofd-van-trumps-jongste-zoon-hoe-reeel-is-de-dreiging-tegen-barron-trump~a218fbf3/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-24T13:17:00+00:00",
-          "image_url": "https://images.hln.be/MjY1ZWQ0N2U5MjQ5ZGZiNTY3ODAvZGlvLzI3NzA1NTYxOS9maXQtd2lkdGgvNDAw/west-palm-beach-florida-january-18-u-s-president-elect-donald-trump-melania-trump-and-their-son-barron-board-a-u-s-air-force-aircraft-en-route-to-dulles-virginia-on-january-18-2025-in-west-palm-beach-florida-trump-and-vice-president-elect-former-sen-jd-vance-r-oh-will-be-sworn-in-on-january-20-photo-by-michael-m-santiago-getty-images-20250404-sint-michiels-brugge-professor-herman-matthijs-econoom-en-hoogleraar-openbare-financian-aan-de-vrije-universiteit-brussel-20250404-brugge-professor-herman-matthijs-foto-bas-bogaerts"
+          "id": "16f6593011",
+          "title": "Iran threatens retaliatory measures after expansion of American sanctions: 'our hands are not tied'",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/iran-dreigt-met-tegenmaatregelen-na-uitbreiding-van-amerikaanse-~1784611610051/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/25/1ce2490d-7dbd-4c06-a528-4cdf9deb9462.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "e8fb108155",
-          "title": "Trump says Iran is 'completely collapsing' ahead of new sanctions announcement – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-24T13:19:38+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/fc347e46cfadefd67b335055fc512962272990e4/161_0_2769_2215/master/2769.jpg?width=700&quality=85&auto=format&fit=max&s=cafcde90298809682e15725b310913f9"
+          "id": "6f575a1e24",
+          "title": "Two UN peacekeepers killed in ambush in South Sudan",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/twee-blauwhelmen-omgekomen-in-zuid-soedan/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/25/e6918772-efde-40fb-80c9-5cba916886ae.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "148efa70a9",
-          "title": "War with Iran in 'endgame', says US Treasury Secretary; Iranian currency at lowest level ever against dollar",
-          "url": "https://www.demorgen.be/snelnieuws/live-iran-plakt-prijs-op-het-hoofd-van-jongste-zoon-trump-iraanse-munt-op-laagste-niveau-ooit-tegenover-dollar~be9c4f82/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-24T12:52:00+00:00",
-          "image_url": "https://image.demorgen.be/276940133/roi/320/320/2805/1918.28/afbeelding"
-        },
-        {
-          "id": "77f5073b21",
-          "title": "Twelve people arrested over A66 crash that killed seven including two police officers",
-          "url": "https://www.theguardian.com/uk-news/2026/aug/24/people-arrested-over-a66-crash-that-killed-seven-including-two-police-officers",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-24T13:25:08+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/704446d06ede8a2e2acc7449968d0897595800b6/80_0_3335_2669/master/3335.jpg?width=700&quality=85&auto=format&fit=max&s=3034f57c8fd57997cde03e7bac66c833"
+          "id": "aacefe5905",
+          "title": "Devastating wildfire in Nevada: 'These areas are burning like I have never seen before'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/tientallen-huizen-verwoest-bij-natuurbranden-in-amerikaanse-staa/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/25/61dca216-fbe5-4c8a-b962-f3042e5c86b3.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
