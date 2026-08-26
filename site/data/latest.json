@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-08-26T10:26:32.224020+00:00",
+  "generated_at": "2026-08-26T16:31:38.139387+00:00",
   "date": "2026-08-26",
   "degraded": false,
   "top_general": {
-    "summary_he": "ממשלת ארה\"ב הגישה לקונגרס הסכם גרעין עם סעודיה הכולל נורמליזציה עם ישראל, זאת בד בבד עם מתקפה כלכלית מתגברת על איראן. דיווחים חושפים כי בנו של נתניהו היה יעד לניסיון התנקשות איראני. במקביל, מפלגתו של עופר וינטר מהווה אתגר פוליטי משמעותי לקואליציה הממשלתית.",
+    "summary_he": "היום התפרסמו כותרות על אסון טבעי קטלני בנפאל, שבו שיטפונות ענקיים גרמו למותם של עשרות בני אדם ולהיעלמותם של מאות נוספים, כולל תיירים זרים. בעדכון ביטחוני משמעותי דווח כי איראן תכננה התנקשות בראש הממשלה נתניהו. בהקשר כלכלי, דוח מוול סטריט צפוי להניע את מדד תל אביב 35 ביותר מ-10%.",
     "headlines": [
       {
-        "id": "2e93135530",
-        "title": "טראמפ הגיש לקונגרס את הסכם הגרעין עם סעודיה - ומתנה בנורמליזציה עם ישראל",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-fda41a34fcc30a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-26T06:52:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/19/trump_bin_salman_re_autoOrient_i.jpg"
+        "id": "0ba2a65445",
+        "title": "שיטפונות ענק בנפאל: 95 הרוגים ומאות נעדרים, כולל מטיילים זרים | תיעוד",
+        "url": "https://www.ynet.co.il/news/article/ryg3k82dzl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-26T11:48:49+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/rkMwNJ8nDze/rkMwNJ8nDze_0_309_3000_1689_0_medium.jpg"
       },
       {
-        "id": "e530568e9b",
-        "title": "דיווח: יאיר נתניהו היה יעד לניסיון התנקשות איראני בפלורידה",
-        "url": "https://news.walla.co.il/item/3863271",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-26T08:55:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/7/4077192-46.jpg"
+        "id": "3628b89210",
+        "title": "דיווח: איראן תכננה להתנקש ביאיר נתניהו, הוא הוברח לישראל",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-26/ty-article/.premium/000001a0-3ca7-d02f-a9ed-7cef3b100000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-26T06:03:17+00:00",
+        "image_url": null
       },
       {
-        "id": "61bcaaf77e",
-        "title": "מדוע הימין מפחד מעופר וינטר?",
-        "url": "https://news.walla.co.il/item/3863312",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-26T11:09:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092493-46.jpeg"
+        "id": "b070d45dcb",
+        "title": "הדו\"ח שוול סטריט מצפה לו הלילה יזיז יותר מ–10% ממדד ת\"א 35",
+        "url": "https://www.themarker.com/markets/2026-08-26/ty-article/.premium/000001a0-3c77-d02f-a9ed-7c7fee850000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-08-26T06:38:06+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a0-3c95-d274-a7f4-bcb505a20001/fb/cb/2885a97743c8b39c00e9fb335b42/834543.jpg?width=108&height=81"
       }
     ]
   },
   "security_war": {
-    "summary_he": "הקונפליקט הפלסטיני-ישראלי נמשך, עם דיווחים על תקיפות מתנחלים נגד אקטיביסטים בנוכחות כוחות צה\"ל. בהקשר בינלאומי, מדינות המפרץ נעזרות בחלופות לוגיסטיות כדי לעקוף את סגירת מצר הורמוז. בחזית האוקראינית, טנקים יקרים מתגלים כבעלי יעילות מוגבלת מול טכנולוגיות מודרניות זולות.",
+    "summary_he": "בעדכוני ביטחון משמעותיים דווח כי איראן תכננה להתנקש בראש הממשלה נתניהו. במקביל, הצהיר שר החוץ האמריקני מרקו רוביו כי לעת עתה לא תהיינה יוזמות צבאיות נוספות נגד איראן, תוך התמקדות בלחץ כלכלי. כמו כן, התפרסמו מסמכים המקשרים בין סינוואר למימון חמאס.",
     "headlines": [
       {
-        "id": "83f94396ec",
-        "title": "Settlers filmed attacking activists, reporters in front of IDF troops; none arrested",
-        "url": "https://www.timesofisrael.com/settlers-filmed-attacking-activists-reporters-in-front-of-idf-troops-none-arrested/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-08-25T23:20:04+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/AFP__20260825__C6FU8CF__v2__HighRes__TopshotPalestinianIsraelConflictWestBankSettler-1024x640.jpg"
-      },
-      {
-        "id": "35c8905871",
-        "title": "\"חניון הנפט\" הגדול: תיעוד - כך מדינות המפרץ עוקפות את סגירת מצר הורמוז",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-d12e63fce3d30a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-26T08:49:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/26/HQlxRx-WgAApUrm_autoOrient_i.jpg"
-      },
-      {
-        "id": "3b6ff4e698",
-        "title": "אוקראינה קיבלה טנקים יקרים, שהתגלו כחסרי תועלת בקרב מול הרחפנים הזולים",
-        "url": "https://www.haaretz.co.il/news/world/europe/2026-08-25/ty-article-magazine/.premium/000001a0-396d-d936-a7ac-396db9200000",
+        "id": "3628b89210",
+        "title": "דיווח: איראן תכננה להתנקש ביאיר נתניהו, הוא הוברח לישראל",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-26/ty-article/.premium/000001a0-3ca7-d02f-a9ed-7cef3b100000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-08-25T15:52:28+00:00",
+        "published_at": "2026-08-26T06:03:17+00:00",
+        "image_url": null
+      },
+      {
+        "id": "b4ca437b9a",
+        "title": "שר החוץ האמריקני רוביו: בינתיים לא תוקפים יותר באיראן",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-666123a726a30a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-25T20:15:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/01/irantkifa0108_autoOrient_i.jpg"
+      },
+      {
+        "id": "04ba72eeb0",
+        "title": "המסמכים, הפגישות - והקשר לסינוואר: כך עבר הכסף לחמאס",
+        "url": "https://13tv.co.il/item/news/politics/security/byat4-905313963/?pid=62&refc=902992425",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
         "image_url": null
       }
     ]
@@ -76,189 +76,236 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בחזית הממשל, מפלגתו של עופר וינטר משמשת מכשול אסטרטגי לנתניהו. בינתיים, סוריה עומדת על סף מהפכה כלכלית שתחייב את ישראל בהתאמה דיפלומטית. בנוסף, הודעת ארה\"ב כי לא תמשיך בהתקפות על איראן משפיעה על דינמיקת הסיוע לישראל.",
+      "summary_he": "בשטח הפוליטיקה התפרסמו כותרות על שינויים משמעותיים בנוף הפוליטי. בחזית הפוליטיקה האירופית נצפתה ירידה בהשפעתו של ראש הממשלה ההונגרי אורבן, בעוד בארה״ב זכתה מועמדת פרוגרסיבית בעלת עמדות אנטי-AIPAC בבחירות המקדימות הדמוקרטיות באוקלהומה. בישראל דווח על מתיחויות פוליטיות בין חברי כנסת בנוגע לעמדה כלפי הרשות הפלסטינית. בנוסף, הוצא כתב אישום נגד מנהיג ימין קיצוני בפולין בגין הכחשת השואה.",
       "headlines": [
         {
-          "id": "5b218c393a",
-          "title": "נתניהו היה אמור לקפוץ על המציאה, אבל המפלגה של וינטר יוצרת בעיה לגוש שלו",
-          "url": "https://www.haaretz.co.il/news/elections/2026-08-26/ty-article/.premium/000001a0-3a88-d268-a1fe-3bdcb1f30000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-26T03:01:07+00:00",
+          "id": "e9ba825d84",
+          "title": "לאורבן נגמרו המזומנים — והשפעתו על הימין האירופי מתפוגגת",
+          "url": "https://www.themarker.com/wallstreet/2026-08-26/ty-article/.premium/000001a0-3cd2-d2f8-a1b5-fffe876f0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-26T12:42:48+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3d24-d20e-abf1-3d26b5610000/fd/72/0647f1434e6285158e5249c013b0/876800.jpg?width=108&height=81"
+        },
+        {
+          "id": "39e613635b",
+          "title": "Progressive bolstered by anti-AIPAC messaging wins Democratic Senate primary in Oklahoma",
+          "url": "https://www.timesofisrael.com/progressive-bolstered-by-anti-aipac-messaging-wins-democratic-senate-primary-in-oklahoma/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-08-26T10:39:24+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/576479-1024x640.jpeg"
+        },
+        {
+          "id": "0eb356ed31",
+          "title": "סמוטריץ': \"עבאס הוא אויב מסוכן\", הנדל: \"לא ראוי להיות חבר כנסת\"",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21282498",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
           "image_url": null
         },
         {
-          "id": "6925a1fbe1",
-          "title": "סוריה על סף מהפכה כלכלית, וישראל חייבת להסתגל למציאות החדשה",
-          "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-26/ty-article/000001a0-3a79-d274-a7f4-bef97eb30000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-26T03:01:25+00:00",
-          "image_url": null
-        },
-        {
-          "id": "49b8eec1e5",
-          "title": "דיווח: רוביו עדכן שרי חוץ שארה\"ב לא תתקוף עוד באיראן",
-          "url": "https://www.haaretz.co.il/news/world/america/2026-08-25/ty-article/.premium/000001a0-3a0b-db47-afe9-fb9f11850000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-25T18:16:38+00:00",
-          "image_url": null
+          "id": "069b6737d7",
+          "title": "פולין: כתב אישום נגד מנהיג הימין הקיצוני בגין הכחשת שואה",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-755988b3fec30a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-08-26T07:53:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/08/26/GettyImages-2290639130_re_autoOrient_i.jpg"
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "חברת מטא מנסה להגיע להסדר כדי להימנע מקנס של טריליון דולרים על פגיעה בילדים במערכותיה. בתוך כך, משקי בית מתמודדים עם עמלות גבוהות של יותר מ-11% על שחרור כספי חיסכון לכל ילד. בנוסף, על משקיעים להיות מודעים לסיכונים הפוטנציאליים הכרוכים במהלכים בשוק האג\"ח האמריקאי ובדרקון היפני.",
+      "summary_he": "בעדכוני כלכלה ישראלית נרשמו תנועות משמעותיות בשוק ההון ובתשתיות. דוח וול סטריט צפוי להניע את מדד תל אביב 35 ביותר מ-10%, בעוד חברת גד הגיעה ל-7% משוק מוצרי החלב והודיעה על חלוקת דיווידנד של 30 מיליון שקל. בתחום התשתיות הוכרז על מכרז להקמת מתקן התפלה בנפח של 400 מיליון מ״ק לשנה בעמק חפר. במקביל דווח כי רוב הציבור צפוי להפסיד מעדכוני מדדי אגרות חוב.",
       "headlines": [
         {
-          "id": "51ced01fd2",
-          "title": "מטא דנה בהסדר שימנע ממנה קנס של 1.4 טריליון דולר על פגיעה בילדים",
-          "url": "https://www.themarker.com/wallstreet/2026-08-26/ty-article/.premium/000001a0-3caf-d274-a7f4-bcafc38f0000",
+          "id": "b070d45dcb",
+          "title": "הדו\"ח שוול סטריט מצפה לו הלילה יזיז יותר מ–10% ממדד ת\"א 35",
+          "url": "https://www.themarker.com/markets/2026-08-26/ty-article/.premium/000001a0-3c77-d02f-a9ed-7c7fee850000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-26T06:44:53+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-3cb5-d20e-abf1-3cb7f95e0000/cf/ae/bb87e7c3483f9292d4abb11480fe/853156.jpg?width=108&height=81"
+          "published_at": "2026-08-26T06:38:06+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3c95-d274-a7f4-bcb505a20001/fb/cb/2885a97743c8b39c00e9fb335b42/834543.jpg?width=108&height=81"
         },
         {
-          "id": "d8cb07dfc9",
-          "title": "\"גבו מהבן שלי עמלה מטורפת של יותר מ–11% על שחרור כספי חיסכון לכל ילד\"",
-          "url": "https://www.themarker.com/markets/2026-08-26/ty-article/.highlight/000001a0-383d-d02f-a9ed-7c7f573a0000",
+          "id": "83d37ba3e3",
+          "title": "נושפת בעורפה של טרה: גד עלתה ל-7% משוק מוצרי החלב ותחלק דיווידנד של 30 מיליון שקל",
+          "url": "https://www.themarker.com/consumer/2026-08-26/ty-article/.premium/000001a0-3d35-d02f-a9ed-7d7fb99f0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-26T03:16:50+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-3913-d02f-a9ed-7d7bc57b0001/45/05/33ba20d64a7f806b1c1653b61b91/1w.jpg?width=108&height=81"
+          "published_at": "2026-08-26T09:24:03+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3d57-d268-a1fe-3d579b1a0000/53/80/5c42c1fa4d1eacba7581cca516ae/432894.jpg?width=108&height=81"
         },
         {
-          "id": "887885ff18",
-          "title": "מבצע ה\"טוויסט\" של אג\"ח ארה\"ב והדרקון היפני שעלולים לטרוף את תיק ההשקעות שלכם",
-          "url": "https://www.themarker.com/agents/2026-08-26/ty-article/000001a0-3cdf-d936-a7ac-3cffaa860000",
+          "id": "9dee9f0795",
+          "title": "400 מיליון מ\"ק בשנה: המכרז להקמת מתקן ההתפלה הגדול בעולם שיוקם בעמק חפר יצא לדרך",
+          "url": "https://www.themarker.com/news/energy/2026-08-26/ty-article/.premium/000001a0-3d6f-d5ed-a7a6-7def2b260000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-26T08:23:41+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-3cf7-d02f-a9ed-7cffc7710000/4b/2c/0f12bdbd41bfa68ea72b833f72f1/192489.jpg?width=108&height=81"
+          "published_at": "2026-08-26T10:30:49+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3de9-d936-a7ac-3ded7a850000/fe/2c/3979faf84df596d9c474b7ff22f6/410317.jpg?width=108&height=81"
+        },
+        {
+          "id": "0cb57ca281",
+          "title": "עדכון מדדי האג\"ח: הציבור צפוי להפסיד, קרנות הגידור והבורסה ירוויחו",
+          "url": "https://www.themarker.com/markets/2026-08-26/ty-article/.premium/000001a0-3dde-d936-a7ac-3dffa0d20000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-26T12:50:35+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3df4-d936-a7ac-3dfd6e7c0000/b1/fc/e91a7d3b4988bb8d4ca89be9b412/575603.jpg?width=108&height=81"
         }
       ]
     },
     {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "חברת OpenAI הודיעה על פיתוח שבבים בעלי ביצועים גבוהים יותר משל אנבידיה, בצעד שעלול לשנות את מאזן הכוחות בתעשיית המחשוב.",
+      "key": "health",
+      "label_he": "בריאות ורפואה",
+      "summary_he": "בחזית הבריאות דווח על אסון קטלני בבית חולים בפקיסטן שגרם למותם של 14 תינוקות בשריפה. בעדכון חיובי, פרסמו חוקרים בישראל ממצאים משמעותיים במחקר נגד סרטן, הנוגעים להבנת מנגנוני ה-DNA והמוטציות הגנטיות. כמו כן דווח על מקרה רפואי יוצא דופן של תינוק שבגופו נמצאו סיכות מהדק.",
       "headlines": [
         {
-          "id": "cd86847025",
-          "title": "חברת OpenAI: פיתחנו שבבים עם ביצועים טובים יותר משל אנבידיה",
-          "url": "https://www.themarker.com/wallstreet/2026-08-26/ty-article/.premium/000001a0-3cee-d02f-a9ed-7cef79970000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-26T07:42:42+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-3d00-d274-a7f4-bda135dd0000/2e/22/004a2ec145aba7f704fb8afe6ef5/861614.jpg?width=108&height=81"
+          "id": "4b65f6c708",
+          "title": "אסון בפקיסטן: 14 תינוקות נספו בשריפה בבית חולים",
+          "url": "https://news.walla.co.il/item/3863320",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-08-26T11:57:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092760-46.jpg"
+        },
+        {
+          "id": "bd8d0f25ae",
+          "title": "Breakthrough Israeli cancer study finds mutations break DNA when it doesn’t bend",
+          "url": "https://www.timesofisrael.com/breakthrough-israeli-cancer-study-finds-mutations-break-dna-when-it-doesnt-bend/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-08-26T00:41:53+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/1-1-1024x640.jpg"
+        },
+        {
+          "id": "59d4fb4e9c",
+          "title": "התינוק התקשה לנשום - והרופאים גילו בוושט סיכות מהדק",
+          "url": "https://news.walla.co.il/item/3863341",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-08-26T12:39:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092789-46.jpeg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "בחזית הסביבה דווח על אסון טבעי קטלני בנפאל, עם שיטפונות ענקיים שנגרמו מרעידת אדמה ומפולת אדמה שבאה בעקבותיה. האסון גרם למותם של מאות בני אדם וסיכן את חיבורי התחבורה בגבול בין נפאל לסין.",
+      "headlines": [
+        {
+          "id": "6aa998e0f7",
+          "title": "3 דקות אסיה מאות נעדרים: שיטפון פתאומי קטלני בנפאל | תיעוד רעידת אדמה בעצמה 4.4 גרמה למפולת חסרת תקדים על גבול נפאל-סין • שר החוץ של נפאל: \"המפולת חסמה את הנהר וגרמה לשיטפון\" • משירותי ההצלה המקומיים נמסר כי מטוסי חיל האוויר מתקשים להנחית כוחות זמן קריאה: 3 דקות.",
+          "url": "https://www.i24news.tv/he/news/international/asia/artc-cf3e50a5",
+          "source": "i24",
+          "source_label": "i24NEWS",
+          "source_label_he": "i24NEWS",
+          "published_at": null,
+          "image_url": "https://cdn.i24news.tv/uploads/47/ca/3e/41/41/86/3e/00/45/14/e4/d2/2d/90/8d/1a/47ca3e4141863e004514e4d22d908d1a.jpg?width=350"
+        },
+        {
+          "id": "6d457f368d",
+          "title": "תיעוד דרמטי: גל עצום מוחק את העיר - הרוגים ומאות נעדרים בנפאל",
+          "url": "https://www.israelhayom.co.il/news/world-news/other/article/21283310",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
         }
       ]
     },
     {
       "key": "education",
       "label_he": "חינוך",
-      "summary_he": "מערכת החינוך בישראל מתמודדת עם אתגר משמעותי: כישורי המורים דורגו במקום ה-16 מתוך 19 מדינות מפותחות. בנוסף, מהלך להכשרת עובדים בעיירות כגון צפת וירוחם מעלה שאלות לגבי הצורך בשינוי בקרב המעסיקים.",
+      "summary_he": "בתחום החינוך התפרסמו דוחות קשים אודות מצב ההוראה בישראל. כמחצית ממורי המתמטיקה בחינוך היסודי אינם מתאימים להוראה, לפי דוח הלמ״ס. כמו כן, ילדים זרים בחינוך המיוחד מופרדים לחטיבות נפרדות למרות שנים של לימוד משותף עם ילדים ישראלים.",
       "headlines": [
         {
-          "id": "64f9ec408e",
-          "title": "מקום 16 מתוך 19 מדינות: כישורי המורים בישראל מהנמוכים בעולם המפותח",
-          "url": "https://news.walla.co.il/item/3863267",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-26T08:14:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/4/6/3946083-46.jpg"
+          "id": "b713c55b3b",
+          "title": "חצי מהמורים למתמטיקה בחינוך היסודי - לא מתאימים | הנתונים מדוח הלמ\"ס",
+          "url": "https://www.ynet.co.il/news/article/h1111kb2vzg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-26T11:43:53+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/06/25/9325914/9325914_0_0_640_360_0_medium.jpg"
         },
         {
-          "id": "e01eda5e3f",
-          "title": "הכשרנו עובדים בצפת ובירוחם. עכשיו הגיע תורם של המעסיקים להשתנות",
-          "url": "https://www.themarker.com/blogs/2026-08-26/ty-article/000001a0-3c9f-d20e-abf1-3cbf65430000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-26T07:47:37+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000017f-e537-df2c-a1ff-ff77df230000/7b/e8/344875a1c6dc65f4eac4fff13620/2824547463.jpg?width=108&height=81"
+          "id": "a03509c0ce",
+          "title": "אף שלמדו שנים עם ישראלים, ילדי זרים בחינוך המיוחד שובצו בחטיבות מופרדות",
+          "url": "https://www.haaretz.co.il/news/education/2026-08-26/ty-article/.premium/000001a0-3c70-d274-a7f4-bcf1ea160000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-26T08:17:23+00:00",
+          "image_url": null
         }
       ]
     },
     {
       "key": "culture_entertainment",
       "label_he": "תרבות ובידור",
-      "summary_he": "בעולם הבידור, הוליווד נוטה להפקת רימייקים של יצירות קודמות, בעוד כוכב קלאסי כמו הריסון פורד עושה קאמבק חדש. בתחום התיירות, התגלתה תרמית זיוף כאשר אדם אחד גבה דמי כניסה לאמפיתיאטרון יווני עתיק שהוא עצמו בנה.",
+      "summary_he": "בתחום התרבות והבידור דווח כי סדרת הטלוויזיה ההוליווודית המוכרת קיבלה חידוש לעונה נוספת בשל ביקוש גבוה.",
       "headlines": [
         {
-          "id": "2d00f25cdf",
-          "title": "שיגעון הרימייקים של הוליווד | עם בנימין טוביאס",
-          "url": "https://www.ynet.co.il/news/theheadline/article/zirrrw5up",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-26T02:00:00+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rJcQjZjvMx/rJcQjZjvMx_0_0_850_479_0_medium.jpg"
-        },
-        {
-          "id": "0ac9c057a0",
-          "title": "הפחד מנחשים היה בכלל בדיחה: הקאמבק המפתיע של הריסון פורד",
-          "url": "https://e.walla.co.il/item/3862525",
+          "id": "3a9bd851b0",
+          "title": "הוליווד שוב מחממת לנו שאריות: \"איך לאבד בחור ב-10 ימים\"  מקבלת חידוש",
+          "url": "https://e.walla.co.il/item/3863244",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-08-26T10:25:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/0/1/3801958-46.jpg"
-        },
-        {
-          "id": "1524ddb6e1",
-          "title": "תרמית מטורפת: גבה מתיירים כניסה לאמפיתיאטרון יווני \"עתיק\" - שבנה בעצמו",
-          "url": "https://travel.walla.co.il/item/3863140",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-26T08:46:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092373-46.jpg"
+          "published_at": "2026-08-26T15:00:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/1/2/0/7/120794-46.jpg"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "צה\"ל משדרג את מערך ההזנה של החיילים החרדים, עם הצעה לספק מזון טרי בכשרות מהדרין בחלק ממערך ההזנה השוטף, בתהליך הדרגתי של הפסקת החמגשיות.",
+      "summary_he": "בחזית החברה דווח כי יותר מ-60 ילדים זקוקים למשפחות אומנה לפני תחילת שנת הלימודים הקרובה.",
       "headlines": [
         {
-          "id": "ba31d35426",
-          "title": "2 דקות יהדות מהפכה בצה\"ל: מענה הכשרות עבור החיילים החרדים משתדרג מהלך לוגיסטי נרחב לשיפור תנאי השירות של המשרת החרדי • אספקת החמגשיות תופסק בהדרגה ובמקומה יסופק מזון טרי ומגוון בכשרות מהדרין כחלק ממערך ההזנה השוטף זמן קריאה: 2 דקות.",
-          "url": "https://www.i24news.tv/he/news/judaism/artc-7d604fa7",
-          "source": "i24",
-          "source_label": "i24NEWS",
-          "source_label_he": "i24NEWS",
+          "id": "329f344652",
+          "title": "רגע לפני שנת הלימודים: יותר מ-60 ילדים זקוקים למשפחת אומנה",
+          "url": "https://www.israelhayom.co.il/news/welfare/article/21282661",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
           "published_at": null,
-          "image_url": "https://cdn.i24news.tv/uploads/f0/8b/02/71/f6/b4/01/f7/68/a4/bf/f0/cc/2b/a7/f3/f08b0271f6b401f768a4bff0cc2ba7f3.jpg?width=350"
+          "image_url": null
         }
       ]
     },
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "מיליארדר אחד ביקש להוציא אנשים חסרי דיור מחוץ לחוק, והצליח לשכנע מדינות בארה\"ב לנקוט בצעדים דומים.",
+      "summary_he": "בתחום הנדל״ן דווח כי חברת רמי לוי נדל״ן רוכשת חברת בנייה בקשיים כלכליים כמעט בחינם, תוך הכנסת פעילות ביצוע לתיקיית ההשקעות שלה.",
       "headlines": [
         {
-          "id": "97048e2f19",
-          "title": "המיליארדר רצה להוציא מהחוק מחוסרי דיור — והצליח לשכנע מדינות בארה\"ב",
-          "url": "https://www.themarker.com/wallstreet/2026-08-26/ty-article-magazine/.highlight/000001a0-340f-dfc3-abf8-b61f9a990000",
+          "id": "35a9176aad",
+          "title": "רמי לוי נדל\"ן מכניסה פעילות ביצוע: רוכשת חברת בנייה בקשיים כמעט בחינם",
+          "url": "https://www.themarker.com/realestate/2026-08-26/ty-article/.premium/000001a0-3d5a-d5ed-a7a6-7ddae08e0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-26T03:00:25+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-3790-d936-a7ac-3fbd392f0000/ac/91/9d6ab20a4b19af066746e8f25c8c/192028.jpg?width=108&height=81"
+          "published_at": "2026-08-26T10:25:48+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3d8e-d268-a1fe-3dde0bb50000/07/38/415a12524102ab641fd84a1a89de/397563.jpg?width=108&height=81"
         }
       ]
     }
@@ -282,8 +329,28 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "A new drama examines historical perspectives on memory and Jewish identity in the context of Oct. 7, while cultural works continue to explore the event's significance. Political developments around Israel-Palestine remain active, with Montreal's city council passing Palestinian solidarity measures and a pro-Israel political figure's family member securing a GOP Senate nomination. Research highlights elevated breast cancer risks in Sephardi and Mizrahi Jewish communities. Belgium's scholarship program for Palestinian students has drawn attention for its paradox: awarding financial aid to students in Gaza while they have no way to leave.",
+      "summary_en": "Gaza's humanitarian crisis deepens as farmers struggle to maintain agricultural production under constant threat to their safety and livelihoods. An Israeli far-right lawmaker destroyed a Palestinian memorial with a sledgehammer, reflecting escalating tensions in Israeli-Palestinian relations. Historians' perspectives on collective memory and identity following October 7th are shaping contemporary discourse on Jewish identity, while Democratic leaders have condemned antisemitic remarks by a prominent online personality. AIPAC's financial influence in US Senate races continues to highlight the intersection of Israeli-American political engagement.",
       "headlines": [
+        {
+          "id": "0e0304ec0e",
+          "title": "On scraps of land and under constant threat, Gaza farmers struggle to survive",
+          "url": "https://www.theguardian.com/world/2026/aug/26/gaza-farmers-struggle-scraps-of-land-constant-threat",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-26T11:00:11+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/1d5f1e7669ac11c453ed0bafdb519f0f4b9f7722/604_278_3492_2794/master/3492.jpg?width=700&quality=85&auto=format&fit=max&s=8f28b0acaa56cf6690f254c59822f5f0"
+        },
+        {
+          "id": "f1f5dde9d5",
+          "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+          "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-26T08:17:45+00:00",
+          "image_url": null
+        },
         {
           "id": "6f82b1fb6f",
           "title": "This historian's classic ideas about memory fuel a new drama about Oct. 7 and Jewish identity",
@@ -295,95 +362,85 @@
           "image_url": "https://www.jta.org/wp-content/uploads/2026/08/overlay-image-7.jpg"
         },
         {
-          "id": "0a9eba21ea",
-          "title": "Montreal passes Palestinian solidarity motion after removing text on cutting ties with Israel",
-          "url": "https://www.jta.org/2026/08/25/global/montreal-passes-palestinian-solidarity-motion-after-removing-text-on-cutting-ties-with-israel",
+          "id": "5c8b1b8f1d",
+          "title": "El-Sayed seeks daylight from Hasan Piker as Democrats condemn streamer's latest remarks about Jews",
+          "url": "https://www.jta.org/2026/08/25/politics/el-sayed-seeks-daylight-from-hasan-piker-as-democrats-condemn-streamers-latest-remarks-about-jews",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-08-25T20:34:09+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/GettyImages-2235898463.jpg"
+          "published_at": "2026-08-25T19:55:46+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/El-Sayed-Aug.-25.jpg"
         },
         {
-          "id": "7c582ef9be",
-          "title": "Are you a Sephardi or Mizrahi Jew? Your risk for breast cancer may be greater than you think.",
-          "url": "https://www.jta.org/2026/08/25/health/are-you-a-sephardi-or-mizrahi-jew-your-risk-for-breast-cancer-may-be-greater-than-you-think",
+          "id": "3b350281e9",
+          "title": "In the Mike Rogers vs. Abdul El-Sayed Michigan Senate race, will anyone take AIPAC's money?",
+          "url": "https://www.jta.org/2026/08/25/politics/in-the-mike-rogers-vs-abdul-el-sayed-michigan-senate-race-will-anyone-take-aipacs-money",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-08-25T13:10:20+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/sharsheret-aug2026-jta.png"
-        },
-        {
-          "id": "d1a7063d20",
-          "title": "Sister of pro-Israel stalwart Lindsey Graham secures GOP Senate nomination",
-          "url": "https://www.jta.org/2026/08/26/politics/sister-of-pro-israel-stalwart-lindsey-graham-secures-gop-senate-nomination",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-08-26T05:54:54+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/Darlene-Graham.jpg"
-        },
-        {
-          "id": "c2228e3ee0",
-          "title": "Belgium awards scholarships to Palestinian students — but gives them no way to leave Gaza",
-          "url": "https://www.politico.eu/article/belgium-gaza-palestinian-students-scholarships-evacuations/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-08-26T02:00:00+00:00",
-          "image_url": null
+          "published_at": "2026-08-25T16:54:15+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/8-24-26-rogers.jpg.jpeg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Bruges authorities are seeking to remove a Vlaams Belang councilwoman over residency concerns, raising questions about political accountability. Belgian brewers are actively opposing a proposed public health slogan warning that alcohol harms health, illustrating tensions between industry and public health messaging. Brussels faces infrastructure challenges as new residential towers in Brussels-North raise concerns about public transport capacity. Weather forecasts warn of heavy showers and strong winds across the country.",
+      "summary_en": "Belgian brewers have objected to new public health slogans, intensifying debate over alcohol regulation and health messaging. Ghent University is defending disciplinary proceedings against controversial professor Cofnas following international criticism. Three Belgian citizens have begun their voluntary military service, while police resources in Brussels now exceed those in Antwerp, countering recent concerns about resource distribution.",
       "headlines": [
         {
-          "id": "92e0b01b69",
-          "title": "Bruges politics wants to remove Marie Laeremans (Vlaams Belang) from municipal council: 'She no longer lives in Bruges'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/gemeenteraadslid-moet-ontslag-nemen-brugge-laeremans/",
+          "id": "41fde9909e",
+          "title": "Health: Brewers resist new slogan and debate how harmful alcohol really is",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/slogans-discussie-alcohol-gezondheid/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/50613766-91be-4c0e-a203-a787caa43a33.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/f665367a-2251-48f1-aa3b-71a38730343d.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "8d474a6c79",
-          "title": "Belgian brewers oppose new slogan 'Alcohol harms health': 'Are these harmful moments?'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/belgische-brouwers-kanten-zich-tegen-slogan-alcohol-schaadt-de/",
+          "id": "d214204b32",
+          "title": "University of Ghent defends disciplinary procedure against controversial professor Cofnas following international criticism",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/gent-ugent-cofnas-petra-de-sutter-tuchtprocedure-omstreden-rasse/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/02/dce1e783-02a8-42ad-a4f3-da100a65173f.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2025/04/30/7d4407ac-df1e-484d-a10f-b54aadb1645a.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "e3b5c677fa",
-          "title": "KMI warns of heavy showers today: risk of strong winds and heavy rainfall in short time",
-          "url": "https://www.demorgen.be/nieuws/kmi-waarschuwt-voor-felle-buien-vandaag-kans-op-rukwinden-en-veel-neerslag-op-korte-tijd~b24084397/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-26T05:02:00+00:00",
-          "image_url": "https://image.demorgen.be/276919947/feature-crop/320/320/afbeelding"
+          "id": "0f77c9e794",
+          "title": "Voluntary military service: Ignace, Louise, and Ismaël begin their service year",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/dienstjaar-defensie-jongeren-portret/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/e425fb72-bf97-4ed3-9635-917cfc718220.png?width=200&height=200&q=80&blur=90"
         },
         {
-          "id": "9f765fbf5b",
-          "title": "'Hopefully they won't make it any more difficult for us': new towers in Brussels-North create concerns about public transport",
-          "url": "https://www.demorgen.be/nieuws/hopelijk-maken-ze-het-ons-niet-nog-moeilijker-nieuwe-torens-aan-brussel-noord-creeren-zorgen-rond-openbaar-vervoer~b3078763/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-26T01:00:00+00:00",
-          "image_url": "https://image.demorgen.be/276948897/feature-crop/320/320/afbeelding"
+          "id": "7a4d9c5c5e",
+          "title": "Justice: Criticism is inaccurate — Brussels has more detectives than Antwerp",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/speurders-brussel-en-antwerpen-drugsgeweld/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/c0455549-3426-4884-88c9-7247036ffaf8.jpg?width=200&height=200&q=80&blur=90"
         }
       ]
     },
     "europe": {
-      "summary_en": "France and Germany are at odds over the direction of Europe's industrial policy, reflecting broader divisions on economic strategy within the EU. Ukraine continues escalating drone operations against Russian infrastructure, recently striking a major Wildberries warehouse in Tambov. Severe weather poses growing risks across Europe, with experts questioning whether devastating tornadoes like those recently seen in France could become more common in other regions.",
+      "summary_en": "EU Parliament President Metsola has endorsed Italian Prime Minister Meloni's pragmatic approach to streamlining EU operations and governance. France and Germany remain at odds over the strategic direction and investment priorities of European industrial development. The Champions League format has prevented several high-profile club matchups, including Liverpool-Real Madrid and Inter-Arsenal.",
       "headlines": [
+        {
+          "id": "7c36b4a663",
+          "title": "Metsola praises Meloni's 'common-sense solutions' on EU simplification",
+          "url": "https://www.politico.eu/article/roberta-metsola-giorgia-meloni-eu-bureaucracy-packaging-rules/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-08-26T12:52:10+00:00",
+          "image_url": null
+        },
         {
           "id": "4bc899c98d",
           "title": "France and Germany collide over Europe's industrial future",
@@ -395,8 +452,33 @@
           "image_url": null
         },
         {
+          "id": "a6bd0f0b62",
+          "title": "Two top matchups excluded: why Liverpool-Real Madrid and Inter-Arsenal are impossible at the Champions League draw",
+          "url": "https://www.hln.be/champions-league/twee-topaffiches-uitgesloten-waarom-liverpool-real-madrid-en-inter-arsenal-onmogelijk-zijn-bij-de-champions-league-loting~ae46f168/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-26T14:00:57+00:00",
+          "image_url": "https://images.hln.be/NmVjYWYxMDA5NzI5NzcxOTYyNWYvZGlvLzI3NzEwMDg2NC9maXQtd2lkdGgvNDAw/mbappe-en-szoboszlai-tijdens-liverpool-real-madrid-van-vorig-seizoen"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "A catastrophic flood in Nepal has killed at least 95 people, with hundreds still missing, including 341 foreign tourists caught in the disaster. Ukraine has mounted a massive drone offensive against Russian territory, destroying significant infrastructure, including a major Wildberries warehouse facility in Tambov. The United States has halted worldwide visa applications and appointments for prospective migrants, signaling a major shift in immigration policy. Senior US intelligence officials continue diplomatic engagement with Russia, with President Trump characterizing such contacts as routine diplomatic activity.",
+      "headlines": [
+        {
+          "id": "34333c7235",
+          "title": "Nepal floods kill at least 95 people; hundreds missing including 341 foreign tourists",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/dodelijke-overstromingen-in-nepal-na-lawine-19-doden-en-honderd/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/ec0e6635-36fc-43c6-af1b-e845c32e11c8.jpg?width=200&height=200&q=80&blur=90"
+        },
+        {
           "id": "0613a08714",
-          "title": "Russia-Ukraine War Liveblog: Ukraine fires at least 400 drones at Russia; Wildberries warehouse in Tambov catches fire",
+          "title": "Ukraine fires at least 400 drones at Russia; Wildberries warehouse in Tambov destroyed",
           "url": "https://www.vrt.be/vrtnws/nl/liveblog/oekraine-vuurt-minstens-400-drones-af-op-rusland-magazijn-van-w~1781787179742/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -405,49 +487,24 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/a441d56b-a39e-4879-904d-7f175ea29d17.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "911ca26faf",
-          "title": "'Average 5 to 10 per year': can such devastating tornadoes as in France also occur here?",
-          "url": "https://www.hln.be/nieuws/gemiddeld-5-tot-10-per-jaar-kunnen-zulke-verwoestende-tornados-als-in-frankrijk-ook-hier-voorkomen~ae429a11f/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-26T08:00:28+00:00",
-          "image_url": "https://images.hln.be/YmMwZmZjYWU5NTgzNmMyZjY5ZDcvZGlvLzI3NzA5NTg2NC9maXQtd2lkdGgvNDAw/de-indrukwekkende-tornado-in-het-franse-departement-aude-maandagnamiddag-vlakbij-carcassonne"
-        }
-      ]
-    },
-    "world_top": {
-      "summary_en": "Typhoon Narra has caused record-breaking flooding in China, submerging homes and forcing mass evacuations of residents across affected regions. Gang violence near Haiti's capital has resulted in at least 47 deaths and numerous kidnappings, highlighting ongoing security challenges in the region. Trade tensions between North American neighbors are intensifying as Canada announces retaliatory tariffs against the US reaching as high as 50%, escalating economic friction between the two countries.",
-      "headlines": [
-        {
-          "id": "63c7afe2e3",
-          "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
-          "url": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-26T01:46:25+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/ddc5b89ffe9742f50c75380c051ff9ac6d23aced/566_0_4398_3518/master/4398.jpg?width=700&quality=85&auto=format&fit=max&s=9866bbd3899eb873adcff51ffc91bd82"
+          "id": "bed4f4441d",
+          "title": "US pauses worldwide visa applications and appointments for prospective migrants",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/vs-visumaanvragen-en-afspraken-stopgezet/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/2e164c45-92fa-4336-8d02-e82ceb78a114.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "16072e1bc5",
-          "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
-          "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-25T17:35:16+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/68cb4b627f9923f458e7a6ed763c3cd35aa0ea00/197_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=2eb9b740d235081ac63c17aebc18c5af"
-        },
-        {
-          "id": "94a6ef56b5",
-          "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-          "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-08-25T19:50:57+00:00",
-          "image_url": null
+          "id": "f2fe386878",
+          "title": "Trump downplays CIA director's visit to Moscow as 'half routine'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/cia-directeur-john-ratcliffe-in-moskou-voor-gesprekken-met-russi/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/24a4435f-23e2-4c3c-8b1c-87b9c8a1397a.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
