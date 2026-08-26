@@ -1,84 +1,94 @@
 {
-  "generated_at": "2026-08-25T10:11:10.698236+00:00",
-  "date": "2026-08-25",
+  "generated_at": "2026-08-26T07:58:49.080514+00:00",
+  "date": "2026-08-26",
   "degraded": false,
   "top_general": {
-    "summary_he": "ממשל טראמפ הכריז כי ישלח סנקציות לכל מדינה הסוחרת עם איראן. במקביל, סוריה הוסרה מרשימת הטרור של ארה״ב, בעוד דיווחים הצביעו על התקדמות בשיחות בטהרן לחידוש המגעים בין איראן לוושינגטון.",
+    "summary_he": "ארה\"ב הודיעה כי בשלב זה לא תתקוף שוב באיראן, זאת לאחר לחץ כלכלי אמריקני שהוביל למשבר קשה בכלכלה האיראנית. במקביל התפרסם דיווח כי איראן ניסתה להתנקש ביאיר נתניהו, שהוברח לישראל. בזירה הפוליטית, הקמת מפלגתו החדשה של וינטר מעוררת מחלוקת בגוש הימין, ונתניהו הזהיר כי היא עלולה לפגוע בסיכוייו.",
     "headlines": [
       {
-        "id": "a61aa3a8d7",
-        "title": "וושינגטון לעולם: התרחקו מאיראן - או שתסתכנו בסנקציות",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-e12eda8fa9430a1026.htm",
+        "id": "b4ca437b9a",
+        "title": "שר החוץ האמריקני רוביו: בינתיים לא תוקפים יותר באיראן",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-666123a726a30a1027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-08-24T16:38:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/12/dfvfdvdf_autoOrient_i.jpg"
+        "published_at": "2026-08-25T20:15:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/01/irantkifa0108_autoOrient_i.jpg"
       },
       {
-        "id": "9280fa7aae",
-        "title": "ממשל טראמפ הודיע שיפעל נגד גורמים שיסחרו עם איראן: \"איש לא חסין\"",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-24/ty-article/.premium/000001a0-34b3-dfc3-abf8-b6b788a00000",
+        "id": "3628b89210",
+        "title": "דיווח: איראן תכננה להתנקש ביאיר נתניהו, הוא הוברח לישראל",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-26/ty-article/.premium/000001a0-3ca7-d02f-a9ed-7cef3b100000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-08-24T17:18:51+00:00",
+        "published_at": "2026-08-26T06:03:17+00:00",
         "image_url": null
       },
       {
-        "id": "5b827f87a0",
-        "title": "Sharaa says Syria ‘shakes off a dark stain’ with removal from US terror list",
-        "url": "https://www.timesofisrael.com/sharaa-says-syria-shakes-off-a-dark-stain-with-removal-from-us-terror-list/",
+        "id": "fdb22b6f4d",
+        "title": "Winter launches nationalist ‘People of Israel’ party; Netanyahu warns it could doom the right",
+        "url": "https://www.timesofisrael.com/winter-launches-new-nationalist-people-of-israel-party-pm-warns-it-will-split-vote-on-right/",
         "source": "times_of_israel",
         "source_label": "Times of Israel",
         "source_label_he": "Times of Israel",
-        "published_at": "2026-08-25T08:54:26+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26189526139219-1024x640.jpg"
+        "published_at": "2026-08-25T20:57:10+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/F260825CG523-2-1024x640.jpg"
       },
       {
-        "id": "b625f9c18b",
-        "title": "פקיסטן: התקדמות משמעותית בשיחות בטהרן על חידוש המגעים עם ארה\"ב",
-        "url": "https://news.walla.co.il/item/3863001",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-25T08:33:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/5/4/4054898-46.jpg"
+        "id": "83e78ead05",
+        "title": "דיווח | המונים כבר מחכים בתור לדלק: הכאוס ברחובות איראן בצל המכה הכלכלית האמריקנית",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-e1d1c175d8830a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-08-25T11:40:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/25/IBUDTRUMPNEW_autoOrient_c_autoOrient_i.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "איראן איימה על אירופה וקבעה כי יש לה זכות להגיב לכל מעורבות בתוקפנות נגדה. בארצות הברית, הוצגו בפני הנשיא התרעות על הסיכונים שבמהלך צבאי נגד איראן, כשמקורות בכירים הודו כי פעולה כזו עשויה להביא לפיצוצים.",
+    "summary_he": "צה\"ל תקף מספר מוקדים בדרום לבנון, ובבסיסים בארץ בלטו דיווחים על ירי בכלבים. במקביל, עלות המילואים למשק מוערכת כגבוהה בהרבה מהתחזיות המקוריות, והצבא נאבק בשחיקת ציוד ותקציב תקוע.",
     "headlines": [
       {
-        "id": "2315258384",
-        "title": "באיראן מאיימים על אירופה: \"לא נבליג על השתתפות בתוקפנות, זכותנו להגיב\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b79c0d7c80330a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-24T16:40:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/07/11/GettyImages-2270538401_autoOrient_i.jpg"
-      },
-      {
-        "id": "3f20417b41",
-        "title": "ההתרעות שהונחו על שולחן הנשיא: פרטי האזהרות המפורשות שקיבל טראמפ לפני המלחמה באיראן",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-a7e9710ae1730a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-25T04:16:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/03/13/AP25363759486251_autoOrient_i.jpg"
-      },
-      {
-        "id": "6b6c8fd5c1",
-        "title": "ה-\"D-Day\" נגד איראן התברר כעוד איום - והבכיר האמריקני הודה: \"זה יביא לפיצוץ\"",
-        "url": "https://www.ynet.co.il/news/article/r1w00mg5wml",
+        "id": "56e5eb2011",
+        "title": "דיווחים בלבנון: צה\"ל תקף בכמה מוקדים בדרום המדינה",
+        "url": "https://www.ynet.co.il/news/article/ryhwryspge",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-08-24T21:50:58+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/H1kdeXcvfe/H1kdeXcvfe_845_1_1935_1090_0_medium.jpg"
+        "published_at": "2026-08-25T22:02:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/H1xia00swzg/H1xia00swzg_0_0_1280_720_0_medium.jpg"
+      },
+      {
+        "id": "f07629d708",
+        "title": "האוצר: עלות המילואים גבוהה עוד יותר משהערכנו",
+        "url": "https://www.themarker.com/career/2026-08-25/ty-article/.premium/000001a0-3902-d936-a7ac-392f50970000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-08-25T14:40:21+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a0-3906-db47-afe9-fb96f4130000/dd/32/82fc4d384efda2f11ae4fc07fa5c/385392.jpg?width=108&height=81"
+      },
+      {
+        "id": "1da2af47a8",
+        "title": "ההאמרים נשחקים, התקציב תקוע: הפער שמדאיג את צה\"ל",
+        "url": "https://news.walla.co.il/item/3863243",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-08-26T06:00:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/0/8/4008117-46.jpeg"
+      },
+      {
+        "id": "fa1f8c6cef",
+        "title": "\"המתת חסד\": צה\"ל יורה בכלבים בבסיסים במקום למצוא להם מקלט",
+        "url": "https://travel.walla.co.il/item/3863218",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-08-25T22:00:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092633-46.jpg"
       }
     ]
   },
@@ -86,134 +96,157 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "ראש הממשלה ספג ביקורת לאחר שחשף מידע אישי של מצביעים ברשת. כמו כן דווח כי שר בממשלה ניצל נאום בכנס משטרה לטובת קידום עצמי, למרות התחייבות קודמת. בנוסף, יוזמה להתנחלויות בדואיות קיבלה תמיכה מחוגי הביטחון.",
+      "summary_he": "המפלגה החדשה של וינטר מעוררת סערה בגוש הימין, כאשר נתניהו מזהיר כי היא עלולה להביא לנפילתו. בנוסף, הליכוד הפיץ סקר על צירוף עיתונאי לשורותיו, ובן גביר נקלע לביקורת על שימוש במסוק משטרתי לצרכים פרטיים.",
       "headlines": [
         {
-          "id": "3c2534a7fa",
-          "title": "נתניהו הזמין מצביעים להתקשר אליו, וחשף את פרטיהם ברשת",
-          "url": "https://www.haaretz.co.il/news/elections/2026-08-24/ty-article/.premium/000001a0-3459-de46-a3a8-fc5bb7e10000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-24T18:03:59+00:00",
+          "id": "9d21a08b5c",
+          "title": "\"זה יוביל לנפילת הימין\": נתניהו במתקפה על וינטר והמפלגות החדשות",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21278924",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
           "image_url": null
         },
         {
-          "id": "830e5eb90c",
-          "title": "חרף התחייבותו לסולברג, בן גביר ניצל את נאומו בכנס מתנדבי המשטרה לקידום עצמי",
-          "url": "https://www.haaretz.co.il/news/elections/2026-08-24/ty-article/.premium/000001a0-3520-d268-a1fe-3d741c120000",
+          "id": "543d6917dd",
+          "title": "הליכוד הפיץ סקר על שילוב עיתונאי ערוץ 9 בשורותיו, אחרי שנתניהו התראיין לשם",
+          "url": "https://www.haaretz.co.il/news/elections/2026-08-26/ty-article/.premium/000001a0-39d9-d268-a1fe-39dd564b0000",
           "source": "haaretz",
           "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-08-24T19:01:48+00:00",
+          "published_at": "2026-08-26T05:52:53+00:00",
           "image_url": null
         },
         {
-          "id": "0962477da0",
-          "title": "\"מהלך עם ערך אסטרטגי\": התמיכה של ראש המוסד במיזם למען היישוב הבדואי",
-          "url": "https://www.ynet.co.il/news/article/yokra14868433",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-25T02:28:31+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/HyzT5oqDGe/HyzT5oqDGe_0_0_850_479_0_medium.jpg"
+          "id": "cebe35ec02",
+          "title": "בן גביר השתמש במסוק של המשטרה כדי לטוס מחופשה פרטית בצפון לכנס מתנדבי המשטרה",
+          "url": "https://www.haaretz.co.il/news/politics/2026-08-25/ty-article/.premium/000001a0-38dc-d268-a1fe-39dcd9960000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-25T15:20:08+00:00",
+          "image_url": null
+        },
+        {
+          "id": "5b9662ee9e",
+          "title": "לבקשת המשטרה, שב\"כ מעורב בחיפושים אחר היימנוט קסאו",
+          "url": "https://www.haaretz.co.il/news/law/2026-08-25/ty-article/.premium/000001a0-3962-d936-a7ac-396fcaa30000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-25T14:46:12+00:00",
+          "image_url": null
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "בשוק ההון, מדד תל אביב עלה כשמניות הטכנולוגיה הובילו את העליות, בעוד חברת הביטוח פניקס דיווחה על עלייה ברווח החציוני בסיום הרבעון.",
+      "summary_he": "משרד האוצר מזהיר כי עלות המילואים למשק גבוהה מהמוערך, ואילו הדולר נחלש מול השקל. בבורסה נרשמה ירידה חדה במניות טאואר, נובה וקמטק מהשיא שנרשם בהן.",
       "headlines": [
         {
-          "id": "35039f5311",
-          "title": "עליות בתל אביב - בהובלת מניות השבבים; ת\"א 35 מטפס ב-0.3%",
-          "url": "https://www.themarker.com/markets/2026-08-25/ty-article-live/000001a0-3775-d02f-a9ed-7f7ff2410000",
+          "id": "40fca69e83",
+          "title": "אובדן השליטה על משאב המילואים: האוצר הציע לצה\"ל לשכור חברת בקרה — ונדחה",
+          "url": "https://www.themarker.com/news/macroeconomics/2026-08-26/ty-article/.premium/000001a0-38f7-d936-a7ac-38ff3c390000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-25T05:48:47+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000018c-f295-d206-a1af-f7bdb4b10000/23/90/4474e452419ba1b42f7ab9bbfed6/436046.jpg?width=108&height=81"
+          "published_at": "2026-08-26T03:11:37+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3914-d02f-a9ed-7d7fe93a0000/c1/1b/8f136d57426fa1196ce3840b2b84/377064.jpg?width=108&height=81"
         },
         {
-          "id": "0cb7a0ddf1",
-          "title": "הפניקס מציגה עלייה ברווח החציוני ברבעון ושיתוף פעולה עם לוידס לביטוח משנה",
-          "url": "https://www.themarker.com/markets/2026-08-25/ty-article/.premium/000001a0-377a-d936-a7ac-3f7fd0860000",
+          "id": "9bbc2da2a8",
+          "title": "הדולר נחלש ב-0.4% ונסחר תמורת 2.975 שקלים",
+          "url": "https://www.themarker.com/markets/2026-08-26/ty-article-live/000001a0-3c7a-d274-a7f4-bcfb886c0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-25T06:36:34+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000017f-db1f-df0f-a17f-df5faac80000/f8/c9/6dc955f7dd7daee6ee2560043c2c/2073042480.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "בעיר פוקט שבתאילנד התקיימה עצרת נגד התנהגות תיירים, שהדגישה במיוחד את התנהגותם של תיירים ישראלים.",
-      "headlines": [
+          "published_at": "2026-08-26T05:19:55+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000189-afdf-dba8-a3af-ffff619a0000/98/d5/a01866194a82b95222cff690495e/575602-2.jpg?width=108&height=81"
+        },
         {
-          "id": "4af01443d1",
-          "title": "\"ישראל החוצה\": עצרת בפוקט נגד התנהגות התיירים – שמסמנת בעיקר את הישראלים",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-a3c83ac383430a1026.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-08-25T04:37:00+00:00",
-          "image_url": "https://img.mako.co.il/2024/11/06/shutterstock_634223462_re_autoOrient_i.jpg"
+          "id": "fca22140cf",
+          "title": "טאואר, נובה וקמטק ירדו ב-28%-40% מהשיא; \"המכפיל גבוה, אך הצמיחה לא תימשך לנצח\"",
+          "url": "https://www.themarker.com/markets/2026-08-26/ty-article/.highlight/000001a0-394e-d936-a7ac-396fda980000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-26T03:06:13+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3992-d274-a7f4-bdb368890000/24/fb/37ff926147078cb45d90e42d154c/017502.jpg?width=108&height=81"
         }
       ]
     },
     {
       "key": "education",
       "label_he": "חינוך",
-      "summary_he": "סקר חדש חשף כי כמעט 90 אחוז מההורים הישראלים דיווחו על פגיעה בחינוך ילדיהם עקב המלחמה עם איראן.",
+      "summary_he": "מחקר חדש חושף כי כישורי המורים בישראל מהנמוכים בעולם המפותח, במקום ה-16 מתוך 19 מדינות שנבדקו - נמוך אף מצ'ילה.",
       "headlines": [
         {
-          "id": "c9e3b3c6fb",
-          "title": "Nearly 90% of Israeli parents say their kids’ education was harmed by Iran war – poll",
-          "url": "https://www.timesofisrael.com/nearly-90-of-israeli-parents-say-their-kids-education-was-harmed-by-iran-war-poll/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-25T05:53:30+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/F260419MG13-e1787633910552-1024x640.jpg"
+          "id": "46737c48ce",
+          "title": "כישורי המורים בישראל נמוכים בהשוואה למדינות המפותחות — וגם לעומת שאר העובדים במדינה",
+          "url": "https://www.themarker.com/news/education/2026-08-26/ty-article/.premium/000001a0-3870-d936-a7ac-387de3e70000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-26T03:08:57+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3902-db47-afe9-fb96bbcb0000/f0/0a/d4cdbdae45fa84a027237192ca61/578902.jpg?width=108&height=81"
+        },
+        {
+          "id": "d9a5056f53",
+          "title": "במקום ה-16, גם אחרי צ'ילה: כישורי המורים בישראל - מהנמוכים במדינות המפותחות",
+          "url": "https://www.ynet.co.il/news/article/r1ufnjhwmx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-26T04:58:37+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/29/S1gDfNemGl/S1gDfNemGl_0_0_3000_2000_0_medium.jpg"
+        },
+        {
+          "id": "64f9ec408e",
+          "title": "מקום 16 מתוך 19 מדינות: כישורי המורים בישראל מהנמוכים בעולם המפותח",
+          "url": "https://news.walla.co.il/item/3863267",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-08-26T08:14:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/4/6/3946083-46.jpg"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "בישראל, הדיון על הלחון וספינת הנשק שלו מ-1948 חוזר לסדר היום כסימן לסכסוך אידיאולוגי בהנהגה. ברחבי העולם, משטר איראן המשיך בהדחקת מקומות הבילוי האחרונים שנותרו לצעירים.",
+      "summary_he": "תיעוד חדש חושף תקיפת פעילי שמאל ועיתונאים על ידי מתנחלים ליד בית לחם בנוכחות חיילים, ללא מעצרים. בנפרד, נמשך הדיון על ניתוץ אנדרטה בגדה על ידי צבי סוכות, שזכה לגינוי רחב.",
       "headlines": [
         {
-          "id": "1e991312ae",
-          "title": "PM hails finding of Irgun arms ship Altalena, denounces Ben-Gurion for attacking it in 1948",
-          "url": "https://www.timesofisrael.com/pm-hails-finding-of-irgun-arms-ship-altalena-denounces-ben-gurion-for-striking-it-in-1948/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-24T19:21:28+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/4544-1024x640.jpeg"
-        },
-        {
-          "id": "6cd7829c96",
-          "title": "אלטלנה לא הייתה רק טרגדיה. היא אזהרה",
-          "url": "https://www.ynet.co.il/news/article/rjgwgj5pge",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-25T05:26:05+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/H1CcIk9Dzg/H1CcIk9Dzg_0_0_850_479_0_medium.jpg"
-        },
-        {
-          "id": "ae5e23c9ce",
-          "title": "המשטר באיראן נלחם במקומות הבילוי האחרונים שנותרו לצעירים: בתי הקפה",
-          "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-24/ty-article-magazine/.premium/000001a0-3461-d936-a7ac-3c6de4ef0000",
+          "id": "b50d1bfe14",
+          "title": "תיעוד: בנוכחות חיילים, מתנחלים תקפו פעילי שמאל ליד בית לחם. איש לא נעצר",
+          "url": "https://www.haaretz.co.il/news/politics/2026-08-25/ty-article/.premium/000001a0-3910-dfc3-abf8-bf16f5460000",
           "source": "haaretz",
           "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-08-24T16:27:32+00:00",
+          "published_at": "2026-08-25T15:46:58+00:00",
+          "image_url": null
+        },
+        {
+          "id": "250b8934dc",
+          "title": "הפטיש של צבי סוכות הוא חלק ממערך מחושב של אלימות מתנחלים, בגיבוי הצבא",
+          "url": "https://www.haaretz.co.il/news/politics/2026-08-25/ty-article/.highlight/000001a0-38ed-dfc3-abf8-beff49ca0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-25T13:55:59+00:00",
+          "image_url": null
+        },
+        {
+          "id": "e48edf44f1",
+          "title": "נתניהו וסער ביקרו את סוכות על ניתוץ האנדרטה בגדה; סמוטריץ' גיבה אותו",
+          "url": "https://www.haaretz.co.il/news/politics/2026-08-25/ty-article/.premium/000001a0-385d-d936-a7ac-387ddfdb0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-25T11:35:34+00:00",
           "image_url": null
         }
       ]
@@ -221,17 +254,118 @@
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "בנדל״ן, מכרז לפרויקט בעמק אדומים עומד בפני מגבלות מרובות: עתירות משפטיות, לחץ בינלאומי ועלויות פיתוח גבוהות.",
+      "summary_he": "נחשפו בקשות להקמת כ-100 דאטה סנטרים בישראל, פרויקט בעל השלכות רחבות על שוק הנדל\"ן. במקביל, עופר ביטון נערך להנפיק את חברת הנדל\"ן שלו בבורסה בתל אביב.",
       "headlines": [
         {
-          "id": "fbba027b0c",
-          "title": "עתירות, לחץ בינלאומי ועלויות פיתוח גבוהות: הסיכונים במכרז הענק במעלה אדומים",
-          "url": "https://www.themarker.com/realestate/2026-08-25/ty-article/.highlight/000001a0-3367-ddec-a7a5-37f7b4d90000",
+          "id": "94194d88d9",
+          "title": "מאיקאה בבאר שבע ועד ביג קריית שמונה: נחשפו בקשות ל–100 דאטה סנטרים בישראל",
+          "url": "https://www.themarker.com/news/energy/2026-08-26/ty-article/.highlight/000001a0-37f9-d268-a1fe-3ffdb2010000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-08-25T03:05:33+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-3403-dfc3-abf8-b617d01d0000/c4/22/bccf75e147a7b25cef3d5532a3fc/292741.jpg?width=108&height=81"
+          "published_at": "2026-08-26T03:05:13+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3843-d686-afe7-f9eb92df0000/43/7b/15d188be4e4b8c25ec41d80fbd68/381226-2.jpg?width=108&height=81"
+        },
+        {
+          "id": "f2e12e9a46",
+          "title": "מיליארדר חדש: עופר ביטון נערך להנפיק את חברת הנדל\"ן שלו, \"שי חי\", בבורסה בתל אביב",
+          "url": "https://www.themarker.com/markets/2026-08-26/ty-article/.highlight/000001a0-3985-d274-a7f4-bda5d2770000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-26T03:00:56+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-39a5-d936-a7ac-39adeda30000/e7/1e/8174da3045ae97215da15b555331/388389-2.jpg?width=108&height=81"
+        },
+        {
+          "id": "e01fa17bef",
+          "title": "\"קניתי דירה ב–690 אלף שקל בעזרת אורח חיים חסכני בלי רכב\"",
+          "url": "https://www.themarker.com/realestate/2026-08-26/ty-article-magazine/.premium/000001a0-2938-dc38-a7f1-3f3f4ad50000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-26T03:00:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-2943-dc38-a7f1-3f6fffb00000/c5/f3/8fed9e0a451691e2d71eb99bdcdc/128177.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "זמרת הקאנטרי דולי פרטון הלכה לעולמה בגיל 80, וזוכה להספדים רבים בתעשיית המוזיקה. בנוסף, אוניברסיטת חיפה תעניק לבמאי עמוס גיתאי תואר דוקטור לשם כבוד.",
+      "headlines": [
+        {
+          "id": "d1c2158901",
+          "title": "Dolly Parton, country music legend and beloved American cultural icon, dies at 80",
+          "url": "https://www.timesofisrael.com/dolly-parton-country-music-star-and-beloved-american-cultural-icon-dies-at-80/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-08-25T19:17:10+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP25272580558070-1024x640.jpg"
+        },
+        {
+          "id": "0c3a0a24b5",
+          "title": "פרידה מדולי פרטון - אייקון של נתינה אינסופית",
+          "url": "https://www.israelhayom.co.il/culture/music/article/21280505",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "126817a282",
+          "title": "אוניברסיטת חיפה תעניק לעמוס גיתאי תואר דוקטור לשם כבוד",
+          "url": "https://news.walla.co.il/item/3863212",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-08-25T21:37:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092602-46.jpeg"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "תקלה עולמית השביתה בפעם השלישית בחודשים האחרונים את שירות המשלוחים של וולט, בזמן ארוחת הערב.",
+      "headlines": [
+        {
+          "id": "93bea48744",
+          "title": "בפעם השלישית בחודשים האחרונים: תקלה עולמית השביתה את שירות המשלוחים של וולט",
+          "url": "https://www.themarker.com/consumer/2026-08-25/ty-article/000001a0-39f3-d268-a1fe-39f7eed80000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-25T17:26:36+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-39f4-d274-a7f4-bdf50ef60001/a1/2c/9407d99e448bbd80865f3ebea76c/whatsapp-image-2026-08-25-at-20-24-10.jpeg?width=108&height=81"
+        },
+        {
+          "id": "630de5b3d9",
+          "title": "בזמן ארוחת הערב: תקלה עולמית באפליקציית וולט",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-796333450e930a1026.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-08-25T17:19:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/08/25/AutoCms_B4C39D047_autoOrient_i.jpg"
+        }
+      ]
+    },
+    {
+      "key": "health",
+      "label_he": "בריאות ורפואה",
+      "summary_he": "מחקר ישראלי פורץ דרך בתחום הסרטן מצא כי מוטציות גורמות לשבירת DNA כאשר הוא אינו מתכופף כראוי.",
+      "headlines": [
+        {
+          "id": "bd8d0f25ae",
+          "title": "Breakthrough Israeli cancer study finds mutations break DNA when it doesn’t bend",
+          "url": "https://www.timesofisrael.com/breakthrough-israeli-cancer-study-finds-mutations-break-dna-when-it-doesnt-bend/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-08-26T00:41:53+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/1-1-1024x640.jpg"
         }
       ]
     }
@@ -255,152 +389,172 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Netanyahu appeared in a campaign video giving out his personal phone number, presenting himself as directly accessible to constituents. Israel warned of a \"forceful\" response to kites being flown from Gaza, reflecting ongoing tensions over recurring border incidents.",
+      "summary_en": "Israel's diplomatic engagement is advancing, with reports of potential US-Saudi nuclear technology cooperation contingent on Israeli recognition. Palestinian solidarity movements continue internationally, with Montreal passing a solidarity motion, while Belgium has awarded scholarships to Palestinian students despite complications surrounding movement restrictions from Gaza. Jewish cultural traditions, including mahjong, are experiencing a revival among younger generations worldwide.",
       "headlines": [
         {
-          "id": "b69dcfae4f",
-          "title": "'Have a problem, call the PM,' says Netanyahu as he gives out his number in campaign video",
-          "url": "https://www.jta.org/2026/08/24/default/have-a-problem-call-the-pm-says-netanyahu-as-he-gives-out-his-number-in-campaign-video",
+          "id": "eaf7f23399",
+          "title": "US halts visa applications worldwide • Saudi Arabia gains access to American nuclear technology if it recognizes Israel",
+          "url": "https://www.demorgen.be/snelnieuws/live-vs-leggen-visumaanvragen-wereldwijd-stil-saudi-arabie-krijgt-toegang-tot-amerikaanse-nucleaire-technologie-als-het-israel-erkent~b13cc951/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-26T04:40:00+00:00",
+          "image_url": "https://image.demorgen.be/276551564/roi/320/320/3180/1640.4099999999999/afbeelding"
+        },
+        {
+          "id": "0a9eba21ea",
+          "title": "Montreal passes Palestinian solidarity motion after removing text on cutting ties with Israel",
+          "url": "https://www.jta.org/2026/08/25/global/montreal-passes-palestinian-solidarity-motion-after-removing-text-on-cutting-ties-with-israel",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-08-24T20:51:26+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/Netanyahu-phone-B-1.jpg"
+          "published_at": "2026-08-25T20:34:09+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/GettyImages-2235898463.jpg"
         },
         {
-          "id": "c5704ab79e",
-          "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-          "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-08-24T13:56:22+00:00",
+          "id": "c2228e3ee0",
+          "title": "Belgium awards scholarships to Palestinian students — but gives them no way to leave Gaza",
+          "url": "https://www.politico.eu/article/belgium-gaza-palestinian-students-scholarships-evacuations/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-08-26T02:00:00+00:00",
           "image_url": null
+        },
+        {
+          "id": "70bf0bbce7",
+          "title": "Mah jongg was a Jewish grandmother thing. Now teens are getting in on the game.",
+          "url": "https://www.jta.org/2026/08/25/culture/mah-jongg-was-a-jewish-grandmother-thing-now-teens-are-getting-in-on-the-game",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-08-25T14:00:00+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/mah-jongg-teens.jpeg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium faced serious challenges this week. A salmonella outbreak linked to eggs produced at a facility in Geel has sickened at least 300 people, with authorities warning consumers to watch for specific product codes. In Brussels, three consecutive days of shooting incidents in Sint-Gillis intensified concerns about drug-related violence, prompting mayors from Sint-Gillis, Anderlecht, and Vorst to demand federal intervention and a comprehensive action plan to address the escalating crisis.",
+      "summary_en": "Belgian brewers are mounting resistance to new public health initiatives on alcohol marketing, with Health Minister Vandenbroucke proposing to remove \"abuse\" warnings from advertising. In sports, Belgian footballer Loïs Openda expressed confidence about leading Lyon in an upcoming Champions League match with Belgian ties.",
       "headlines": [
         {
-          "id": "6bd71677a7",
-          "title": "At least 300 people sickened by salmonella from eggs produced in Geel facility; consumers warned about specific product codes",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/300-zieken-salmonella-voedselvergiftiging-eieren-favv-geel/",
+          "id": "8d474a6c79",
+          "title": "Belgian brewers turn against new slogan 'Alcohol damages health'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/belgische-brouwers-kanten-zich-tegen-slogan-alcohol-schaadt-de/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2023/09/04/8999c544-4aeb-11ee-91d7-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/8d887f90-5134-4ebf-91f8-fb61408d52ff.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "e362beb062",
-          "title": "Three consecutive days of shooting in Sint-Gillis; Minister Quintin warns action must continue despite dangerous conditions",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/schietpartij-sint-gillis/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/25/dedc9290-c31d-497a-b899-f5664b4abbfb.jpg?width=200&height=125&q=80&blur=90"
+          "id": "e9b2bdfde1",
+          "title": "\"Alcohol is harmful from the first glass\": why Vandenbroucke wants to remove \"abuse\" warning in advertising",
+          "url": "https://www.hln.be/binnenland/alcohol-is-schadelijk-vanaf-het-eerste-glas-waarom-vandenbroucke-waarschuwing-voor-misbruik-in-reclame-wil-schrappen~a4bb148d/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-26T07:15:00+00:00",
+          "image_url": "https://images.hln.be/MDQ2OGE5NDMyYTRhODllNDdhOWUvZGlvLzI3MTk4MTE5My9maXQtd2lkdGgvNDAw/hln-fotomontage"
         },
         {
-          "id": "154d0f6e47",
-          "title": "Brussels mayors demand national action against drug war following series of shootings",
-          "url": "https://www.demorgen.be/snelnieuws/live-brusselse-burgemeesters-eisen-nationale-actie-tegen-drugsoorlog-na-reeks-schietpartijen~bf7e76f4/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-25T09:54:00+00:00",
-          "image_url": "https://image.demorgen.be/270753454/roi/320/320/834.0200000000001/882.9000000000001/afbeelding"
+          "id": "eff795d7a3",
+          "title": "\"Haven't spoken with Lukaku\": Loïs Openda feels ready to lead Lyon in Belgian encounter towards Champions League",
+          "url": "https://www.hln.be/champions-league/niet-met-lukaku-gesproken-lois-openda-voelt-zich-klaar-om-lyon-in-belgisch-onderonsje-richting-champions-league-te-schieten~aafc695d/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-26T06:21:00+00:00",
+          "image_url": "https://images.hln.be/Y2FhYWU0YTJlNWE0N2QwNTFiMTQvZGlvLzI3NzA5NTkyNy9maXQtd2lkdGgvNDAw/football-olympique-lyonnais-v-sparta-praha-qualifying-champions-league-11-08-2026-lois-openda-of-lyon-during-the-second-leg-3rd-qualifying-round-match-of-the-football-champions-league-between-olympiquer-lyonnais-and-sparta-praha-czech-republic-at-groupama-stadium-decines-charpieu-lyon-on-august-11-2026-france-photo-by-psnewz-photo-news-only-belgium"
         }
       ]
     },
     "europe": {
-      "summary_en": "Europe faced multiple crises this week. A tornado swept through southern France, injuring 41 people and damaging approximately 300 homes. Germany is facing escalating security concerns after authorities discovered another explosive device near an airport, with officials warning the country is \"under threat.\" A 14-year-old girl in Italy successfully escaped a kidnapper using an SOS hand signal. Saudi Arabia announced a €6 billion investment in new theme parks near Paris, signaling major commercial interest in European infrastructure.",
+      "summary_en": "The Russia-Ukraine conflict is intensifying, with Ukrainian drone strikes destroying a major Russian warehouse complex, while US intelligence activity escalates around Moscow, with CIA leadership reportedly present. Within the EU, France and Germany clash over industrial policy direction. Meanwhile, Russian President Putin's track record of repeatedly missed deadlines for conquering Donbas raises questions about the war's ultimate outcome.",
       "headlines": [
         {
-          "id": "93b1bc508d",
-          "title": "41 wounded and approximately 300 homes damaged after tornado swept through southern France on August 24",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/24/noodweer-frankrijk-spanje/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/25/35ebf2c3-2da2-443b-af05-e007f0b978cd.jpg?width=200&height=125&q=80&blur=90"
+          "id": "9396dd809d",
+          "title": "Putin gave fifteen deadlines to conquer Donbas: 'Maybe it will never succeed'",
+          "url": "https://www.demorgen.be/nieuws/poetin-gaf-al-vijftien-keer-een-deadline-om-de-donbas-te-veroveren-misschien-lukt-het-nooit~b2e69e20/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-26T01:00:00+00:00",
+          "image_url": "https://image.demorgen.be/277002372/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "c9f6e3050f",
-          "title": "Germany 'under threat,' Merz says after another explosive drone found near airport",
-          "url": "https://www.politico.eu/article/leipzig-airport-explosive-drones-friedrich-merz-germany-security-threat/",
+          "id": "4bc899c98d",
+          "title": "France and Germany collide over Europe's industrial future",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/france-and-germany-collide-over-europes-industrial-future/",
           "source": "politico_eu",
           "source_label": "Politico Europe",
           "source_label_en": "Politico Europe",
-          "published_at": "2026-08-25T09:21:18+00:00",
+          "published_at": "2026-08-26T04:05:00+00:00",
           "image_url": null
         },
         {
-          "id": "245c745693",
-          "title": "14-year-old girl in Italy escapes kidnapper thanks to SOS hand gesture on August 24",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/24/italie-signal-for-help/",
+          "id": "e241c2ad1a",
+          "title": "Russia-Ukraine war: Large American transport plane appears near Moscow with CIA director John Ratcliffe on board, US media reports",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/vlucht-rusland-europa-oorlog-oekraine-amerikanen-vs-john-ratclif/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/24/3e276fa5-857c-4622-bcf3-ecb68c09f780.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/25/2f5ee97f-5ef2-4968-af5f-81d1fca341f8.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "d2b3cd9b13",
-          "title": "Saudi Arabia invests 6 billion euros in theme parks near Paris; 'unprecedented since Disneyland Paris'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/3-nieuwe-pretparken-nabij-parijs/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/25/cc8b436e-3efc-4927-ad17-4a6329be2d46.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "1b7dd78f68",
-          "title": "Year of after-school care now costs £2,800 a child in parts of UK",
-          "url": "https://www.theguardian.com/money/2026/aug/25/year-of-after-school-care-now-costs-2800-a-child-in-parts-of-uk",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-25T08:58:46+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/6155c9eb521cfa6b2899a97d7eca4e791fc9deb2/128_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=e5dff8706dd4d2e928cbe22e9cb6b51f"
+          "id": "84c0cf8aeb",
+          "title": "100,000 square meters reduced to ashes after Ukrainian drone attack on 'Russian Amazon' warehouse",
+          "url": "https://www.hln.be/buitenland/kijk-100-000-vierkante-meter-in-de-as-na-oekraiense-droneaanval-op-magazijn-van-russische-amazon~a93df6b5/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-26T07:15:00+00:00",
+          "image_url": "https://images.hln.be/NGRkZmJiZmQ0NmQ3OGFiMjY5ZGYvZGlvLzI3NzA5NjUyMS9maXQtd2lkdGgvNDAw/opnieuw-magazijn-van-russische-amazon-in-vlammen-na-aanval-brand-legt-100-000-vierkante-meter-in-de-as"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Major geopolitical tensions escalated as the United States announced \"Economic D-Day\" sanctions targeting Iran's trading partners. China responded sharply, criticizing the sanctions and warning it would defend its interests \"forcefully,\" while analysts noted such measures may inflict greater hardship on ordinary Iranians than on their government. Russia and Ukraine continued their armed conflict, with Ukrainian President Zelensky calling on Europe for increased financial support and air defense systems as both nations reported casualties from ongoing attacks.",
+      "summary_en": "Country music legend Dolly Parton has died at age 80 following a brief battle with cancer, prompting global tributes from fans and fellow musicians. In South Asia, a devastating hospital fire in Pakistan killed at least 14 newborn babies in the maternity ward. Economically, Australia faces potential interest rate increases after inflation data came in higher than expected. In technology, leaked documents reveal that Microsoft was developing an AI-based replacement for Windows during 2024.",
       "headlines": [
         {
-          "id": "6b04f73c74",
-          "title": "US announces 'Economic D-Day' sanctions on Iran; analysts question whether the measure harms the regime or ordinary citizens",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/sancties-vs-iran/",
+          "id": "daa545b4db",
+          "title": "Dolly Parton dies after brief cancer battle, farewell in private ceremony",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/25/dolly-parton-overleden-countryzangeres-jolene-actrice-filantrope/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/25/882dd700-e742-4d34-8d18-4d748ff22ca9.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/b631e64e-a78a-4585-8b0e-d2b04f5345c4.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "8219ccb122",
-          "title": "China criticizes US sanctions against Iran's trading partners, warns it will defend its interests 'forcefully'",
-          "url": "https://www.demorgen.be/snelnieuws/live-chinese-bedrijven-doelwit-van-nieuwe-sancties-vs-tegen-iran-pakistan-vooruitgang-in-gesprekken-over-einde-oorlog-tussen-vs-en-iran~be9c4f82/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-25T09:48:00+00:00",
-          "image_url": "https://image.demorgen.be/276857764/roi/320/320/2805/1918.28/afbeelding"
+          "id": "b5ae98dd68",
+          "title": "At least 14 newborn babies die in fire at Pakistan hospital's maternity ward",
+          "url": "https://www.theguardian.com/world/2026/aug/26/newborn-babies-die-fire-pakistan-hospital-maternity-ward",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-26T07:05:43+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/9adad222c9e0c03341f2f814da4724786c9a8d6c/324_0_3228_2582/master/3228.jpg?width=700&quality=85&auto=format&fit=max&s=eb0e514793642a3460bc648c3a134f08"
         },
         {
-          "id": "a8a1acec22",
-          "title": "Russia-Ukraine War Liveblog: Multiple deaths reported in attacks by both sides; Zelensky requests more European financial support and air defense",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/verschillende-doden-bij-aanvallen-van-oekraine-en-rusland-zelen~1781787179742/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/24/c4ba9eb3-e801-4a3c-8bb0-f2b74670c9e2.jpg?width=200&height=125&q=80&blur=90"
+          "id": "942b4396d2",
+          "title": "Microsoft reportedly worked on AI-based Windows replacement in 2024 according to leaked information",
+          "url": "https://www.hln.be/tech/microsoft-werkte-volgens-gelekte-informatie-in-2024-aan-een-ai-gebaseerde-vervanger-voor-windows~a67da0da/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-26T06:02:00+00:00",
+          "image_url": "https://images.hln.be/MWVkYTQzN2Q4ZjgxMDJjYjU0MjcvZGlvLzI3Njc1Mzk0MS9maXQtd2lkdGgvNDAw/microsoft-copilot"
+        },
+        {
+          "id": "723882ebcd",
+          "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-26T06:44:23+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/ded625f2f56d2bfbc7f20677b7734b06fc80192c/446_0_4446_3559/master/4446.jpg?width=700&quality=85&auto=format&fit=max&s=1e0ea27207a55877afdfe0d88c1df4e6"
         }
       ]
     },
