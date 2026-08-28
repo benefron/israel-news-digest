@@ -1,89 +1,84 @@
 {
-  "generated_at": "2026-08-27T10:06:36.102666+00:00",
+  "generated_at": "2026-08-28T07:43:51.085090+00:00",
   "date": "2026-08-27",
-  "degraded": false,
+  "degraded": true,
   "top_general": {
-    "summary_he": "אסון השיטפון בגבול נפאל-טיבט מחריף, עם מספר הנעדרים שזינק לכ-1,500 ודיווחים על מאות הרוגים, בהם ישראלי וקבוצת תיירים זרים. במקביל, ראש ה-CIA ביקר במוסקבה והזהיר את רוסיה מפני תקיפת נאט\"ו וסיוע לאיראן, ובישראל נמשכת מחלוקת סביב תקציב הביטחון וחוק הגיוס לקראת הקמת הממשלה הבאה.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "2d1bf10854",
-        "title": "מספר הנעדרים בנפאל ובסין זינק לכ-1,500",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-adfd1d166e140a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-27T06:31:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/27/AP26238503564703_autoOrient_i.jpg"
+        "id": "4678a6c372",
+        "title": "יואב בן צור מש\"ס: \"כדי שנצטרף לממשלה הבאה נדרוש חוק גיוס עוד לפני ההשבעה\"",
+        "url": "https://www.ynet.co.il/news/120andone/article/b1sg1117wfe",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-27T11:51:48+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/By31v00jKwMl/By31v00jKwMl_0_108_1280_721_0_medium.jpg"
       },
       {
-        "id": "a6bcf30ac0",
-        "title": "אסון בגבול סין–נפאל: מאות הרוגים ויותר מ־550 נעדרים בטיבט",
-        "url": "https://www.makorrishon.co.il/news/eco/article/364530",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
+        "id": "b209c9dbcc",
+        "title": "וינטר טלטל את המערכת הפוליטית. גם נתניהו וגם איזנקוט יעמדו כעת למבחן",
+        "url": "https://www.haaretz.co.il/news/elections/sakran/2026-08-27/ty-article/.premium/000001a0-42c9-d274-a7f4-f6e9e93a0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-27T13:53:17+00:00",
+        "image_url": null
+      },
+      {
+        "id": "8c30ca0917",
+        "title": "הקרב של קציני ה-7 באוקטובר על שמם הטוב",
+        "url": "https://www.israelhayom.co.il/magazine/shishabat/article/21241829",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
         "published_at": null,
         "image_url": null
       },
       {
-        "id": "11817d8eeb",
-        "title": "ביקור ראש ה-CIA במוסקבה: \"הזהיר את רוסיה מפני תקיפת נאט\"ו וסיוע לאיראן\"",
-        "url": "https://www.ynet.co.il/news/article/hjorp1apgx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-26T23:07:52+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/06/rJ11syuW2Ze/rJ11syuW2Ze_0_85_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "a782c0404c",
-        "title": "הרמטכ\"ל: \"אנחנו במערכה על התקציב, זה פוגע במוכנות צה\"ל\"",
-        "url": "https://www.kan.org.il/content/kan-news/defense/1093316/",
+        "id": "b6b923b8af",
+        "title": "יאיר נתניהו לסמוטריץ': \"אם אתה לא מתאחד עם בן גביר אתה משחק רולטה רוסית על גורל המדינה\"",
+        "url": "https://www.kan.org.il/content/kan-news/politic/live-1093208/liveid-1093413/",
         "source": "kan",
         "source_label": "כאן 11",
         "source_label_he": "כאן 11",
         "published_at": null,
         "image_url": null
-      }
-    ]
-  },
-  "security_war": {
-    "summary_he": "בעוד הפסקת האש בעזה בתוקף, גורמים בינלאומיים מותחים ביקורת על המשך הפגיעה בפלסטינים. במקביל מדווח כי ישראל שוקלת לגרש את נציגי בריטניה ממרכז התיאום בקריית גת, ונחשף כי ראש הממשלה ניהל מגעים ישירים עם חמאס מאחורי גבה של מערכת הביטחון.",
-    "headlines": [
+      },
       {
-        "id": "0a3e74dfb6",
-        "title": "מלדנוב נגד תקיפות צה\"ל בעזה: לא מרגישים את הפסקת האש, פלסטינים ממשיכים להיהרג",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-26/ty-article/.premium/000001a0-3ec0-d274-a7f4-bee1844c0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-26T16:17:07+00:00",
+        "id": "e2b6d42816",
+        "title": "המל\"ל אישר לפתוח את מעבר ארז, נתניהו וכ\"ץ: אין הנחיה כזו",
+        "url": "https://www.ynet.co.il/news/article/bkikgspwmg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-08-27T12:27:41+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/18/SkPoEyglJx/SkPoEyglJx_0_104_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "9d37ddeaa0",
+        "title": "בעקבות הסרטון, ארז איסקוב החליט לתבוע: \"מאות אלפי שקלים\"",
+        "url": "https://www.israelhayom.co.il/forreal/localy/article/21294619",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
         "image_url": null
       },
       {
-        "id": "b2a83149d5",
-        "title": "דיווח: ישראל שוקלת לגרש את נציגי בריטניה ממרכז התיאום בקריית גת",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-27/ty-article/.premium/000001a0-4173-d518-a5ad-ed7f039d0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-27T04:48:33+00:00",
-        "image_url": null
+        "id": "9f099485e1",
+        "title": "הוזמנתם לחתונה של בריידזילה? ספרו לנו ואולי תזכו בפרס",
+        "url": "https://www.kan.org.il/lobby/4weddings/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": "https://www.kan.org.il/media/sumhor0x/לאתר.jpg?width=490&height=272&v=1dd331ebe044810"
       },
       {
-        "id": "90389be5a4",
-        "title": "מאחורי גבה של מערכת הביטחון: המגעים הישירים שניהל נתניהו עם חמאס",
-        "url": "https://news.walla.co.il/item/3863521",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-27T08:07:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/1/7/5/2/1752885-46.jpg"
-      },
-      {
-        "id": "8c6bc6352d",
-        "title": "צה\"ל פרסם סרטון המלצות לעריקים - ומחק מהר",
-        "url": "https://www.israelhayom.co.il/news/defense/article/21290420",
+        "id": "f1403d490d",
+        "title": "ברוס וויליס נוחת: אחד הסרטים הגדולים אי פעם מגיע לנטפליקס",
+        "url": "https://www.israelhayom.co.il/culture/tv/article/21295235",
         "source": "israel_hayom",
         "source_label": "ישראל היום",
         "source_label_he": "ישראל היום",
@@ -92,432 +87,226 @@
       }
     ]
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "הרמטכ\"ל מתריע כי המערכה על התקציב פוגעת במוכנות צה\"ל, בעוד ש\"ס דורשת חוק גיוס כתנאי להצטרפות לממשלה הבאה. במזרח התיכון, דחלאן בוחן ברית עם חמאס ופלגים נוספים לקראת הבחירות ברשות הפלסטינית.",
-      "headlines": [
-        {
-          "id": "9083a415a2",
-          "title": "הרמטכ\"ל: \"אנו במערכה על התקציב; זה פוגע במוכנות צה\"ל\"",
-          "url": "https://13tv.co.il/item/news/politics/security/idf-905331424/?pid=62&refc=902992371",
-          "source": "reshet13",
-          "source_label": "חדשות 13",
-          "source_label_he": "חדשות 13",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "4678a6c372",
-          "title": "יואב בן צור מש\"ס: \"כדי שנצטרף לממשלה הבאה נדרוש חוק גיוס עוד לפני ההשבעה\"",
-          "url": "https://www.ynet.co.il/news/120andone/article/b1sg1117wfe",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-27T03:22:42+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/By31v00jKwMl/By31v00jKwMl_0_21_1280_721_0_medium.jpg"
-        },
-        {
-          "id": "5066356741",
-          "title": "לקראת הבחירות ברשות, דחלאן בוחן ברית עם חמאס ופלגים אחרים מול עבאס",
-          "url": "https://www.haaretz.co.il/news/politics/2026-08-27/ty-article/.premium/000001a0-3e9b-dba3-a3ff-3edb1f6f0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-27T03:01:04+00:00",
-          "image_url": null
-        },
-        {
-          "id": "0074429416",
-          "title": "\"למה אני צריך לפחד?\": התכתבויות שומרי הסף בלשכת עורכי הדין נחשפות",
-          "url": "https://www.ynet.co.il/news/article/rkrfyrkdzg",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-27T07:14:58+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/24/ryMfJyGurJl/ryMfJyGurJl_0_51_1280_721_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "שר החינוך קיש מתמודד עם מחלוקת סביב מחסור במורים ופתיחת שנת הלימודים, כאשר מנהלים הביעו התנגדות בדיון בנושא.",
-      "headlines": [
-        {
-          "id": "3c6e3e7587",
-          "title": "קיש הבטיח ששנת הלימודים תיפתח כסדרה, מנהלים מחו נגדו בדיון",
-          "url": "https://news.walla.co.il/item/3863568",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-27T10:38:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/4/1/3941787-46.jpg"
-        },
-        {
-          "id": "db65b6a136",
-          "title": "גרסת קיש למחסור במורים - והמהומה בכנסת",
-          "url": "https://www.israelhayom.co.il/news/education/article/21291379",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "environment",
-      "label_he": "סביבה ואקלים",
-      "summary_he": "השירות המטאורולוגי מזהיר מפני גשם חסר תקדים בהשפעת סופר אל ניניו החל ממוצאי שבת, בעוד אסון השיטפון בנפאל וטיבט ממחיש את עוצמת האירועים הקיצוניים באזור.",
-      "headlines": [
-        {
-          "id": "44631efbbc",
-          "title": "בהשפעת סופר אל ניניו, השירות המטאורולוגי מזהיר מפני \"גשם חסר תקדים\" ממוצ\"ש",
-          "url": "https://www.haaretz.co.il/news/weather/2026-08-26/ty-article/.premium/000001a0-3e95-d274-a7f4-beb5f63b0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-26T15:33:14+00:00",
-          "image_url": null
-        },
-        {
-          "id": "6436a8be74",
-          "title": "גוש קרח עצום קרס - וגל ההרס שטף את העמק | האסון בנפאל",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-f0676e1f0ae30a1026.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-08-26T19:32:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/08/26/14h00m00s284_autoOrient_i.jpg"
-        }
-      ]
-    },
-    {
-      "key": "health",
-      "label_he": "בריאות ורפואה",
-      "summary_he": "ה-FDA אישר תרופה חדשה לסרטן הלבלב שעשויה להכפיל את תוחלת החיים של החולים, ובישראל עולה קריאה להתייחס לפוסט-טראומה כמצב הניתן להחלמה ולא רק כמחלה כרונית.",
-      "headlines": [
-        {
-          "id": "4c239801fd",
-          "title": "ה־FDA אישר תרופה לסרטן הלבלב שעשויה להכפיל את תוחלת החיים של החולים",
-          "url": "https://www.haaretz.co.il/health/2026-08-26/ty-article/.premium/000001a0-3ee8-d02f-a9ed-7eeb77df0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-08-26T17:43:29+00:00",
-          "image_url": null
-        },
-        {
-          "id": "0fa67a9650",
-          "title": "\"מחלת נפש זאת מחלה כרונית\"? גם בישראל צריכים לשאוף להחלמה מפוסט־טראומה",
-          "url": "https://www.themarker.com/news/macroeconomics/2026-08-27/ty-article/.premium/000001a0-3e34-d936-a7ac-3e3df8400000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-27T03:12:20+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-3e3d-d02f-a9ed-7e7f25c80000/aa/6f/ab84451442e2bf40c4f72b947ed0/401343.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "אנבידיה נמצאת במגעים לרכישת סטארט-אפ הבינה המלאכותית Hugging Face בעסקה שמוערכת ב-13 מיליארד דולר.",
-      "headlines": [
-        {
-          "id": "e307bd391c",
-          "title": "אנבידיה במגעים לרכישת סטארט-אפ הבינה המלאכותית Hugging Face ב–13 מיליארד דולר",
-          "url": "https://www.themarker.com/wallstreet/2026-08-27/ty-article/.premium/000001a0-41c4-d518-a5ad-eddf7bc80000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-27T06:06:17+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-41c8-d02f-a9ed-5debc8e70000/a6/7d/d28dffce4d388403262e36b9fbfb/865195.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "שוק ההון בישראל מתחזק בהובלת חברות השבבים עם עליות של כ-1% במדדים המובילים, ולאומי השלים הנפקת אג\"ח בהיקף 750 מיליון יורו בחו\"ל.",
-      "headlines": [
-        {
-          "id": "75171f16a6",
-          "title": "בהובלת חברות השבבים: העליות במסחר מתחזקות לכ-1% במדדים המובילים",
-          "url": "https://www.themarker.com/markets/2026-08-27/ty-article-live/000001a0-41ba-d02f-a9ed-5dfb744d0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-27T05:40:43+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000018d-8789-d424-abad-9fd9b9160000/75/53/d466032841e4a9e95af9312f13cd/427563.jpg?width=108&height=81"
-        },
-        {
-          "id": "6e08d0d7a0",
-          "title": "ב-750 מיליון יורו: לאומי השלים הנפקה נוספת של אג\"ח מגובות בחו\"ל",
-          "url": "https://www.themarker.com/markets/2026-08-27/ty-article/.premium/000001a0-41eb-d268-a1fe-59ff69310000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-27T06:47:14+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-41f8-d274-a7f4-f5f907e60000/71/4c/445c2c5345a7bc59120aa86a906c/127293.jpg?width=108&height=81"
-        },
-        {
-          "id": "9c0fef5f19",
-          "title": "הצעד הראשון לקראת החלפת ממשלות בחברות כלכליות כבר החל",
-          "url": "https://www.themarker.com/markets/2026-08-27/ty-article/.premium/000001a0-4192-d268-a1fe-59d6423e0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-27T06:34:58+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-41e8-d840-abbe-7bf998850001/66/93/dfdac7f4485287ce742fcfa86fb5/47461555.JPG?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "בעולם הבידור, שמועות על עקיצה של עומר אדם בחתונה מסקרנות, נועה מוזס צולמה עם גבר מסתורי, והתכנית \"מהפכה במטבח\" חוזרת למסך אחרי שבע שנים.",
-      "headlines": [
-        {
-          "id": "8e6bbbfdfd",
-          "title": "עומר אדם עקץ בחופה? יעל שלביה ולאנס סטרול שותקים בינתיים",
-          "url": "https://www.israelhayom.co.il/sport/offside/article/21290432",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "53f0141973",
-          "title": "פפראצי: נועה מוזס תועדה צמודה לגבר מסתורי",
-          "url": "https://www.israelhayom.co.il/forreal/15_minutes/article/21290501",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "2d85c66707",
-          "title": "אחרי 7 שנים: התכנית \"מהפכה במטבח\" חוזרת",
-          "url": "https://www.israelhayom.co.il/culture/tv/article/21290779",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "7c0e53bec0",
-          "title": "\"מיקי ברקוביץ' מגיע לאימון, ואני רואה שלא ניתן לעשות איתו כלום\"",
-          "url": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21291514",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        }
-      ]
-    }
-  ],
+  "security_war": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
+  },
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
     "israel_hayom",
     "kan",
     "mako",
-    "walla",
+    "walla"
+  ],
+  "sources_failed": [
     "globes",
     "themarker",
     "times_of_israel",
+    "maariv",
     "makor_rishon",
     "reshet13",
     "i24"
   ],
-  "sources_failed": [
-    "maariv"
-  ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Tensions around religious and political violence in Israel continued this week. A second Reform synagogue in Israel had its windows broken, while a far-right Israeli lawmaker used a sledgehammer to damage a Palestinian memorial. Meanwhile, in Gaza, farmers described struggling to survive on scraps of land under constant threat amid the ongoing conflict.",
+      "summary_en": "Israeli communities and Jewish advocacy groups continue to navigate complex challenges globally. Ethiopian asylum seekers in Israel are pursuing legal battles against government deportation efforts, while international diplomacy has intensified, with a Board of Peace envoy publicly criticizing both Israeli military strikes and Hamas actions in Gaza. In addition, California is considering legislation to recognize \"Jewish\" as an official ethnicity, while activist protesters face prosecution over Gaza-related demonstrations at international venues.",
       "headlines": [
         {
-          "id": "9ec9ce16c1",
-          "title": "Second Reform synagogue in Israel has windows broken",
-          "url": "https://www.jta.org/2026/08/26/israel/second-reform-synagogue-in-israel-has-windows-broken",
+          "id": "f2f2eff976",
+          "title": "Israel's Ethiopian asylum seekers fight deportation efforts",
+          "url": "https://www.jta.org/2026/08/27/israel/israels-ethiopian-asylum-seekers-fight-deportation-efforts",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-08-26T21:36:44+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/Reform-Synagogue.jpeg"
+          "published_at": "2026-08-27T19:36:29+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/TC_Ethiopia_Asylum-1-1.jpg"
         },
         {
-          "id": "f1f5dde9d5",
-          "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-          "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+          "id": "8ae992f779",
+          "title": "California could become the first state to list 'Jewish' as an ethnicity",
+          "url": "https://www.jta.org/2026/08/27/politics/california-could-become-the-first-state-to-list-jewish-as-an-ethnicity",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-08-27T16:17:22+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/CA-ethnicity-A.jpg"
+        },
+        {
+          "id": "17195c2718",
+          "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
+          "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-08-26T08:17:45+00:00",
+          "published_at": "2026-08-27T14:17:24+00:00",
           "image_url": null
         },
         {
-          "id": "0e0304ec0e",
-          "title": "On scraps of land and under constant threat, Gaza farmers struggle to survive",
-          "url": "https://www.theguardian.com/world/2026/aug/26/gaza-farmers-struggle-scraps-of-land-constant-threat",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-26T11:00:11+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/1d5f1e7669ac11c453ed0bafdb519f0f4b9f7722/604_278_3492_2794/master/3492.jpg?width=700&quality=85&auto=format&fit=max&s=8f28b0acaa56cf6690f254c59822f5f0"
+          "id": "2322dd2d58",
+          "title": "Seven suspects before court after action with slogan \"Gaza is not for sale\" at Trump's golf resort; prosecution speaks of \"terrorist connection\"",
+          "url": "https://www.hln.be/buitenland/zeven-verdachten-voor-rechter-na-actie-met-leuze-gaza-is-not-4-sale-op-trumps-golfresort-aanklacht-spreekt-van-terroristisch-verband~a0177fb7/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-28T06:54:00+00:00",
+          "image_url": "https://images.hln.be/NWMyZjc2OGM1MzAwZTYxMmU4MjgvZGlvLzI3NzE1MjgxNS9maXQtd2lkdGgvNDAw/activisten-vandaliseren-schots-golfresort-van-trump-inzet-turnberry-scotland-may-02-former-u-s-president-donald-trump-during-a-round-of-golf-at-his-turnberry-course-on-may-2-2023-in-turnberry-scotland-former-u-s-president-donald-trump-is-visiting-his-golf-courses-in-scotland-and-ireland-back-in-the-united-states-he-faces-legal-action-on-34-counts-of-falsifying-business-records-photo-by-robert-perry-getty-images"
         }
       ]
     },
     "belgium": {
-      "summary_en": "In Belgium, the city of Bruges provided more clarity on a leasehold arrangement with Club Brugge for a new stadium, stating there is neither delay nor rushed work. Schools are preparing for changes starting September 1, including extra Dutch classes and new minimum learning goals, while municipalities are seeking creative solutions after the removal of school holidays for local fairs. Separately, data shows that 1 in 20 children repeat first grade, with experts suggesting it is often better to redo the third year of kindergarten instead.",
+      "summary_en": "Belgium faces multiple domestic pressures as winter approaches, with critically low gas reserves raising significant concerns about household energy costs and supply security. Food safety remains a widespread concern, with nutritional labeling issues affecting roughly half of supermarket products due to excessive sugar, fat, and salt content. In sports, Belgium's Red Panthers hockey team fell short in the World Cup semifinals against the Netherlands and will compete for bronze, while regional governance disputes over new leave policies have sparked debate about preserving traditional customs such as agricultural fairs. A wildfire in the Walloon region's Hoge Venen has prompted official reflection on land management practices.",
       "headlines": [
         {
-          "id": "f67e113e80",
-          "title": "\"No delay, but no rushed work either\": city gives more clarity on leasehold arrangement with Club Brugge for new stadium",
-          "url": "https://www.hln.be/brugge/geen-vertraging-maar-ook-geen-haastwerk-stad-geeft-meer-duiding-over-erfpachtregeling-met-club-brugge-voor-nieuw-stadion~acd6e6eb/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-27T09:30:46+00:00",
-          "image_url": "https://images.hln.be/Y2M4YWI1NzBiMmJlNDk0NGJlNTcvZGlvLzI3NzEyNDYwNy9maXQtd2lkdGgvNDAw/nieuw-stadion-van-club-brugge-nieuwe-visuals-inzet-gemeenteraad-brugge-pieter-marechal"
-        },
-        {
-          "id": "d81773b8e3",
-          "title": "Extra Dutch, new minimum learning goals and fewer pedagogical study days: what changes at school from September 1",
-          "url": "https://www.demorgen.be/nieuws/extra-nederlands-nieuwe-minimumdoelen-en-minder-pedagogische-studiedagen-dit-verandert-er-vanaf-1-september-op-school~b1490ce7/",
+          "id": "64aaa4b56b",
+          "title": "Belgium too enters winter with half-empty gas reserves: what does that mean for our energy bill?",
+          "url": "https://www.demorgen.be/nieuws/ook-belgie-gaat-met-halflege-gasvoorraden-de-winter-in-wat-betekent-dat-voor-onze-energiefactuur~bb41295a/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-08-27T05:53:00+00:00",
-          "image_url": "https://image.demorgen.be/277049300/feature-crop/320/320/afbeelding"
+          "published_at": "2026-08-28T01:00:58+00:00",
+          "image_url": "https://image.demorgen.be/214559208/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "7200fc9371",
-          "title": "No more school holiday for the local fair: municipalities seek creative solutions",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/21/jaarmarkten-vlaanderen-andere-datum-scholen-sluiten-traditie-gee/",
+          "id": "5090d876ad",
+          "title": "You could put a warning on about half the supermarket: too much sugar, too much fat, too much salt",
+          "url": "https://www.demorgen.be/meningen/je-zou-op-zowat-de-halve-supermarkt-een-waarschuwing-kunnen-plakken-te-veel-suiker-te-veel-vet-te-veel-zout~b024e50d/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-28T01:01:00+00:00",
+          "image_url": "https://image.demorgen.be/277130821/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "2743543477",
+          "title": "\"A fair without children or animals is not a fair\": how Flanders deals with new rules by Zuhal Demir around the optional leave day",
+          "url": "https://www.hln.be/populair-op-regio/een-jaarmarkt-zonder-kinderen-of-beesten-is-geen-jaarmarkt-zo-gaat-vlaanderen-om-met-nieuwe-regels-van-zuhal-demir-rond-de-facultatieve-verlofdag~a683f887/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-28T05:52:00+00:00",
+          "image_url": "https://images.hln.be/YWY1NmJhNjU4MjRiNWUwNDg4N2QvZGlvLzI3NzEzNDM5NS9maXQtd2lkdGgvNDAw/20231003-zele-foto-geert-de-rycke-jaarmarkt-10-12u-jaarmarkt-zele-pony-kinderen-jaarmarkt-inzet-flemish-minister-for-education-and-work-zuhal-demir-pictured-during-a-plenary-session-of-the-flemish-parliament-in-brussels-wednesday-15-july-2026-belga-photo-marius-burgelman"
+        },
+        {
+          "id": "8d05344ea3",
+          "title": "Red Panthers cannot pull off a surprise in World Cup hockey semifinal against Netherlands (1-0) and play for bronze",
+          "url": "https://www.demorgen.be/nieuws/red-panthers-kunnen-in-halve-finale-wk-hockey-niet-stunten-tegen-nederland-1-0-en-spelen-om-brons~b5fd1f91/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-27T17:50:00+00:00",
+          "image_url": "https://image.demorgen.be/277139013/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "cb0a84de75",
+          "title": "Wildfire Hoge Venen: Walloon minister-president reacts: \"Mowing works may not have been most intelligent\"",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/maaiwerken-waren-misschien-niet-meest-intelligente-waals-mini~1787109504614/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/05/21/e20a64b0-3a0c-4619-b0c7-2c58153af206.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "2321a13881",
-          "title": "1 in 20 children repeats first grade: \"Often better for them to redo third year of kindergarten\"",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/1-op-de-20-kinderen-blijft-zitten-in-1ste-leerjaar/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2022/03/23/ae9b8891-aa8a-11ec-b07d-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/27/18aa8c47-9271-43bc-bb22-63952d00547b.png?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "europe": {
-      "summary_en": "European cultural news was dominated by the death of celebrated Japanese artist Yayoi Kusama at 97, remembered as a global superstar whose polka-dot art masked a life of hallucinations and despair. Elsewhere in football, Belgian club news included transfer moves involving Club Brugge and Beerschot, and Kevin De Bruyne reflected on life after football.",
+      "summary_en": "Europe faces critical security challenges and shifting political dynamics. NATO officials warn of dangerous vulnerabilities in air defense, with severe shortages of Patriot missiles creating strategic weakness against potential Russian aggression. Diplomatic efforts in Brussels continue to mobilize frozen Russian assets to support Ukraine's defense. Political realignment is reshaping the European landscape, from Germany's SPD navigating challenges in the country's east to France's radical left courting Green party cooperation, while Iceland considers EU accession despite opposition from the fishing industry.",
       "headlines": [
         {
-          "id": "17df95ac3f",
-          "title": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
-          "url": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-08-27T02:17:59+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/68341279febaa1d142dd19321d4c9405ceb511e6/348_0_2811_2248/master/2811.jpg?width=700&quality=85&auto=format&fit=max&s=cc7ce4a2bc9614dde57490e5bb5465bf"
-        },
-        {
-          "id": "787cf617f8",
-          "title": "Artist Yayoi Kusama (97) has died: behind the cheerful dots was a life full of hallucinations and despair",
-          "url": "https://www.demorgen.be/nieuws/kunstenaar-yayoi-kusama-97-overleden-achter-de-vrolijke-stippen-zat-een-leven-vol-hallucinaties-en-wanhoop~baf43197/",
+          "id": "ebe94b9f84",
+          "title": "Europe vulnerable to possible Russian rocket attack due to 'extremely critical' shortage of Patriot rockets: NATO would 'take one blow after another'",
+          "url": "https://www.demorgen.be/nieuws/europa-kwetsbaar-bij-mogelijke-russische-raketaanval-door-uiterst-kritiek-tekort-aan-patriot-raketten-navo-zou-de-ene-klap-na-de-andere-incasseren~b1d2321d/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-08-27T07:45:00+00:00",
-          "image_url": "https://image.demorgen.be/277120112/roi/320/320/1372/614/afbeelding"
+          "published_at": "2026-08-27T18:24:00+00:00",
+          "image_url": "https://image.demorgen.be/247488632/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "e8cd95ef5d",
-          "title": "Club Brugge snatches winger Wisdom Mike (17) from Bayern Munich - Mats Rits (33) returns to Beerschot",
-          "url": "https://www.hln.be/voetbal/club-brugge-plukt-winger-wisdom-mike-17-weg-bij-bayern-munchen-mats-rits-33-keert-terug-naar-beerschot~a320a706/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-27T08:41:00+00:00",
-          "image_url": "https://images.hln.be/MDc3MzUyZDYwYTM2NTE4ZGJiNGMvZGlvLzI3NzEyMzI2Mi9maXQtd2lkdGgvNDAw/wisdom-mike"
+          "id": "2027d4107d",
+          "title": "'Ukraine needs more help': battle over frozen Russian billions in Brussels resumes",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/oekraine-heeft-meer-hulp-nodig-strijd-om-bevroren-russische-miljarden-in-brussel-herbegint~baf779c5/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-27T13:34:00+00:00",
+          "image_url": "https://image.demorgen.be/267869501/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "3617aa8759",
-          "title": "\"Traveling, skiing, golfing and spending time with the kids\": Kevin De Bruyne talks about his future and life after football",
-          "url": "https://www.hln.be/voetbal/reizen-skien-golfen-en-tijd-doorbrengen-met-de-kinderen-kevin-de-bruyne-praat-over-toekomst-en-leven-na-voetbal~aa11d4e7/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-27T09:48:12+00:00",
-          "image_url": "https://images.hln.be/YmEzYjVkMGFmZjZlMjg2NjQ4YTcvZGlvLzI3NzEyNTc5MS9maXQtd2lkdGgvNDAw/"
+          "id": "6eb928f82e",
+          "title": "Bas, Klingbeil and the SPD: Lost in the East",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/bas-klingbeil-und-die-spd-lost-in-ost/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-08-28T03:07:42+00:00",
+          "image_url": null
+        },
+        {
+          "id": "489489ea1b",
+          "title": "Radical left Mélenchon courts Greens as presidential bid gains steam",
+          "url": "https://www.politico.eu/article/far-left-melenchon-courts-greens-as-presidential-bid-gains-steam/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-08-28T02:02:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "70002c07c4",
+          "title": "In Iceland, residents may vote on EU accession: why are fishers against?",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/27/terzake-ijsland-referendum-eu/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/27/a6772272-0f46-4a76-80ee-50c9826ebc7f.png?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Deadly floods and mudslides in Nepal and Tibet have left more than 1,300 people missing, including three Belgians, with authorities investigating whether a collapsed glacier caused the disaster. A Belgian tour guide described witnessing devastation, with entire villages wiped out. Elsewhere, Nigeria faces a growing kidnapping crisis, and a war of words erupted between Canadian provincial premier Doug Ford and US President Donald Trump.",
+      "summary_en": "A catastrophic flooding disaster in Nepal and Tibet has claimed at least 472 lives, with rescue operations suspended as authorities brace for a potential reservoir overflow. The ongoing Russia-Ukraine conflict shows signs of escalation, with officials in the Kherson region urging civilians to evacuate due to threats of prolonged power outages and military danger. Climate experts warn that global warming is increasingly destabilizing mountainous regions such as Nepal, raising disaster risks. International diplomatic efforts continue, as the UK considers intervention in the case of a British-Egyptian national arrested in Cairo in connection with activism.",
       "headlines": [
         {
-          "id": "04141eed4d",
-          "title": "LIVEBLOG: Over 1,300 missing after floods in Nepal and Tibet, including 3 Belgians: was a collapsed glacier the cause?",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/ruim-1300-vermisten-na-overstromingen-in-nepal-en-tibet-onder-~1787818862709/",
+          "id": "2aceb5c63f",
+          "title": "Flooding Nepal-Tibet: Already 472 deaths in Nepal and Tibet, China pauses rescue operations as reservoir threatens to overflow",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/al-472-doden-in-nepal-en-tibet-china-pauzeert-reddingsacties-nu~1787818862709/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/27/bdc460f5-b0b6-4435-8f30-bc68c6c933bd.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/28/5c2f3e41-57e0-4909-b1b3-8e090dda4645.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "1d0d418cd0",
-          "title": "Deadly mudslides in Nepal and Tibet: what we know so far",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/27/overstromingen-in-nepal-en-tibet/",
+          "id": "79603e3207",
+          "title": "Russia-Ukraine War: Governor calls residents of Cherson to evacuate: \"City could go without power for a long time\"",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/gouverneur-roept-inwoners-cherson-op-te-vertrekken-stad-kan-la~1781787179742/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/27/0f2ed8e2-a1c1-46d9-8ec6-474f521e4996.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/27/638c78f0-d7e5-4a16-9366-0f6f6f1d144e.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "022baf5c5e",
-          "title": "Belgian tour guide sees devastation in Nepal: \"Hard to provide help, entire villages have been wiped out\"",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/27/belgische-reisbegeleider-in-kathmandu-in-nepal/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/27/18c6f80d-5708-4819-b58f-4191fa5598dd.jpg?width=200&height=125&q=80&blur=90"
+          "id": "5b3ddca984",
+          "title": "Climate crisis could be destabilising mountain areas like Nepal, experts warn",
+          "url": "https://www.theguardian.com/world/2026/aug/27/climate-crisis-mountain-areas-glaciers-nepal-tibet",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-27T18:25:13+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/5047152474a5fbb7639496dc7d411fe6496b8726/559_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=1e1fdc6af5ae824456cc1812f705adcc"
         },
         {
-          "id": "adc5f18650",
-          "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-08-27T09:56:23+00:00",
-          "image_url": null
-        },
-        {
-          "id": "15c6a40858",
-          "title": "\"He can kiss my balls\": how Canadian provincial premier Doug Ford ended up in a swearing match with Donald Trump",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/portret-doug-ford-premier-ontario-canada-handelsoorlog-vs/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/b38bb62f-aea2-4a8d-b119-1095c4a911c8.jpg?width=200&height=125&q=80&blur=90"
+          "id": "712464ce0c",
+          "title": "UK urged to help free British-Egyptian 'arrested in Cairo over sister's activism'",
+          "url": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-27T08:00:09+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/f2e6a194394010105f06276f338d9d2f5de55c2c/1_0_2559_2047/master/2559.jpg?width=700&quality=85&auto=format&fit=max&s=e0d7ffb9decb3a5f55d527e37e0f6852"
         }
       ]
     },
