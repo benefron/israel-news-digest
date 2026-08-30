@@ -1,321 +1,97 @@
 {
-  "generated_at": "2026-08-28T14:40:12.551353+00:00",
-  "date": "2026-08-28",
-  "degraded": false,
+  "generated_at": "2026-08-30T14:06:50.516219+00:00",
+  "date": "2026-08-29",
+  "degraded": true,
   "top_general": {
-    "summary_he": "צה\"ל תקף בג'נין יעד בכיר בהתארגנות טרור וחיסל מחבל שפשט לישראל ב-7 באוקטובר, במקביל לדיווחים כי טראמפ אינו מעוניין לחזור למזכר ההבנות עם איראן. בזירה המדינית, סמוטריץ' ופייגלין מתקרבים לאיחוד לקראת הבחירות, בעוד בן גביר דוחה הצעה לאיחוד ומכריז שירוץ לבד. בנפאל נמשך החיפוש אחר נעדרים, ובהם ישראלי, על רקע מזג אוויר קשה.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "dbe80b8795",
-        "title": "צה\"ל תקף בג'נין: היעד - ראש התארגנות טרור שתכנן פיגועים",
-        "url": "https://www.kan.org.il/content/kan-news/defense/live-1093545/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": "https://www.kan.org.il/media/cfjf4ft4/be186843-58a8-42e7-8686-d4ec3706350c.jpg?width=490&height=272&v=1dd3709b506ad90"
+        "id": "6fe2f999f6",
+        "title": "דיווח: פולקסווגן ורפאל קרובות לעסקה על ייצור חלקים לכיפת ברזל בגרמניה",
+        "url": "https://www.themarker.com/wallstreet/2026-08-28/ty-article/000001a0-47d8-d2c5-a1b2-e7fb09fe0000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-08-28T10:12:21+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a0-49ef-dad6-a3b6-5bef91490000/27/1d/601875b54c21baff022624edda7f/360210.jpg?width=108&height=81"
       },
       {
-        "id": "eb3a2f248d",
-        "title": "צה\"ל חיסל מחבל נוסף שפשט לישראל ב-7 באוקטובר",
-        "url": "https://www.israelhayom.co.il/news/defense/article/21301298",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
+        "id": "cb3a06231f",
+        "title": "ערוץ החמאס הסודי, בריחת המנדטים וסחי בלשכה: הקרחון של נתניהו",
+        "url": "https://news.walla.co.il/item/3863793",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-08-28T13:16:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/7/4077869-46.jpg"
+      },
+      {
+        "id": "fe8ac3375d",
+        "title": "\"אם למות - אז בבית\": המחקר שמעלה שאלות על פינוי יישובי הגבול",
+        "url": "https://news.walla.co.il/item/3863863",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-08-28T13:25:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093607-46.jpg"
+      },
+      {
+        "id": "ff0aa811d7",
+        "title": "צה\"ל: הרגנו שלושה פלסטינים ליד ג'נין שתכננו לבצע פיגועים",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-28/ty-article/.premium/000001a0-48ab-d6dd-a1ad-ecebb4f00000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-28T14:27:44+00:00",
         "image_url": null
       },
       {
-        "id": "21b388e3ab",
-        "title": "דיווח: \"טראמפ אמר למתווכות שאין לו עניין לחזור למזכר ההבנות עם איראן\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-0c09901459440a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-08-27T19:10:00+00:00",
-        "image_url": "https://img.mako.co.il/2025/04/03/AP25082140844061_autoOrient_i.jpg"
+        "id": "4eccdbc08e",
+        "title": "היעד: ראש התארגנות טרור - צה\"ל תקף באופן ממוקד בג'נין",
+        "url": "https://news.walla.co.il/item/3863875",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-08-28T16:13:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/2/0/3920066-46.jpg"
       },
       {
-        "id": "61e7a10d78",
-        "title": "סמוטריץ' ופייגלין קרובים לאיחוד: ההסכם המתגבש - והמסר לבן גביר",
-        "url": "https://www.israelhayom.co.il/news/politics/article/21301179",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "499de482e8",
-        "title": "בן גביר דוחה איחוד עם סמוטריץ': נרוץ לבד, ההחלטה סופית",
-        "url": "https://www.kan.org.il/content/kan-news/politic/live-1093567/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "7460e9c4a2",
-        "title": "\"כמו מלט נוזלי\": נעדרים מיותר מ-30 מדינות בנפאל, מזג האוויר מקשה על החיפושים",
-        "url": "https://www.ynet.co.il/news/article/b1lm9qcpfe",
+        "id": "059ef56b93",
+        "title": "חצי שנה למלחמה, באיראן חוזרים לדבר על מחאות: \"אנשים רעבים. כלום לא יעצור את זה\"",
+        "url": "https://www.ynet.co.il/news/article/ryibazkozg",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-08-28T06:59:09+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/H111hHq0wGg/H111hHq0wGg_0_0_3000_1687_0_medium.jpg"
+        "published_at": "2026-08-28T18:01:15+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/HJfusHm100Ge/HJfusHm100Ge_0_311_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "4b21d0247b",
+        "title": "כשהמלחמה החלה איראנים רבים נאחזו בתקווה. חצי שנה אחרי, הם אחוזי ייאוש וחרדות",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-29/ty-article-magazine/.premium/000001a0-4825-d6dd-a1ad-ec6778e20000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-29T05:26:00+00:00",
+        "image_url": null
+      },
+      {
+        "id": "61e27453c9",
+        "title": "הצלקת הארוכה של צה\"ל: הגדוד שנולד מהכישלון החמור ב-7 באוקטובר",
+        "url": "https://news.walla.co.il/item/3863713",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-08-29T08:00:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093422-46.jpeg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "צה\"ל ממשיך בפעילות מבצעית: תקיפה בג'נין נגד ראש התארגנות טרור, וחיסול מחבל שהשתתף בפשיטה ב-7 באוקטובר. במקביל לכך, דווח על תגובת ישראל לצעדי חמאס באמצעות סיכולים ממוקדים, וישראל ויוון מתקדמות לעבר הסכם הגנה אווירית משותף נגד איומי רחפנים ובינה מלאכותית. בזירה האזורית, ארה\"ב מציגה הישג בהורמוז שיציבותו לאורך זמן אינה ברורה, ורוסיה, לפי דיווח, מזהה חולשה אמריקנית בעקבות המלחמה הממושכת באיראן.",
-    "headlines": [
-      {
-        "id": "612d311e3e",
-        "title": "הזחיחות, העפיפונים - והתגובה: כך הצעד של חמאס מוביל לסיכולים ממוקדים",
-        "url": "https://news.walla.co.il/item/3863466",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-28T06:00:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/3/4/3834867-46.jpg"
-      },
-      {
-        "id": "2c1c1d3c37",
-        "title": "בינה מלאכותית, איום רחפנים ו\"עקב אכילס\": ישראל ויוון בדרך להסכם הגנה אווירית",
-        "url": "https://www.ynet.co.il/news/article/b100a9rrwmx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-28T10:41:13+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/11/BJ3jGnYPWl/BJ3jGnYPWl_1_213_2875_1619_0_medium.jpg"
-      },
-      {
-        "id": "e1b7268a4c",
-        "title": "ארה\"ב מציגה הישג משמעותי בהורמוז, אך השאלה היא כמה זמן הוא יחזיק",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-28/ty-article/.highlight/000001a0-448d-d02f-a9ed-5cef79fc0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-28T03:00:20+00:00",
-        "image_url": null
-      },
-      {
-        "id": "3b1dfc2174",
-        "title": "דיווח: רוסיה מזהה חולשה בארה\"ב בעקבות המלחמה הממושכת באיראן קרא עוד..",
-        "url": "https://www.i24news.tv/he/news/international/usa-canada/artc-2a3647f0",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": "https://cdn.i24news.tv/uploads/33/eb/9f/40/60/43/dd/d1/b5/47/49/da/d4/ae/21/7b/33eb9f406043ddd1b54749dad4ae217b.jpg?width=750"
-      },
-      {
-        "id": "90df227147",
-        "title": "הכשרה בזמן לחימה: כך מתנהל קורס המפקדים של צה\"ל מאז 7 באוקטובר",
-        "url": "https://www.ynet.co.il/news/article/yokra14879013",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-28T04:17:59+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/ryNUul0DGg/ryNUul0DGg_0_134_1280_720_0_medium.jpg"
-      }
-    ]
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "לקראת הבחירות הקרובות, סמוטריץ' ופייגלין מתקדמים לעבר איחוד פוליטי, אך בן גביר דוחה הצעה דומה ומכריז כי ירוץ לבדו. בינתיים נתניהו מתמודד עם ירידה משמעותית בסקרים ומחפש דרך להחזיר את הבוחרים שאיבד.",
-      "headlines": [
-        {
-          "id": "61e7a10d78",
-          "title": "סמוטריץ' ופייגלין קרובים לאיחוד: ההסכם המתגבש - והמסר לבן גביר",
-          "url": "https://www.israelhayom.co.il/news/politics/article/21301179",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "499de482e8",
-          "title": "בן גביר דוחה איחוד עם סמוטריץ': נרוץ לבד, ההחלטה סופית",
-          "url": "https://www.kan.org.il/content/kan-news/politic/live-1093567/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "b519ec6689",
-          "title": "\"ברחו לנו עשרה מנדטים\": איך יחזיר נתניהו את הבוחרים?",
-          "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s1/1093490/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/pwoaigtu/ביבי-לאתר.jpg?width=490&height=272&v=1dd3660818b4010"
-        },
-        {
-          "id": "985896d623",
-          "title": "בחירות 2026: כל הסקרים בחירות 2026: כל הסקרים",
-          "url": "https://www.kan.org.il/lobby/skarim/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "לראשונה, חיילים חרדים ישתלבו בתפקידי מודיעין ומחקר בפיקוד צפון, בהמשך למגמת שילוב הציבור החרדי בצה\"ל, לצד סיפורים נוספים על גדוד חרדי הפועל בשטח.",
-      "headlines": [
-        {
-          "id": "d427b00a71",
-          "title": "לראשונה: חיילים חרדים ישתלבו בתפקידי מודיעין ומחקר בפיקוד צפון",
-          "url": "https://www.ynet.co.il/news/article/rj4aggyuzg",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-28T12:01:32+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/ryWrRzek00Mx/ryWrRzek00Mx_0_0_1280_720_0_medium.jpg"
-        },
-        {
-          "id": "095e29ed18",
-          "title": "הגדוד החרדי מנצח כל אויב. חוץ מאחד",
-          "url": "https://www.israelhayom.co.il/magazine/shishabat/article/21241157",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "עם פתיחת שנת הלימודים מתפרסמים נתונים על העולים לכיתה א', לצד דיון על בעיית המשמעת במערכת החינוך ותהיות של תיכוניסטים לגבי הרלוונטיות של הלימודים העיוניים.",
-      "headlines": [
-        {
-          "id": "14c4d40d50",
-          "title": "אריאל, תמר, מוחמד ומרים: אלו העולים לכיתה א' - והערים עם הכי הרבה תלמידים",
-          "url": "https://www.ynet.co.il/news/article/yokra14880721",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-28T04:20:13+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/SyVdoWbADfg/SyVdoWbADfg_0_102_1280_721_0_medium.jpg"
-        },
-        {
-          "id": "6682f114c0",
-          "title": "הבעיה העיקרית של מערכת החינוך בישראל: חוסר משמעת",
-          "url": "https://www.themarker.com/weekend/2026-08-28/ty-article-magazine/.premium/000001a0-3e1e-d274-a7f4-bebf9aa30000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-28T03:38:36+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-3e1e-d274-a7f4-bebf8c5a0000/c5/42/770bf13b4c24909c024b9ea4177a/66605516.JPG?width=108&height=81"
-        },
-        {
-          "id": "2ba91180b7",
-          "title": "5 יחידות מתמטיקה ומחשבים? התיכוניסטים חושבים שאין להם מה לחפש בבית ספר",
-          "url": "https://www.themarker.com/weekend/2026-08-28/ty-article-magazine/.highlight/000001a0-42d2-d840-abbe-7af326380000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-28T03:54:50+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-4326-d840-abbe-7bf770830000/44/88/438951c24edb9e1de36e2a78d50f/192101.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "בשוק הנדל\"ן מדווח על עסקאות דירות זולות יחסית בטבריה ובבאר שבע, לצד תלונות של רוכשי דירות שנמכרו כ\"הזדמנות חלומית\" ומתקשים להשיב את כספם.",
-      "headlines": [
-        {
-          "id": "711330d62d",
-          "title": "בפחות ממיליון שקל: הדירה שנמכרה בטבריה ושתי הדירות בבאר שבע",
-          "url": "https://www.themarker.com/realestate/2026-08-28/ty-article/.premium/000001a0-4800-d2c5-a1b2-edabaa3b0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-28T11:24:26+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-4819-db62-afa1-dbbd343e0001/43/b6/10b0391640f0962289ce9e5e19df/tiber.PNG?width=108&height=81"
-        },
-        {
-          "id": "81a2b555c6",
-          "title": "הדירות שווקו כהזדמנות \"חלומית\" — וכעת הרוכשים נאבקים להשיג את הכסף בחזרה",
-          "url": "https://www.themarker.com/realestate/2026-08-28/ty-article-magazine/.highlight/000001a0-41e8-d518-a5ad-edff1ce70000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-28T03:22:18+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-41e8-d518-a5ad-edff02980000/e2/de/9b7b917b4b04bef01a4b39d58b21/66601323.JPG?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "environment",
-      "label_he": "סביבה ואקלים",
-      "summary_he": "בנפאל נמשך משבר השיטפונות עם חשש להישנות אירועי גשם קיצוניים, כשעשרות נעדרים ממדינות שונות, ובהם ישראלי, מקשים על מאמצי החיפוש וההצלה.",
-      "headlines": [
-        {
-          "id": "e436469982",
-          "title": "\"כמו צונאמי יבשתי\": חשש לשיטפון נוסף בנפאל, הישראלי עדיין נעדר",
-          "url": "https://news.walla.co.il/item/3863821",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-08-28T08:02:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093075-46.jpg"
-        },
-        {
-          "id": "7460e9c4a2",
-          "title": "\"כמו מלט נוזלי\": נעדרים מיותר מ-30 מדינות בנפאל, מזג האוויר מקשה על החיפושים",
-          "url": "https://www.ynet.co.il/news/article/b1lm9qcpfe",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-28T06:59:09+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/H111hHq0wGg/H111hHq0wGg_0_0_3000_1687_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "בעולם הטכנולוגיה, חברה ישראלית סייעה בחשיפת שימוש של האקרים דוברי רוסית בכלי בינה מלאכותית של SpaceX, ובית משפט פדרלי בארה\"ב ביטל צו שהגדיר את אנתרופיק כסיכון ביטחוני.",
-      "headlines": [
-        {
-          "id": "764122312a",
-          "title": "Tel Aviv-based firm helps uncover Russian-speaking hackers’ use of SpaceX’s AI tool",
-          "url": "https://www.timesofisrael.com/tel-aviv-based-firm-helps-uncover-russian-speaking-hackers-use-of-spacexs-ai-tool/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-28T03:44:39+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26112517456308-e1787885984398-1024x640.jpg"
-        },
-        {
-          "id": "d5a5d6edbc",
-          "title": "בית משפט פדרלי: יש לבטל את הצו המגדיר את אנתרופיק כסיכון ביטחוני",
-          "url": "https://www.themarker.com/wallstreet/2026-08-28/ty-article/.premium/000001a0-4707-d6dd-a1ad-e76721f70000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-28T06:50:10+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-4719-dad6-a3b6-5f7fc7190000/aa/92/81ce83164edf8473d6bdd61f4e44/788748.jpg?width=108&height=81"
-        }
-      ]
-    }
-  ],
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -335,155 +111,82 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israeli settler violence in the occupied West Bank continues to draw international scrutiny, with the BBC documenting multiple incidents over one week. The historic 1948 Altalena arms ship has become a contentious battleground in Israeli politics during the 2026 elections. Six months of Middle East conflict involving US and Israeli military action against Iran have raised ongoing questions about the region's future trajectory and stability.",
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
       "headlines": [
         {
-          "id": "a7f4b944d6",
-          "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-          "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-08-28T14:06:13+00:00",
-          "image_url": null
-        },
-        {
-          "id": "d506adde71",
-          "title": "How the sunken 1948 Altalena arms ship became an election battleground in Israel in 2026",
-          "url": "https://www.jta.org/2026/08/28/israel/how-the-sunken-1948-altalena-arms-ship-became-an-election-battleground-in-israel-in-2026",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-08-28T08:19:46+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/Ben-Gvir.jpg"
-        },
-        {
-          "id": "43a381a111",
-          "title": "Middle East War: 6 months of conflict—why did the US and Israel attack Iran, and how does it continue?",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/28/6-maanden-oorlog-vs-iran-jens-franssen-/",
+          "id": "704e667ab7",
+          "title": "Israëlisch-Palestijns conflict LIVEBLOG Zeldzame kritiek van Netanyahu op Israëlische kolonisten na nieuwe aanvallen op Westelijke Jordaanoever 36 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/zeldzame-kritiek-van-netanyahu-op-israelische-kolonisten-na-nieu~1761226560191/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/28/85e8996d-4fe9-4a17-a23d-032d055401e4.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/9f785657-f109-4931-afdc-c18d4a91ca03.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "3bdf5635ac",
+          "title": "Muziek Voor het eerst in 10 jaar tijd: K3 wint VRT Zomerhit met 'De zomer van Oya Lélé' 10 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/29/k3-wint-vrt-zomerhit-2026/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/9370e92d-0a67-42a3-9af6-344448766a4f.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "7a48cdc271",
+          "title": "Vuelta Loodzwaar medisch bulletin: Tadej Pogacar breekt sleutelbeen en nekwervel en houdt hersenschudding over aan valpartij 3 uur geleden",
+          "url": "https://sporza.be/nl/2026/08/29/loodzwaar-medisch-bulletin-tadej-pogacar-breekt-sleutelbeen-en-nekwervel-en-houdt-hersenschudding-over-aan-valpartij~1788029192659/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/1658e74c-4d77-4011-a8dd-9b890226b4e6.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "f04ac4c67d",
+          "title": "Ruimtevaart Astronomen ontdekken mogelijk 'zwartegat-ster': \"Straalt 100 miljard keer meer energie uit dan gewone ster\" 3 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/29/aanwijzing-dat-zwartegatsterren-echt-bestaan/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/b49dcc5a-00a9-4328-957e-5b05e4a88bf8.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "dbb3f08ec6",
+          "title": "Overstromingen Nepal-Tibet LIVEBLOG Dodental loopt op tot 682, Nepal roept op tot \"wereldwijde actie\" om klimaatverandering tegen te gaan Gepubliceerd: 4 uur geleden Nepal roept op tot \"wereldwijde actie\" om klimaatverandering tegen te gaan Gepubliceerd: 6 uur geleden 261 toeristen gered, nog 320 vermist Gepubliceerd: 7 uur geleden Risico op nieuwe ramp door volgelopen bergmeer lijkt te verminderen",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/dodental-loopt-op-tot-682-nepal-roept-op-tot-wereldwijde-actie~1787818862709/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/22ff068c-952a-4e6d-9c97-c888255d5062.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "637870569e",
+          "title": "01:13 Azië Eenzaam huis blijft overeind terwijl vloedgolf bijna hele dorp wegvaagt in Nepal 14 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/29/mirakelhuis-nepal-vloedgolf-gletsjers-china/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/d087856d-baa7-4b37-a939-8bdc8c5e52f1.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgian politics took center stage as Minister Prévot confronted US Ambassador Bill White following controversial statements directed at politician Vandenbroucke. Several regional incidents dominated Belgian news: a truck driver and passenger survived a crash into a mansion in Booischot; a man from Puurs was rescued after being abducted by fake agents and held for days, resulting in three arrests; and Averbode witnessed an unprecedented ecological phenomenon, with more than 2,000 bee-eaters breaking the Benelux daily record. Leuven's decade-long circulation plan has successfully reduced car traffic while increasing cycling infrastructure and public living space.",
-      "headlines": [
-        {
-          "id": "4168399ca7",
-          "title": "Politics LIVEBLOG: Minister Prévot calls in US Ambassador Bill White following remarks toward Vandenbroucke: 'Unacceptable'",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/minister-prevot-roept-vsambassadeur-bill-white-op-het-matje-na-~1780024580839/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/28/c90249e6-918d-413d-b7ec-91a4790a413c.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "3e4953cd2e",
-          "title": "Region Booischot: 'We were asleep,' says truck passenger testifying about crash into mansion",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/28/vrachtwagen-geladen-met-heftrucks-rijdt-huis-binnen-in-centrum-b/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/28/a352adff-e765-436d-b2ca-b9fb10e6008f.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "51400c4882",
-          "title": "Man from Puurs abducted by fake agents and held for days: police arrest three suspects",
-          "url": "https://www.hln.be/puurs-sint-amands/veertiger-uit-puurs-ontvoerd-door-nepagenten-en-dagenlang-gegijzeld-politie-pakt-drie-verdachten-op~ae4d6f91/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-28T12:11:00+00:00",
-          "image_url": "https://images.hln.be/OTY1MzJhYmYzMGE3ZGYyNThlMTYvZGlvLzI3MDY3Mjg5My9maXQtd2lkdGgvNDAw/mechelen-illustratiebeeld-van-politiezone-rivierenland"
-        },
-        {
-          "id": "2acfa843f0",
-          "title": "Region Averbode: Over 2,000 bee-eaters above Averbode break Benelux daily record: 'Unique event'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/28/dagrecord-wespendieven/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2023/09/15/e3d112a9-53c0-11ee-91d7-02b7b76bf47f.jpg?width=200&height=200&q=80&blur=90"
-        },
-        {
-          "id": "ec89f21c74",
-          "title": "Region Leuven: Fewer cars, more cyclists and living space—how Leuven's circulation plan changed in 10 years",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/27/leuven-10-jaar-circulatieplan-veranderd-fietsers-autos-handel/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/27/d5e5fec7-4e1b-4bea-8428-58e7d836423c.jpg?width=200&height=125&q=80&blur=90"
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
     "europe": {
-      "summary_en": "The US is reviewing NATO allies' military support contributions as it considers further troop reductions in Europe. The Russia-Ukraine conflict continues to pose nuclear risks, with the International Atomic Energy Agency condemning both nations following dangerous attacks near the Zaporizhzhia nuclear power plant.",
-      "headlines": [
-        {
-          "id": "ba1315bcc7",
-          "title": "US probes NATO allies over military support as it mulls further troop cuts",
-          "url": "https://www.politico.eu/article/us-probes-nato-allies-military-support-europe-review-troop-cutbacks/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-08-28T08:28:28+00:00",
-          "image_url": null
-        },
-        {
-          "id": "2ebe166e71",
-          "title": "Russia-Ukraine War LIVEBLOG: IAEA calls Ukraine and Russia to order following attacks near Zaporizhzhia nuclear power plant: 'Unacceptable'",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/iaea-roept-oekraine-en-rusland-tot-orde-na-aanvallen-nabij-kernc~1781787179742/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/28/e4278967-3a1e-4656-a389-3f197263e65d.jpg?width=200&height=125&q=80&blur=90"
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
     "world_top": {
-      "summary_en": "Ratko Mladić, the Bosnian Serb general convicted of orchestrating the Srebrenica massacre and other war crimes, died at age 84. Devastating flooding in Nepal and Tibet has claimed more than 575 lives, with engineers working urgently to address a critical reservoir situation. The world's youngest reigning monarch died at age 34.",
-      "headlines": [
-        {
-          "id": "3e54032b50",
-          "title": "'Butcher of Srebrenica' Ratko Mladić (84) died: he distributed candies to children before the slaughter began",
-          "url": "https://www.hln.be/buitenland/hij-deelde-snoepjes-uit-aan-kinderen-uren-later-begon-de-slachting-slager-van-srebrenica-ratko-mladic-84-overleden~aca35498/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-28T12:00:00+00:00",
-          "image_url": "https://images.hln.be/Mzc0NDI4ODViN2RiNGU5NTE5Y2IvZGlvLzI3NzE1MjUwNC9maXQtd2lkdGgvNDAw/file-bosnian-serb-army-gen-ratko-mladic-second-from-left-accompanied-by-an-aide-and-french-u-n-security-troops-arrive-at-a-u-n-sponsored-meeting-at-sarajevo-s-airport-april-12-1993-ap-photo-michael-stravato-file-inzet-file-photo-fugitive-bosnian-serb-war-crimes-suspect-ratko-mladic-has-been-arrested-in-serbia-after-16-years-on-the-run-mladic-69-was-found-in-the-village-of-lazarevo-in-northern-serbia-where-had-been-living-under-an-assumed-name-he-faces-charges-over-the-massacre-of-at-least-7-500-bosnian-muslim-men-and-boys-at-srebrenica-in-1995-pictured-pictured-apr-16-1994-gorazde-bosnia-and-herzegovina-former-serb-army-commander-ratko-mladic-right-near-the-town-of-gorazde-during-the-bosnian-war-only-belgium"
-        },
-        {
-          "id": "ff8d8d19e7",
-          "title": "What we know about deadly Nepal-Tibet floods",
-          "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-08-28T14:17:43+00:00",
-          "image_url": null
-        },
-        {
-          "id": "e7b9adeb08",
-          "title": "Youngest king in the world died at age 34",
-          "url": "https://www.hln.be/royalty/jongste-koning-ter-wereld-gestorven-op-34-jarige-leeftijd~a3cb82294/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-08-28T12:29:00+00:00",
-          "image_url": "https://images.hln.be/NzdjMmNhMTA4YWFjZDBjYTNhZmMvZGlvLzI3NzE1OTA3My9maXQtd2lkdGgvNDAw/xxx"
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
-    "degraded": false
+    "degraded": true
   }
 }
