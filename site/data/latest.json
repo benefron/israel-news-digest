@@ -1,97 +1,248 @@
 {
-  "generated_at": "2026-08-30T14:06:50.516219+00:00",
-  "date": "2026-08-29",
-  "degraded": true,
+  "generated_at": "2026-08-31T08:37:07.980234+00:00",
+  "date": "2026-08-31",
+  "degraded": false,
   "top_general": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "summary_he": "איראן תקפה בסיסים אמריקניים בירדן ובאיחוד האמירויות, מה שהעלה את המתיחות הביטחונית במזרח התיכון. בישראל אישר פייגלין מגעים מתקדמים עם סמוטריץ' לאיחוד בימין. בתגובה להסלמה, שוקי ההון בתל אביב נפתחו בירידות והדולר התחזק מול השקל.",
     "headlines": [
       {
-        "id": "6fe2f999f6",
-        "title": "דיווח: פולקסווגן ורפאל קרובות לעסקה על ייצור חלקים לכיפת ברזל בגרמניה",
-        "url": "https://www.themarker.com/wallstreet/2026-08-28/ty-article/000001a0-47d8-d2c5-a1b2-e7fb09fe0000",
+        "id": "83977929d4",
+        "title": "איראן תקפה בסיסים אמריקניים בירדן ובאיחוד האמירויות",
+        "url": "https://www.kan.org.il/content/kan-news/global/1094417/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "4d32cf49fc",
+        "title": "בדרך לאיחוד בימין: פייגלין מאשר מגעים \"מתקדמים מאוד\" עם סמוטריץ'",
+        "url": "https://www.israelhayom.co.il/news/politics/article/21317759",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "84699f0cc4",
+        "title": "אחרי ההסלמה במזרח התיכון: המסחר בת\"א נפתח בירידות; הדולר מתחזק",
+        "url": "https://www.themarker.com/markets/2026-08-31/ty-article-live/000001a0-5633-d4eb-affc-5f3b513d0000",
         "source": "themarker",
         "source_label": "TheMarker",
         "source_label_he": "TheMarker",
-        "published_at": "2026-08-28T10:12:21+00:00",
-        "image_url": "https://img.haarets.co.il/bs/000001a0-49ef-dad6-a3b6-5bef91490000/27/1d/601875b54c21baff022624edda7f/360210.jpg?width=108&height=81"
-      },
-      {
-        "id": "cb3a06231f",
-        "title": "ערוץ החמאס הסודי, בריחת המנדטים וסחי בלשכה: הקרחון של נתניהו",
-        "url": "https://news.walla.co.il/item/3863793",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-28T13:16:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/7/4077869-46.jpg"
-      },
-      {
-        "id": "fe8ac3375d",
-        "title": "\"אם למות - אז בבית\": המחקר שמעלה שאלות על פינוי יישובי הגבול",
-        "url": "https://news.walla.co.il/item/3863863",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-28T13:25:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093607-46.jpg"
-      },
-      {
-        "id": "ff0aa811d7",
-        "title": "צה\"ל: הרגנו שלושה פלסטינים ליד ג'נין שתכננו לבצע פיגועים",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-28/ty-article/.premium/000001a0-48ab-d6dd-a1ad-ecebb4f00000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-28T14:27:44+00:00",
-        "image_url": null
-      },
-      {
-        "id": "4eccdbc08e",
-        "title": "היעד: ראש התארגנות טרור - צה\"ל תקף באופן ממוקד בג'נין",
-        "url": "https://news.walla.co.il/item/3863875",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-28T16:13:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/2/0/3920066-46.jpg"
-      },
-      {
-        "id": "059ef56b93",
-        "title": "חצי שנה למלחמה, באיראן חוזרים לדבר על מחאות: \"אנשים רעבים. כלום לא יעצור את זה\"",
-        "url": "https://www.ynet.co.il/news/article/ryibazkozg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-08-28T18:01:15+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/HJfusHm100Ge/HJfusHm100Ge_0_311_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "4b21d0247b",
-        "title": "כשהמלחמה החלה איראנים רבים נאחזו בתקווה. חצי שנה אחרי, הם אחוזי ייאוש וחרדות",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-08-29/ty-article-magazine/.premium/000001a0-4825-d6dd-a1ad-ec6778e20000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-29T05:26:00+00:00",
-        "image_url": null
-      },
-      {
-        "id": "61e27453c9",
-        "title": "הצלקת הארוכה של צה\"ל: הגדוד שנולד מהכישלון החמור ב-7 באוקטובר",
-        "url": "https://news.walla.co.il/item/3863713",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-08-29T08:00:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093422-46.jpeg"
+        "published_at": "2026-08-31T05:14:20+00:00",
+        "image_url": "https://img.haarets.co.il/bs/0000018f-37ee-d0b5-a59f-37ef34ac0000/da/90/afba5be34414bc168c25855d01fd/573751-3.jpg?width=108&height=81"
       }
     ]
   },
   "security_war": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
-    "headlines": []
+    "summary_he": "בארצות הברית תקפו משגרי רקטות איראניים בתגובה להתקפות. בישראל נשפטו 16 חיילים למאסר לאחר שסירבו לצאת למשימה בעזה בשל נוכחות חיילת. בכירים בצה\"ל הודיעו על הסיכון הגובר שפלסטינים חמושים יתארגנו כדי להשיב אש נגד מתנחלים אלימים.",
+    "headlines": [
+      {
+        "id": "79c1a22ad0",
+        "title": "US hits Iranian launchers preparing to fire in Hormuz; IRGC targets Jordan, UAE in response",
+        "url": "https://www.timesofisrael.com/us-forces-hit-iranian-launchers-preparing-to-fire-in-hormuz-irgc-targets-jordan-in-response/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-08-30T23:57:19+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/Screenshot-2026-08-30-225332-1024x640.png"
+      },
+      {
+        "id": "607b512e10",
+        "title": "צה\"ל: 16 חיילים נשפטו למאסר לאחר שסירבו לצאת לפעילות מבצעית בעזה בשל נוכחות חיילת",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-30/ty-article/.premium/000001a0-546e-de9b-a3f3-d56eab600000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-30T20:53:59+00:00",
+        "image_url": null
+      },
+      {
+        "id": "7f6fd83684",
+        "title": "בכירים בצה\"ל: גובר הסיכון שפלסטינים חמושים יתארגנו כדי להשיב אש נגד מתנחלים אלימים",
+        "url": "https://www.haaretz.co.il/news/politics/2026-08-30/ty-article/.premium/000001a0-53fa-d3eb-abf5-57ff1a910000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-08-30T18:59:30+00:00",
+        "image_url": null
+      }
+    ]
   },
-  "subjects": [],
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "נתניהו הזהיר כי מפלגת וינטר עלולה להפיל את הקואליציה וביקש פגישה. המרכז הפוליטי נמשך ימינה, בעוד רע\"מ אישרה את שיבוצו של סגלוביץ במקום השני ברשימתה לכנסת.",
+      "headlines": [
+        {
+          "id": "c7ff56d133",
+          "title": "Netanyahu warns Winter’s party could ‘bring down’ his coalition, urges meeting",
+          "url": "https://www.timesofisrael.com/netanyahu-warns-winters-party-could-bring-down-his-coalition-urges-meeting/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-08-31T05:51:47+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/montage-2up-20260831-493281-1024x640.jpg"
+        },
+        {
+          "id": "a93cfc15d5",
+          "title": "ביבי נגרר ימינה",
+          "url": "https://www.ynet.co.il/news/article/yokra14881669",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-30T21:00:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/SJNyEEUjDMg/SJNyEEUjDMg_0_37_1280_721_0_medium.jpg"
+        },
+        {
+          "id": "c290780f51",
+          "title": "מקורבים לסגלוביץ: רע\"מ אישרה את שיבוצו במקום השני ברשימתה לכנסת",
+          "url": "https://www.haaretz.co.il/news/elections/2026-08-31/ty-article/.premium/000001a0-548b-de9b-a3f3-d5ebe6e50000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-30T21:28:20+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "13% מהאשראי החוץ-בנקאי בענף הנדל\"ן היו בפיגור או בהסדר חוב ב-2025, מה שמשקף עלייה ברמת הסיכון בשוק הדיור.",
+      "headlines": [
+        {
+          "id": "8b16738706",
+          "title": "\"עלייה ברמת הסיכון\": 13% מהאשראי החוץ־בנקאי בענף הנדל\"ן ב–2025 היה בפיגור או בהסדר חוב",
+          "url": "https://www.themarker.com/markets/2026-08-31/ty-article/.premium/000001a0-5299-d692-a5e3-f2dd7b270000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-08-31T03:08:50+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-52c7-d4eb-affc-5bffb2f70001/20/87/ea54a2974f3fb180e0a52012a27b/434437.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "health",
+      "label_he": "בריאות ורפואה",
+      "summary_he": "מערכת הבריאות בישראל דועכת לאט, בשקט ובעקביות.",
+      "headlines": [
+        {
+          "id": "486f49fc1b",
+          "title": "מערכת הבריאות בישראל דועכת לאיטה, בשקט ובעקביות",
+          "url": "https://www.ynet.co.il/news/article/yokra14883084",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-30T21:03:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/02/26/4482772/4482772_0_0_1000_667_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "טיילור סוויפט תרמה 50 מיליון דולר כדי להציל גיבורה. גאלת ה-Met Gala עשויה להעביר את מועדה מיום הזיכרון לשואה.",
+      "headlines": [
+        {
+          "id": "0ae4f4ba91",
+          "title": "טיילור סוויפט תרמה 50 א' דולר כדי להציל גיבורה",
+          "url": "https://www.israelhayom.co.il/forreal/global/article/21316434",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "a74888f10c",
+          "title": "Met Gala may move date from Yom HaShoah as it honors Galliano, who once praised Hitler",
+          "url": "https://www.timesofisrael.com/met-gala-may-move-date-from-yom-hashoah-as-it-honors-galliano-who-once-praised-hitler/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-08-31T03:54:47+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/AFP__20171012__860683900__v3__HighRes__VogueSForcesOfFashionConference-e1785835860810-1024x640.jpg"
+        }
+      ]
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "ילדי עובדים זרים שובצו בבית ספר בתל אביב, מה שגרם להורים להכריז על שביתת לימודים.",
+      "headlines": [
+        {
+          "id": "92473a8cd1",
+          "title": "ילדי עובדים זרים שובצו בביה\"ס בת\"א - ההורים ישביתו את הלימודים",
+          "url": "https://www.israelhayom.co.il/news/education/article/21312555",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "הגשם הגיע גם לאזור המרכז לאחר סוף שבוע מאכזב.",
+      "headlines": [
+        {
+          "id": "1e70de4aee",
+          "title": "הגשם הגיע גם למרכז, אחרי סוף השבוע ה\"מאכזב\": כל הנתונים - והתיעודים",
+          "url": "https://www.ynet.co.il/news/article/b1ogekzofg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-08-31T04:34:42+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/H1m6gtGOzl/H1m6gtGOzl_134_93_1014_571_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "תקרית אלימות כללה טענה של הפליה גזעית בלשון קשה ואלימות פיזית. בבריטניה התעורר זעם בעקבות הצהרות שנתן יאיר נתניהו. במזרח ירושלים, הישראליזציה של תוכנית הלימודים מצמצמת פערים.",
+      "headlines": [
+        {
+          "id": "87746b5e9d",
+          "title": "\"הוא ירק עליי ואמר 'ערבי מסריח' לפני שנתן לי אגרוף\"",
+          "url": "https://www.kan.org.il/content/kan-news/local/1094435/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": "https://www.kan.org.il/media/ceyh1hgh/1040422-11.png?width=490&height=272&v=1dd392b59155490"
+        },
+        {
+          "id": "07787ff256",
+          "title": "\"יש לו מספיק בעיות משלו\": זעם בבריטניה על דברי יאיר נתניהו",
+          "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21316824",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "2adb2f2e7c",
+          "title": "הישראליזציה של הלימודים במזרח ירושלים מצמצמת את הפערים",
+          "url": "https://www.haaretz.co.il/news/education/2026-08-31/ty-article/.premium/000001a0-544b-d3eb-abf5-575f0c340000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-08-31T02:54:02+00:00",
+          "image_url": null
+        }
+      ]
+    }
+  ],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -111,82 +262,124 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "summary_en": "No headlines related to Israel, Gaza, the West Bank, Israeli politics, antisemitism, Jewish communities, or Israeli-related diplomacy were included in this news digest.",
+      "headlines": []
+    },
+    "belgium": {
+      "summary_en": "Belgium faces changeable weather, with showers and wind gusts of up to 70 km/h expected ahead of the school year. Greeks have become a notable presence in Brussels's café culture, reflecting the city's growing international community.",
       "headlines": [
         {
-          "id": "704e667ab7",
-          "title": "Israëlisch-Palestijns conflict LIVEBLOG Zeldzame kritiek van Netanyahu op Israëlische kolonisten na nieuwe aanvallen op Westelijke Jordaanoever 36 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/zeldzame-kritiek-van-netanyahu-op-israelische-kolonisten-na-nieu~1761226560191/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/9f785657-f109-4931-afdc-c18d4a91ca03.jpg?width=200&height=125&q=80&blur=90"
+          "id": "6d1175db16",
+          "title": "Today changeable with showers and wind gusts up to 70 km/h. 'First school day usually runs dry, although a local shower is possible.'",
+          "url": "https://www.hln.be/weernieuws/weerbericht~ac484c3e/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-08-31T04:19:00+00:00",
+          "image_url": "https://images.hln.be/YjQwN2JhZTE2NzEyNDk3ZTA2MTMvZGlvLzI3NzI1MTE3Ni9maXQtd2lkdGgvNDAw/illustration-shows-students-on-the-first-day-of-school-at-the-phenix-school-of-dampremy-on-the-first-day-of-school-for-the-2026-2027-school-year-on-monday-24-august-2026-belga-photo-virginie-lefour"
         },
         {
-          "id": "3bdf5635ac",
-          "title": "Muziek Voor het eerst in 10 jaar tijd: K3 wint VRT Zomerhit met 'De zomer van Oya Lélé' 10 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/29/k3-wint-vrt-zomerhit-2026/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/9370e92d-0a67-42a3-9af6-344448766a4f.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "7a48cdc271",
-          "title": "Vuelta Loodzwaar medisch bulletin: Tadej Pogacar breekt sleutelbeen en nekwervel en houdt hersenschudding over aan valpartij 3 uur geleden",
-          "url": "https://sporza.be/nl/2026/08/29/loodzwaar-medisch-bulletin-tadej-pogacar-breekt-sleutelbeen-en-nekwervel-en-houdt-hersenschudding-over-aan-valpartij~1788029192659/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/1658e74c-4d77-4011-a8dd-9b890226b4e6.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "f04ac4c67d",
-          "title": "Ruimtevaart Astronomen ontdekken mogelijk 'zwartegat-ster': \"Straalt 100 miljard keer meer energie uit dan gewone ster\" 3 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/29/aanwijzing-dat-zwartegatsterren-echt-bestaan/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/b49dcc5a-00a9-4328-957e-5b05e4a88bf8.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "dbb3f08ec6",
-          "title": "Overstromingen Nepal-Tibet LIVEBLOG Dodental loopt op tot 682, Nepal roept op tot \"wereldwijde actie\" om klimaatverandering tegen te gaan Gepubliceerd: 4 uur geleden Nepal roept op tot \"wereldwijde actie\" om klimaatverandering tegen te gaan Gepubliceerd: 6 uur geleden 261 toeristen gered, nog 320 vermist Gepubliceerd: 7 uur geleden Risico op nieuwe ramp door volgelopen bergmeer lijkt te verminderen",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/dodental-loopt-op-tot-682-nepal-roept-op-tot-wereldwijde-actie~1787818862709/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/22ff068c-952a-4e6d-9c97-c888255d5062.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "637870569e",
-          "title": "01:13 Azië Eenzaam huis blijft overeind terwijl vloedgolf bijna hele dorp wegvaagt in Nepal 14 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/08/29/mirakelhuis-nepal-vloedgolf-gletsjers-china/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/d087856d-baa7-4b37-a939-8bdc8c5e52f1.jpg?width=200&height=125&q=80&blur=90"
+          "id": "63e3576b72",
+          "title": "How Greeks conquered the Brussels coffee bubble",
+          "url": "https://www.politico.eu/article/how-greeks-conquered-brussels-coffee-bubble/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-08-31T02:00:00+00:00",
+          "image_url": null
         }
       ]
     },
-    "belgium": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
-    },
     "europe": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
+      "summary_en": "German leadership has signalled a historic shift in foreign policy toward making Russia pay for its aggression, while Iceland rejected restarting EU membership talks following a failed referendum. The European Union is mobilising migration resources, with Spain requesting assistance from the EU border agency Frontex to screen migrants in Ceuta. Security experts across Europe emphasise that countering Russian threats is as critical as addressing climate change.",
+      "headlines": [
+        {
+          "id": "143e2354cf",
+          "title": "Zeitenwende 2.0: How Merz wants to make Russia pay",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/zeitenwende-2-0-wie-merz-russland-zahlen-lassen-will/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-08-31T03:09:39+00:00",
+          "image_url": null
+        },
+        {
+          "id": "a3d0d3ca0d",
+          "title": "Iceland votes against restarting EU membership talks",
+          "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-30T16:11:44+00:00",
+          "image_url": null
+        },
+        {
+          "id": "6fe740b23a",
+          "title": "Spain asks EU agency Frontex for help screening remaining migrants in Ceuta",
+          "url": "https://www.demorgen.be/nieuws/spanje-vraagt-eu-agentschap-frontex-om-hulp-bij-screenen-van-overgebleven-migranten-in-ceuta~b37a468a/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-31T01:00:30+00:00",
+          "image_url": "https://image.demorgen.be/277187820/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "c20334d38b",
+          "title": "Providing a counterweight to Russian threats is as necessary as countering further climate change",
+          "url": "https://www.demorgen.be/meningen/een-tegenwicht-bieden-voor-de-russische-dreiging-is-even-noodzakelijk-als-verdere-klimaatverandering-tegengaan~b58468b7/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-31T01:00:00+00:00",
+          "image_url": "https://image.demorgen.be/277251880/feature-crop/320/320/afbeelding"
+        }
+      ]
     },
     "world_top": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
+      "summary_en": "The United States and Iran have traded direct strikes for the first time in weeks, escalating Middle East tensions after a US strike in the Strait of Hormuz; a supertanker was hit by mines and caught fire during the crisis. A catastrophic mudslide in the Grand Canyon killed at least one person and left 15 missing, catching hikers by surprise. A historic oil deal with Venezuela is under scrutiny for exposing American geopolitical influence in the region.",
+      "headlines": [
+        {
+          "id": "80de29b5d4",
+          "title": "Iran hostilities flare after US strike in strait of Hormuz; supertanker hits mines and catches fire – Middle East crisis live",
+          "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-08-31T08:17:52+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/87f16d3b221594c433efe96d8146aa24302e11c2/0_86_6609_5291/master/6609.jpg?width=700&quality=85&auto=format&fit=max&s=03a0a218abe24c3cf612116d9d4df98e"
+        },
+        {
+          "id": "55a739ac7f",
+          "title": "United States: Mudslide surprises hikers in Grand Canyon: at least 1 dead and 15 missing",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/31/grand-canyon-doden-en-vermisten/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/31/c886b68f-d7a7-48c5-98b2-649a735fd034.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "d0f01a2569",
+          "title": "How the 'historic oil deal' exposes the American grip on Venezuela",
+          "url": "https://www.demorgen.be/nieuws/hoe-de-historische-oliedeal-de-amerikaanse-greep-op-venezuela-blootlegt~bd350bd4/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-08-31T08:00:55+00:00",
+          "image_url": "https://image.demorgen.be/277165343/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "77c755dad9",
+          "title": "US and Iran trade strikes for first time in weeks",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-08-31T07:04:36+00:00",
+          "image_url": null
+        }
+      ]
     },
-    "degraded": true
+    "degraded": false
   }
 }
