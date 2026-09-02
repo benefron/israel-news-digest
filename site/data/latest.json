@@ -1,84 +1,124 @@
 {
-  "generated_at": "2026-09-01T05:56:02.958513+00:00",
-  "date": "2026-09-01",
+  "generated_at": "2026-09-02T06:12:30.193455+00:00",
+  "date": "2026-09-02",
   "degraded": false,
   "top_general": {
-    "summary_he": "היום החלו 2.6 מיליון תלמידים את שנת הלימודים תשפ\"ז. בחזית הפוליטית, הודיע חבר הכנסת דוד סגלוביץ על הצטרפותו לרשימת המפלגה הערבית רע\"ם — צעד חסר תקדים של שיתוף פעולה בין מפלגות יהודיות וערביות. במקביל התגברה המתיחות בין ארה\"ב לאיראן: טראמפ הודיע כי ארה\"ב \"הולכת להכות באיראן חזק\", בעוד איראן הבטיחה תגובה חזקה פי כמה.",
+    "summary_he": "המזרח התיכון בהסלמה חדה: ארה\"ב תקפה מטרות של משמרות המהפכה באיראן במצר הורמוז, ואיראן הגיבה בשיגור טילים לירדן. באיראן פנימה מדווח על מתיחות סביב סוגיית העשרת האורניום, כשבנו של הנשיא הותקף לאחר שהביע התנגדות לה. במקביל, בישראל נמשכת בדיקת מעצרו של בכיר חמאס בעזה כהישג חלקי, ובזירה המדינית מתחדשות אזהרות סוכנות הגרעין בנוגע לתוכנית האיראנית.",
     "headlines": [
       {
-        "id": "4120514957",
-        "title": "2.6 מיליון תלמידים החלו היום את שנת הלימודים",
-        "url": "https://news.walla.co.il/item/3864666",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-01T07:46:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/5/4095074-46.jpeg"
-      },
-      {
-        "id": "9f5e7572fb",
-        "title": "סגלוביץ הודיע על הצטרפותו לרע\"מ: \"מופרך לומר שאחרי 7.10 לא ניתן לקיים שותפות\"",
-        "url": "https://www.haaretz.co.il/news/elections/2026-08-31/ty-article/.premium/000001a0-58db-d9b7-abaf-faff08520000",
+        "id": "121288f76a",
+        "title": "ארה\"ב תקפה מטרות של משמרות המהפכה במצר הורמוז; איראן שיגרה בתגובה טילים לירדן",
+        "url": "https://www.haaretz.co.il/news/politics/2026-09-01/ty-article/000001a0-5dc7-d4eb-affc-5dffa12e0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-08-31T17:30:31+00:00",
+        "published_at": "2026-09-01T16:22:39+00:00",
         "image_url": null
       },
       {
-        "id": "ebb6f4f37c",
-        "title": "טראמפ: \"הולכים להכות באיראן חזק\"; איראן: \"נגיב בעוצמה גדולה פי כמה\"",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001553882",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-08-31T14:59:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1774281851/direct/%D7%98%D7%A8%D7%90%D7%9E%D7%A4_%D7%95%D7%9E%D7%95%D7%92%D7%AA%D7%91%D7%90-800_qv3wsr.png"
+        "id": "e53b8d770e",
+        "title": "הסלמה במזרח התיכון: ארה\"ב פתחה בגל תקיפות באיראן - ששיגרה טילים לירדן",
+        "url": "https://news.walla.co.il/item/3864885",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-01T19:04:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/6/2/3662698-46.jpg"
+      },
+      {
+        "id": "3074ee8183",
+        "title": "מתקפה איראנית על ירדן אחרי הרוגים בהפצצות באזור הורמוז: \"תפסו מחסה\"",
+        "url": "https://www.ynet.co.il/news/article/hy4keoedgl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-01T21:24:19+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/08/rkOM1111EWMl/rkOM1111EWMl_1_0_960_540_0_medium.jpg"
+      },
+      {
+        "id": "3e5662376c",
+        "title": "סערה באיראן: בנו של הנשיא טען שלא צריך להעשיר אורניום - והותקף",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-097abd9aecb50a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-01T07:12:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/01/YOUSEF_autoOrient_i.jpg"
+      },
+      {
+        "id": "85a3658b50",
+        "title": "מעצר הבכיר בלב עזה הוא הישג שעשוי להיות בעל ערך, אך השאיפה להפלת חמאס עוד רחוקה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-09-02/ty-article/.highlight/000001a0-5e86-d4eb-affc-5fbe03aa0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-02T03:00:44+00:00",
+        "image_url": null
       }
     ]
   },
   "security_war": {
-    "summary_he": "דיווחים רפואיים מעזה מתעדים חמישה הרוגים בתקיפות אוויריות. בחזית הדיפלומטית, סגן נשיא ארה\"ב ג'יי די ואנס גינה את איראן על התנהגות \"מטורפת\" ועל ירי לעבר בעלי ברית, בעוד בנו של חמינאי קרא למדינות מוסלמיות להתאחד נגד ישראל וארה\"ב. טראמפ דחה הצעות לתקיפת מתקני הגרעין וכינה אותן \"הצעה מטופשת\", בעוד הנהגת איראן הבטיחה תגובה סימטרית לכל מכה מצד ארה\"ב.",
+    "summary_he": "לראשונה מאז יוני חצה כטב\"ם משטח לבנון לישראל, וצה\"ל דיווח על שיגור שני רחפני נפץ מצד חיזבאללה ללא נפגעים. מדווח כי רוסיה סייעה בחשאי לאיראן בפיתוח טילי שיוט על-קוליים מתקדמים, וסוכנות הגרעין פרסמה אזהרה חדשה בנוגע לתוכנית הגרעין האיראנית. במלאת שנה לפגיעת טיל איראני בבניין בבת ים, וכן עם הגעת צוללת חדשה לישראל מגרמניה, ניכר כי מערכת הביטחון הישראלית נותרת בכוננות גבוהה.",
     "headlines": [
       {
-        "id": "261d7f33fb",
-        "title": "מקורות רפואיים ברצועה: חמישה בני אדם נהרגו בתקיפות בעיר עזה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-08-31/ty-article/.premium/000001a0-5810-d4eb-affc-5938b1940000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-08-31T14:57:13+00:00",
-        "image_url": null
+        "id": "f00576acfd",
+        "title": "לראשונה מאז חודש יוני: כטב\"ם חצה מלבנון לשטח ישראל",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-f795847fc7f50a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-02T01:33:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/05/31/hizbhallanight102336_autoOrient_i.jpg"
       },
       {
-        "id": "15ae6f673f",
-        "title": "ואנס תוקף את איראן: \"הנהגה ממש מטורפת, יורים על בעלי הברית שלהם\"",
-        "url": "https://news.walla.co.il/item/3864651",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-01T02:46:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/3/6/4036549-46.jpg"
-      },
-      {
-        "id": "d6dfe1411e",
-        "title": "חמינאי הבן קורא למדינות המוסלמיות להתאחד נגד ישראל וארה\"ב: \"הכירו את האויב\"",
-        "url": "https://news.walla.co.il/item/3864647",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-01T01:01:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/2/7/4027558-46.png"
-      },
-      {
-        "id": "9f60d3255b",
-        "title": "תקיפה גרעינית באיראן? טראמפ: \"הצעה מטופשת\"",
-        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21325432",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
+        "id": "4274e970da",
+        "title": "צה\"ל: חיזבאללה שיגר שני רחפני נפץ לעבר כוחותינו, אין נפגעים",
+        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-3475665e",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
         "published_at": null,
         "image_url": null
+      },
+      {
+        "id": "610eb3177f",
+        "title": "דיווח: רוסיה סייעה בחשאי לאיראן לפתח טילי שיוט על-קוליים מתקדמים",
+        "url": "https://www.kan.org.il/content/kan-news/global/1095261/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "c998588eea",
+        "title": "\"דחיפות עליונה\": האזהרה החדשה של סוכנות הגרעין בנוגע לאיראן",
+        "url": "https://www.makorrishon.co.il/news/defence/article/366412",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "9569bc3c48",
+        "title": "שנה לפגיעת הטיל האיראני בבניין בבת ים: \"לא נשאר כלום\"",
+        "url": "https://13tv.co.il/item/news/domestic/internal/bskse-905225406/?pid=62&refc=902992425",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "5a74ff28dc",
+        "title": "\"צוללת העתיד\" בדרך לישראל: אח\"י דרקון יצאה מגרמניה",
+        "url": "https://news.walla.co.il/item/3864882",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-01T19:10:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/2/2/3622260-46.jpg"
       }
     ]
   },
@@ -86,192 +126,121 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "לקראת הבחירות של 2026 נמצאות המפלגות בשבוע קריטי לסגירת הרשימות. גורמים במפלגה חרדית יזמו מגעים על ריצה משותפת, המציעה שילוב של שירות בצה\"ל לצד לימוד תורה. בנוסף הודיע חבר הכנסת מיקי לוי מ\"יש עתיד\" כי לא יתמודד ברשימה הקרובה.",
+      "summary_he": "שר החוץ סער איים לפעול נגד בריטניה אם יוטלו סנקציות על ההתנחלויות, בעוד 11 מדינות באיחוד האירופי דורשות לבטל את זכות הווטו במדיניות החוץ - צעד שעלול להדאיג את ישראל. בארץ, המפכ\"ל התריע כי ישראל נתפסת כמדינה של בריונים בשל הפשיעה ביו\"ש, ונתניהו הכחיש טענות בדבר בגידה לפני ה-7 באוקטובר.",
       "headlines": [
         {
-          "id": "5bd96c8060",
-          "title": "2 דקות בחירות 2026 פרסום ראשון: מגעים מפתיעים בין עופר וינטר למפלגה החרדית עופר וינטר מנהל מגעים לריצה משותפת עם המפלגה החרדית של הרב לייטנר • המפלגה מציעה שירות בצה\"ל לצד לימוד תורה, ווינטר מצידו פוסל חיבור למי שכהן בשבעה באוקטובר זמן קריאה: 2 דקות.",
-          "url": "https://www.i24news.tv/he/news/israel-elections-2026/artc-a1784b67",
-          "source": "i24",
-          "source_label": "i24NEWS",
-          "source_label_he": "i24NEWS",
-          "published_at": null,
-          "image_url": "https://cdn.i24news.tv/uploads/cd/71/c9/4e/c1/48/97/2f/e6/e2/31/6e/57/63/15/15/cd71c94ec148972fe6e2316e57631515.jpg?width=350"
-        },
-        {
-          "id": "416ec159f4",
-          "title": "שבוע לסגירת הרשימות לכנסת, השאלות הגדולות עוד ממתינות להכרעה בתוך הגושים",
-          "url": "https://www.haaretz.co.il/news/elections/2026-09-01/ty-article/.premium/000001a0-595d-d9b7-abaf-fb7f2f970000",
+          "id": "f6da9393ab",
+          "title": "שר החוץ סער איים לפעול נגד בריטניה אם היא תטיל סנקציות על ההתנחלויות",
+          "url": "https://www.haaretz.co.il/news/politics/2026-09-01/ty-article/.premium/000001a0-5d63-d64c-a9a3-7d6f3ee50000",
           "source": "haaretz",
           "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-09-01T03:01:40+00:00",
+          "published_at": "2026-09-01T16:16:14+00:00",
           "image_url": null
         },
         {
-          "id": "5dd4cea50e",
-          "title": "פרישה נוספת מיש עתיד: חבר הכנסת מיקי לוי הודיע כי לא יתמודד ברשימה",
-          "url": "https://news.walla.co.il/item/3864627",
+          "id": "00b52882bf",
+          "title": "היוזמה שעשויה להדאיג מאוד את ישראל: 11 מדינות באיחוד האירופי דורשות לבטל את זכות הווטו במדיניות החוץ",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-9d6af223e8c50a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-09-01T10:42:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/06/28/ursullakaia_2806_re_autoOrient_i.jpg"
+        },
+        {
+          "id": "c00fccc510",
+          "title": "המפכ\"ל: ישראל נתפסת כמדינה של בריונים ועבריינים בגלל הפשיעה ביו\"ש",
+          "url": "https://www.ynet.co.il/news/article/rjsb4teuzx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-01T17:50:45+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/07/SyEnYDQLzl/SyEnYDQLzl_0_84_1006_566_0_medium.jpg"
+        },
+        {
+          "id": "5c2399b079",
+          "title": "נתניהו סותר את תאוריית הקונספירציה של רעייתו: \"לא הייתה בגידה ב-7 באוקטובר\"",
+          "url": "https://news.walla.co.il/item/3864911",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-08-31T22:41:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/3/3/5/3335760-46.jpg"
-        }
-      ]
-    },
-    {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "במשרד החינוך יבחנו, בעלות של מאות אלפי שקלים, האם קיים מחסור ממשי בכוח אדם בהוראה. בתחום הביטחון, המשטרה תגביר את האבטחה בבית ספר חילוני בירושלים ביום פתיחת הלימודים, לאחר הפגנה חרדית. מפלגות הקואליציה התחייבו לתכניות חינוכיות ולחקיקה חדשות.",
-      "headlines": [
-        {
-          "id": "943bcc72bf",
-          "title": "בעלות של מאות אלפי שקלים: משרד החינוך יבדוק אם באמת קיים מחסור במורים",
-          "url": "https://www.themarker.com/news/education/2026-09-01/ty-article/.premium/000001a0-57b5-d822-a3b8-57ffd15f0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-01T03:01:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-57ed-d822-a3b8-57ff421c0000/65/30/d0ad87fa48438300b5469a1a1596/871391.jpg?width=108&height=81"
+          "published_at": "2026-09-01T23:09:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/3/4073398-46.jpg"
         },
         {
-          "id": "3052bac978",
-          "title": "אחרי מחאת חרדים: המשטרה תאבטח בי\"ס חילוני בירושלים - ביום הראשון ללימודים",
-          "url": "https://www.ynet.co.il/news/article/bj105omdmg",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-31T22:32:46+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/r1Fviumdfe/r1Fviumdfe_0_422_961_540_0_medium.jpg"
-        },
-        {
-          "id": "6ec4d440ca",
-          "title": "ההבטחות שלהם לילדים שלנו: מה מתכננת כל מפלגה במערכת החינוך",
-          "url": "https://www.ynet.co.il/news/elections2026/article/h1ajygm00ml",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-31T21:23:28+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2015/08/30/6263809/6263809_0_16_1024_577_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "שוק המטבע הישראלי יציב; שער הדולר ירד מתחת ל-3 שקלים. בארה\"ב, הממשלה תובעת את אמזון בטענה לזיוף הצעות מחיר במטרה להגדיל את עלויות הפרסום בפלטפורמה. ניתוחים כלכליים מציינים כי כאשר סוגיות ביטחון וכלכלה נפגשות, הן משפיעות זו על זו.",
-      "headlines": [
-        {
-          "id": "40d77cc49f",
-          "title": "יציבות בשוק המט\"ח; הדולר מתחת ל-3 שקלים",
-          "url": "https://www.themarker.com/markets/2026-09-01/ty-article-live/000001a0-5b61-d571-a3a2-df6f0ae70000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-01T05:18:15+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-ef5b-d310-a3df-ef5beccb0000/31/3f/84d2368f4b3f939211c991008141/819495.jpg?width=108&height=81"
-        },
-        {
-          "id": "177e9c2821",
-          "title": "ארה\"ב תובעת את אמזון: זייפה הצעות מחיר כדי לייקר את הפרסום בפלטפורמה",
-          "url": "https://www.themarker.com/wallstreet/2026-08-31/ty-article/.premium/000001a0-592d-d9b7-abaf-fb7f58f20000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-08-31T19:05:40+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-5944-d9b7-abaf-fb76fc3e0000/3b/92/b34c1ace452eac4dafb9ae1085c1/382829.jpg?width=108&height=81"
-        },
-        {
-          "id": "4e11ad4c21",
-          "title": "כשביטחון וכסף נפגשים, היו בטוחים: כולם עובדים על כולם",
-          "url": "https://www.themarker.com/news/politics/2026-09-01/ty-article/.premium/000001a0-5806-d4eb-affc-593ed4c30000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-01T03:06:13+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-5822-d692-a5e3-fa7ef5a20000/8d/ed/7e5ac8f947ca9520848b46cf6729/377850.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "environment",
-      "label_he": "סביבה ואקלים",
-      "summary_he": "פליטות גזי החממה בישראל ירדו בשנת 2025, אך עדיין עולות למשק כ-11 מיליארד דולר. בתחזית המעודכנת צופים החמרה בעומסי החום לפני התקררות הצפויה לקראת סוף השבוע.",
-      "headlines": [
-        {
-          "id": "cb81ac5625",
-          "title": "Israel’s global warming emissions down in 2025 but still cost economy $11 billion, ministry finds",
-          "url": "https://www.timesofisrael.com/israels-global-warming-emissions-down-in-2025-but-still-cost-economy-11-billion-ministry-finds/",
+          "id": "ed2225552a",
+          "title": "Ben Gvir’s party distributes book at schools glorifying him, depicting Arab MKs as ‘enemy’",
+          "url": "https://www.timesofisrael.com/ben-gvirs-party-distributes-book-at-schools-glorifying-him-depicting-arab-mks-as-enemy/",
           "source": "times_of_israel",
           "source_label": "Times of Israel",
           "source_label_he": "Times of Israel",
-          "published_at": "2026-09-01T03:00:27+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/03/F260205YZ019-1024x640.jpg"
-        },
-        {
-          "id": "6d566ac709",
-          "title": "הכבדה בעומסי החום, לפני התקררות בסופ\"ש | התחזית ליום הראשון ללימודים",
-          "url": "https://www.ynet.co.il/news/article/6p59kb4ng",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-01T02:33:27+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/29/HyHweIY11F/HyHweIY11F_0_313_3000_1688_0_medium.jpg"
+          "published_at": "2026-09-01T16:42:24+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/DUAL-3333r5-1024x640.jpeg"
         }
       ]
     },
     {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "סרט שאולפני וורנר גנזו לצורך הטבות מס שובר כעת שיאים בקופות הקולנוע. בהיבט של היסטוריה תרבותית, צעצועים יהודיים — מדובוני צעצוע ועד משחקי טידלי-וינקס — עיצבו בעשורים הקודמים את חוויית הילדות האמריקאית.",
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "מבקר המדינה הזהיר כבר ב-2024 מפני ליקויים וסיכונים במתקני ההתפלה. במקביל מתפרסם סיפור אישי על משפחה המשלמת משכנתא והחזר גבוה להורים כדי לרכוש דירה.",
       "headlines": [
         {
-          "id": "2c418d7c6b",
-          "title": "האחים וורנר גנזה את הסרט הזה בשביל מחיקת מס. היום הוא שובר קופות",
-          "url": "https://e.walla.co.il/item/3864490",
+          "id": "1d3eb7b0ba",
+          "title": "המבקר הזהיר כבר ב-2024: הליקויים והסיכונים במתקני ההתפלה",
+          "url": "https://news.walla.co.il/item/3864897",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-09-01T06:09:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/4/4094715-46.jpg"
+          "published_at": "2026-09-01T20:50:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/0/2/5/3025351-46.jpg"
         },
         {
-          "id": "7fa4e61d69",
-          "title": "Toy story: From teddy bears to Tiddlywinks, how Jews helped shape American childhood",
-          "url": "https://www.timesofisrael.com/toy-story-from-teddy-bears-to-tiddlywinks-how-jews-helped-shape-american-childhood/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-08-31T23:37:24+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/08/KimmelCOllage-1024x640.jpg"
+          "id": "7b8b9bb531",
+          "title": "\"אני משלמת על משכנתא והחזר להורים 5,200 שקל בחודש. זה לא מעט, אבל ככה קניתי דירה ב–100 אלף שקל\"",
+          "url": "https://www.themarker.com/realestate/2026-09-02/ty-article-magazine/.premium/000001a0-28fa-d399-afb3-bcfa7de40000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-02T03:00:01+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-4cde-d5a0-a1f7-fefedf690000/7c/34/137c334f4f25ba3966fc3124c5eb/197119.jpg?width=108&height=81"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "לאחר הפגנה של חרדים, המשטרה תאבטח בית ספר חילוני בירושלים ביום הראשון ללימודים. במקרים אישיים, תועדה נשיכה של ילדה בבואה לכיתה א' בפתיחת שנת הלימודים החדשה.",
+      "summary_he": "כ-20 אלף פעוטות נותרו ללא מעון יום לאחר שהעובדות לא הגיעו לעבודה. בפרשה חמורה, שני נערים בני 13 ו-14 חשודים באונס ובפציעת ילדה בעלת צרכים מיוחדים בשרון, ותושב עפולה נדקר בדרכו לבית הכנסת.",
       "headlines": [
         {
-          "id": "3052bac978",
-          "title": "אחרי מחאת חרדים: המשטרה תאבטח בי\"ס חילוני בירושלים - ביום הראשון ללימודים",
-          "url": "https://www.ynet.co.il/news/article/bj105omdmg",
+          "id": "9822f297b8",
+          "title": "כ-20 אלף פעוטות בלי מעון: \"העובדות לא מחזיקות, נאלצנו לסגור ברגע האחרון\"",
+          "url": "https://www.ynet.co.il/news/article/yokra14885408",
           "source": "ynet",
           "source_label": "Ynet",
           "source_label_he": "Ynet",
-          "published_at": "2026-08-31T22:32:46+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/r1Fviumdfe/r1Fviumdfe_0_422_961_540_0_medium.jpg"
+          "published_at": "2026-09-01T21:00:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/07/20/HyZqY11cS2q/HyZqY11cS2q_1_310_3000_1688_0_medium.jpg"
         },
         {
-          "id": "a06b4bb081",
-          "title": "הנסיכה מגיעה לכיתה א'",
-          "url": "https://www.ynet.co.il/news/article/yokra14884632",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-08-31T21:03:00+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/09/01/SkgsUqg1R2/SkgsUqg1R2_0_96_1280_721_0_medium.jpg"
+          "id": "7ec5c11bae",
+          "title": "חשד חמור: בני 13 ו-14 אנסו ופצעו ילדה בעלת צרכים מיוחדים בשרון | פרסום ראשון",
+          "url": "https://news.walla.co.il/item/3864910",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-09-02T06:00:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/4/0/4040502-46.jpg"
+        },
+        {
+          "id": "14fffc1730",
+          "title": "נדקר בדרכו לבית הכנסת: תושב עפולה נפצע קשה - החשוד נעצר",
+          "url": "https://www.israelhayom.co.il/news/crime/article/21334838",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
         }
       ]
     }
@@ -295,132 +264,182 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israeli politics continues to shift as coalition-building efforts intensify ahead of upcoming elections, with a Jewish Zionist politician joining the Arab party Ra'am to challenge Prime Minister Netanyahu. Israel has also strengthened regional ties through a new defense pact with Greece that addresses security concerns in the Eastern Mediterranean. In the cultural sphere, fashion designer John Galliano has withdrawn from a Met exhibition following significant backlash over antisemitic statements.",
+      "summary_en": "Israel-related diplomatic developments and Jewish community issues feature prominently in this week's headlines. UK Foreign Secretary Ed Miliband has promised a comprehensive reset of British policy toward Israel, signaling potential shifts in relations. Jewish leaders have spoken out on Islamophobia concerns, while Jewish communities in North America grapple with cultural changes, including the closure of a historic Jewish deli in Philadelphia. Meanwhile, Palestinian students from Gaza face obstacles in leaving the region despite securing study visas and scholarships to Belgium, raising questions about movement restrictions.",
       "headlines": [
         {
-          "id": "d93e524a03",
-          "title": "Jewish Zionist politician joins Arab party Ra'am in push to defeat Netanyahu in the upcoming elections",
-          "url": "https://www.jta.org/2026/08/31/israel/jewish-zionist-politician-joins-arab-party-raam-in-push-to-defeat-netanyahu-in-the-upcoming-elections",
+          "id": "ff4b7eae9f",
+          "title": "Jewish leader slams Bruce Blakeman for 'Islamophobia' after post of Hochul in a hijab",
+          "url": "https://www.jta.org/2026/09/01/ny/jewish-leader-slams-bruce-blakeman-for-islamophobia-after-post-of-hochul-in-a-hijab",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-08-31T23:02:48+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/SegalovitchAbbas.jpg"
+          "published_at": "2026-09-01T23:35:41+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/GettyImages-2251648281.jpg"
         },
         {
-          "id": "bc0dd60e3f",
-          "title": "Israel and Greece ink defense deal to protect against regional threats",
-          "url": "https://www.jta.org/2026/08/31/israel/israel-and-greece-ink-defense-deal-to-protect-against-regional-threats",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-08-31T19:06:51+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/Israel-Greece.jpeg"
+          "id": "fa0d321362",
+          "title": "Ed Miliband promises 'comprehensive reset' of UK policy toward Israel",
+          "url": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-01T18:37:38+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/bb791d0b639f0d69f2cf8b3f07e6f690a6849a4d/100_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=c2be56db1dc5891712ab0a2d6ddaf6f7"
         },
         {
-          "id": "bb7ac79594",
-          "title": "John Galliano bows out of Met exhibition as backlash over antisemitism mounts",
-          "url": "https://www.jta.org/2026/08/31/culture/john-galliano-bows-out-of-met-exhibition-as-backlash-over-antisemitism-mounts",
+          "id": "b1fe78bdb3",
+          "title": "Northeast Philadelphia says goodbye to its last Jewish deli",
+          "url": "https://www.jta.org/2026/09/01/united-states/northeast-philadelphia-says-goodbye-to-its-last-jewish-deli",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-08-31T16:07:51+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/GettyImages-1236894073.jpg"
+          "published_at": "2026-09-01T14:42:04+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/IMG_8583.jpeg"
+        },
+        {
+          "id": "71b220110c",
+          "title": "Palestinian students cannot leave Gaza despite visa and study grant for Belgium: 'Matter of political will'",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/01/terzake-palestijnse-studenten-gaza/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/8a8a4dfb-9caf-4284-815f-bb0f3027ff61.png?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium faces interconnected social and environmental challenges as communities grapple with armed drug violence in Sint-Gillis and debate the impact of asylum policy in Brussels. Following summer wildfires worsened by extreme heat, authorities are examining strategies to prevent similar ecological damage in future seasons. Meanwhile, Brussels continues to establish itself as a welcoming place where LGBTQ+ individuals can live openly and authentically.",
+      "summary_en": "Belgium faces several pressing domestic issues, from child custody disputes to natural disasters affecting Belgian citizens. A high-profile case involves a father seeking Prime Minister De Wever's intervention with Indian authorities over his ex-partner's alleged abduction of their young daughter to India. A Belgian woman remains missing following mudslides in Nepal, while tragedy struck in Ninove when a man was declared brain dead after attacks by Asian hornets. In economic news, Belgian housing prices have surged dramatically in recent years, with increases ranging from 8 to 163 percent across different municipalities since 2010.",
       "headlines": [
         {
-          "id": "fb72585fb1",
-          "title": "Saint-Gilles is sick of armed drug violence: 'My son asks questions, but I have no more answers'",
-          "url": "https://www.demorgen.be/nieuws/sint-gillis-is-het-gewapend-drugsgeweld-kotsbeu-mijn-zoon-stelt-vragen-maar-ik-heb-geen-antwoorden-meer~b0794002/",
+          "id": "1066d77389",
+          "title": "His ex-partner left with their daughter Raïa (6) to India: father asks Prime Minister De Wever to raise the issue with Modi",
+          "url": "https://www.demorgen.be/nieuws/zijn-ex-partner-vertrok-met-hun-dochter-raia-6-naar-india-vader-vraagt-premier-de-wever-om-de-zaak-aan-te-kaarten-bij-modi~bb1e9a05/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-08-31T15:30:46+00:00",
-          "image_url": "https://image.demorgen.be/277257979/feature-crop/320/320/afbeelding"
+          "published_at": "2026-09-02T05:59:00+00:00",
+          "image_url": "https://image.demorgen.be/277267563/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "d8e08fad34",
-          "title": "After the heat summer, how do we prevent so much nature from burning in Belgium again?",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/28/na-de-hittezomer-hoe-vermijden-we-dat-er-opnieuw-zoveel-natuur-a/",
+          "id": "26e1e3dd61",
+          "title": "Belgian Julija (47) still missing after mudslides in Nepal, family appeals: 'Every tip can help'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/familie-julija-modderstroom-nepal/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/28/47d11f69-deaa-4852-a4d9-2d6e410b2669.png?width=200&height=200&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/51a568e9-a7d8-409d-806b-fdd394ff7608.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "2fe394b5ca",
-          "title": "Two queer people and an ally in the center of Brussels: 'I just want to be who I am, and I can do that here'",
-          "url": "https://www.demorgen.be/beter-leven/twee-queers-en-een-ally-in-het-centrum-van-brussel-ik-wil-gewoon-zijn-wie-ik-ben-en-dat-kan-hier~b6fa8fe5/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-01T01:00:19+00:00",
-          "image_url": "https://image.demorgen.be/276658115/feature-crop/320/320/afbeelding"
+          "id": "c6fc0fc02b",
+          "title": "Eddy (60) from Ninove declared brain dead after stings from Asian hornets",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/man-60-uit-ninove-hersendood-na-steek-door-aziatische-hoornaar/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/96897b7b-3a06-493c-b0bb-645c152e9c88.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "01b5300f84",
-          "title": "We know what the consequences are of Van Bossuyt's asylum policy in Brussels. We see them daily on the street",
-          "url": "https://www.demorgen.be/meningen/we-weten-wat-de-gevolgen-zijn-van-het-asielbeleid-van-van-bossuyt-in-brussel-we-zien-ze-dagelijks-op-straat~bf1eb0bb/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-08-31T15:13:00+00:00",
-          "image_url": "https://image.demorgen.be/277264345/feature-crop/320/320/afbeelding"
+          "id": "1315854c56",
+          "title": "From just 8 percent to 163 percent: house prices have increased this much since 2010 in your municipality",
+          "url": "https://www.hln.be/mijn-geld/van-niet-eens-8-procent-tot-liefst-163-procent-meer-voor-een-woning-zoveel-duurder-werd-een-huis-sinds-2010-in-jouw-gemeente~ad5be8a7/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-02T05:00:00+00:00",
+          "image_url": "https://images.hln.be/ZDRkYTI4OTcxMmI4ZTU3YTY1MDAvZGlvLzI3NzI1ODIwNi9maXQtd2lkdGgvNDAw/hln-fotomontage"
         }
       ]
     },
     "europe": {
-      "summary_en": "Russia has launched fresh bombardments on Kyiv, with the latest attacks resulting in at least four deaths and more than ten injuries. The escalation underscores the continuing intensity of the Russia-Ukraine conflict and its toll on civilian populations in the Ukrainian capital.",
+      "summary_en": "Europe faces interconnected challenges spanning security, energy, and climate. The Russia-Ukraine conflict shows potential diplomatic movement, with President Putin reportedly open to concrete discussions on ending the war, while Europe's energy security remains precarious amid warnings of a looming gas crisis as winter approaches. Concerns about climate change have intensified, with the 1.5-degree warming threshold potentially being exceeded, though recovery pathways may remain possible according to UN environmental experts. In addition, the EU and Russia continue to clash: Ukrainian filmmakers have criticized the EU's decision to cut Venice Biennale funding, and Norway's King Haakon made headlines after taking his parliamentary oath, with Queen Sonja subsequently requiring hospitalization.",
       "headlines": [
         {
-          "id": "11801d543b",
-          "title": "Russia-Ukraine War: Already 4 dead and more than 10 wounded after Russian bombardments on Kyiv",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/al-4-doden-en-meer-dan-10-gewonden-na-russische-bombardementen-o~1781787179742/",
+          "id": "0a37c160fe",
+          "title": "Norwegian King Haakon takes oath in parliament, a few hours later he takes his wife to the hospital",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/eedaflegging-noorse-koning-haakon-en-kroonprinses-ingrid-alexand/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/be7ce779-b137-490c-9642-20ec0fd9659d.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/7593e91c-6bbb-48ed-98f7-8e014a47ef90.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "1ad7bf961b",
+          "title": "'Winter is coming': Europe threatens to face new gas crisis",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/31/winter-s-coming-stevent-europa-af-op-een-nieuwe-gascrisis/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/96c48e78-4779-4407-9f2d-d374b7d6fa00.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "ca0c10008e",
+          "title": "Russia-Ukraine LIVEBLOG: Putin open to 'concrete talks' on ending war",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/poetin-staat-open-voor-concrete-gesprekken-over-einde-oorlog~1781787179742/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/321b917c-d16e-41b8-a3b9-ead7159eb8ba.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "f05a09aa8b",
+          "title": "The 1.5 degree warming limit may be exceeded, but according to UN environmental service there is still a way back",
+          "url": "https://www.demorgen.be/nieuws/limiet-van-1-5-graden-opwarming-van-aarde-wordt-wellicht-overschreden-maar-volgens-vn-milieudienst-is-er-nog-weg-terug~b20bdd5e/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-02T05:35:41+00:00",
+          "image_url": "https://image.demorgen.be/275125002/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "be7200ae8f",
+          "title": "Ukrainian film-maker criticises EU after it cuts Venice Biennale funding over Russia controversy",
+          "url": "https://www.theguardian.com/film/2026/sep/02/ukrainian-film-maker-sergei-loznitsa-criticises-eu-cuts-venice-biennale-funding-russia-controversy",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-02T06:00:25+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/f0335ba4886636c8fc1fd776203b757ce37aa46e/0_0_4305_3445/master/4305.jpg?width=700&quality=85&auto=format&fit=max&s=9a90413e9d5fcaf896cf6960b4123047"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Devastating floods in Nepal and Tibet have claimed over 1,000 lives, with rescue efforts ongoing to recover missing people from submerged tunnels. One school director's swift decision to evacuate 900 students just ahead of the deluge prevented further casualties. In the United States, the Supreme Court has approved the construction of a new ballroom project associated with former President Trump.",
+      "summary_en": "International tensions have escalated in the Middle East, with the United States conducting fresh military strikes along the Iranian coast and Iran launching counter-attacks in response. The military escalation has triggered energy market volatility, with oil prices climbing to $95 per barrel amid fears of broader regional instability. In other major global news, a trial has begun in the case of Charlie Kirk's alleged killer, with the suspect pleading not guilty and facing potential capital punishment.",
       "headlines": [
         {
-          "id": "3d87e78df1",
-          "title": "Floods in Nepal-Tibet: More than 1,000 deaths counted, only 4 bodies of more than 600 missing found in flooded tunnels",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/meer-dan-1000-doden-geteld-nog-maar-4-lichamen-van-meer-dan-60~1787818862709/",
+          "id": "51354eed51",
+          "title": "Middle East War LIVEBLOG: United States strikes multiple targets along Iranian coast again, Iran carries out counter-attacks",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/verenigde-staten-vallen-opnieuw-meerdere-doelen-aan-langs-iraans~1784611610051/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/6c94bbae-047d-451e-9021-4d73d90fc5c2.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/e6785f8e-1db7-40fc-9285-d133031cdff2.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "fca6f201b8",
-          "title": "Asia: School director evacuates 900 students just before devastating flood in Nepal: 'Not a second to lose'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/31/schooldirecteur-evacueert-900-leerlingen-vlak-voor-overstroming/",
+          "id": "29833fc529",
+          "title": "Energy prices LIVEBLOG: Oil price rises to 95 dollars per barrel after new US attacks on Iran",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/olieprijs-stijgt-naar-95-dollar-per-vat-na-nieuwe-amerikaanse-aa~1774343778229/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/31/ac494fc5-7bab-4091-b19e-7ade94f10760.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/04/22/fff3dd84-5950-4123-b202-6d72660a61eb.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "c1884d5673",
-          "title": "US Supreme Court decides that construction of Trump's ballroom can proceed",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/31/amerikaans-hooggerechtshof-laat-bouw-van-trumps-balzaal-van-400/",
+          "id": "55d9b57ba7",
+          "title": "Suspect in murder of Charlie Kirk pleads not guilty and risks death penalty",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/verdachte-van-moord-op-charlie-kirk-moet-terechtstaan-en-riskeer/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/31/48d57cf9-d389-4dae-ac87-2eec57805b9d.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/9c174941-832c-4525-b03c-4cf3017fc76c.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
