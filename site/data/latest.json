@@ -1,124 +1,94 @@
 {
-  "generated_at": "2026-09-02T06:12:30.193455+00:00",
-  "date": "2026-09-02",
+  "generated_at": "2026-09-03T06:42:03.183639+00:00",
+  "date": "2026-09-03",
   "degraded": false,
   "top_general": {
-    "summary_he": "המזרח התיכון בהסלמה חדה: ארה\"ב תקפה מטרות של משמרות המהפכה באיראן במצר הורמוז, ואיראן הגיבה בשיגור טילים לירדן. באיראן פנימה מדווח על מתיחות סביב סוגיית העשרת האורניום, כשבנו של הנשיא הותקף לאחר שהביע התנגדות לה. במקביל, בישראל נמשכת בדיקת מעצרו של בכיר חמאס בעזה כהישג חלקי, ובזירה המדינית מתחדשות אזהרות סוכנות הגרעין בנוגע לתוכנית האיראנית.",
+    "summary_he": "המתיחות באיראן ובאזור ממשיכה להסלים, עם דיווחים על נפגעים רבים בתקיפות אמריקניות ועל חשש מהסלמה ביהודה ושומרון. במקביל מתגלה מחלוקת פוליטית סביב תפקידו העתידי של איזנקוט, וגם בזירה הבינלאומית נרשמות התפתחויות — ממתקפה על תשתיות בגרמניה ועד ריאיון חריג של סגן נשיא ארה\"ב. בישראל נרשמו גם אירועים קשים בזירה הפלילית והתחבורתית.",
     "headlines": [
       {
-        "id": "121288f76a",
-        "title": "ארה\"ב תקפה מטרות של משמרות המהפכה במצר הורמוז; איראן שיגרה בתגובה טילים לירדן",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-01/ty-article/000001a0-5dc7-d4eb-affc-5dffa12e0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-01T16:22:39+00:00",
-        "image_url": null
-      },
-      {
-        "id": "e53b8d770e",
-        "title": "הסלמה במזרח התיכון: ארה\"ב פתחה בגל תקיפות באיראן - ששיגרה טילים לירדן",
-        "url": "https://news.walla.co.il/item/3864885",
+        "id": "ab15993170",
+        "title": "איראן: 18 הרוגים ו-108 פצועים בגל התקיפות האמריקניות",
+        "url": "https://news.walla.co.il/item/3865205",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-09-01T19:04:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/6/2/3662698-46.jpg"
+        "published_at": "2026-09-03T07:30:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/2/6/4026663-46.jpg"
       },
       {
-        "id": "3074ee8183",
-        "title": "מתקפה איראנית על ירדן אחרי הרוגים בהפצצות באזור הורמוז: \"תפסו מחסה\"",
-        "url": "https://www.ynet.co.il/news/article/hy4keoedgl",
+        "id": "89a2561e27",
+        "title": "גדעון סער: \"איזה הישג יש לאיזנקוט כשר או כח\"כ? אין לו ניסיון, זה מתכון לכישלון\"",
+        "url": "https://www.ynet.co.il/news/120andone/article/hk2vs1muze",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-09-01T21:24:19+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/08/rkOM1111EWMl/rkOM1111EWMl_1_0_960_540_0_medium.jpg"
+        "published_at": "2026-09-03T03:55:33+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/B1qhtXVVOGl/B1qhtXVVOGl_494_263_1599_901_0_medium.jpg"
       },
       {
-        "id": "3e5662376c",
-        "title": "סערה באיראן: בנו של הנשיא טען שלא צריך להעשיר אורניום - והותקף",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-097abd9aecb50a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-01T07:12:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/01/YOUSEF_autoOrient_i.jpg"
+        "id": "e0055218e5",
+        "title": "3 חטיבות סדירות יתגברו: חשש מהסלמה בגזרת יהודה ושומרון",
+        "url": "https://news.walla.co.il/item/3865018",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-02T22:00:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/1/4061389-46.jpg"
       },
       {
-        "id": "85a3658b50",
-        "title": "מעצר הבכיר בלב עזה הוא הישג שעשוי להיות בעל ערך, אך השאיפה להפלת חמאס עוד רחוקה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-02/ty-article/.highlight/000001a0-5e86-d4eb-affc-5fbe03aa0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-02T03:00:44+00:00",
+        "id": "758a77eb4d",
+        "title": "\"אחרית הימים עשויה להגיע בתוך חודשים\": הריאיון החריג של ואנס",
+        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21343594",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
         "image_url": null
       }
     ]
   },
   "security_war": {
-    "summary_he": "לראשונה מאז יוני חצה כטב\"ם משטח לבנון לישראל, וצה\"ל דיווח על שיגור שני רחפני נפץ מצד חיזבאללה ללא נפגעים. מדווח כי רוסיה סייעה בחשאי לאיראן בפיתוח טילי שיוט על-קוליים מתקדמים, וסוכנות הגרעין פרסמה אזהרה חדשה בנוגע לתוכנית הגרעין האיראנית. במלאת שנה לפגיעת טיל איראני בבניין בבת ים, וכן עם הגעת צוללת חדשה לישראל מגרמניה, ניכר כי מערכת הביטחון הישראלית נותרת בכוננות גבוהה.",
+    "summary_he": "בדרום לבנון הפיילוט נתקע וחיזבאללה עובר למתכונת של מלחמת גרילה, בעוד דיווח חדש חושף כי רוסיה סייעה בחשאי לאיראן לפתח טילי שיוט על-קוליים. בזירה הצבאית-פוליטית מתגלה מחלוקת בין גורם צבאי לבין גרסתו של איזנקוט בנוגע לעדכון ראש הממשלה, וסוריה מציעה עצמה כמסלול חלופי כדי לעקוף את מיצר הורמוז.",
     "headlines": [
       {
-        "id": "f00576acfd",
-        "title": "לראשונה מאז חודש יוני: כטב\"ם חצה מלבנון לשטח ישראל",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-f795847fc7f50a1027.htm",
+        "id": "64148197e1",
+        "title": "הפיילוט בדרום לבנון נתקע - וחיזבאללה עובר למלחמת גרילה",
+        "url": "https://www.ynet.co.il/news/article/yokra14887020",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-03T02:56:46+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/yk14887379/yk14887379_0_3_708_399_0_medium.jpg"
+      },
+      {
+        "id": "eb6d8b04bd",
+        "title": "דיווח: רוסיה סייעה בחשאי לאיראן לפתח טילי שיוט על-קוליים",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-6d03058b2de50a1026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-09-02T01:33:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/05/31/hizbhallanight102336_autoOrient_i.jpg"
+        "published_at": "2026-09-02T04:51:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/02/PUTINPEZ_re_autoOrient_i.jpg"
       },
       {
-        "id": "4274e970da",
-        "title": "צה\"ל: חיזבאללה שיגר שני רחפני נפץ לעבר כוחותינו, אין נפגעים",
-        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-3475665e",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": null
+        "id": "975bc7e3f9",
+        "title": "גורם צבאי שחשוף לפרוטוקולים דוחה את גרסת איזנקוט וטוען: \"נתניהו עודכן מיד ואישר הכול\"",
+        "url": "https://www.ynet.co.il/news/article/h1b11wx8oml",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-02T19:28:09+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/BkY2OlUdfx/BkY2OlUdfx_0_0_850_479_0_medium.jpg"
       },
       {
-        "id": "610eb3177f",
-        "title": "דיווח: רוסיה סייעה בחשאי לאיראן לפתח טילי שיוט על-קוליים מתקדמים",
-        "url": "https://www.kan.org.il/content/kan-news/global/1095261/",
+        "id": "76a5edf470",
+        "title": "דיווח: סוריה מציעה לשמש כמעבר כדי לעקוף את מצר הורמוז",
+        "url": "https://www.kan.org.il/content/kan-news/global/1095603/",
         "source": "kan",
         "source_label": "כאן 11",
         "source_label_he": "כאן 11",
         "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "c998588eea",
-        "title": "\"דחיפות עליונה\": האזהרה החדשה של סוכנות הגרעין בנוגע לאיראן",
-        "url": "https://www.makorrishon.co.il/news/defence/article/366412",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "9569bc3c48",
-        "title": "שנה לפגיעת הטיל האיראני בבניין בבת ים: \"לא נשאר כלום\"",
-        "url": "https://13tv.co.il/item/news/domestic/internal/bskse-905225406/?pid=62&refc=902992425",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "5a74ff28dc",
-        "title": "\"צוללת העתיד\" בדרך לישראל: אח\"י דרקון יצאה מגרמניה",
-        "url": "https://news.walla.co.il/item/3864882",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-01T19:10:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/2/2/3622260-46.jpg"
+        "image_url": "https://www.kan.org.il/media/q32bxzjz/2026-05-25t172629z_2138645749_rc28glapctgv_rtrmadp_3_iran-crisis-oman-hormuz.jpg?width=490&height=272&v=1dcf982c6d4c5d0"
       }
     ]
   },
@@ -126,116 +96,39 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "שר החוץ סער איים לפעול נגד בריטניה אם יוטלו סנקציות על ההתנחלויות, בעוד 11 מדינות באיחוד האירופי דורשות לבטל את זכות הווטו במדיניות החוץ - צעד שעלול להדאיג את ישראל. בארץ, המפכ\"ל התריע כי ישראל נתפסת כמדינה של בריונים בשל הפשיעה ביו\"ש, ונתניהו הכחיש טענות בדבר בגידה לפני ה-7 באוקטובר.",
+      "summary_he": "גדעון סער תוקף בחריפות את מינויו האפשרי של איזנקוט לתפקיד פוליטי, בעוד פייגלין קורא לימין לקחת אחריות אחרי 30 שנות שלטון ולא להסתמך רק על בג\"ץ.",
       "headlines": [
         {
-          "id": "f6da9393ab",
-          "title": "שר החוץ סער איים לפעול נגד בריטניה אם היא תטיל סנקציות על ההתנחלויות",
-          "url": "https://www.haaretz.co.il/news/politics/2026-09-01/ty-article/.premium/000001a0-5d63-d64c-a9a3-7d6f3ee50000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-01T16:16:14+00:00",
-          "image_url": null
-        },
-        {
-          "id": "00b52882bf",
-          "title": "היוזמה שעשויה להדאיג מאוד את ישראל: 11 מדינות באיחוד האירופי דורשות לבטל את זכות הווטו במדיניות החוץ",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-9d6af223e8c50a1027.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-09-01T10:42:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/06/28/ursullakaia_2806_re_autoOrient_i.jpg"
-        },
-        {
-          "id": "c00fccc510",
-          "title": "המפכ\"ל: ישראל נתפסת כמדינה של בריונים ועבריינים בגלל הפשיעה ביו\"ש",
-          "url": "https://www.ynet.co.il/news/article/rjsb4teuzx",
+          "id": "89a2561e27",
+          "title": "גדעון סער: \"איזה הישג יש לאיזנקוט כשר או כח\"כ? אין לו ניסיון, זה מתכון לכישלון\"",
+          "url": "https://www.ynet.co.il/news/120andone/article/hk2vs1muze",
           "source": "ynet",
           "source_label": "Ynet",
           "source_label_he": "Ynet",
-          "published_at": "2026-09-01T17:50:45+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/07/SyEnYDQLzl/SyEnYDQLzl_0_84_1006_566_0_medium.jpg"
+          "published_at": "2026-09-03T03:55:33+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/B1qhtXVVOGl/B1qhtXVVOGl_494_263_1599_901_0_medium.jpg"
         },
         {
-          "id": "5c2399b079",
-          "title": "נתניהו סותר את תאוריית הקונספירציה של רעייתו: \"לא הייתה בגידה ב-7 באוקטובר\"",
-          "url": "https://news.walla.co.il/item/3864911",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-01T23:09:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/3/4073398-46.jpg"
-        },
-        {
-          "id": "ed2225552a",
-          "title": "Ben Gvir’s party distributes book at schools glorifying him, depicting Arab MKs as ‘enemy’",
-          "url": "https://www.timesofisrael.com/ben-gvirs-party-distributes-book-at-schools-glorifying-him-depicting-arab-mks-as-enemy/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-09-01T16:42:24+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/DUAL-3333r5-1024x640.jpeg"
-        }
-      ]
-    },
-    {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "מבקר המדינה הזהיר כבר ב-2024 מפני ליקויים וסיכונים במתקני ההתפלה. במקביל מתפרסם סיפור אישי על משפחה המשלמת משכנתא והחזר גבוה להורים כדי לרכוש דירה.",
-      "headlines": [
-        {
-          "id": "1d3eb7b0ba",
-          "title": "המבקר הזהיר כבר ב-2024: הליקויים והסיכונים במתקני ההתפלה",
-          "url": "https://news.walla.co.il/item/3864897",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-01T20:50:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/0/2/5/3025351-46.jpg"
-        },
-        {
-          "id": "7b8b9bb531",
-          "title": "\"אני משלמת על משכנתא והחזר להורים 5,200 שקל בחודש. זה לא מעט, אבל ככה קניתי דירה ב–100 אלף שקל\"",
-          "url": "https://www.themarker.com/realestate/2026-09-02/ty-article-magazine/.premium/000001a0-28fa-d399-afb3-bcfa7de40000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-02T03:00:01+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-4cde-d5a0-a1f7-fefedf690000/7c/34/137c334f4f25ba3966fc3124c5eb/197119.jpg?width=108&height=81"
+          "id": "20bd4da4a1",
+          "title": "\"30 שנה בשלטון - זה לא רק בג\"ץ\": פייגלין דורש מהימין לקחת אחריות",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21343522",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "כ-20 אלף פעוטות נותרו ללא מעון יום לאחר שהעובדות לא הגיעו לעבודה. בפרשה חמורה, שני נערים בני 13 ו-14 חשודים באונס ובפציעת ילדה בעלת צרכים מיוחדים בשרון, ותושב עפולה נדקר בדרכו לבית הכנסת.",
+      "summary_he": "לקראת יום השנה לטבח, יהודי ספרד מביעים חשש לביטחון ילדיהם.",
       "headlines": [
         {
-          "id": "9822f297b8",
-          "title": "כ-20 אלף פעוטות בלי מעון: \"העובדות לא מחזיקות, נאלצנו לסגור ברגע האחרון\"",
-          "url": "https://www.ynet.co.il/news/article/yokra14885408",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-01T21:00:00+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/07/20/HyZqY11cS2q/HyZqY11cS2q_1_310_3000_1688_0_medium.jpg"
-        },
-        {
-          "id": "7ec5c11bae",
-          "title": "חשד חמור: בני 13 ו-14 אנסו ופצעו ילדה בעלת צרכים מיוחדים בשרון | פרסום ראשון",
-          "url": "https://news.walla.co.il/item/3864910",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-02T06:00:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/4/0/4040502-46.jpg"
-        },
-        {
-          "id": "14fffc1730",
-          "title": "נדקר בדרכו לבית הכנסת: תושב עפולה נפצע קשה - החשוד נעצר",
-          "url": "https://www.israelhayom.co.il/news/crime/article/21334838",
+          "id": "d9483bb2f6",
+          "title": "\"הילדים בטוחים?\": יהודי ספרד חוששים מיום השנה לטבח",
+          "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21343159",
           "source": "israel_hayom",
           "source_label": "ישראל היום",
           "source_label_he": "ישראל היום",
@@ -252,194 +145,184 @@
     "kan",
     "mako",
     "walla",
-    "globes",
+    "globes"
+  ],
+  "sources_failed": [
     "themarker",
     "times_of_israel",
+    "maariv",
     "makor_rishon",
     "reshet13",
     "i24"
   ],
-  "sources_failed": [
-    "maariv"
-  ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israel-related diplomatic developments and Jewish community issues feature prominently in this week's headlines. UK Foreign Secretary Ed Miliband has promised a comprehensive reset of British policy toward Israel, signaling potential shifts in relations. Jewish leaders have spoken out on Islamophobia concerns, while Jewish communities in North America grapple with cultural changes, including the closure of a historic Jewish deli in Philadelphia. Meanwhile, Palestinian students from Gaza face obstacles in leaving the region despite securing study visas and scholarships to Belgium, raising questions about movement restrictions.",
+      "summary_en": "Britain has signaled it will reset its policy on Israeli West Bank settlements, with Foreign Secretary Miliband announcing the shift to parliament. Prime Minister Netanyahu visited Gaza and reaffirmed that Israel will not withdraw from the territory, stating that there is \"more to come.\" Reports indicate that Israel is seeking Trump's support for a plan to expel Palestinians from Gaza. Jewish organizations in Belgium have established a training center for circumcisers.",
       "headlines": [
         {
-          "id": "ff4b7eae9f",
-          "title": "Jewish leader slams Bruce Blakeman for 'Islamophobia' after post of Hochul in a hijab",
-          "url": "https://www.jta.org/2026/09/01/ny/jewish-leader-slams-bruce-blakeman-for-islamophobia-after-post-of-hochul-in-a-hijab",
+          "id": "558f013b9a",
+          "title": "UK to 'reset policy' on West Bank settlements, Miliband tells parliament",
+          "url": "https://www.jta.org/2026/09/03/israel/uk-to-reset-policy-on-west-bank-settlements-miliband-tells-parliament",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-09-01T23:35:41+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/GettyImages-2251648281.jpg"
+          "published_at": "2026-09-03T06:01:08+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/E1-West-Bank-Sept.-2-1.jpg"
         },
         {
-          "id": "fa0d321362",
-          "title": "Ed Miliband promises 'comprehensive reset' of UK policy toward Israel",
-          "url": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel",
+          "id": "e64e94fa82",
+          "title": "Jewish organizations establish training center for circumcisers in Belgium",
+          "url": "https://www.demorgen.be/nieuws/joodse-organisaties-richten-opleidingscentrum-voor-besnijders-op-in-belgie~b186e325/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-03T01:00:27+00:00",
+          "image_url": "https://image.demorgen.be/137820702/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "bc33d6ee6b",
+          "title": "Live - Netanyahu during visit to Gaza: 'We will not withdraw. There is more to come'",
+          "url": "https://www.demorgen.be/snelnieuws/live-netanyahu-tijdens-bezoek-aan-gaza-we-trekken-ons-niet-terug-er-komt-nog-meer-aan~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-02T18:43:00+00:00",
+          "image_url": "https://image.demorgen.be/277063783/roi/320/320/691.1999999999999/529.2/afbeelding"
+        },
+        {
+          "id": "fd7fdb28a0",
+          "title": "Israel 'seeking Trump's support for plan to expel Palestinians from Gaza'",
+          "url": "https://www.theguardian.com/world/2026/sep/02/israel-seeking-trumps-support-for-plan-to-expel-palestinians-from-gaza",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-09-01T18:37:38+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/bb791d0b639f0d69f2cf8b3f07e6f690a6849a4d/100_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=c2be56db1dc5891712ab0a2d6ddaf6f7"
-        },
-        {
-          "id": "b1fe78bdb3",
-          "title": "Northeast Philadelphia says goodbye to its last Jewish deli",
-          "url": "https://www.jta.org/2026/09/01/united-states/northeast-philadelphia-says-goodbye-to-its-last-jewish-deli",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-01T14:42:04+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/IMG_8583.jpeg"
-        },
-        {
-          "id": "71b220110c",
-          "title": "Palestinian students cannot leave Gaza despite visa and study grant for Belgium: 'Matter of political will'",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/01/terzake-palestijnse-studenten-gaza/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/8a8a4dfb-9caf-4284-815f-bb0f3027ff61.png?width=200&height=125&q=80&blur=90"
+          "published_at": "2026-09-02T18:20:36+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/5ec998c888a8a6bec0d1104ed58360c7de79644d/577_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=3485f21b383200a765e5aea2f2086e17"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium faces several pressing domestic issues, from child custody disputes to natural disasters affecting Belgian citizens. A high-profile case involves a father seeking Prime Minister De Wever's intervention with Indian authorities over his ex-partner's alleged abduction of their young daughter to India. A Belgian woman remains missing following mudslides in Nepal, while tragedy struck in Ninove when a man was declared brain dead after attacks by Asian hornets. In economic news, Belgian housing prices have surged dramatically in recent years, with increases ranging from 8 to 163 percent across different municipalities since 2010.",
+      "summary_en": "Belgium has dropped out of Europe's top five beer producers, partly because production of alcohol-free beer was not reported to EU authorities. Nearly 3,000 people died from heat-related causes during the summer's three heat waves, according to data released by Sciensano. Belgian commuters are spending unprecedented amounts of time traveling, with many now commuting for over an hour daily due to the distance between home and workplace. Brussels DJ Lost Frequencies has taken over a restaurant in the Elsene district.",
       "headlines": [
         {
-          "id": "1066d77389",
-          "title": "His ex-partner left with their daughter Raïa (6) to India: father asks Prime Minister De Wever to raise the issue with Modi",
-          "url": "https://www.demorgen.be/nieuws/zijn-ex-partner-vertrok-met-hun-dochter-raia-6-naar-india-vader-vraagt-premier-de-wever-om-de-zaak-aan-te-kaarten-bij-modi~bb1e9a05/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-02T05:59:00+00:00",
-          "image_url": "https://image.demorgen.be/277267563/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "26e1e3dd61",
-          "title": "Belgian Julija (47) still missing after mudslides in Nepal, family appeals: 'Every tip can help'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/familie-julija-modderstroom-nepal/",
+          "id": "ae0bf182c1",
+          "title": "Belgium disappears from top 5 of European beer production: EU received no figures on alcohol-free beer",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/belgie-buiten-top-5-bierproducerende-landen-eu/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/51a568e9-a7d8-409d-806b-fdd394ff7608.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/03/9d532a1b-b2a9-4c9f-bb5c-a1c906842689.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "c6fc0fc02b",
-          "title": "Eddy (60) from Ninove declared brain dead after stings from Asian hornets",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/man-60-uit-ninove-hersendood-na-steek-door-aziatische-hoornaar/",
+          "id": "435147f484",
+          "title": "Brussels DJ Lost Frequencies takes over restaurant in Elsene",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/brusselse-dj-lost-frequencies-opent-restaurant-in-elsene/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/96897b7b-3a06-493c-b0bb-645c152e9c88.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/d51d62eb-9683-47a5-87a7-7de9acae6290.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "1315854c56",
-          "title": "From just 8 percent to 163 percent: house prices have increased this much since 2010 in your municipality",
-          "url": "https://www.hln.be/mijn-geld/van-niet-eens-8-procent-tot-liefst-163-procent-meer-voor-een-woning-zoveel-duurder-werd-een-huis-sinds-2010-in-jouw-gemeente~ad5be8a7/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-02T05:00:00+00:00",
-          "image_url": "https://images.hln.be/ZDRkYTI4OTcxMmI4ZTU3YTY1MDAvZGlvLzI3NzI1ODIwNi9maXQtd2lkdGgvNDAw/hln-fotomontage"
+          "id": "1687f7b04a",
+          "title": "Sciensano releases figures for entire summer: nearly 3,000 heat deaths during 3 heat waves",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/hittedoden-zomer-2026-sciensano-hittegolf-klimaat-belgie/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/5603f09e-ba0c-4e60-8acd-f5b00905ee6c.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "2e305ce70f",
+          "title": "Belgian commutes for the first time more than 1 hour per day: 'We live too far from our work'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/belg-pendelt-meer-dan-1-uur-per-dag/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/21/68662f97-27c7-4ca4-a9a0-e61ad7eda900.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "europe": {
-      "summary_en": "Europe faces interconnected challenges spanning security, energy, and climate. The Russia-Ukraine conflict shows potential diplomatic movement, with President Putin reportedly open to concrete discussions on ending the war, while Europe's energy security remains precarious amid warnings of a looming gas crisis as winter approaches. Concerns about climate change have intensified, with the 1.5-degree warming threshold potentially being exceeded, though recovery pathways may remain possible according to UN environmental experts. In addition, the EU and Russia continue to clash: Ukrainian filmmakers have criticized the EU's decision to cut Venice Biennale funding, and Norway's King Haakon made headlines after taking his parliamentary oath, with Queen Sonja subsequently requiring hospitalization.",
+      "summary_en": "Denmark has joined Germany in warning of Russian sabotage activities, citing concrete evidence of planned operations targeting European infrastructure. German police discovered launcher installations following an incident at a power station near Cologne, with authorities characterizing the event as state sabotage. The European Union is tightening tourist visa rules for Russians in response to their use in sabotage operations. In Ukraine, President Zelensky condemned a shooting incident involving secret services as shameful.",
       "headlines": [
         {
-          "id": "0a37c160fe",
-          "title": "Norwegian King Haakon takes oath in parliament, a few hours later he takes his wife to the hospital",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/eedaflegging-noorse-koning-haakon-en-kroonprinses-ingrid-alexand/",
+          "id": "3a8e017d37",
+          "title": "Following German accusations, Denmark also warns of Russian sabotage actions: 'Concrete plans seen'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/03/deense-inlichtingendienst-waarschuwt-voor-mogelijke-russische-sa/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/7593e91c-6bbb-48ed-98f7-8e014a47ef90.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/03/5a9c2e64-e63e-49f2-b80c-ae0e5f181412.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "1ad7bf961b",
-          "title": "'Winter is coming': Europe threatens to face new gas crisis",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/31/winter-s-coming-stevent-europa-af-op-een-nieuwe-gascrisis/",
+          "id": "e24a52ba7f",
+          "title": "European Union wants stricter rules for tourist visas for Russians: 'Used for sabotage actions'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/europese-unie-strengere-regels-visa-voor-russen/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/96c48e78-4779-4407-9f2d-d374b7d6fa00.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/03/05dd69ee-cd39-4216-92e7-06a7ee7d902d.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "ca0c10008e",
-          "title": "Russia-Ukraine LIVEBLOG: Putin open to 'concrete talks' on ending war",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/poetin-staat-open-voor-concrete-gesprekken-over-einde-oorlog~1781787179742/",
+          "id": "bca1c1d795",
+          "title": "German police find launcher installations after incident at power station near Cologne: 'This is sabotage against the state'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/sabotage-duitsland-stroomnet/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/321b917c-d16e-41b8-a3b9-ead7159eb8ba.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/7c54c1a7-083d-4101-80b6-4da1752765e5.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "f05a09aa8b",
-          "title": "The 1.5 degree warming limit may be exceeded, but according to UN environmental service there is still a way back",
-          "url": "https://www.demorgen.be/nieuws/limiet-van-1-5-graden-opwarming-van-aarde-wordt-wellicht-overschreden-maar-volgens-vn-milieudienst-is-er-nog-weg-terug~b20bdd5e/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-02T05:35:41+00:00",
-          "image_url": "https://image.demorgen.be/275125002/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "be7200ae8f",
-          "title": "Ukrainian film-maker criticises EU after it cuts Venice Biennale funding over Russia controversy",
-          "url": "https://www.theguardian.com/film/2026/sep/02/ukrainian-film-maker-sergei-loznitsa-criticises-eu-cuts-venice-biennale-funding-russia-controversy",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-02T06:00:25+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/f0335ba4886636c8fc1fd776203b757ce37aa46e/0_0_4305_3445/master/4305.jpg?width=700&quality=85&auto=format&fit=max&s=9a90413e9d5fcaf896cf6960b4123047"
+          "id": "77500f4cef",
+          "title": "Shooting incident between secret services in Ukraine: 'Absolute shame', says Zelensky",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/schietincident-tussen-geheime-diensten-in-oekraine-absolute-sc~1781787179742/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/5ea6da06-72f2-43ff-9540-d4ac5882db93.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "International tensions have escalated in the Middle East, with the United States conducting fresh military strikes along the Iranian coast and Iran launching counter-attacks in response. The military escalation has triggered energy market volatility, with oil prices climbing to $95 per barrel amid fears of broader regional instability. In other major global news, a trial has begun in the case of Charlie Kirk's alleged killer, with the suspect pleading not guilty and facing potential capital punishment.",
+      "summary_en": "The Shanghai Cooperation Organization represents a major geopolitical grouping that encompasses much of the world's population and power, notably excluding Western nations. International aviation authorities are warning that the risk of civilian aircraft becoming targets of attacks is increasing globally. Belgium's Prime Minister De Wever is exploring deepened relations with India, with potential areas of cooperation including diamonds, weapons, and hydrogen technology.",
       "headlines": [
         {
-          "id": "51354eed51",
-          "title": "Middle East War LIVEBLOG: United States strikes multiple targets along Iranian coast again, Iran carries out counter-attacks",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/verenigde-staten-vallen-opnieuw-meerdere-doelen-aan-langs-iraans~1784611610051/",
+          "id": "0486852aef",
+          "title": "The Shanghai Cooperation Organisation: the gathering where almost the whole world is present - except the West",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/31/het-onderonsje-waar-de-heel-wereld-present-is-behalve-het-west/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/e6785f8e-1db7-40fc-9285-d133031cdff2.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/984eec8b-71d3-4c42-af13-e12e4ee98115.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "29833fc529",
-          "title": "Energy prices LIVEBLOG: Oil price rises to 95 dollars per barrel after new US attacks on Iran",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/olieprijs-stijgt-naar-95-dollar-per-vat-na-nieuwe-amerikaanse-aa~1774343778229/",
+          "id": "0b14e23bf5",
+          "title": "International organization for Civil Aviation: 'Risk grows that civilian aircraft become targets of attacks'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/03/kans-dat-commerciele-vluchten-wereldwijd-onder-vuur-genomen-word/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/04/22/fff3dd84-5950-4123-b202-6d72660a61eb.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/a2ae1253-6737-46b8-8b1a-a45cfde905e7.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "55d9b57ba7",
-          "title": "Suspect in murder of Charlie Kirk pleads not guilty and risks death penalty",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/verdachte-van-moord-op-charlie-kirk-moet-terechtstaan-en-riskeer/",
+          "id": "e1aa2dd545",
+          "title": "What can India offer Premier De Wever? Diamonds, weapons and possibly hydrogen",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/wat-heeft-india-premier-de-wever-te-bieden-diamant-wapens-en-m/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/9c174941-832c-4525-b03c-4cf3017fc76c.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2025/03/28/cc5b6318-7d25-40d1-99f5-df0bc070ce97.png?width=200&height=280&q=80&blur=90"
         }
       ]
     },
