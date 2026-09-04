@@ -1,94 +1,74 @@
 {
-  "generated_at": "2026-09-03T06:42:03.183639+00:00",
-  "date": "2026-09-03",
+  "generated_at": "2026-09-04T06:44:21.819381+00:00",
+  "date": "2026-09-04",
   "degraded": false,
   "top_general": {
-    "summary_he": "המתיחות באיראן ובאזור ממשיכה להסלים, עם דיווחים על נפגעים רבים בתקיפות אמריקניות ועל חשש מהסלמה ביהודה ושומרון. במקביל מתגלה מחלוקת פוליטית סביב תפקידו העתידי של איזנקוט, וגם בזירה הבינלאומית נרשמות התפתחויות — ממתקפה על תשתיות בגרמניה ועד ריאיון חריג של סגן נשיא ארה\"ב. בישראל נרשמו גם אירועים קשים בזירה הפלילית והתחבורתית.",
+    "summary_he": "ההסכם בעזה נמצא בקיפאון עקב מחלוקות פוליטיות, וצפויות בחירות. ישראל הגדירה את הפלת משטר איראן כמטרה מרכזית וציינה כי היעד \"בהישג יד\". צה\"ל השיג שליטה מבצעית ברכס אסטרטגי וביצע טיהור של יחידות תת-קרקעיות בשטח.",
     "headlines": [
       {
-        "id": "ab15993170",
-        "title": "איראן: 18 הרוגים ו-108 פצועים בגל התקיפות האמריקניות",
-        "url": "https://news.walla.co.il/item/3865205",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-03T07:30:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/2/6/4026663-46.jpg"
-      },
-      {
-        "id": "89a2561e27",
-        "title": "גדעון סער: \"איזה הישג יש לאיזנקוט כשר או כח\"כ? אין לו ניסיון, זה מתכון לכישלון\"",
-        "url": "https://www.ynet.co.il/news/120andone/article/hk2vs1muze",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-03T03:55:33+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/B1qhtXVVOGl/B1qhtXVVOGl_494_263_1599_901_0_medium.jpg"
-      },
-      {
-        "id": "e0055218e5",
-        "title": "3 חטיבות סדירות יתגברו: חשש מהסלמה בגזרת יהודה ושומרון",
-        "url": "https://news.walla.co.il/item/3865018",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-02T22:00:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/1/4061389-46.jpg"
-      },
-      {
-        "id": "758a77eb4d",
-        "title": "\"אחרית הימים עשויה להגיע בתוך חודשים\": הריאיון החריג של ואנס",
-        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21343594",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
+        "id": "e4897d50f2",
+        "title": "ההסכם בעזה תקוע, ולמעורבים הסיבות ברורות: נתניהו והבחירות",
+        "url": "https://www.haaretz.co.il/news/politics/2026-09-04/ty-article/.premium/000001a0-68bb-dca9-a1e2-7dff67fa0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-04T03:00:45+00:00",
         "image_url": null
+      },
+      {
+        "id": "3a2ebfd89f",
+        "title": "Netanyahu: Toppling Iranian regime is Israel’s ‘central mission,’ goal ‘within reach’",
+        "url": "https://www.timesofisrael.com/netanyahu-toppling-iranian-regime-is-israels-central-mission-goal-within-reach/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-09-04T00:33:38+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/WhatsApp-Image-2026-09-03-at-19.05.23-1024x640.jpeg"
+      },
+      {
+        "id": "5786d3c226",
+        "title": "השטח טוהר ממחבלים: צה\"ל השיג שליטה מבצעית ברכס עלי טאהר - מעל ומתחת לקרקע קרא עוד..",
+        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-d092441d",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
+        "published_at": null,
+        "image_url": "https://cdn.i24news.tv/uploads/d9/f8/a6/fa/61/4a/d0/30/1b/5d/36/14/90/55/97/c7/d9f8a6fa614ad0301b5d3614905597c7.jpg?width=750"
       }
     ]
   },
   "security_war": {
-    "summary_he": "בדרום לבנון הפיילוט נתקע וחיזבאללה עובר למתכונת של מלחמת גרילה, בעוד דיווח חדש חושף כי רוסיה סייעה בחשאי לאיראן לפתח טילי שיוט על-קוליים. בזירה הצבאית-פוליטית מתגלה מחלוקת בין גורם צבאי לבין גרסתו של איזנקוט בנוגע לעדכון ראש הממשלה, וסוריה מציעה עצמה כמסלול חלופי כדי לעקוף את מיצר הורמוז.",
+    "summary_he": "צבא ארה\"ב מתמודד עם \"סיוט לוגיסטי\" בתכנון הלחימה באיראן. צה\"ל חושש מהסלמה איראנית בתקופת החגים וממשיך בפעולות טיהור בשטח. בעקבות הנחיות שר האוצר האמריקני, גם האיחוד האירופי הצטרף למהלך הכלכלי נגד איראן.",
     "headlines": [
       {
-        "id": "64148197e1",
-        "title": "הפיילוט בדרום לבנון נתקע - וחיזבאללה עובר למלחמת גרילה",
-        "url": "https://www.ynet.co.il/news/article/yokra14887020",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-03T02:56:46+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/yk14887379/yk14887379_0_3_708_399_0_medium.jpg"
-      },
-      {
-        "id": "eb6d8b04bd",
-        "title": "דיווח: רוסיה סייעה בחשאי לאיראן לפתח טילי שיוט על-קוליים",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-6d03058b2de50a1026.htm",
+        "id": "d6733526c2",
+        "title": "השינוי הקריטי של המלחמה באיראן: \"סיוט לוגיסטי\" לצבא ארה\"ב",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-f00d13f6d3660a1027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-09-02T04:51:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/02/PUTINPEZ_re_autoOrient_i.jpg"
+        "published_at": "2026-09-03T07:51:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/03/lincoln_autoOrient_i.jpg"
       },
       {
-        "id": "975bc7e3f9",
-        "title": "גורם צבאי שחשוף לפרוטוקולים דוחה את גרסת איזנקוט וטוען: \"נתניהו עודכן מיד ואישר הכול\"",
-        "url": "https://www.ynet.co.il/news/article/h1b11wx8oml",
+        "id": "2cf762fae0",
+        "title": "טיהור הרכס האסטרטגי, והחשש מהסלמה איראנית בחגים: \"לא שמענו על כוונה כזו\"",
+        "url": "https://www.ynet.co.il/news/article/b1bhabvozg",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-09-02T19:28:09+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/BkY2OlUdfx/BkY2OlUdfx_0_0_850_479_0_medium.jpg"
+        "published_at": "2026-09-03T21:39:53+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/rkROLzSOfg/rkROLzSOfg_0_523_1200_676_0_medium.jpg"
       },
       {
-        "id": "76a5edf470",
-        "title": "דיווח: סוריה מציעה לשמש כמעבר כדי לעקוף את מצר הורמוז",
-        "url": "https://www.kan.org.il/content/kan-news/global/1095603/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
+        "id": "43a64db493",
+        "title": "שר האוצר האמריקני: \"האיחוד האירופי הצטרף למבצע הכלכלי נגד איראן\"",
+        "url": "https://13tv.co.il/item/news/politics/state-policy/iran-905343391/?pid=62&refc=902992371",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
         "published_at": null,
-        "image_url": "https://www.kan.org.il/media/q32bxzjz/2026-05-25t172629z_2138645749_rc28glapctgv_rtrmadp_3_iran-crisis-oman-hormuz.jpg?width=490&height=272&v=1dcf982c6d4c5d0"
+        "image_url": null
       }
     ]
   },
@@ -96,44 +76,155 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "גדעון סער תוקף בחריפות את מינויו האפשרי של איזנקוט לתפקיד פוליטי, בעוד פייגלין קורא לימין לקחת אחריות אחרי 30 שנות שלטון ולא להסתמך רק על בג\"ץ.",
+      "summary_he": "בדיוני הבחירות בלטה מחלוקת בין מרים פרץ ובנה אליסף על גיוס חרדים ועל אמונה. בית המשפט העליון הקפיא בצו ביניים את מינויו של ראש משרד הביטחון החדש. ניתוח של מערכות חיזוי הראה דיוק בניבוי תוצאות הבחירות.",
       "headlines": [
         {
-          "id": "89a2561e27",
-          "title": "גדעון סער: \"איזה הישג יש לאיזנקוט כשר או כח\"כ? אין לו ניסיון, זה מתכון לכישלון\"",
-          "url": "https://www.ynet.co.il/news/120andone/article/hk2vs1muze",
+          "id": "05e1c7e2a1",
+          "title": "מרים פרץ ובנה אליסף בראיון משותף על בחירות, אמונה וגיוס חרדים",
+          "url": "https://www.ynet.co.il/news/article/yokra14874617",
           "source": "ynet",
           "source_label": "Ynet",
           "source_label_he": "Ynet",
-          "published_at": "2026-09-03T03:55:33+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/B1qhtXVVOGl/B1qhtXVVOGl_494_263_1599_901_0_medium.jpg"
+          "published_at": "2026-09-03T21:00:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/Skg4BENowGg/Skg4BENowGg_0_0_1920_1080_0_medium.jpg"
         },
         {
-          "id": "20bd4da4a1",
-          "title": "\"30 שנה בשלטון - זה לא רק בג\"ץ\": פייגלין דורש מהימין לקחת אחריות",
-          "url": "https://www.israelhayom.co.il/news/politics/article/21343522",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
+          "id": "a333a46d27",
+          "title": "בג\"ץ הקפיא בצו ביניים את מינוי ראש מח\"ש, סולברג התנגד בדעת מיעוט",
+          "url": "https://www.haaretz.co.il/news/law/2026-09-03/ty-article/.premium/000001a0-683d-d61f-a3b8-fa7f273c0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-03T17:07:14+00:00",
           "image_url": null
+        },
+        {
+          "id": "a0ca66e7af",
+          "title": "\"אוהיו הישראלית\" שוב בראש: הערים שניבאו את תוצאות הבחירות",
+          "url": "https://www.ynet.co.il/news/elections2026/article/bjy7sqzdgg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-03T21:01:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/H1dTQsEOGe/H1dTQsEOGe_0_0_850_479_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "שוויה של חברת מיטרוניקס צנח משמעותית לאחר טעויות בהנהלה, וחברי קיבוץ יזרעאל שהתעשרו מהחברה נכנסו להפסדים. מחירי הנפט עלו על רקע המתיחות המתמשכת בין ארה\"ב לאיראן. שינוי בהנהלת הסטטיסטיקה הלאומית עשוי להביא למודל כלכלי חדש.",
+      "headlines": [
+        {
+          "id": "1a2445ee57",
+          "title": "\"היו טעויות\": השווי של מיטרוניקס זינק ל-9 מיליארד שקל, חברי קיבוץ יזרעאל התעשרו — ואז הכל קרס",
+          "url": "https://www.themarker.com/weekend/2026-09-04/ty-article-magazine/.highlight/000001a0-65df-def7-a7f7-6dff92360000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-04T03:01:20+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-67ab-def7-a7f7-6fef35940001/3b/ba/bfaa57344731b87768b268744e5a/maytronics-pro.jpg?width=108&height=81"
+        },
+        {
+          "id": "1ed51ab997",
+          "title": "עליות באסיה; הנפט עולה על רקע המשך המתיחות בין ארה\"ב לאיראן",
+          "url": "https://www.themarker.com/wallstreet/2026-09-04/ty-article-live/000001a0-5107-dc79-a3e1-5ff7e7440000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-04T04:38:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-66df-dca9-a1e2-77dfb4a80000/46/0d/34b04ebd450998c951975f46145b/277517.jpg?width=108&height=81"
+        },
+        {
+          "id": "31c7b3307c",
+          "title": "עם המשרה הציבורית הכי מסוכנת שיש: ירון פולס בא לשנות את הסטטיסטיקה הלאומית של ישראל",
+          "url": "https://www.themarker.com/weekend/2026-09-04/ty-article-magazine/.premium/000001a0-61f2-d234-aff2-71fb29dc0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-04T03:09:44+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-61f2-d234-aff2-71fb09ab0000/11/6e/c63f934a48a2aede8c13e938801d/268413.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "חברת OpenAI הציגה מודל חדש עם יכולות אבטחה משופרות.",
+      "headlines": [
+        {
+          "id": "0eafc6fa6f",
+          "title": "עם יכולות אבטחה משופרות: המודל החדש של OpenAI",
+          "url": "https://www.themarker.com/wallstreet/2026-09-03/ty-article/.premium/000001a0-6889-d60b-a1f2-eccf55370000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-03T19:58:10+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-68b7-d61f-a3b8-faf7034b0000/f9/f1/59df24ec482086407c88e61380fd/036267.jpg?width=108&height=81"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "לקראת יום השנה לטבח, יהודי ספרד מביעים חשש לביטחון ילדיהם.",
+      "summary_he": "פרשת התעללות מינית בחברה הערבית עלולה לסמן נקודת מפנה בטיפול בהטרדות מיניות בישראל. קהילות יהודיות בארה\"ב משלמות יותר ממיליארד דולר בשנה על אבטחה. סיפורה של אישה שגדלה בשקט ונדרשה למאבקים תקיפים משקף מעורבות חברתית.",
       "headlines": [
         {
-          "id": "d9483bb2f6",
-          "title": "\"הילדים בטוחים?\": יהודי ספרד חוששים מיום השנה לטבח",
-          "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21343159",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
+          "id": "02ed2ad06e",
+          "title": "פרשת ג'עפר פרח עשויה לסמן תפנית בנוגע להטרדות מיניות בחברה הערבית",
+          "url": "https://www.haaretz.co.il/news/elections/2026-09-04/ty-article-magazine/.premium/000001a0-66fc-def7-a7f7-6eff96610000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-04T03:00:54+00:00",
           "image_url": null
+        },
+        {
+          "id": "094580205c",
+          "title": "US Jewish community security costs surpass $1 billion per year — study",
+          "url": "https://www.timesofisrael.com/us-jewish-community-security-costs-surpass-1-billion-per-year-study/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-09-03T18:50:46+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/05/20250428_untitled_03154-1024x640.jpg"
+        },
+        {
+          "id": "89c4c5db58",
+          "title": "\"היא התחילה בקטן וצמחה, אבל זה דרש מאבקים של אישה חזקה\"",
+          "url": "https://www.haaretz.co.il/news/magazine/2026-09-03/ty-article-magazine/.premium/000001a0-671e-def7-a7f7-6fff826c0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-03T16:27:31+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "שוק הנדל\"ן עד לנפילה חדה במחירים, כאשר מוכרים מפחיתים את ערכי הדירות בהיקפים משמעותיים. דירות בערים היקרות מראות ירידה עמוקה בערכן בהשוואה לערים שבהן המחירים היו נמוכים יותר בעבר.",
+      "headlines": [
+        {
+          "id": "05fcb38dbc",
+          "title": "\"הבועה התפוצצה\" - והמוכרת נאלצה לחתוך את מחיר הדירה ב-800 אלף שקל",
+          "url": "https://www.themarker.com/realestate/2026-09-04/ty-article/.highlight/000001a0-6814-d1e9-ade0-f9d73fde0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-04T03:00:44+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-6876-d60b-a1f2-ec7ee29d0001/b4/63/1788616f4badb2937fbc8f8f8f70/ramat.PNG?width=108&height=81"
+        },
+        {
+          "id": "3b22ef9355",
+          "title": "דירת 4 חדרים בפרדס חנה נמכרה במחיר של דירת 3 חדרים בחולון",
+          "url": "https://www.themarker.com/realestate/2026-09-04/ty-article/.premium/000001a0-688d-d60b-a1f2-eccf966c0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-04T03:15:32+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-68cc-def7-a7f7-68ef54430001/30/d0/b56a69b24afc8ccf5a13e47f530b/giladi.PNG?width=108&height=81"
         }
       ]
     }
@@ -145,184 +236,204 @@
     "kan",
     "mako",
     "walla",
-    "globes"
-  ],
-  "sources_failed": [
+    "globes",
     "themarker",
     "times_of_israel",
-    "maariv",
     "makor_rishon",
     "reshet13",
     "i24"
   ],
+  "sources_failed": [
+    "maariv"
+  ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Britain has signaled it will reset its policy on Israeli West Bank settlements, with Foreign Secretary Miliband announcing the shift to parliament. Prime Minister Netanyahu visited Gaza and reaffirmed that Israel will not withdraw from the territory, stating that there is \"more to come.\" Reports indicate that Israel is seeking Trump's support for a plan to expel Palestinians from Gaza. Jewish organizations in Belgium have established a training center for circumcisers.",
+      "summary_en": "Israeli-Palestinian tensions escalated as settlers encircled a West Bank village and Israeli forces shot dead two Palestinian teenagers. Domestically, Ultra-Orthodox leaders met with President Trump at the White House in a significant diplomatic engagement, while a Jerusalem café began closing on Saturdays following pressure from Haredi protests. Jewish feminist icon Gloria Steinem, a trailblazer in women's rights and social activism, passed away at age 92.",
       "headlines": [
         {
-          "id": "558f013b9a",
-          "title": "UK to 'reset policy' on West Bank settlements, Miliband tells parliament",
-          "url": "https://www.jta.org/2026/09/03/israel/uk-to-reset-policy-on-west-bank-settlements-miliband-tells-parliament",
+          "id": "a44b934e88",
+          "title": "Ultra-Orthodox leaders meet with Trump in the White House",
+          "url": "https://www.jta.org/2026/09/03/ny/ultra-orthodox-leaders-meet-with-trump-in-the-white-house",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-09-03T06:01:08+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/E1-West-Bank-Sept.-2-1.jpg"
+          "published_at": "2026-09-03T21:55:10+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/GettyImages-2283269841.jpg"
         },
         {
-          "id": "e64e94fa82",
-          "title": "Jewish organizations establish training center for circumcisers in Belgium",
-          "url": "https://www.demorgen.be/nieuws/joodse-organisaties-richten-opleidingscentrum-voor-besnijders-op-in-belgie~b186e325/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-03T01:00:27+00:00",
-          "image_url": "https://image.demorgen.be/137820702/feature-crop/320/320/afbeelding"
+          "id": "875c1bdfb2",
+          "title": "Jerusalem cafe bows to Haredi protests, will no longer open on Shabbat",
+          "url": "https://www.jta.org/2026/09/03/israel/jerusalem-cafe-bows-to-haredi-protests-will-no-longer-open-on-shabbat",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-09-03T20:35:33+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/Jerusalem-Cafe.jpg"
         },
         {
-          "id": "bc33d6ee6b",
-          "title": "Live - Netanyahu during visit to Gaza: 'We will not withdraw. There is more to come'",
-          "url": "https://www.demorgen.be/snelnieuws/live-netanyahu-tijdens-bezoek-aan-gaza-we-trekken-ons-niet-terug-er-komt-nog-meer-aan~ba7f8873/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-02T18:43:00+00:00",
-          "image_url": "https://image.demorgen.be/277063783/roi/320/320/691.1999999999999/529.2/afbeelding"
-        },
-        {
-          "id": "fd7fdb28a0",
-          "title": "Israel 'seeking Trump's support for plan to expel Palestinians from Gaza'",
-          "url": "https://www.theguardian.com/world/2026/sep/02/israel-seeking-trumps-support-for-plan-to-expel-palestinians-from-gaza",
+          "id": "886939dea4",
+          "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
+          "url": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-09-02T18:20:36+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/5ec998c888a8a6bec0d1104ed58360c7de79644d/577_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=3485f21b383200a765e5aea2f2086e17"
+          "published_at": "2026-09-03T19:33:00+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/8caf75c0b6765ad58f8e624407ff32725c5f1f22/385_0_4851_3883/master/4851.jpg?width=700&quality=85&auto=format&fit=max&s=44311fbbfd4e6f93a38a32bcbf9071bb"
+        },
+        {
+          "id": "6e2945ca9b",
+          "title": "Gloria Steinem, Jewish feminist trailblazer, dies at 92",
+          "url": "https://www.jta.org/2026/09/03/obituaries/gloria-steinem-jewish-feminist-trailblazer-dies-at-92",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-09-03T18:06:45+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/Steinem-260903.jpeg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium has dropped out of Europe's top five beer producers, partly because production of alcohol-free beer was not reported to EU authorities. Nearly 3,000 people died from heat-related causes during the summer's three heat waves, according to data released by Sciensano. Belgian commuters are spending unprecedented amounts of time traveling, with many now commuting for over an hour daily due to the distance between home and workplace. Brussels DJ Lost Frequencies has taken over a restaurant in the Elsene district.",
+      "summary_en": "Belgian Prime Minister De Wever announced that tax reductions are expected by the end of the current government's term. The public prosecutor's office in Peer is investigating multiple complaints of boundary-crossing behavior at the local shelter De Plons. The beloved Belgian TV series Thuis began filming at a new state-of-the-art studio in Herent, while public figure Els van Doesburg faced backlash for her statements on motherhood.",
       "headlines": [
         {
-          "id": "ae0bf182c1",
-          "title": "Belgium disappears from top 5 of European beer production: EU received no figures on alcohol-free beer",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/belgie-buiten-top-5-bierproducerende-landen-eu/",
+          "id": "6e10d2283c",
+          "title": "Premier De Wever on budget: Tax reductions expected by end of government term",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/03/premier-de-wever-over-begroting-aan-het-einde-van-de-regeerper/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/03/9d532a1b-b2a9-4c9f-bb5c-a1c906842689.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/04/9ba0117c-8044-481d-a273-e02c6bc7021a.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "435147f484",
-          "title": "Brussels DJ Lost Frequencies takes over restaurant in Elsene",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/brusselse-dj-lost-frequencies-opent-restaurant-in-elsene/",
+          "id": "b23ef0e378",
+          "title": "At least 3 complaints of boundary-crossing behavior at shelter De Plons in Peer; prosecutor investigates",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/03/parket-heeft-meerdere-klachten-ontvangen-over-grensoverschrijden/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/d51d62eb-9683-47a5-87a7-7de9acae6290.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/29/79d96613-0ebb-40b9-a937-69d5eae4a9ed.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "1687f7b04a",
-          "title": "Sciensano releases figures for entire summer: nearly 3,000 heat deaths during 3 heat waves",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/hittedoden-zomer-2026-sciensano-hittegolf-klimaat-belgie/",
+          "id": "6e5ac4c62c",
+          "title": "Thuis actors enthusiastic about brand new filming studio in Herent",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/03/video-thuis-nieuwe-opnamestudio/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/5603f09e-ba0c-4e60-8acd-f5b00905ee6c.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/03/1c5d447f-7ece-4cb3-a06a-4690fa2a4366.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "2e305ce70f",
-          "title": "Belgian commutes for the first time more than 1 hour per day: 'We live too far from our work'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/belg-pendelt-meer-dan-1-uur-per-dag/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/21/68662f97-27c7-4ca4-a9a0-e61ad7eda900.jpg?width=200&height=125&q=80&blur=90"
+          "id": "902e6c4495",
+          "title": "Els van Doesburg surprised by flood of toxic reactions following statements about motherhood",
+          "url": "https://www.hln.be/binnenland/els-van-doesburg-verbaasd-over-stortvloed-aan-giftige-reacties-na-uitspraken-over-moederschap~a7e62a0b/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-04T06:08:00+00:00",
+          "image_url": "https://images.hln.be/MGFlNDg2OGFlNzU4NGE2MzE5ZWQvZGlvLzI3NzM4MTgyNy9maXQtd2lkdGgvNDAw/rondleiding-door-de-nieuwe-gevangenis-kade-in-bijzijn-van-annelies-verlinden-en-burgemeester-els-van-doesburg-beelden-van-de-cellen-gezamelijke-ruimten-van-gedetineerden-de-marktstraat-recreatiepleinen-pingpongtafel-uitzicht-vanaf-de-cel"
         }
       ]
     },
     "europe": {
-      "summary_en": "Denmark has joined Germany in warning of Russian sabotage activities, citing concrete evidence of planned operations targeting European infrastructure. German police discovered launcher installations following an incident at a power station near Cologne, with authorities characterizing the event as state sabotage. The European Union is tightening tourist visa rules for Russians in response to their use in sabotage operations. In Ukraine, President Zelensky condemned a shooting incident involving secret services as shameful.",
+      "summary_en": "EU Commission President Ursula von der Leyen called for urgent legislative action in her State of the Union address, while European officials work to counter Russia's expanding hybrid warfare operations. Tensions persist over Ukraine as signs of military escalation undermine hopes for peace negotiations. Germany's AfD, after taking power in a state government, proposed controversial policies including separate education tracks for migrants. Spain and Morocco face renewed diplomatic tensions over the disputed territory of Ceuta.",
       "headlines": [
         {
-          "id": "3a8e017d37",
-          "title": "Following German accusations, Denmark also warns of Russian sabotage actions: 'Concrete plans seen'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/03/deense-inlichtingendienst-waarschuwt-voor-mogelijke-russische-sa/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/03/5a9c2e64-e63e-49f2-b80c-ae0e5f181412.jpg?width=200&height=125&q=80&blur=90"
+          "id": "ebc1b961fa",
+          "title": "SOTEU: Six years. No law. Time to act, Ursula von der Leyen",
+          "url": "https://www.politico.eu/sponsored-content/soteu-six-years-no-law-time-to-act-ursula-von-der-leyen/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-04T03:00:00+00:00",
+          "image_url": null
         },
         {
-          "id": "e24a52ba7f",
-          "title": "European Union wants stricter rules for tourist visas for Russians: 'Used for sabotage actions'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/europese-unie-strengere-regels-visa-voor-russen/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/03/05dd69ee-cd39-4216-92e7-06a7ee7d902d.png?width=200&height=125&q=80&blur=90"
+          "id": "f191831d72",
+          "title": "Europe weighs solutions to curtail Russia's growing hybrid warfare",
+          "url": "https://www.theguardian.com/world/2026/sep/04/europe-weighs-solutions-to-curtail-russias-growing-hybrid-warfare",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-04T05:00:01+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/90fab552e833c01fd5c9dd7ef906baf55dbb0c00/247_0_1156_925/master/1156.jpg?width=700&quality=85&auto=format&fit=max&s=d4fbf7a5b5ef4cf993f95cafc2c0571f"
         },
         {
-          "id": "bca1c1d795",
-          "title": "German police find launcher installations after incident at power station near Cologne: 'This is sabotage against the state'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/sabotage-duitsland-stroomnet/",
+          "id": "43324e178c",
+          "title": "Russia-Ukraine: Are peace negotiations over Ukraine approaching? Signals of escalation seen on the ground",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/03/onderhandelingen-over-oorlog-oekraine/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/7c54c1a7-083d-4101-80b6-4da1752765e5.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/03/10077d26-b8e5-43ac-a71a-146505e7557f.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "77500f4cef",
-          "title": "Shooting incident between secret services in Ukraine: 'Absolute shame', says Zelensky",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/schietincident-tussen-geheime-diensten-in-oekraine-absolute-sc~1781787179742/",
+          "id": "ee859130f6",
+          "title": "Germany selects controversial figures for top positions; AfD plans separate education for migrants after state takeover",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/hoe-een-van-de-radicaalste-afdelingen-van-de-afd-zich-voorbereid/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/01/5ea6da06-72f2-43ff-9540-d4ac5882db93.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/04/a0328eb6-aa3a-4943-8f2d-2807e1f8572e.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "e5a5b0d832",
+          "title": "Why does Spanish PM Sanchez keep minimizing Morocco's role in Ceuta? Morocco stands diplomatically very strong",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/03/ceuta-protesten-spanje-marokko-sanchez/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/03/751e11bc-0bf7-49eb-84ee-6e40482e3219.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "The Shanghai Cooperation Organization represents a major geopolitical grouping that encompasses much of the world's population and power, notably excluding Western nations. International aviation authorities are warning that the risk of civilian aircraft becoming targets of attacks is increasing globally. Belgium's Prime Minister De Wever is exploring deepened relations with India, with potential areas of cooperation including diamonds, weapons, and hydrogen technology.",
+      "summary_en": "A dramatic rescue unfolded in Nepal, where two workers were freed alive from a collapsed tunnel after being trapped for nine days. The UK government faces criticism for insufficient preparedness for a food supply crisis. The UN has warned that El Niño, a powerful climate phenomenon, is intensifying global weather patterns. In the United States, the high-profile Lindsay Clancy case, involving the death of three children, remains stalled in its legal proceedings.",
       "headlines": [
         {
-          "id": "0486852aef",
-          "title": "The Shanghai Cooperation Organisation: the gathering where almost the whole world is present - except the West",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/31/het-onderonsje-waar-de-heel-wereld-present-is-behalve-het-west/",
+          "id": "a734c7452c",
+          "title": "Two workers rescued alive from tunnel in Nepal after 9 days",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/twee-arbeiders-na-9-dagen-levend-uit-tunnel-in-nepal-bevrijd-~1787818862709/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/984eec8b-71d3-4c42-af13-e12e4ee98115.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/04/d98d85d6-20db-4fb2-92f3-0b38546ee387.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "0b14e23bf5",
-          "title": "International organization for Civil Aviation: 'Risk grows that civilian aircraft become targets of attacks'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/03/kans-dat-commerciele-vluchten-wereldwijd-onder-vuur-genomen-word/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/11/a2ae1253-6737-46b8-8b1a-a45cfde905e7.jpg?width=200&height=125&q=80&blur=90"
+          "id": "30d841c016",
+          "title": "UK has not done enough to prepare for shocks to food supplies, says watchdog",
+          "url": "https://www.theguardian.com/business/2026/sep/04/uk-not-done-enough-to-prepare-for-shocks-to-food-supplies-says-watchdog",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-04T06:00:02+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/4cc51d5a87ef899faf85d3774636c6ed1d5a37bf/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=160d2afea010a3a18d9ece23565281ee"
         },
         {
-          "id": "e1aa2dd545",
-          "title": "What can India offer Premier De Wever? Diamonds, weapons and possibly hydrogen",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/01/wat-heeft-india-premier-de-wever-te-bieden-diamant-wapens-en-m/",
+          "id": "ffd03ee1c5",
+          "title": "El Niño is a kind of heat amplifier on weather; UN warns about consequences of climate phenomenon",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/03/video-en-nino-explainer-journaal/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2025/03/28/cc5b6318-7d25-40d1-99f5-df0bc070ce97.png?width=200&height=280&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/03/4eabf789-4610-4098-900b-9a552f96bcb7.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "2d5077a3f0",
+          "title": "Did Lindsay Clancy know she murdered her 3 children? Case gripping the United States is stuck",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/03/lindsay-clancy-vs-verenigde-staten-rechtszaak/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/03/11b85246-6c4f-4dc2-a7d5-1b834d743a4b.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
