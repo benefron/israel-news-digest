@@ -1,97 +1,197 @@
 {
-  "generated_at": "2026-09-05T22:09:00.440252+00:00",
-  "date": "2026-09-05",
-  "degraded": true,
+  "generated_at": "2026-09-06T05:09:14.469362+00:00",
+  "date": "2026-09-06",
+  "degraded": false,
   "top_general": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "summary_he": "בדרום לבנון התגברה המתיחות בין צה״ל לחיזבאללה כאשר הארגון שיגר רחפני נפץ לעבר כוחות צה״ל, וצה״ל הגיב בתקיפה באזור. בחזית הפנימית, ישראל מתקרבת לבחירות חוזרות בעוד הממשלה מתמודדת עם משברים פוליטיים עמוקים.",
     "headlines": [
       {
-        "id": "d0651a0d12",
-        "title": "אזעקות ללא הרף וניסיון חיסול בלב קייב: כטב\"ם פגע במשרד ראש ה-SBU",
-        "url": "https://www.ynet.co.il/news/article/rym3isouzl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-04T14:20:20+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/04/S1klGUu00Me/S1klGUu00Me_0_0_507_285_0_medium.jpg"
+        "id": "49e14dfca6",
+        "title": "צה\"ל: חיזבאללה שיגר רחפני נפץ לעבר חיילים בדרום לבנון, תוקפים באזור בתגובה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-09-06/ty-article/000001a0-74bb-d76e-a7b4-fdff7a4f0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-06T03:27:23+00:00",
+        "image_url": null
       },
       {
-        "id": "e1445f9f8a",
-        "title": "המסחר בבורסה ננעל בעליות; ת\"א 90 התחזק ב-0.9%",
-        "url": "https://www.themarker.com/markets/2026-09-04/ty-article-live/000001a0-6b37-d1e9-ade0-fbf71b1c0000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-09-04T07:15:26+00:00",
-        "image_url": "https://img.haarets.co.il/bs/0000018c-6951-d798-adac-edff80d60000/b1/04/5294900e4f4580d1d193c14f658f/577007.jpg?width=108&height=81"
-      },
-      {
-        "id": "21135227d8",
-        "title": "\"כחול לבן\" לא תתאחד עם \"האחדות\" - וארדן מודיע: \"לא נרוץ בבחירות הקרובות\"",
-        "url": "https://news.walla.co.il/item/3865566",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-04T13:47:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/3/4093636-46.png"
-      },
-      {
-        "id": "cecfe8ba71",
-        "title": "Erdan’s Unity quits election race as parties scramble to finalize slates ahead of deadline",
-        "url": "https://www.timesofisrael.com/erdans-unity-quits-election-race-as-parties-scramble-to-finalize-slates-ahead-of-deadline/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-04T18:56:46+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/F260820CG106-1024x640.jpg"
-      },
-      {
-        "id": "9ff472ee95",
-        "title": "מייגן מרקל נפרדת מהפעילה הפמיניסטית: \"ייעצה לי\"",
-        "url": "https://www.israelhayom.co.il/forreal/global/article/21354810",
+        "id": "5445fa0572",
+        "title": "ישראל הולכת לבחירות חוזרות - אלא אם יקרה דבר אחד | משה קלוגהפט",
+        "url": "https://www.israelhayom.co.il/news/politics/article/21358851",
         "source": "israel_hayom",
         "source_label": "ישראל היום",
         "source_label_he": "ישראל היום",
         "published_at": null,
         "image_url": null
-      },
-      {
-        "id": "6f39ac1663",
-        "title": "ישראלי מואשם בעבירות ביטחון נגד המדינה בשל פעילות עם גורמי מודיעין זרים",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-04/ty-article/.premium/000001a0-6ba0-d7e4-afae-7bfe82880000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-04T08:58:33+00:00",
-        "image_url": null
-      },
-      {
-        "id": "3926cc9033",
-        "title": "בחמאס מנסים להבין איך \"ראש השב\"כ\" העזתי נשלף מתחת לאף שלהם | זו גרסתם",
-        "url": "https://www.ynet.co.il/news/article/hkrhvvdofl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-04T17:16:33+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/H1mIwqV00Mg/H1mIwqV00Mg_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "0c0992fb78",
-        "title": "דיווחים: טילים איראניים יורטו בשמי ירדן, מערכות ההגנה הופעלו בכווית",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-1eff013ec7d60a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-04T17:49:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/04/205216_autoOrient_i.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
-    "headlines": []
+    "summary_he": "המתיחות בין ארה״ב לאיראן מתגברת: ארה״ב דיווחה על תקיפה של שלוש מכליות נפט איראניות בתגובה לשיגור טילים לעבר ספינות אמריקניות. בנוסף, צבא ארה״ב משפר את היערכותו האסטרטגית כדי למנוע חשיפה של מצביאים אמריקניים בפני איראן.",
+    "headlines": [
+      {
+        "id": "1102a97160",
+        "title": "ארה\"ב: תקפנו שלוש מכליות נפט איראניות - בתגובה לשיגור טילים על ספינות אמריקניות",
+        "url": "https://news.walla.co.il/item/3865724",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-05T16:46:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/7/0/4070285-46.jpg"
+      },
+      {
+        "id": "23af5114d6",
+        "title": "כדי שאיראן לא תחשוף את מיקום הכוחות: המהלך של הצבא האמריקני",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-dbc6e22af1c60a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-05T08:48:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/04/23/centcom_mag_05_autoOrient_i.jpg"
+      }
+    ]
   },
-  "subjects": [],
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "בפנים, המתיחויות בממשלה מתגברות: בן גביר והמפכ״ל סיכמו על סבב מינויים במשטרה בניגוד להחלטת בג״ץ, וחלו חילופים במפלגה החרדית. בחו״ל, הימין הקיצוני בגרמניה מתחזק ומאיים להפר טאבו, וטראמפ מתמודד עם כשלים בהבטחות מרכזיות.",
+      "headlines": [
+        {
+          "id": "0404f2f885",
+          "title": "בן גביר והמפכ\"ל סיכמו לערוך סבב מינויים במשטרה בניגוד להחלטת בג\"ץ",
+          "url": "https://www.haaretz.co.il/news/law/2026-09-06/ty-article/.premium/000001a0-71a2-d45c-a7aa-f3ff80290000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-06T03:01:36+00:00",
+          "image_url": null
+        },
+        {
+          "id": "2bc92d5d39",
+          "title": "טלטלה במפלגה החרדית: ותיק חברי הכנסת בחוץ, זה היו\"ר החדש של יהדות התורה",
+          "url": "https://www.ynet.co.il/news/elections2026/article/r1yfwxqomx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-05T19:51:44+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/05/ryyhGgc00Gx/ryyhGgc00Gx_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "a71dc781cd",
+          "title": "שלושה שמות חדשים, אחד מהם במקום ריאלי: יש עתיד הציגה את רשימתה לכנסת",
+          "url": "https://www.haaretz.co.il/news/elections/2026-09-05/ty-article/.premium/000001a0-723f-d3f1-affa-7f7f93e10000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-05T16:45:37+00:00",
+          "image_url": null
+        },
+        {
+          "id": "7917b24f8e",
+          "title": "הימין הקיצוני בגרמניה מתחזק, ומאיים לשבור את הטאבו נגד קיצונים בשלטון",
+          "url": "https://www.haaretz.co.il/news/world/europe/2026-09-05/ty-article-magazine/.premium/000001a0-71b3-d45c-a7aa-f3ff63650000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-05T14:30:56+00:00",
+          "image_url": null
+        },
+        {
+          "id": "15273f78f1",
+          "title": "לקראת אמצע כהונתו, טראמפ כשל בכל ההבטחות החשובות — ומאיים לשרוף את המועדון",
+          "url": "https://www.themarker.com/wallstreet/2026-09-06/ty-article/.highlight/000001a0-717e-ddf3-a1e9-797f58650000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-06T03:03:21+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-71d6-def7-a7f7-79f79e430000/46/63/cf16926f4b8597c1201cb53a8d3e/828158.jpg?width=108&height=81"
+        },
+        {
+          "id": "1586aec9ad",
+          "title": "המשחק הפוליטי מאחורי הבחירות הפלסטיניות",
+          "url": "https://www.ynet.co.il/news/theheadline/article/a3crx9oui",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-06T02:00:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/B1am5V4uGx/B1am5V4uGx_0_0_850_479_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "בעקבות חודשי מלחמה באיראן, שוק ההון עמד בפני מבחן כלכלי משמעותי. בזירה היומיומית, הורדת מחירי הדלק וסוגיית העלויות הבנקאיות מדגישות את נושא יוקר המחיה בחברה.",
+      "headlines": [
+        {
+          "id": "515154632d",
+          "title": "שישה חודשי מלחמה באיראן: מה שוק ההון למד — ובאיזה מחיר",
+          "url": "https://www.themarker.com/markets/2026-09-06/ty-article/.premium/000001a0-70f9-ddf3-a1e9-79fbe48b0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-06T03:24:04+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-7128-dec9-a7ff-f1290f840001/d1/aa/caec6fac4f8ea7c1b2c77913a648/425595.jpg?width=108&height=81"
+        },
+        {
+          "id": "4128f80954",
+          "title": "נוזיל את הדלק בחצי שקל, והם לא יבחינו בעוד 30 מיליון שקל לסמוטריץ'",
+          "url": "https://www.themarker.com/news/politics/2026-09-05/ty-article/.premium/000001a0-71c7-dec9-a7ff-f1e7a4b20000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-05T17:11:27+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-71d0-ddf3-a1e9-79d3cb060000/09/17/7ee0017b4ffab6ae282b82d4ea41/437639.jpg?width=108&height=81"
+        },
+        {
+          "id": "70df2cec2e",
+          "title": "כמה כסף עולה לכם לא להתמקח עם הבנק?",
+          "url": "https://www.themarker.com/podcasts/2026-09-06/ty-article-podcast/000001a0-6794-d7d6-afb2-f7df9ba70000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-06T03:12:16+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-6795-def7-a7f7-6ff787780000/27/af/c4b5f4154675bc5c58f2b55e970b/medabrot-0408-jpg.jpeg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "התוצאות העסקיות מעידות כי לחברות תוכנה יש יותר הזדמנויות מאשר איומים בתחום הבינה המלאכותית.",
+      "headlines": [
+        {
+          "id": "fa6a009f82",
+          "title": "\"התוצאות העסקיות מוכיחות שלחברות תוכנה יש יותר הזדמנויות מאיומים ב-AI\"",
+          "url": "https://www.themarker.com/markets/newinvestors/2026-09-06/ty-article-magazine/.highlight/000001a0-66a4-d1e9-ade0-f7f71f580002",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-06T03:00:31+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-6749-def7-a7f7-6fef8e520000/fe/13/ba323f904316923ebc4f0ea86645/398592.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "בתוכניות הטלוויזיה של היום מופיע סרט המשלב שחקנים ידועים מסרטי הארי פוטר בהפקה תרבותית.",
+      "headlines": [
+        {
+          "id": "f6dbf9c8b2",
+          "title": "נוויל מ\"הארי פוטר\" החליף את הוגוורטס בכנסייה עם גופה: מה לראות היום בטלוויזיה",
+          "url": "https://www.israelhayom.co.il/culture/tv/article/21347344",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    }
+  ],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -102,37 +202,17 @@
     "globes",
     "themarker",
     "times_of_israel",
+    "makor_rishon",
     "reshet13",
     "i24"
   ],
   "sources_failed": [
-    "maariv",
-    "makor_rishon"
+    "maariv"
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "An Israeli airstrike in Gaza killed seven international aid workers from World Central Kitchen, raising questions about civilian targeting decisions. A Gaza refugee recounts the death of her sister-in-law, attributing it in part to a UK visa denial. These incidents underscore ongoing concerns about civilian casualties and humanitarian access in the conflict.",
+      "summary_en": "A Gaza refugee has spoken out about the devastating impact of UK immigration policies, highlighting how restrictive refugee access rules may have contributed to a family tragedy when a sister-in-law was denied entry to the United Kingdom.",
       "headlines": [
-        {
-          "id": "25402f22ab",
-          "title": "'Guilt by association': why seven international aid workers were killed in Israeli airstrike",
-          "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-05T11:08:31+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/07dcae18edb859f43f16e9b15b3db1e8ebbaabf5/0_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=c246650553eff5c6468e7cf822a08f67"
-        },
-        {
-          "id": "da99e973aa",
-          "title": "Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers",
-          "url": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-05T00:00:21+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/1a1e763a577b220d5526ca99a23cd8aaf1c1cda4/214_0_4320_3456/master/4320.jpg?width=700&quality=85&auto=format&fit=max&s=60e14368f739bb76104af832931936e6"
-        },
         {
           "id": "59c93e7c75",
           "title": "Gaza refugee says sister-in-law 'would be alive' if Home Office had let her come to UK",
@@ -146,132 +226,37 @@
       ]
     },
     "belgium": {
-      "summary_en": "Former endocrinology professor Frank Comhaire of the University of Ghent has passed away. At Ballekesfeesten in Sint-Job-in-'t-Goor, three children were injured when a banner with an iron pipe fell. A French airport operator managing the struggling Belgian airports at Deurne and Oostende has withdrawn cash, prompting scrutiny of financial flows. The mayor of Liège reversed a decision to bar Antwerp football club supporters from attending a match.",
+      "summary_en": "A dramatic custody case in Belgium has escalated after a five-year-old child was allegedly abducted by the mother and taken to Russia, leaving the father expressing profound frustration with what he perceives as systemic failures in child protection. Meanwhile, Frank Comhaire, a retired professor of endocrinology from Ghent University, has died in the Sint-Martens-Latem region.",
       "headlines": [
         {
+          "id": "1fb9dceda3",
+          "title": "Five-year-old son of Steven abducted by his mother to Russia; father asks: 'I feel abandoned by the system. Should I retrieve him myself?'",
+          "url": "https://www.hln.be/binnenland/zoontje-5-van-steven-is-door-zijn-mama-ontvoerd-naar-rusland-ik-voel-me-in-de-steek-gelaten-door-het-systeem-moet-ik-hem-dan-zelf-terughalen~abe95085/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-06T05:00:38+00:00",
+          "image_url": "https://images.hln.be/MGM5ODdmNmZmYjg2OTY0YjA5YTMvZGlvLzI3NzI4NjQ4Mi9maXQtd2lkdGgvNDAw/parentale-ontvoeringen"
+        },
+        {
           "id": "c96a7c7157",
-          "title": "Former endocrinology professor Frank Comhaire (University of Ghent) passed away",
+          "title": "Retired endocrinology professor Frank Comhaire (Ghent University) died in Sint-Martens-Latem",
           "url": "https://www.vrt.be/vrtnws/nl/2026/09/05/oud-professor-endocrinologie-frank-comhaire-universiteit-gent/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
           "image_url": "https://images.vrt.be/vrtnws_web/2026/09/05/4723ce96-fd1a-4c10-9748-09153f1a58ea.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "b1b3d37b6d",
-          "title": "Banner with iron pipe falls at Ballekesfeesten in Sint-Job-in-'t-Goor: 3 children injured",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/05/spandoek-met-gewichten-valt-naar-beneden-op-ballekesfeesten-in-s/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/05/39f3832a-28d1-449a-9b88-efed109e0b77.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "401b5b1946",
-          "title": "French operator withdraws cash from struggling airports: how the money flow works behind Deurne and Oostende",
-          "url": "https://www.demorgen.be/nieuws/franse-uitbater-haalt-cash-weg-bij-noodlijdende-luchthavens-zo-werkt-de-geldstroom-achter-deurne-en-oostende~b734fa1df/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-05T01:00:00+00:00",
-          "image_url": "https://image.demorgen.be/277386334/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "7c1a2739e7",
-          "title": "Antwerp fans allowed at Sclessin after all tonight: mayor of Liège reconsiders decision and permits away supporters",
-          "url": "https://sporza.be/nl/2026/09/05/dan-toch-antwerp-fans-op-sclessin-vanavond-burgemeester-van-luik-herziet-beslissing-en-laat-uitsupporters-toe~1788604717277/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/05/927e4d6a-42b8-4a19-9687-99f7d4072171.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "6971b7b960",
-          "title": "No speed cameras on temporary highway (bypass) next to Antwerp ring",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/05/geen-trajectcontrole-op-tijdelijke-snelweg-bypass-naast-antwer/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2025/09/30/e8ad1cd2-9100-4d56-8c01-5200520fd726.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "europe": {
-      "summary_en": "German police have discovered twelve explosive devices at power stations in eastern Germany and are investigating suspected climate-related extremism. Far-right extremism continues to rise across Europe, with Germany's AfD party positioning for potential electoral gains in regional elections. Elsewhere, a blockade at Dover's ferry port in the UK has been cleared, and several European countries are reconsidering their gold reserves stored in North America.",
+      "summary_en": "A high-level three-hour meeting between U.S. and Russian leadership regarding the Ukraine conflict concluded with Russia calling it 'useful,' while military analysts warn that Ukraine's momentum is fading under relentless Russian attacks on civilian infrastructure designed to inflict suffering. Germany faces alarming political developments as far-right movements gain traction, with observers warning that extremists could seize power for the first time since World War II. Additional crises are unfolding across Europe: a refugee boat tragedy that killed 31 people after delayed rescue operations is proceeding to trial in Paris, a massive wildfire in France's Aude department has consumed 225 hectares, and a military fighter jet crashed during an airshow in Greece, resulting in two fatalities.",
       "headlines": [
         {
-          "id": "49dffa9992",
-          "title": "Explosives found again at power stations: German police issue profile of 'climate terrorist'",
-          "url": "https://www.demorgen.be/snelnieuws/opnieuw-explosieven-bij-elektriciteitsstations-duitse-politie-deelt-signalement-klimaatterrorist~b481dcb9/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-05T21:54:00+00:00",
-          "image_url": "https://image.demorgen.be/277315587/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "b94c48af3d",
-          "title": "German police find 12 explosives at power stations in eastern Germany",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/05/duitse-politie-vindt-twaalf-explosieven-bij-elektriciteitsstatio/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/05/2f210e42-8974-4ea6-8ff3-9af26013c9da.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "d86a7d9082",
-          "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-          "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-09-04T23:07:23+00:00",
-          "image_url": null
-        },
-        {
-          "id": "981b798dde",
-          "title": "Why are European countries moving their gold out of North America?",
-          "url": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-09-05T01:42:09+00:00",
-          "image_url": null
-        },
-        {
-          "id": "51bf0d6fdc",
-          "title": "Access to busy ferry port in British city Dover reopened after blockade by hundreds of masked men",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/05/dover-problemen-onderbrekingen-gemaskerde-mannen/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/05/5408ca21-d269-4b2e-a0c8-4ffd58d59f85.png?width=200&height=125&q=80&blur=90"
-        }
-      ]
-    },
-    "world_top": {
-      "summary_en": "Tensions in the Middle East have escalated as the United States struck Iranian oil tankers in response to Iranian attacks on warships. On the Ukraine front, U.S. envoys Kushner and Witkoff concluded talks with President Putin, though Ukrainian forces report declining momentum against Russian aggression aimed at making civilian life increasingly difficult. In Asia, workers trapped in a flooded tunnel at a hydroelectric power station in Nepal have been rescued days after the initial flooding, a rare survival story in such dangerous conditions.",
-      "headlines": [
-        {
-          "id": "8752efaf8e",
-          "title": "United States attacks 3 Iranian oil tankers after Iranian attack on warships",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/verenigde-staten-vallen-3-iraanse-olietankers-aan-na-iraanse-aa~1784611610051/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/05/172872e3-572e-42da-ad5a-f82a21352d0f.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "6e690217c9",
-          "title": "Talks between US envoys Kushner and Witkoff and Russian President Putin have ended",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/gesprekken-tussen-vsgezanten-kushner-en-witkoff-en-russische-pr~1781787179742/",
+          "id": "0098a16d8d",
+          "title": "US-Russia Ukraine War Update: Meeting between US and Russian President Putin lasted 3 hours; Russia: 'It was useful'",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/ontmoeting-vs-en-russische-president-poetin-duurde-3-uur-ruslan~1781787179742/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
@@ -280,17 +265,62 @@
         },
         {
           "id": "a6c8894c62",
-          "title": "Ukrainian momentum seems over: Russia tries to make Ukrainians' lives really miserable",
+          "title": "Ukraine's military momentum appears to be over: 'Russia is trying to make life for Ukrainians really miserable'",
           "url": "https://www.vrt.be/vrtnws/nl/2026/09/02/oorlog-rusland-oekraine-vladymyr-poetin-volodymyr-zelensky-balli/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/9e7c7ae5-99c7-4a1c-90ec-2968d84f8dbc.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/9e7c7ae5-99c7-4a1c-90ec-2968d84f8dbc.jpg?width=200&height=200&q=80&blur=90"
+        },
+        {
+          "id": "ba1154913a",
+          "title": "In Magdeburg: 'Far-right could seize power here for the first time since World War II'",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/05/video-bram-vandeputte-over-saksen-anhalt/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/05/f8b6f959-8db7-43f3-812e-7ce3ef948a26.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "925f83d8f4",
+          "title": "Refugee boat sinks after distress calls resulting in 31 deaths; rescue arrived 12 hours later—trial begins in Paris",
+          "url": "https://www.demorgen.be/snelnieuws/boot-met-vluchtelingen-zonk-na-noodoproepen-met-31-doden-tot-gevolg-hulp-kwam-pas-12-uur-later-proces-start-in-parijs~b60ec629/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-06T02:31:00+00:00",
+          "image_url": "https://image.demorgen.be/276627405/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "d269d0d3d7",
+          "title": "European fighter jet crashes during airshow in Greece: 2 fatalities",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/05/straaljager-crasht-tijdens-vliegshow-in-griekenland-2-dodelijke/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/05/4fc175f8-7055-4ed8-9a6f-9807fd5bd3ef.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Iran is escalating regional threats by demanding new military attacks in the Middle East, including strikes against three American naval vessels. A remarkable rescue operation in Nepal recovered workers who had been trapped alive for up to 10 days in a flooded tunnel—a survival feat described as 'extraordinarily rare.' Australia is experiencing potentially its warmest start to spring since the mid-1800s, with Sydney reaching 33°C while southern regions face unusual snow forecasts. In the United States, surveillance technology has sparked rare bipartisan opposition over privacy concerns.",
+      "headlines": [
+        {
+          "id": "d1b40d00cb",
+          "title": "Middle East War Update: Iran demands new attacks, including 3 on American ships",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/iran-eist-nieuwe-aanvallen-op-waaronder-3-op-amerikaanse-schepe~1784611610051/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/05/172872e3-572e-42da-ad5a-f82a21352d0f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
           "id": "fc25d0aada",
-          "title": "How could workers survive up to 10 days in a flooded tunnel in Nepal? Particularly rare",
+          "title": "Asia: How were workers able to survive for up to 10 days in a flooded tunnel in Nepal? 'Extraordinarily rare'",
           "url": "https://www.vrt.be/vrtnws/nl/2026/09/05/hoe-drie-arbeiders-overleven-in-tunnel-in-nepal/",
           "source": "vrt",
           "source_label": "VRT NWS",
@@ -299,14 +329,24 @@
           "image_url": "https://images.vrt.be/vrtnws_web/2026/09/04/d98d85d6-20db-4fb2-92f3-0b38546ee387.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "ed126ff8e1",
-          "title": "Third worker rescued from power plant tunnels, 10 days after flooding",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/derde-arbeider-in-nepal-gered-uit-tunnels-van-waterkrachtcentral~1787818862709/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/05/4f0ad332-6518-4ddb-872d-e2f40a1958da.jpg?width=200&height=125&q=80&blur=90"
+          "id": "6d45043f81",
+          "title": "Sydney reaches 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-05T07:27:24+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/d887c12ed110bc6933132a94ed89b54555c6f658/12_0_2462_1970/master/2462.jpg?width=700&quality=85&auto=format&fit=max&s=d72b3675c86885b96a61408b64c52f97"
+        },
+        {
+          "id": "0bda41ca8c",
+          "title": "Flock surveillance cameras spur rare bipartisan backlash in the US",
+          "url": "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-05T14:00:37+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/e4d1851cb1d29f8deb1840d7271a1a9965ac6d0d/272_0_2999_2399/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=ec9a08c9e74d994d4a16991ec217a435"
         }
       ]
     },
