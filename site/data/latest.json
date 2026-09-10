@@ -1,97 +1,251 @@
 {
-  "generated_at": "2026-09-08T06:37:44.358744+00:00",
-  "date": "2026-09-08",
-  "degraded": true,
+  "generated_at": "2026-09-10T05:11:09.390293+00:00",
+  "date": "2026-09-10",
+  "degraded": false,
   "top_general": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "summary_he": "המלחמה באיראן ממשיכה להעסיק את הזירה הבינלאומית, כאשר יועצי טראמפ מזהירים כי היא עלולה להימשך עד סוף כהונתו ב-2029, וסוכנות האנרגיה האטומית הגישה תלונה נגד איראן למועצת הביטחון. במקביל, טראמפ חגג את ניצחון הימין הקיצוני בבחירות בגרמניה, ונשיא סרביה פיזר את הפרלמנט בניסיון להאריך את שלטונו. בישראל, צה\"ל ממשיך בתקיפות בלבנון במטרה להשמיד את מנהרות חיזבאללה.",
     "headlines": [
       {
-        "id": "460f0944f1",
-        "title": "\"הקצב מסרברניצה\" נקבר כגיבור בסרביה, זעם באיחוד האירופי: \"אין מקום להאדרת פושעי מלחמה\"",
-        "url": "https://www.haaretz.co.il/news/world/europe/2026-09-07/ty-article/000001a0-7c83-db0b-a1f2-7ebb342a0000",
+        "id": "795b7b3b12",
+        "title": "טראמפ הבטיח שהמלחמה באיראן תסתיים - יועציו מזהירים: היא עלולה להימשך עד 2029",
+        "url": "https://news.walla.co.il/item/3866824",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-09T21:39:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/2/4092367-46.jpg"
+      },
+      {
+        "id": "c6bbaa8719",
+        "title": "לראשונה לאחר שני עשורים, סבא\"א הגישה תלונה נגד איראן למועצת הביטחון של האו\"ם",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-09/ty-article/.premium/000001a0-8733-d9dc-a9a9-87f76e9a0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-09-07T16:44:51+00:00",
+        "published_at": "2026-09-09T18:28:04+00:00",
         "image_url": null
       },
       {
-        "id": "bbe817c748",
-        "title": "הרמטכ\"ל, הקצין הניצי שלא קודם או מי שכבר היה בתפקיד: מי יהיה שר הביטחון הבא?",
-        "url": "https://www.ynet.co.il/news/elections2026/article/r1potnhumx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-08T04:58:17+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/SJjQBGaOze/SJjQBGaOze_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "7fd2320060",
-        "title": "שר הביטחון של הפריימריז: הדחת האלוף - והכתם של כ\"ץ",
-        "url": "https://13tv.co.il/item/news/opinions/zucb9-905294439/?pid=62&refc=902992437",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "b7a2c9c767",
-        "title": "החוק נכנס לתוקף: אוסטריה אוסרת על תלמידות מוסלמיות לעטות כיסוי ראש",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-dc80882b24b70a1027.htm",
+        "id": "cc3e408366",
+        "title": "\"לילה גדול מאוד\": טראמפ חגג את ניצחון הימין הקיצוני בגרמניה",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-028985bdb1580a1026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-09-07T09:56:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/07/muslimwoman07091_re_autoOrient_i.jpg"
+        "published_at": "2026-09-09T07:44:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/06/21/AP26169016279094_autoOrient_i.jpg"
       },
       {
-        "id": "f3cba9011f",
-        "title": "Armed attacker arrested after lunging at Ohio Jewish gubernatorial candidate Amy Acton",
-        "url": "https://www.timesofisrael.com/armed-attacker-arrested-after-lunging-at-ohio-jewish-gubernatorial-candidate-amy-acton/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-08T01:52:13+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/Amy-Acton-1024x640.jpg"
-      },
-      {
-        "id": "11eae44223",
-        "title": "עם סגן אלוף במילואים במקום ריאלי: זו רשימת ש\"ס לכנסת",
-        "url": "https://www.ynet.co.il/news/elections2026/article/hkjzuqtofe",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-08T06:16:38+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/09/29/H1lc8mjLA0/H1lc8mjLA0_0_261_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "39a1fde992",
-        "title": "תיעוד: כתב רשת אל-מנאר נפצע בתקיפה בנבטיה - בזמן ששידר",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b58105ebdcb70a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-07T12:33:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/07/katav07091_autoOrient_i.jpg"
-      },
-      {
-        "id": "436f881a1c",
-        "title": "שרידים של עשרות גופות, ובהן ילדים, נקברו בלוויה המונית בעזה. אלפים עדיין נעדרים",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-07/ty-article/.premium/000001a0-7d0b-d825-afb5-fd7f15580000",
+        "id": "e6405dc9c8",
+        "title": "נשיא סרביה לא יכול להתמודד שוב לנשיאות. הוא פיזר את הפרלמנט וינסה להאריך את שלטונו כראש ממשלה",
+        "url": "https://www.haaretz.co.il/news/world/europe/2026-09-09/ty-article/.premium/000001a0-860d-d148-afbd-f62df1650000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-09-07T19:04:16+00:00",
+        "published_at": "2026-09-09T12:42:47+00:00",
         "image_url": null
+      },
+      {
+        "id": "b0cf79c896",
+        "title": "הפצצות בנבטיה, נחישות בצה\"ל להשמיד את מנהרות חיזבאללה ברכס עלי טאהר",
+        "url": "https://www.ynet.co.il/news/article/bjehi41kzx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-09T20:32:32+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/SyPd8Eytfl/SyPd8Eytfl_45_0_1191_670_0_medium.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
-    "headlines": []
+    "summary_he": "דיווחים מצביעים על פגיעה במטוסי קרב אמריקניים בתקיפה איראנית בירדן, כאשר על פי דיווח שמונה מטוסי F-15 ניזוקו. צה\"ל ממשיך בהפצצות באזור נבטיה בלבנון מתוך נחישות להשמיד את מנהרות חיזבאללה, ונתניהו הצהיר מהחרמון הסורי כי ישראל תכריע את המשטר באיראן, זאת בעת שצה\"ל נערך גם לאיומים מעזה ומתימן.",
+    "headlines": [
+      {
+        "id": "26b7cb3291",
+        "title": "איראן פגעה במטוסי קרב אמריקניים: שמונה מטוסי F-15 ניזוקו",
+        "url": "https://www.makorrishon.co.il/news/world-news/article/369520",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "1abdf77097",
+        "title": "דיווח: מטוסי קרב אמריקניים נפגעו בתקיפה האיראנית בירדן",
+        "url": "https://www.kan.org.il/content/kan-news/defense/live-1098217/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "b0cf79c896",
+        "title": "הפצצות בנבטיה, נחישות בצה\"ל להשמיד את מנהרות חיזבאללה ברכס עלי טאהר",
+        "url": "https://www.ynet.co.il/news/article/bjehi41kzx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-09T20:32:32+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/SyPd8Eytfl/SyPd8Eytfl_45_0_1191_670_0_medium.jpg"
+      },
+      {
+        "id": "420c780346",
+        "title": "שלוש שנים, שתי תמונות, נתניהו אחד - ופער בלתי נתפס שלוש שנים אחרי סרטון \"המשקפיים הוורודים\", נתניהו עלה לחרמון הסורי בלוק ביטחוני והצהיר כי ישראל תכריע את משטר הטרור באיראן. במקביל, בצה\"ל נערכים לאיומים מלבנון, עזה ותימן",
+        "url": "https://www.maariv.co.il/news/military/article-1364853",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "bb6f35f49b",
+        "title": "משפרים תנועה וביצועים באוויר: הטילים של איראן שמדאיגים את ארה\"ב",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-549c4c04c3580a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-09T08:17:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/09/tilbalisti09093_autoOrient_i.jpg"
+      }
+    ]
   },
-  "subjects": [],
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "טראמפ חגג את ניצחון הימין הקיצוני בבחירות בגרמניה, בעוד נשיא סרביה פיזר את הפרלמנט בניסיון להאריך את שלטונו כראש ממשלה. בבריטניה מסר גורם רשמי כי התנהלות הממשלה הישראלית הבאה עשויה להשפיע על היקף הסנקציות בגדה המערבית.",
+      "headlines": [
+        {
+          "id": "e6405dc9c8",
+          "title": "נשיא סרביה לא יכול להתמודד שוב לנשיאות. הוא פיזר את הפרלמנט וינסה להאריך את שלטונו כראש ממשלה",
+          "url": "https://www.haaretz.co.il/news/world/europe/2026-09-09/ty-article/.premium/000001a0-860d-d148-afbd-f62df1650000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-09T12:42:47+00:00",
+          "image_url": null
+        },
+        {
+          "id": "cc3e408366",
+          "title": "\"לילה גדול מאוד\": טראמפ חגג את ניצחון הימין הקיצוני בגרמניה",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-028985bdb1580a1026.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-09-09T07:44:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/06/21/AP26169016279094_autoOrient_i.jpg"
+        },
+        {
+          "id": "4e37589f0b",
+          "title": "UK official says behavior of next Israeli government could affect scope of West Bank sanctions",
+          "url": "https://www.timesofisrael.com/uk-official-says-behavior-of-next-israeli-government-could-affect-scope-of-west-bank-sanctions/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-09-09T19:57:25+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/F260909CG05-1-1024x640.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "טראמפ הבטיח תשלום של 5,000 דולר לכל אזרח אמריקני אם ינצח בבחירות, זאת בעוד שבבורסות אסיה נרשמות ירידות בעקבות המסחר בוול סטריט, עם ירידה של 1.5% בסידני.",
+      "headlines": [
+        {
+          "id": "59c2843d65",
+          "title": "טראמפ: נשלם 5,000 דולר לכל אזרח אם ננצח בבחירות",
+          "url": "https://www.themarker.com/wallstreet/2026-09-10/ty-article/.premium/000001a0-8942-d219-a3ed-bdda168b0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-10T03:13:56+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000017f-e147-d804-ad7f-f1ffd37b0000/7c/04/329d9f49a6b97c6d07bb8e2c5f03/729393472.jpg?width=108&height=81"
+        },
+        {
+          "id": "0487d5d999",
+          "title": "ירידות באסיה בעקבות וול סטריט; סידני יורדת ב-1.5%",
+          "url": "https://www.themarker.com/wallstreet/2026-09-10/ty-article-live/000001a0-708b-d45c-a7aa-f2ffaaba0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-10T04:23:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-8469-d4aa-a7fd-f66f32890000/a9/0f/838d177f4431a421f884d2dfda62/056711.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "health",
+      "label_he": "בריאות ורפואה",
+      "summary_he": "מחקר חדש מצא כי למעלה ממחצית ממתמחי הרפואה בישראל מתכננים לעבור לחו\"ל, נתון המעורר חשש למחסור ברופאים במערכת הבריאות.",
+      "headlines": [
+        {
+          "id": "5022402419",
+          "title": "Study finds more than 50% of Israeli medical residents plan to move abroad",
+          "url": "https://www.timesofisrael.com/study-finds-more-than-50-of-israeli-medical-residents-plan-to-move-abroad/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-09-09T19:57:28+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/F220730TN16-1024x640.jpg"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "גוגל תקים צוות חדש לפיתוח שבבי בינה מלאכותית בישראל, תוך גיוס כישרונות מקומיים לתחום.",
+      "headlines": [
+        {
+          "id": "4c156d8164",
+          "title": "Google to set up new AI chip team in Israel, tapping local talent",
+          "url": "https://www.timesofisrael.com/google-to-set-up-new-ai-chip-team-in-israel-tapping-local-talent/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-09-09T17:40:25+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2024/01/shutterstock1134005837-1024x640.jpg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "משרד האנרגיה מזהיר כי אימוץ הרכב החשמלי בישראל צפוי להמשיך לרדת ללא תמיכה דחופה בתחום.",
+      "headlines": [
+        {
+          "id": "948ef27f61",
+          "title": "Electric car adoption will continue to slide without urgent support, Energy Ministry says",
+          "url": "https://www.timesofisrael.com/electric-car-adoption-will-continue-to-slide-without-urgent-support-energy-ministry-says/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-09-10T04:31:29+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/F260813YA025-1024x640.jpg"
+        }
+      ]
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "בעקבות עתירה לבג\"ץ, אושרה אפשרות ל'הסעה שנייה גמישה' בחינוך המיוחד גם לתלמידים עם מוגבלות פיזית.",
+      "headlines": [
+        {
+          "id": "f6503582e0",
+          "title": "בעקבות העתירה לבג\"ץ: 'הסעה שנייה גמישה' בחינוך המיוחד תתאפשר גם לתלמידים עם מוגבלות פיזית",
+          "url": "https://news.walla.co.il/item/3866821",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-09-09T20:56:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/1/6/2/0/1620833-46.jpg"
+        }
+      ]
+    }
+  ],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -102,191 +256,170 @@
     "globes",
     "themarker",
     "times_of_israel",
+    "maariv",
     "makor_rishon",
     "reshet13",
     "i24"
   ],
-  "sources_failed": [
-    "maariv"
-  ],
+  "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "The European Union and United Kingdom are implementing stricter trade measures against Israeli settlements, with the EU preparing an import ban on goods from illegal settlements while the UK adopts a tougher diplomatic stance. Israeli military operations in Lebanon resulted in 12 deaths following airstrikes on a southern village. The electoral success of Germany's far-right AfD party has alarmed Jewish communities across Europe who fear rising antisemitism, while in the United States an armed attacker was arrested after attempting to assault a Jewish gubernatorial candidate in Ohio.",
+      "summary_en": "Multiple developments involving Israel dominated headlines this week. West Bank settlements remain a contentious issue, with reporting on villages earmarked for Israeli expansion, while senior UK rabbis have publicly backed sanctions against Israeli settlements. An antisemitic stabbing attack on the Upper West Side of New York drew attention, with prosecutors revealing that the attacker had sent antisemitic messages. British officials indicated that UK sanctions on Israeli settlements will not affect intelligence-sharing with Israeli spy agencies. Polling data show that two-thirds of U.S. Jewish voters plan to support Democratic candidates in the November elections.",
       "headlines": [
         {
-          "id": "83ef8a225a",
-          "title": "Live - EU Working on Import Ban for Goods from Illegal Israeli Settlements",
-          "url": "https://www.demorgen.be/snelnieuws/live-vk-werkt-aan-importban-voor-goederen-uit-illegale-israelische-nederzettingen~ba7f8873/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-08T01:59:00+00:00",
-          "image_url": "https://image.demorgen.be/277470073/roi/320/320/691.1999999999999/529.2/afbeelding"
-        },
-        {
-          "id": "442c5b00f6",
-          "title": "UK to Adopt Tougher Stance on Israel with Illegal Settlements Trade Ban",
-          "url": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-07T18:34:37+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/a4f6226b391e4d444522dbf5d467fe78aeeb6baa/317_0_3264_2612/master/3264.jpg?width=700&quality=85&auto=format&fit=max&s=5b98aeb83c0c62399f8be43f07ac4486"
-        },
-        {
-          "id": "115206efe7",
-          "title": "Israeli Strikes in Southern Lebanese Village Kill 12",
-          "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+          "id": "55dca51cde",
+          "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+          "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-09-07T13:39:23+00:00",
+          "published_at": "2026-09-09T22:17:22+00:00",
           "image_url": null
         },
         {
-          "id": "eb96e3a3da",
-          "title": "An AfD Win Has Panicked Some Jews Who Fear a Throwback to Nazi Germany",
-          "url": "https://www.jta.org/2026/09/07/global/an-afd-win-has-panicked-some-jews-who-fear-a-throwback-to-nazi-germany",
+          "id": "0f19dfdfaa",
+          "title": "UWS stabber sent antisemitic texts before attack, prosecutors say",
+          "url": "https://www.jta.org/2026/09/09/ny/uws-stabber-sent-antisemitic-texts-before-attack-prosecutors-say",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-09-07T23:29:25+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/09.07.26-AfD2.jpg"
+          "published_at": "2026-09-09T22:00:57+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/07/07.23.26-NYPED.jpg"
         },
         {
-          "id": "e70419a762",
-          "title": "Armed Attacker Arrested After Lunging at Ohio Jewish Gubernatorial Candidate Amy Acton",
-          "url": "https://www.jta.org/2026/09/07/politics/armed-attacker-arrested-after-lunging-at-ohio-jewish-gubernatorial-candidate-amy-acton",
+          "id": "255ec7ea1f",
+          "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
+          "url": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-09T17:57:14+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/fdbeecaf4425a634430458a9674bd82c7d8303b3/342_0_3417_2733/master/3417.jpg?width=700&quality=85&auto=format&fit=max&s=d4826f9129eb8a7ade38be2263d42aaa"
+        },
+        {
+          "id": "c95a60a865",
+          "title": "Israel sanctions will not hurt intelligence sharing between spy agencies, says Miliband",
+          "url": "https://www.theguardian.com/politics/2026/sep/09/israel-sanctions-will-not-hurt-intelligence-sharing-between-spy-agencies-says-miliband",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-09T16:14:41+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/854d9f1256bb007a8d9bb69877b1d44b3c3d7d48/341_100_4027_3221/master/4027.jpg?width=700&quality=85&auto=format&fit=max&s=a4cef3edf8e0a653cef3ce827f093d56"
+        },
+        {
+          "id": "6956b2a5a0",
+          "title": "Poll shows two-thirds of U.S. Jewish voters will favor Democrats in November",
+          "url": "https://www.jta.org/2026/09/09/politics/poll-shows-two-thirds-of-u-s-jewish-voters-will-favor-democrats-in-november",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-09-07T21:19:01+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/Amy-Acton.jpg"
+          "published_at": "2026-09-09T14:12:03+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2024/04/GettyImages-2126142915-scaled-e1712162342528.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Brussels faced a corruption scandal when a local detective was arrested for stealing €25,000 in cash during a house search operation. Agricultural policy remains a contentious issue in Flanders, with Minister Brouns advocating for an additional 165,000 hectares of agricultural land. A long-standing legal case involving the death of a woman who fell down the stairs eight years ago has resurfaced, with her husband continuing to deny involvement despite the passage of time.",
+      "summary_en": "Belgian news this week covered health, public safety, and technology topics. More than 207,000 Belgians are currently using sleep apnea treatment devices, with patients describing life-changing benefits. Two minors were arrested for a serious assault on a commuter at Lievegem station. University education news emerged as Rector De Sutter denied any involvement in a disciplinary proceeding against Nathan Cofnas, calling the allegations a \"framing.\" Additionally, a Belgian radio AI bot made headlines by hallucinating on air and insulting broadcaster Kobe Ilsen.",
       "headlines": [
         {
-          "id": "dea98c26d3",
-          "title": "Brussels Detective Arrested After Stealing €25,000 Cash During House Search",
-          "url": "https://www.hln.be/brussel/brusselse-speurder-aangehouden-nadat-hij-25-000-euro-cash-steelt-tijdens-huiszoeking~a3693175/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-08T05:15:00+00:00",
-          "image_url": "https://images.hln.be/OTdlZDdjNmFiMGE2MWZiMGYwYTEvZGlvLzI3NzUzMTYzNy9maXQtd2lkdGgvNDAw/politie-hoofdstad-elsene-geld-euro-bankbiljet-argent-euros-billets-de-banque-picture-not-included-in-the-contract"
-        },
-        {
-          "id": "136fb51784",
-          "title": "Live - Minister Brouns Wants Agricultural Land to Expand by Additional 165,000 Hectares in Flanders • De Wever Surprises Meloni with Italian",
-          "url": "https://www.demorgen.be/snelnieuws/live-minister-brouns-wil-dat-landbouwgrond-nog-met-165-000-hectare-kan-uitbreiden-in-vlaanderen-de-wever-verrast-meloni-met-italiaans~bf7e76f4/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-08T04:46:00+00:00",
-          "image_url": "https://image.demorgen.be/273831348/roi/320/320/834.0200000000001/882.9000000000001/afbeelding"
-        },
-        {
-          "id": "275b36c00c",
-          "title": "Elisabeth (38) Dies After Fall Down Stairs, Husband Denies Everything After 8 Years: 'I Only Wanted to Do What Was Best'",
-          "url": "https://www.hln.be/binnenland/elisabeth-38-sterft-na-val-van-trap-echtgenoot-ontkent-na-8-jaar-alles-ik-heb-alleen-willen-doen-wat-het-beste-was~a719fc7e/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-08T04:01:00+00:00",
-          "image_url": "https://images.hln.be/NWUzNjZkMTRhMzY0NzlkZDkyM2IvZGlvLzI3NzUxOTg1MC9maXQtd2lkdGgvNDAw/trapmoord"
-        }
-      ]
-    },
-    "europe": {
-      "summary_en": "Staff at the Eiffel Tower in Paris staged a walkout after women were excluded from a guided tour during a visit by a Hindu delegation, prompting industrial action over alleged gender discrimination. Ukraine's prosecutor general has resigned following a corruption scandal within his office, reflecting ongoing governance challenges in the country. French President Macron proposed a continent-wide ban on social media access for children under 15 years old. Germany's far-right AfD electoral victory has sent shockwaves through Europe's centre-right establishment, highlighting growing concerns about nationalist movements gaining political ground.",
-      "headlines": [
-        {
-          "id": "cb9cedfae2",
-          "title": "Eiffel Tower Staff Lay Down Work After Women Sidelined for Hindu Group Visit",
-          "url": "https://www.hln.be/buitenland/eiffeltorenpersoneel-legt-werk-neer-nadat-vrouwen-opzij-werden-gezet-voor-bezoek-hindoeistische-groep~a3a12f9ed/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-08T05:32:00+00:00",
-          "image_url": "https://images.hln.be/NTI0ZjNhOTEzMWIwNjFlNDllNzkvZGlvLzI3NzM1NTAzOC9maXQtd2lkdGgvNDAw/members-of-the-bochasanwasi-akshar-purushottam-swaminarayan-sanstha-baps-hindu-community-pass-the-eiffel-tower-as-they-take-part-in-a-ceremonial-river-parade-on-the-river-seine-in-paris-on-september-3-2026-as-part-of-a-series-of-religious-celebrations-and-rituals-photo-by-kenzo-tribouillard-afp"
-        },
-        {
-          "id": "25c6aa0711",
-          "title": "Europe: Ukrainian Prosecutor General Submits Resignation After Corruption Scandal Within His Office",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/08/oekraine-corruptie-procureur-generaal-roeslan-kravtsjenko/",
+          "id": "6f09272636",
+          "title": "Health: 207,000 Belgians already sleep with a sleep apnea device: 'I wouldn't want to be without it anymore'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/08/georges-en-frederik-dragen-een-apneumasker/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/08/f9dcb6a9-a647-4f74-aaec-84abf9b50565.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/09/bb980c6c-774b-4332-a2c5-3101a93a42f5.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "def091884c",
-          "title": "Macron Wants European Ban on Social Media for Children Under 15 Years",
-          "url": "https://www.demorgen.be/snelnieuws/macron-wil-europees-verbod-op-sociale-media-voor-kinderen-onder-15-jaar~b0cdb188/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-07T21:23:00+00:00",
-          "image_url": "https://image.demorgen.be/250063836/feature-crop/320/320/afbeelding"
+          "id": "f7a3c3f492",
+          "title": "Justice: Two minors arrested for serious assault on commuter at Lievegem station",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/09/lievegem-gerecht-geweld-diefstal-2-minderjarigen-slachtoffer-blo/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/09/05249ce8-48a6-4886-8260-eff12f0b19e7.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "f219766d03",
-          "title": "Europe's Centre Fears Nationalist Wave After AfD Victory but Only Has Itself to Blame",
-          "url": "https://www.theguardian.com/world/2026/sep/07/afd-germany-far-right-saxony-anhalt-nationalist-wave-europe-analysis",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-07T16:13:05+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/e0e67c8fd326ff0e986ef1f535a399a0fbb3649a/823_0_4115_3292/master/4115.jpg?width=700&quality=85&auto=format&fit=max&s=5fe1f0bf6a7c7a47d65b1b97c03f7f83"
+          "id": "5877508240",
+          "title": "Education: Rector De Sutter denies involvement in disciplinary procedure against Nathan Cofnas: 'This is framing'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/10/de-sutter-in-de-afspraak-over-cofnas/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/09/deb20f72-b384-4bef-8d31-c7b284d7b2e1.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "872f21eb75",
+          "title": "Artificial Intelligence: AI bot hallucinates live on Radio 1 and insults Kobe Ilsen",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/09/-je-bent-gewoon-nederlands-aan-het-lullen-grok-hallucineert-li/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/09/9f0b2bd3-e119-4771-8784-866fa342cb46.png?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "European stories this week ranged from conflict to natural disaster to policy discussions and sports. Norway's prime minister reported that President Zelensky's aircraft narrowly escaped being hit by a drone en route to King Harald's funeral, highlighting ongoing threats in the Russia-Ukraine war. A devastating tornado swept through a French village, captured in newly released surveillance footage. European mobility policy was in focus, with discussions about shifting from targets to actionable conditions for transportation reform. In sports, the Champions League continued with Barcelona's dominant performance against Feyenoord.",
+      "headlines": [
+        {
+          "id": "bd81dd4da1",
+          "title": "Mobility: Europe must move from targets to the conditions for delivering them",
+          "url": "https://www.politico.eu/sponsored-content/mobility-europe-must-move-from-targets-to-the-conditions-for-delivering-them/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-10T03:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "6e409f484c",
+          "title": "Russia-Ukraine War LIVEBLOG: Norwegian Prime Minister: 'Zelensky's aircraft nearly hit by drone' en route to King Harald's funeral",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/noorse-premier-vliegtuig-van-zelensky-bijna-geraakt-door-drone~1781787179742/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/09/a4db4d2a-3689-4be3-b77b-0aedd38befcf.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "1d59133136",
+          "title": "France: New surveillance footage shows how tornado raced through French village in no time",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/09/video-tornado-raast-over-pomas-bewakingsbeelden/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/09/d91e47a6-5b86-4f29-ad9c-6685f5ec7f66.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "c98e0930fe",
+          "title": "Champions League: Barcelona sweeps the floor with Feyenoord, Yamal scores first free kick ever",
+          "url": "https://sporza.be/nl/matches/voetbal/eur/uefa-champions-league/2026-2027/leaguefase/01/fc-barcelona-feyenoord-weer-leggen-ze-er-5-binnen-barcelona-veegt-vloer-aan-met-feyenoord-yamal-scoort-eerste-vrije-trap-ooit~1781707268945/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/09/2d6f1e4b-6659-488e-8657-a3c8c3fa4aeb.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "North Korea and Russia opened their first road bridge, strengthening military and economic ties between the two countries amid international tensions. Piracy has resurged off the coast of Somalia as criminal groups exploit regional instability to resume maritime hijackings. Australia's high court heard arguments regarding a ban on a neo-Nazi party, with defendants claiming the prohibition is authoritarian and unconstitutional. A murder trial began in Mexico involving the deaths of Australian surfers and an American, marking a significant development in an international criminal case.",
+      "summary_en": "August 2026 has been declared the hottest month ever recorded globally, marking another significant milestone in climate records and continuing a concerning trend of escalating global temperatures.",
       "headlines": [
         {
-          "id": "01edd8a066",
-          "title": "North Korea and Russia Open First Road Bridge Linking Both Countries",
-          "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-09-08T03:53:27+00:00",
+          "id": "20b275288b",
+          "title": "August declared the hottest month ever recorded",
+          "url": "https://www.politico.eu/article/august-declared-the-hottest-month-ever-recorded/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-10T02:00:00+00:00",
           "image_url": null
-        },
-        {
-          "id": "b23b07a359",
-          "title": "Hijacking Pirates Exploit Regional Chaos to Return to Seas Off Somalia",
-          "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-08T04:00:27+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/8fe8026e236cc5ba1a9f19e4b6faddfdba2da4bb/0_0_1238_990/master/1238.jpg?width=700&quality=85&auto=format&fit=max&s=2982d5943f8a139f63b2d070df9a27ca"
-        },
-        {
-          "id": "894730a856",
-          "title": "Ban on Neo-Nazi White Australia Party Is 'Authoritarian' and Breaches Constitution, High Court Hears",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/08/neo-nazi-white-australia-ban-authoritarian-breaches-constitution-high-court-ntwnfb",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-08T04:58:44+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/b6c563876bfd399c6a2fda562c3dc0c4eb93b549/1857_1447_3849_3080/master/3849.jpg?width=700&quality=85&auto=format&fit=max&s=5d563ba804ae58bb291a2698dedef6bd"
-        },
-        {
-          "id": "caac094df0",
-          "title": "'I Heard a Lot of Noise': Trial Begins in Mexico for Alleged Killers of Australian Surfers and American Friend",
-          "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-08T02:00:24+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/246_0_2463_1970/master/2463.jpg?width=700&quality=85&auto=format&fit=max&s=d412d949f4cd5224587f5905a63d08c7"
         }
       ]
     },
