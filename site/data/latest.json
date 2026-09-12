@@ -1,124 +1,124 @@
 {
-  "generated_at": "2026-09-11T07:02:11.834358+00:00",
-  "date": "2026-09-11",
+  "generated_at": "2026-09-12T12:44:21.442252+00:00",
+  "date": "2026-09-12",
   "degraded": false,
   "top_general": {
-    "summary_he": "החות'ים מתקדמים לאורך הים האדום ומאיימים על צוואר הבקבוק העולמי, מה שמשפיע כבר על מחירי הדלק והנפט ומוביל לירידות בבורסות אסיה. במקביל, נפטרה בגיל 101 רחל רבין יעקב, אחותו של יצחק רבין. בבריטניה שוקלים סנקציות על בנקים ישראליים בשל פעילות בהתנחלויות.",
+    "summary_he": "המתיחות באזור ממשיכה להסלים: השיחות בין ישראל ללבנון נדחו לחודש הבא, בעוד סעודיה נאלצה להשבית צינור נפט מרכזי לאחר תקיפת כטב״ם ששוגר מעיראק. החות׳ים השלימו השתלטות על מצר באב אל-מנדב, מהלך שמעורר חשש בשווקי האנרגיה העולמיים, ובמקביל וול סטריט ננעלה בעלייה חרף אינפלציה גבוהה.",
     "headlines": [
       {
-        "id": "2a8e4cadfb",
-        "title": "איום על צוואר הבקבוק העולמי: החות'ים מתקדמים למעוז האסטרטגי בים סוף",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-cc98124b85a80a1026.htm",
+        "id": "d341edf01d",
+        "title": "דיווח: נדחו השיחות בין ישראל ללבנון שתוכננו להתקיים בשבוע הבא ברומא",
+        "url": "https://www.haaretz.co.il/news/politics/2026-09-12/ty-article/.premium/000001a0-9392-d388-a7ec-d39a4c620000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-12T03:49:31+00:00",
+        "image_url": null
+      },
+      {
+        "id": "84f69e6fad",
+        "title": "סעודיה: צינור הנפט מזרח־מערב מושבת זמנית לאחר שניזוק מכטב\"ם ששוגר מעיראק",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-12/ty-article/.premium/000001a0-921a-d219-a3ed-bfda612b0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-12T00:18:00+00:00",
+        "image_url": null
+      },
+      {
+        "id": "f1dc7dcef1",
+        "title": "דיווח: החות'ים השלימו את השתלטותם על מצר באב אל-מנדב",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-7e0b72e4f9f80a1026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-09-10T08:03:00+00:00",
-        "image_url": "https://img.mako.co.il/2025/08/28/houtisss_put_CI_re_autoOrient_i.jpg"
-      },
-      {
-        "id": "a90efaeb89",
-        "title": "החות'ים מתקדמים לאורך הים האדום - והדיזל בארה\"ב חצה לראשונה 6 דולר לגלון",
-        "url": "https://news.walla.co.il/item/3867158",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-11T06:06:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/8/7/3887168-46.jpg"
+        "published_at": "2026-09-11T08:40:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/02/NAVALHOUTHIIRANTERROR_autoOrient_i.jpg"
       },
       {
         "id": "316f02e458",
-        "title": "ירידות בבורסות אסיה: טוקיו מאבדת יותר מ-2%; הנפט נסחר ביותר מ-105 דולר לחבית",
+        "title": "וול סטריט ננעלה בעלייה של 1% למרות האינפלציה הגבוהה ועל רקע נסיגת מחירי הנפט",
         "url": "https://www.themarker.com/wallstreet/2026-09-11/ty-article-live/000001a0-708b-d45c-a7aa-f2ffaaba0000",
         "source": "themarker",
         "source_label": "TheMarker",
         "source_label_he": "TheMarker",
-        "published_at": "2026-09-11T05:25:00+00:00",
-        "image_url": "https://img.haarets.co.il/bs/000001a0-8eef-d2cb-a9b6-aeef20530000/54/3a/4321c9f34290b894b728df0695e4/352402.jpg?width=108&height=81"
-      },
-      {
-        "id": "bb9329b7f6",
-        "title": "דמות מופת גלילית: רחל רבין, אחותו של יצחק רבין, הלכה לעולמה בגיל 101",
-        "url": "https://news.walla.co.il/item/3867062",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-11T08:36:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/2/9/4/8/2948247-46.jpeg"
-      },
-      {
-        "id": "a9479d26a4",
-        "title": "גורמים בכירים בבריטניה: שוקלים להטיל סנקציות על בנקים בישראל שעוזרים להתנחלויות ביו\"ש",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-57bf4ad555780a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-10T06:05:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/09/n20-0909-Bb-ibud-1-1_re_autoOrient_i.jpg"
+        "published_at": "2026-09-11T20:20:00+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a0-9009-d219-a3ed-bddb47100000/49/07/0b7890764bedb335f63ad1b792c4/387218.jpg?width=108&height=81"
       }
     ]
   },
   "security_war": {
-    "summary_he": "צה\"ל השמיד מתחם חיזבאללה ברכס עלי טאהר בדרום לבנון וכן מערך מנהרות גדול של הארגון, על רקע חשש מהסלמה גם מול איראן לקראת החגים. צה\"ל הוכרז בכוננות עליונה בכלל הגזרות, ובגבול ירדן סוכלה הברחת נשק. במקביל התגלה כי איראן והחות'ים משתמשים בבינה מלאכותית לריגול ולייצור נשק.",
+    "summary_he": "דיווחים חדשים חושפים כי איראן קיבלה מסין צילומי לוויין ששימשו לתקיפה בירדן שבה נהרגו שלושה אמריקנים, על רקע העמקת המעורבות האמריקנית מול איראן ותימן. בלבנון, לאחר השמדת רכס עלי טאהר, צה״ל מבהיר כי לא ייסוג מהקו הצהוב, ובגרמניה הוגש כתב אישום נגד חשודים בתכנון פיגוע חמאס בברלין ובווינה.",
     "headlines": [
       {
-        "id": "b1c8882be9",
-        "title": "צה\"ל השמיד את מתחם חיזבאללה ברכס עלי טאהר שבדרום לבנון",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-10/ty-article/000001a0-8c36-d9dc-a9a9-8cf6bb4c0000",
+        "id": "dab01cfb9a",
+        "title": "ציר איראן-סין נחשף: צילומי לוויין הועברו לפני התקיפה שבה נהרגו 3 אמריקנים",
+        "url": "https://news.walla.co.il/item/3867284",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-12T04:47:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/4/9/8/3498855-46.jpg"
+      },
+      {
+        "id": "afd3857113",
+        "title": "דיווח: איראן קיבלה צילומי לוויין סיניים - ותקפה בסיס אמריקני בירדן",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b3a55ea4a9390a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-12T05:00:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/01/irantkifa01082_autoOrient_i.jpg"
+      },
+      {
+        "id": "a3f02bd89e",
+        "title": "ואנס שמע מקצינים הערכות עגומות על המלחמה באיראן. בפומבי הוא וטראמפ דיברו אחרת",
+        "url": "https://www.haaretz.co.il/news/world/america/2026-09-11/ty-article/.premium/000001a0-8db6-d3d7-aff4-effffd2b0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-09-10T17:42:39+00:00",
+        "published_at": "2026-09-11T06:30:39+00:00",
         "image_url": null
       },
       {
-        "id": "d10b5a725b",
-        "title": "יותר מאלף טון של חומר נפץ: צה״ל השמיד את מערך המנהרות של חיזבאללה",
-        "url": "https://www.makorrishon.co.il/news/defence/article/370151",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
+        "id": "02df80d990",
+        "title": "לאחר השמדת רכס עלי טאהר בלבנון, בצה\"ל מדגישים: לא ניסוג מהקו הצהוב",
+        "url": "https://www.haaretz.co.il/news/politics/2026-09-11/ty-article/000001a0-8f99-d9a4-a3a7-9ffb78f30000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-11T09:30:27+00:00",
         "image_url": null
       },
       {
-        "id": "fc4228a72e",
-        "title": "גם הסלמה עם איראן על הפרק: בדרך לחגים מתוחים, אחרי פיצוץ הרכס החשוב של חיזבאללה",
-        "url": "https://www.ynet.co.il/news/article/s1v00dlxymx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-10T21:33:34+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/HJb2xYFlKzg/HJb2xYFlKzg_136_0_1145_645_0_medium.jpg"
+        "id": "a39a407ec6",
+        "title": "התחבולה הצה\"לית, ונסיגת חיזבאללה: השמדת המנהרות ברכס עלי טאהר | גילויים חדשים",
+        "url": "https://news.walla.co.il/item/3867240",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-11T21:20:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/9/4099985-46.png"
       },
       {
-        "id": "fdfe71bce4",
-        "title": "לקראת חגי תשרי: צה\"ל בכוננות עליונה בכלל הגזרות",
-        "url": "https://13tv.co.il/item/news/politics/security/saodz-905354255/?pid=62&refc=902992371",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
-        "published_at": null,
-        "image_url": null
+        "id": "542f922358",
+        "title": "Germany charges 7 suspected Hamas members over Oct. 7 anniversary attack plot",
+        "url": "https://www.timesofisrael.com/germany-charges-7-suspected-hamas-members-over-oct-7-anniversary-attack-plot/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-09-12T06:02:00+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2023/10/AP23292258665175-e1697768228374-1024x640.jpg"
       },
       {
-        "id": "e93a8e3f0e",
-        "title": "כך ניצלו איראן והחות'ים את ה-AI כדי לרגל אחר ישראלים ולייצר נשק",
-        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21404413",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "c8b41add70",
-        "title": "08:44 34 אקדחים ושני רובי M-16: סוכלה הברחת 36 כלי נשק בגבול ירדן",
-        "url": "https://www.maariv.co.il/breaking-news/article-1365354",
-        "source": "maariv",
-        "source_label": "מעריב",
-        "source_label_he": "מעריב",
-        "published_at": null,
-        "image_url": null
+        "id": "bd287d0437",
+        "title": "Lebanese official to ToI: ‘Indiscriminate’ IDF strikes hinder Hezbollah disarmament",
+        "url": "https://www.timesofisrael.com/lebanese-official-to-toi-indiscriminate-idf-strikes-hinder-hezbollah-disarmament/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-09-11T18:10:30+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26251334618383-1024x640.jpg"
       }
     ]
   },
@@ -126,91 +126,185 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "כתבה חושפת מכונת תעמולה בשירות קטאר הפועלת נגד מצרים ופרשנים ישראלים, ולצד זאת נבחנת הדרך שבה נתניהו מתמודד עם מקורביו ויריביו הפוליטיים. הרמטכ\"ל אייל זמיר מתואר כמי שמנהל שישה זירות לחימה לצד עימותים עם פוליטיקאים.",
+      "summary_he": "לקראת הבחירות הקרובות, הרשימה המשותפת ורע\"מ חתמו על הסכם עודפים, ובסקרים מסתמנים פערים גדולים בין הגושים בכנסת הבאה.",
       "headlines": [
         {
-          "id": "19276a1e87",
-          "title": "\"השחרת מצרים על מלא\" ו\"קונטרה לדנה ויס\": בתוך מכונת התעמולה בשירות קטאר",
-          "url": "https://www.haaretz.co.il/news/politics/2026-09-10/ty-article/.highlight/000001a0-8a11-d9a4-a3a7-9f7363710000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-10T15:59:34+00:00",
-          "image_url": null
-        },
-        {
-          "id": "7540147b37",
-          "title": "תתחנף, תסגוד, זה ישתלם לך: כך נתניהו משמן את המכונה",
-          "url": "https://news.walla.co.il/item/3866943",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-11T08:00:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/9/4099590-46.jpg"
-        },
-        {
-          "id": "1edb035667",
-          "title": "6 זירות לחימה וקרב גדול נגד פוליטיקאים | מה עבר על הרמטכ\"ל אייל זמיר?",
-          "url": "https://www.ynet.co.il/news/article/yokra14894530",
+          "id": "a398c241d2",
+          "title": "שיא הח\"כיות - ופערי הענק בין הגושים: כך צפויה להיראות הכנסת הבאה",
+          "url": "https://www.ynet.co.il/news/elections2026/article/sjemqwwyfx",
           "source": "ynet",
           "source_label": "Ynet",
           "source_label_he": "Ynet",
-          "published_at": "2026-09-10T21:00:00+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/yk14895343/yk14895343_0_0_919_785_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "הרב יצחק יוסף מתיישר מחדש עם עמדות ש\"ס לאחר שמונה למנהיג רוחני, ובעפולה נחשף אדם שהפיץ ידיעות כוזבות על פיגוע מתוכנן שגרם ללחץ ציבורי.",
-      "headlines": [
+          "published_at": "2026-09-11T20:01:02+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/11/SkPPbFWKfg/SkPPbFWKfg_0_0_850_479_0_medium.jpg"
+        },
         {
-          "id": "7a5c704baa",
-          "title": "לאחר שמונה למנהיגה הרוחני, הרב יצחק יוסף מתיישר מחדש עם עמדות ש\"ס",
-          "url": "https://www.haaretz.co.il/news/elections/2026-09-10/ty-article/.premium/000001a0-8c4d-d9a4-a3a7-9f7f97d40000",
+          "id": "fb2086532a",
+          "title": "הרשימה המשותפת ורע\"מ חתמו על הסכם עודפים",
+          "url": "https://www.haaretz.co.il/news/elections/2026-09-11/ty-article/.premium/000001a0-9221-d9a4-a3a7-9f73f1ce0000",
           "source": "haaretz",
           "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-09-10T18:23:29+00:00",
+          "published_at": "2026-09-11T20:48:23+00:00",
           "image_url": null
         },
         {
-          "id": "97637f8f55",
-          "title": "2 דקות המהדורה המרכזית הקלטות המטרידן: הקפיץ שוב ושוב את המשטרה עם התרעות על פיגוע בעפולה - עד שנתפס | בלעדי השמועה על פיגוע מתוכנן בעפולה הספיקה כדי להכניס ללחץ תושבים, אולם מאחוריה עמד אזרח שמסר למשטרה דיווחים כוזבים על אירוע ביטחוני שעתיד להתרחש בעיר לכאורה • המניע של החשוד, תושב עין מאהל בן 38, אינו ברור זמן קריאה: 2 דקות.",
-          "url": "https://www.i24news.tv/he/news/i24news-shows/main-edition/artc-b90462c4",
-          "source": "i24",
-          "source_label": "i24NEWS",
-          "source_label_he": "i24NEWS",
+          "id": "0fff533d8a",
+          "title": "הסכם עודפים בין רע\"מ והמשותפת: \"הוסכם על קמפיין נקי בלי השמצות\"",
+          "url": "https://www.ynet.co.il/news/elections2026/article/sku7exmfzx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-11T21:47:40+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/21/SknB61pyzl/SknB61pyzl_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "2dd4d01738",
+          "title": "רגע לפני הבחירות: סקר מעריב חשף את הדאגה הגדולה ביותר של הליכוד",
+          "url": "https://www.maariv.co.il/news/elections-2026/article-1365568",
+          "source": "maariv",
+          "source_label": "מעריב",
+          "source_label_he": "מעריב",
           "published_at": null,
           "image_url": null
         }
       ]
     },
     {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "בנתניה נמכרו שתי דירות זהות באותו רחוב בפער של מאות אלפי שקלים, וכתבה נוספת בוחנת האם רכישת דירה בשנות ה-80 הייתה באמת קלה יותר מהיום.",
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "הדולר הגיע לרמתו הגבוהה ביותר מזה חודש, בעוד סגירת צינור הנפט הסעודי מאיימת לגרוע כ-7 מיליון חביות נפט ביום מהשוק העולמי, על רקע עליות בוול סטריט.",
       "headlines": [
         {
-          "id": "3a3b206f38",
-          "title": "באותו רחוב — שתי דירות 5 חדרים בנתניה נמכרו בפער של מאות אלפי שקלים",
-          "url": "https://www.themarker.com/realestate/2026-09-11/ty-article/.premium/000001a0-8ae5-d532-a9ba-8eed28bd0000",
+          "id": "27b1726b88",
+          "title": "הדולר ברמתו הגבוהה בחודש האחרון - נסחר סביב 3.045 שקלים",
+          "url": "https://www.themarker.com/markets/2026-09-11/ty-article-live/000001a0-8f13-d95d-aba1-df9b17310000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-09-11T03:06:02+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-8d39-dfa9-ada3-cf7b0f980001/04/45/2697695e4c38af9f7664be83cdd5/bash.PNG?width=108&height=81"
+          "published_at": "2026-09-11T06:09:44+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000018d-c5e7-d207-a9dd-ffff9ccd0000/c5/52/f94f80b543a780bb3f7a1599bb13/888255.jpg?width=108&height=81"
         },
         {
-          "id": "4e60b32f8e",
-          "title": "בשנות ה–80 היה קל יותר לקנות דירה? ממש לא בטוח",
-          "url": "https://www.themarker.com/realestate/2026-09-11/ty-article-magazine/.highlight/000001a0-8ab1-d219-a3ed-bffb0c6c0000",
+          "id": "5fd2465ade",
+          "title": "סעודיה סגרה את המעקף שלה למצר הורמוז; אובדן של 7 מיליון חביות נפט ביום",
+          "url": "https://www.themarker.com/wallstreet/2026-09-12/ty-article-live/000001a0-9410-d388-a7ec-d41a11980000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-09-11T03:01:03+00:00",
-          "image_url": "https://gif.haarets.co.il/bs/000001a0-8ab9-d219-a3ed-bffb091e0001/42/94/b710f4ef44e98747e8dd727c1391/markerweek-old-newapartments-09-09-26-old-newapartments-promotion.gif?width=108&height=81"
+          "published_at": "2026-09-12T05:38:38+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-941e-de76-a1f7-bf5e2ce20000/cf/06/e78511604cd7b2c094950c3b14d0/387214.jpg?width=108&height=81"
+        },
+        {
+          "id": "8957ddff63",
+          "title": "צינור הנפט האסטרטגי הושבת, המפרציות נקלעו למלכוד כפול - ומחפשות נתיב מילוט",
+          "url": "https://www.ynet.co.il/news/article/rkbclswkge",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-11T20:15:02+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/11/SksnC211Fzx/SksnC211Fzx_0_0_850_479_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "דיווחים חדשים מצביעים על שימוש איראני במודל בינה מלאכותית אמריקני לאיתור ותקיפת ספינות של הצי האמריקני, ואילו דו\"ח של אנתרופיק חושף כיצד ניסו החות׳ים לבנות טילים בליסטיים בעזרת כלי AI.",
+      "headlines": [
+        {
+          "id": "1c54e1f323",
+          "title": "איראן השתמשה ב-AI שפותח בארה\"ב - לאיתור ספינות אמריקניות במזרח התיכון",
+          "url": "https://www.ynet.co.il/news/article/bkpnff11tgx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-11T14:31:27+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/25/S18E8RKpZg/S18E8RKpZg_0_178_1200_675_0_medium.jpg"
+        },
+        {
+          "id": "fe88ecd6e8",
+          "title": "איראן השתמשה במודל AI של ארה\"ב כדי לאתר ולתקוף ספינות של הצי האמריקני | דיווח",
+          "url": "https://news.walla.co.il/item/3867230",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-09-11T16:50:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/0/4100120-46.jpg"
+        },
+        {
+          "id": "68a35f5346",
+          "title": "דו\"ח של אנתרופיק חושף כיצד השתמשו החותים בקלוד כדי לנסות לבנות טילים בליסטיים",
+          "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-11/ty-article/.premium/000001a0-9161-d43d-a1b6-d5fd26700000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-11T17:26:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "756bbdf3c2",
+          "title": "אנתרופיק: חוקרים רצו לפתח נשק ביולוגי בעזרת קלוד; OpenAI קוראת להאט את מרוץ הפיתוח",
+          "url": "https://www.themarker.com/wallstreet/2026-09-11/ty-article/.premium/000001a0-8f15-d9a4-a3a7-9f77da390000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-11T07:38:45+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-8f5e-d9a4-a3a7-9f7ed9df0001/b6/6a/f5f30d9e425291d8fc6d7e6449f5/849636.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "שוק הנדל\"ן בישראל נמצא במצוקה: מתווכים מדווחים כי דירות עומדות ריקות במשך שנה שלמה ופניות הרוכשים נעלמו.",
+      "headlines": [
+        {
+          "id": "4a63a9546c",
+          "title": "07:13 הדירות עומדות שנה, הטלפונים נעלמו: המתווכים בישראל נשברים",
+          "url": "https://www.maariv.co.il/breaking-news/article-1365541",
+          "source": "maariv",
+          "source_label": "מעריב",
+          "source_label_he": "מעריב",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "לצד עיסוק ביסודות חג ראש השנה, בציבור הדתי בארה\"ב מתלבטים כיצד לשלב את המצב בישראל בדרשות הימים הנוראים.",
+      "headlines": [
+        {
+          "id": "d21f224533",
+          "title": "בתורה אין חג בשם \"ראש השנה\" - אז מאיפה הוא הגיע?",
+          "url": "https://news.walla.co.il/item/3867071",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-09-11T18:30:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/9/4099851-46.jpg"
+        },
+        {
+          "id": "8eca3b22e9",
+          "title": "\"כל דבר חצי מהקהל לא יאהב\": רבנים בארה\"ב מתלבטים כיצד לדבר על ישראל בדרשות הימים הנוראים",
+          "url": "https://www.haaretz.co.il/news/world/america/2026-09-11/ty-article-magazine/.premium/000001a0-901c-d7ea-a7b4-f15db9ca0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-11T17:54:19+00:00",
+          "image_url": null
+        },
+        {
+          "id": "c443f4e5ae",
+          "title": "אש זרה האור הניגר הלבן: ראש השנה עם איה כורם",
+          "url": "https://www.kan.org.il/content/kan/podcasts/p-8234/1098652/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": "https://www.kan.org.il/media/za2igntk/איה.jpg?width=991&height=991&v=1dd417270cad0c0"
         }
       ]
     }
@@ -218,7 +312,6 @@
   "sources_fetched": [
     "haaretz",
     "ynet",
-    "israel_hayom",
     "kan",
     "mako",
     "walla",
@@ -230,185 +323,187 @@
     "reshet13",
     "i24"
   ],
-  "sources_failed": [],
+  "sources_failed": [
+    "israel_hayom"
+  ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israeli military operations in Gaza resulted in at least nine deaths during the week. Prime Minister Netanyahu announced plans to sue a newspaper over allegations that the UAE had warned him of the October 7 attack, while Jewish advocacy groups organized protests against antisemitism at the United Nations. A legal case involving Indiana Jews challenging abortion restrictions has returned to court, reflecting civil rights concerns within Jewish communities.",
+      "summary_en": "A court case brought by a Zionist federation against journalist Mary Kostakidis concluded by mutual consent. Jewish-American writer Benjamin Moser said that the Jews he knows are exhausted with Israel, describing it as a \"genocidal apartheid state\" with no future. The debate between antisemitism and anti-Zionism continues in diaspora communities, with Hasan Piker in Belgium distinguishing between opposing antisemitism and supporting anti-Zionism. Israeli Consul General Ofir Akunis issued a Rosh Hashanah message calling for heightened awareness.",
       "headlines": [
         {
-          "id": "ba2dd8793f",
-          "title": "Live - Nine deaths in Israeli attacks on Gaza",
-          "url": "https://www.demorgen.be/snelnieuws/live-israelische-oppositieleider-dient-klacht-wegens-laster-in-tegen-echtgenote-netanyahu~ba7f8873/",
+          "id": "ca1a3a61c1",
+          "title": "Court case brought by Zionist federation against journalist Mary Kostakidis ended 'by consent'",
+          "url": "https://www.theguardian.com/media/2026/sep/12/journalist-mary-kostakidis-court-case-zionist-federation-australia-discontinued-by-consent-ntwnfb",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-12T03:21:50+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/ec9a46f3bb24cbf4f513ab30030e55271ad72895/296_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=3a0b846abc3234b05f08fd0d30b26edd"
+        },
+        {
+          "id": "398dcaebee",
+          "title": "All Jews I know are fed up: Jewish-American writer Benjamin Moser sees no future for the 'genocidal apartheid state' Israel",
+          "url": "https://www.demorgen.be/politiek/alle-joden-die-ik-ken-zijn-het-zo-beu-joods-amerikaanse-schrijver-benjamin-moser-ziet-geen-toekomst-voor-de-genocidale-apartheidsstaat-israel~bb7b8a109/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-09-11T00:13:00+00:00",
-          "image_url": "https://image.demorgen.be/277611433/roi/320/320/691.1999999999999/529.2/afbeelding"
+          "published_at": "2026-09-12T01:00:21+00:00",
+          "image_url": "https://image.demorgen.be/277574447/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "d73d4235b5",
-          "title": "Jewish groups to protest against antisemitism outside United Nations",
-          "url": "https://www.jta.org/2026/09/10/ny/jewish-groups-to-protest-against-antisemitism-outside-united-nations",
+          "id": "c267664be9",
+          "title": "Attacked by Francken and now in Belgium, Hasan Piker: 'I find antisemitism abhorrent, anti-Zionism is justified'",
+          "url": "https://www.demorgen.be/nieuws/aangevallen-door-francken-en-nu-in-belgie-hasan-piker-antisemitisme-vind-ik-afschuwelijk-antizionisme-gerechtvaardigd~bfd63db8/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-12T01:00:00+00:00",
+          "image_url": "https://image.demorgen.be/277660714/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "d294fdedb8",
+          "title": "Israeli consul general Ofir Akunis' Rosh Hashanah message: 'Wake up'",
+          "url": "https://www.jta.org/2026/09/11/ny/israeli-consul-general-ofir-akunis-rosh-hashanah-message-wake-up",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-09-10T22:06:01+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/GettyImages-1804932987.jpg"
-        },
-        {
-          "id": "7270f17d48",
-          "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-          "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-09-10T15:54:17+00:00",
-          "image_url": null
-        },
-        {
-          "id": "ee312114e8",
-          "title": "A case pitting Indiana Jews against an abortion ban heads back to court",
-          "url": "https://www.jta.org/2026/09/10/united-states/a-case-pitting-indiana-jews-against-an-abortion-ban-heads-back-to-court",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-10T19:53:18+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/9-10-26-indiana.jpg"
+          "published_at": "2026-09-11T14:30:31+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/ofir-akunis.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Rental housing across Flanders has reached an average of 1,000 euros per month, raising significant affordability concerns. One in eight Flemish families is now pursuing collective energy purchases to manage surging utility costs. A home health nurse reported eight government inspections in three weeks despite full compliance with regulations, highlighting regulatory oversight concerns. The death of renowned actor Erik Van Herreweghe and ongoing political discussions about handling Palestinian students rounded out the week's news.",
+      "summary_en": "Belgium's government faces significant budgetary challenges, with authorities warning that spending is exploding while revenue is already very high, prompting emphasis on economic growth strategies. A major Hilton hotel development project received approval after political debate. The Belgian royal family mourned the death of Nicholas Coombs, a significant family member.",
       "headlines": [
         {
-          "id": "1934c8bf53",
-          "title": "Rental housing now costs an average of 1,000 euros per month throughout Flanders",
-          "url": "https://www.hln.be/vastgoed/huurwoning-kost-nu-in-heel-vlaanderen-gemiddeld-1-000-euro-per-maand-de-piek-is-wellicht-nog-lang-niet-bereikt-bekijk-hier-de-prijzen-per-gemeente~a71d65ee/",
+          "id": "4c0dbf6481",
+          "title": "Live - National Bank Governor Explains Budget Talks: 'Focus on Economic Growth'",
+          "url": "https://www.demorgen.be/snelnieuws/live-toelichting-van-gouverneur-nationale-bank-op-begrotingsgesprekken-inzetten-op-economische-groei~bf7e76f4/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-12T11:31:00+00:00",
+          "image_url": "https://image.demorgen.be/271659181/roi/320/320/834.0200000000001/882.9000000000001/afbeelding"
+        },
+        {
+          "id": "1334aa6fef",
+          "title": "Clarinval After Budget Talks: 'Spending is Exploding, While Income is Already Very High'",
+          "url": "https://www.hln.be/binnenland/clarinval-na-begrotingsoverleg-uitgaven-exploderen-terwijl-inkomsten-al-zeer-hoog-zijn~a9cb0fe2/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-09-11T05:00:00+00:00",
-          "image_url": "https://images.hln.be/NzAxNTc0ODM0MGM1MGFmNmQxZTIvZGlvLzI3NzYyNTE5NC9maXQtd2lkdGgvNDAw/kopfoto-huurbarometer"
+          "published_at": "2026-09-12T11:40:00+00:00",
+          "image_url": "https://images.hln.be/N2I4NWZkM2UzNTM4OWY5M2M0MTAvZGlvLzI3NzY5ODk1NC9maXQtd2lkdGgvNDAw/minister-van-economie-david-clarinval-mr-vanmiddag-na-de-begrotingsgesprekken"
         },
         {
-          "id": "18ef5ab755",
-          "title": "1 in 8 Flemish families choose group energy purchases: when is it beneficial? And what are the risks?",
-          "url": "https://www.hln.be/mijn-geld/1-op-de-8-vlaamse-gezinnen-kiest-voor-groepsaankoop-energie-wanneer-is-dat-voordelig-en-welke-risicos-zijn-er~ad158466/",
+          "id": "078efa6cd6",
+          "title": "'This is Not a Victory': Eric De Vocht Shakes Hands with Fernand Huts After Green Light for Hilton",
+          "url": "https://www.hln.be/antwerpen/dit-is-geen-overwinning-eric-de-vocht-reikt-fernand-huts-de-hand-na-groen-licht-voor-hilton~a9ba7014/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-09-11T05:10:00+00:00",
-          "image_url": "https://images.hln.be/OWY5NzEzMjdiMDRmMGU0OWM3YmEvZGlvLzI3NzI2MTc1MC9maXQtd2lkdGgvNDAw/antwerpen-belgium-august-31-illustration-of-rising-energy-prices-due-to-the-conflict-in-the-middle-east-natural-gas-prices-are-rising-on-august-31-2026-in-antwerpen-belgium-31-08-2026-photo-by-bert-van-den-broucke-photonews"
+          "published_at": "2026-09-12T12:00:00+00:00",
+          "image_url": "https://images.hln.be/ZGQxMzQxODJhMTM3NzBkMTFmMTIvZGlvLzI3NzY5Nzk4NS9maXQtd2lkdGgvNDAw/antwerpen-belgium-august-4-ithe-grand-bazar-once-a-bustling-shopping-centre-on-the-corner-of-groenplaats-and-schoenmarkt-is-living-out-its-final-months-where-escalators-now-roll-down-to-floors-with-fewer-and-fewer-shops-offices-or-rooms-of-the-hilton-will-soon-take-their-place-the-shops-are-moving-to-the-outside-of-the-building-iret-the-owner-of-the-grand-bazar-is-involved-in-a-dispute-with-the-owner-of-the-boerentoren-on-august-04-2025-in-antwerpen-belgium-04-08-2025-photo-by-bert-van-den-broucke-photonews-inzet-20150519-charleroi-belgium-veronique-salvi-shalom-engelstein-mr-belgian-prime-minister-charles-michel-mr-chairman-olivier-chastel-walloon-minister-president-paul-magnette-ps-and-eric-de-vocht-pictured-during-the-laying-of-the-foundation-stone-of-the-rive-gauche-shopping-complex-in-charleroi-tuesday-19-may-2015-belga-photo-bruno-fahy-inzet-antwerpen-belgium-november-22-press-preview-on-the-occasion-of-the-new-architectural-concept-for-the-boerentoren-the-boerentoren-will-be-completely-dismantled-inside-due-to-asbestos-reasons-and-will-be-given-a-new-interpretation-a-cultural-tower-and-a-panoramic-tower-for-antwerp-residents-flemish-and-international-visitors-among-others-fernand-huts-chairman-of-katoen-natie-and-architect-daniel-libeskind-will-be-present-at-the-press-conference-november-22-2022-in-antwerpen-belgium-22-11-2022-photo-by-bert-van-den-broucke-photonews"
         },
         {
-          "id": "bcd7a73cc5",
-          "title": "This home nurse follows all the rules and is angry: 'In three weeks I received eight inspections'",
-          "url": "https://www.hln.be/binnenland/deze-thuisverpleegster-doet-wel-alles-volgens-de-regels-en-is-boos-op-drie-weken-tijd-heb-ik-acht-controles-gekregen~a5081de5/",
+          "id": "260c46f4b4",
+          "title": "He Escorted His Daughter Claire to the Altar, Then Chose Anonymity Again: Royal Family Mourns Nicholas Coombs",
+          "url": "https://www.hln.be/royalty/hij-begeleidde-zijn-dochter-claire-naar-het-altaar-daarna-koos-hij-opnieuw-voor-anonimiteit-koninklijke-familie-rouwt-om-nicholas-coombs~a38b52e3/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-09-11T04:00:00+00:00",
-          "image_url": "https://images.hln.be/M2VlOGFmODU4ZTZlMGZmNGI4NjMvZGlvLzI3NzYzNjcxNi9maXQtd2lkdGgvNDAw/hasselt-belgium-september-10-de-thuisverpleegkundige-die-de-dupe-is-van-de-stefanie-sander-case-pictured-on-september-10-2026-in-hasselt-belgium-10-09-2026-photo-by-xavier-piron-photonews"
-        },
-        {
-          "id": "6b11f3cf50",
-          "title": "Actor Erik Van Herreweghe (70) dies, known from television series 'Kaat & Co'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/10/erik-van-herreweghe-overleden/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/10/96f9b4d3-9047-4d54-b7a4-1e67752ca339.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "4be6bd2511",
-          "title": "Politics LIVEBLOG - Government decides today on 13 Palestinian students, Seuntjes (Vooruit): 'No games, do what's right'",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/kern-beslist-vandaag-over-13-palestijnse-studenten-seuntjes-vo~1780024580839/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/11/17d29dbc-8f41-4e93-8231-2f6b8566012b.jpg?width=200&height=125&q=80&blur=90"
+          "published_at": "2026-09-12T11:00:00+00:00",
+          "image_url": "https://images.hln.be/NjZiZDljYjI0ZTRkNGQ4YjJlMjcvZGlvLzI3NzU0MDIzMS9maXQtd2lkdGgvNDAw/brussels-belgium-november-15-their-royal-highnesses-princess-astrid-prince-laurent-and-princess-claire-will-attend-the-te-deum-celebrated-at-the-cathedral-of-st-michael-and-st-gudula-in-brussels-on-the-occasion-of-king-s-day-on-november-15-2025-in-brussels-belgium-15-11-2025-photo-by-didier-lebrun-photonews-inzet-prinses-claire-haar-vader-papa-overleden-three-months-ago-it-was-too-painful-to-share-now-it-still-feels-unreal-but-today-i-wanted-to-pay-tribute-to-my-grandad-and-share-some-of-the-precious-memories-we-created-together-he-meant-the-world-to-me-and-he-always-will"
         }
       ]
     },
     "europe": {
-      "summary_en": "A serious accident involving a Dutch tour bus in Switzerland resulted in multiple deaths and injuries. Canada and Ukraine signed a comprehensive economic and strategic partnership expected to last a hundred years, strengthening cooperation amid regional tensions. European energy prices surged significantly, with gas prices climbing above 80 euros and diesel prices exceeding 2.4 euros per liter.",
+      "summary_en": "A passenger train derailed in France, injuring at least 44 people, while a bus accident in Switzerland claimed five Dutch lives. Germany's far-right AfD party is seeking electoral gains following its success in state elections, and the EU delayed a tobacco tax vote until after Sweden's election. U.S. President Trump expressed support for Irish unification during a visit to Dublin.",
       "headlines": [
         {
-          "id": "605f988fce",
-          "title": "Europe - Serious accident with Dutch tour bus in Switzerland: 'Multiple deaths and injuries'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/10/zwaar-busongeval-zwitserland-met-meerdere-doden/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/11/3b46f752-f4fc-4fb1-86f8-6da6ba8b8d82.jpg?width=200&height=125&q=80&blur=90"
+          "id": "a95a11f55b",
+          "title": "Passenger train derails in France leaving at least 44 injured",
+          "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-09-11T21:25:32+00:00",
+          "image_url": null
         },
         {
-          "id": "006fb04432",
-          "title": "Ukraine-Russia War LIVEBLOG - Canada and Ukraine sign economic and strategic partnership for the next 100 years",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/canada-en-oekraine-ondertekenen-economisch-en-strategisch-partne~1789060001669/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/10/870b78ac-825f-4a85-9f91-61654aed1804.png?width=200&height=125&q=80&blur=90"
+          "id": "4ba55ff51c",
+          "title": "Germany's far-right AfD, riding state win, targets more gains in elections from east to west",
+          "url": "https://www.jta.org/2026/09/11/global/germanys-far-right-afd-riding-state-win-targets-more-gains-in-elections-from-east-to-west",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-09-11T16:21:30+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/GettyImages-2294002291.jpg"
         },
         {
-          "id": "68ee553e6f",
-          "title": "Energy prices LIVEBLOG - European gas price climbs sharply above 80 euros, diesel price rises above 2.4 euros per liter",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/europese-gasprijs-klimt-fors-boven-80-euro-dieselprijs-stijgt-t~1774343778229/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/08/26/0854a02d-4a33-4e4d-b485-195b3bfe4e81.jpg?width=200&height=125&q=80&blur=90"
+          "id": "b56df2a64b",
+          "title": "EU delays key tobacco tax vote until after Swedish election",
+          "url": "https://www.politico.eu/article/eu-delays-key-tobacco-tax-vote-until-after-swedish-election/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-11T17:12:22+00:00",
+          "image_url": null
+        },
+        {
+          "id": "9e9f437bf6",
+          "title": "Trump says he would 'love' to see unified Ireland and 'it may as well happen now' as he visits Dublin – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-12T12:20:16+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/940819e55a0c4db9da28dac9e164b246df7aa257/449_316_2551_2042/master/2551.jpg?width=700&quality=85&auto=format&fit=max&s=9caf026679a91bb261f95bb45810acac"
+        },
+        {
+          "id": "b65afc3063",
+          "title": "Fatal Victims of Bus Accident in Switzerland are Four Women and a Man from the Netherlands",
+          "url": "https://www.demorgen.be/nieuws/dodelijke-slachtoffers-van-busongeval-in-zwitserland-zijn-vier-vrouwen-en-een-man-uit-nederland~bf4279cf/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-12T11:24:00+00:00",
+          "image_url": "https://image.demorgen.be/277634423/feature-crop/320/320/afbeelding"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Yemen's Houthis have seized the strategic Red Sea port of Mokha, marking a significant development in maritime control. The 25th anniversary of September 11 saw former President Trump campaign on security messaging, while over 40 percent of Americans believe their government was involved in the 9/11 attacks, highlighting how conspiracy theories persist across generations. Apple raised prices on all iPhone models following the introduction of its first foldable device, with increases ranging from 100 to 350 euros.",
+      "summary_en": "Russian President Vladimir Putin warned at a BRICS summit that European military intervention in Ukraine would constitute war with Russia, amid ongoing attacks on Kyiv where psychological support is being provided to victims. A Jamaican delegation is pursuing a legal petition to King Charles III seeking slavery reparations from Britain.",
       "headlines": [
         {
-          "id": "5885c6bd56",
-          "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-          "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-09-10T18:15:47+00:00",
-          "image_url": null
-        },
-        {
-          "id": "35042227cf",
-          "title": "Twenty-five years after 9/11, Donald Trump again plays the fear card",
-          "url": "https://www.demorgen.be/meningen/vijfentwintig-jaar-na-9-11-trekt-donald-trump-opnieuw-de-kaart-van-angst~b7155d13/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-10T16:56:00+00:00",
-          "image_url": "https://image.demorgen.be/277628816/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "1e2d3cb28b",
-          "title": "41 percent of Americans think their own government was involved in 9/11: how conspiracy theories reach a new generation",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/10/al-lang-ontkracht-maar-nog-steeds-springlevend-complottheoriee/",
+          "id": "925e98d39a",
+          "title": "Russia-Ukraine War: Vladimir Putin at BRICS Summit: 'If European Troops Enter Ukraine, That is War with Russia'",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/12/video-vladimir-poetin-brics-india-itv/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/10/4fbf4429-3c43-48fe-be0f-70670c649fbb.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/12/93d8964d-e00d-4e43-8769-4bc028c24039.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "e469a0dff6",
-          "title": "Apple raises prices of all iPhones after introducing first foldable device: 100 to 350 euros more expensive",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/10/apple-prijsverhoging-iphone/",
+          "id": "d7da5917d4",
+          "title": "More Attacks Again in Kyiv; This Psychologist Supports Victims",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/12/video-marijn-trio-kiev-psycholoog-slachtoffers-ots/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/10/f67fb2a1-72ec-435d-87e6-063c3b43aaad.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/12/eafc7f0a-e58c-4a7e-b015-63ea45004bff.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "3b9db88b4f",
+          "title": "Jamaican delegation defends legal route of petition to King Charles for slavery reparations",
+          "url": "https://www.theguardian.com/news/2026/sep/12/jamaican-petition-delegation-king-charles-slavery-reparations",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-12T11:00:34+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/1c2dbacb3799105d4e0f77d6315b1d0ae1ca5ae8/1351_102_5986_4789/master/5986.jpg?width=700&quality=85&auto=format&fit=max&s=21c729e3ce2178cf4f468870773d9ab1"
         }
       ]
     },
