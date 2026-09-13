@@ -1,317 +1,101 @@
 {
-  "generated_at": "2026-09-12T12:44:21.442252+00:00",
-  "date": "2026-09-12",
-  "degraded": false,
+  "generated_at": "2026-09-13T18:11:33.902033+00:00",
+  "date": "2026-09-13",
+  "degraded": true,
   "top_general": {
-    "summary_he": "המתיחות באזור ממשיכה להסלים: השיחות בין ישראל ללבנון נדחו לחודש הבא, בעוד סעודיה נאלצה להשבית צינור נפט מרכזי לאחר תקיפת כטב״ם ששוגר מעיראק. החות׳ים השלימו השתלטות על מצר באב אל-מנדב, מהלך שמעורר חשש בשווקי האנרגיה העולמיים, ובמקביל וול סטריט ננעלה בעלייה חרף אינפלציה גבוהה.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "d341edf01d",
-        "title": "דיווח: נדחו השיחות בין ישראל ללבנון שתוכננו להתקיים בשבוע הבא ברומא",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-12/ty-article/.premium/000001a0-9392-d388-a7ec-d39a4c620000",
+        "id": "6cf45f3e51",
+        "title": "דיווח: איראן השיגה צילומי לוויין מגורמים סיניים לפני תקיפה בירדן שבה נהרגו שלושה חיילים",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-12/ty-article/.premium/000001a0-943a-dfa9-ada3-de7a5bee0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-09-12T03:49:31+00:00",
+        "published_at": "2026-09-12T06:44:31+00:00",
         "image_url": null
       },
       {
-        "id": "84f69e6fad",
-        "title": "סעודיה: צינור הנפט מזרח־מערב מושבת זמנית לאחר שניזוק מכטב\"ם ששוגר מעיראק",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-12/ty-article/.premium/000001a0-921a-d219-a3ed-bfda612b0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-12T00:18:00+00:00",
-        "image_url": null
-      },
-      {
-        "id": "f1dc7dcef1",
-        "title": "דיווח: החות'ים השלימו את השתלטותם על מצר באב אל-מנדב",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-7e0b72e4f9f80a1026.htm",
+        "id": "82a8737b09",
+        "title": "טראמפ: איראן כנראה אחראית למתקפה בסעודיה, החות'ים לא רוצים להילחם בנו",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-e0ef58d1cf490a1026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-09-11T08:40:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/02/NAVALHOUTHIIRANTERROR_autoOrient_i.jpg"
+        "published_at": "2026-09-12T10:20:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/05/17/AP26126438550683_autoOrient_i.jpg"
       },
       {
-        "id": "316f02e458",
-        "title": "וול סטריט ננעלה בעלייה של 1% למרות האינפלציה הגבוהה ועל רקע נסיגת מחירי הנפט",
-        "url": "https://www.themarker.com/wallstreet/2026-09-11/ty-article-live/000001a0-708b-d45c-a7aa-f2ffaaba0000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-09-11T20:20:00+00:00",
-        "image_url": "https://img.haarets.co.il/bs/000001a0-9009-d219-a3ed-bddb47100000/49/07/0b7890764bedb335f63ad1b792c4/387218.jpg?width=108&height=81"
+        "id": "d70892649c",
+        "title": "טראמפ: איראן אחראית לתקיפה, החות'ים לא רוצים מלחמה",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001555339",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-09-12T13:05:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/v1781534853/direct/2-3-800_hih9km.png"
+      },
+      {
+        "id": "fb86fb429e",
+        "title": "חייל תועד יורה בפלסטיני ברגלו בלי סיבה נראית לעין; צה\"ל: חריגה מהנהלים",
+        "url": "https://www.haaretz.co.il/news/politics/2026-09-12/ty-article/.premium/000001a0-95b3-d9a4-a3a7-9ff3ade60000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-12T13:21:50+00:00",
+        "image_url": null
+      },
+      {
+        "id": "afce2ac163",
+        "title": "החות'ים משתלטים, הסעודים זקוקים לסיוע - וטראמפ מחפש עיתוי לסיום המלחמה | תמונת מצב",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-12c841afc0790a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-12T20:10:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/06/20/hormuz2006_autoOrient_i.jpg"
+      },
+      {
+        "id": "c70346043a",
+        "title": "דיווח: אזעקות בדרום סעודיה, פיצוצים נשמעו באי קשם באיראן",
+        "url": "https://news.walla.co.il/item/3867368",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-12T21:14:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/3/2/4032064-46.jpg"
+      },
+      {
+        "id": "5c1d6f81f2",
+        "title": "אחרי רכס עלי טאהר: בצה\"ל נערכים ל\"טיפול שורש\" בטרור ביו\"ש",
+        "url": "https://news.walla.co.il/item/3867378",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-13T06:30:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/2/5/2/0/2520112-46.jpeg"
+      },
+      {
+        "id": "4fd37634c7",
+        "title": "דיווח: פיט הגסת' לחץ על טייסי ה-F15 שהופלו באיראן להתראיין ל\"60 דקות\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-1a1b23084b790a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-13T06:47:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/03/06/GettyImages-2264358690_autoOrient_i.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "דיווחים חדשים חושפים כי איראן קיבלה מסין צילומי לוויין ששימשו לתקיפה בירדן שבה נהרגו שלושה אמריקנים, על רקע העמקת המעורבות האמריקנית מול איראן ותימן. בלבנון, לאחר השמדת רכס עלי טאהר, צה״ל מבהיר כי לא ייסוג מהקו הצהוב, ובגרמניה הוגש כתב אישום נגד חשודים בתכנון פיגוע חמאס בברלין ובווינה.",
-    "headlines": [
-      {
-        "id": "dab01cfb9a",
-        "title": "ציר איראן-סין נחשף: צילומי לוויין הועברו לפני התקיפה שבה נהרגו 3 אמריקנים",
-        "url": "https://news.walla.co.il/item/3867284",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-12T04:47:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/4/9/8/3498855-46.jpg"
-      },
-      {
-        "id": "afd3857113",
-        "title": "דיווח: איראן קיבלה צילומי לוויין סיניים - ותקפה בסיס אמריקני בירדן",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b3a55ea4a9390a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-12T05:00:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/01/irantkifa01082_autoOrient_i.jpg"
-      },
-      {
-        "id": "a3f02bd89e",
-        "title": "ואנס שמע מקצינים הערכות עגומות על המלחמה באיראן. בפומבי הוא וטראמפ דיברו אחרת",
-        "url": "https://www.haaretz.co.il/news/world/america/2026-09-11/ty-article/.premium/000001a0-8db6-d3d7-aff4-effffd2b0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-11T06:30:39+00:00",
-        "image_url": null
-      },
-      {
-        "id": "02df80d990",
-        "title": "לאחר השמדת רכס עלי טאהר בלבנון, בצה\"ל מדגישים: לא ניסוג מהקו הצהוב",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-11/ty-article/000001a0-8f99-d9a4-a3a7-9ffb78f30000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-11T09:30:27+00:00",
-        "image_url": null
-      },
-      {
-        "id": "a39a407ec6",
-        "title": "התחבולה הצה\"לית, ונסיגת חיזבאללה: השמדת המנהרות ברכס עלי טאהר | גילויים חדשים",
-        "url": "https://news.walla.co.il/item/3867240",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-11T21:20:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/9/4099985-46.png"
-      },
-      {
-        "id": "542f922358",
-        "title": "Germany charges 7 suspected Hamas members over Oct. 7 anniversary attack plot",
-        "url": "https://www.timesofisrael.com/germany-charges-7-suspected-hamas-members-over-oct-7-anniversary-attack-plot/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-12T06:02:00+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2023/10/AP23292258665175-e1697768228374-1024x640.jpg"
-      },
-      {
-        "id": "bd287d0437",
-        "title": "Lebanese official to ToI: ‘Indiscriminate’ IDF strikes hinder Hezbollah disarmament",
-        "url": "https://www.timesofisrael.com/lebanese-official-to-toi-indiscriminate-idf-strikes-hinder-hezbollah-disarmament/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-11T18:10:30+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26251334618383-1024x640.jpg"
-      }
-    ]
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "לקראת הבחירות הקרובות, הרשימה המשותפת ורע\"מ חתמו על הסכם עודפים, ובסקרים מסתמנים פערים גדולים בין הגושים בכנסת הבאה.",
-      "headlines": [
-        {
-          "id": "a398c241d2",
-          "title": "שיא הח\"כיות - ופערי הענק בין הגושים: כך צפויה להיראות הכנסת הבאה",
-          "url": "https://www.ynet.co.il/news/elections2026/article/sjemqwwyfx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-11T20:01:02+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/11/SkPPbFWKfg/SkPPbFWKfg_0_0_850_479_0_medium.jpg"
-        },
-        {
-          "id": "fb2086532a",
-          "title": "הרשימה המשותפת ורע\"מ חתמו על הסכם עודפים",
-          "url": "https://www.haaretz.co.il/news/elections/2026-09-11/ty-article/.premium/000001a0-9221-d9a4-a3a7-9f73f1ce0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-11T20:48:23+00:00",
-          "image_url": null
-        },
-        {
-          "id": "0fff533d8a",
-          "title": "הסכם עודפים בין רע\"מ והמשותפת: \"הוסכם על קמפיין נקי בלי השמצות\"",
-          "url": "https://www.ynet.co.il/news/elections2026/article/sku7exmfzx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-11T21:47:40+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/21/SknB61pyzl/SknB61pyzl_0_0_850_479_0_medium.jpg"
-        },
-        {
-          "id": "2dd4d01738",
-          "title": "רגע לפני הבחירות: סקר מעריב חשף את הדאגה הגדולה ביותר של הליכוד",
-          "url": "https://www.maariv.co.il/news/elections-2026/article-1365568",
-          "source": "maariv",
-          "source_label": "מעריב",
-          "source_label_he": "מעריב",
-          "published_at": null,
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "הדולר הגיע לרמתו הגבוהה ביותר מזה חודש, בעוד סגירת צינור הנפט הסעודי מאיימת לגרוע כ-7 מיליון חביות נפט ביום מהשוק העולמי, על רקע עליות בוול סטריט.",
-      "headlines": [
-        {
-          "id": "27b1726b88",
-          "title": "הדולר ברמתו הגבוהה בחודש האחרון - נסחר סביב 3.045 שקלים",
-          "url": "https://www.themarker.com/markets/2026-09-11/ty-article-live/000001a0-8f13-d95d-aba1-df9b17310000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-11T06:09:44+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000018d-c5e7-d207-a9dd-ffff9ccd0000/c5/52/f94f80b543a780bb3f7a1599bb13/888255.jpg?width=108&height=81"
-        },
-        {
-          "id": "5fd2465ade",
-          "title": "סעודיה סגרה את המעקף שלה למצר הורמוז; אובדן של 7 מיליון חביות נפט ביום",
-          "url": "https://www.themarker.com/wallstreet/2026-09-12/ty-article-live/000001a0-9410-d388-a7ec-d41a11980000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-12T05:38:38+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-941e-de76-a1f7-bf5e2ce20000/cf/06/e78511604cd7b2c094950c3b14d0/387214.jpg?width=108&height=81"
-        },
-        {
-          "id": "8957ddff63",
-          "title": "צינור הנפט האסטרטגי הושבת, המפרציות נקלעו למלכוד כפול - ומחפשות נתיב מילוט",
-          "url": "https://www.ynet.co.il/news/article/rkbclswkge",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-11T20:15:02+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/11/SksnC211Fzx/SksnC211Fzx_0_0_850_479_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "דיווחים חדשים מצביעים על שימוש איראני במודל בינה מלאכותית אמריקני לאיתור ותקיפת ספינות של הצי האמריקני, ואילו דו\"ח של אנתרופיק חושף כיצד ניסו החות׳ים לבנות טילים בליסטיים בעזרת כלי AI.",
-      "headlines": [
-        {
-          "id": "1c54e1f323",
-          "title": "איראן השתמשה ב-AI שפותח בארה\"ב - לאיתור ספינות אמריקניות במזרח התיכון",
-          "url": "https://www.ynet.co.il/news/article/bkpnff11tgx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-11T14:31:27+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/25/S18E8RKpZg/S18E8RKpZg_0_178_1200_675_0_medium.jpg"
-        },
-        {
-          "id": "fe88ecd6e8",
-          "title": "איראן השתמשה במודל AI של ארה\"ב כדי לאתר ולתקוף ספינות של הצי האמריקני | דיווח",
-          "url": "https://news.walla.co.il/item/3867230",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-11T16:50:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/0/4100120-46.jpg"
-        },
-        {
-          "id": "68a35f5346",
-          "title": "דו\"ח של אנתרופיק חושף כיצד השתמשו החותים בקלוד כדי לנסות לבנות טילים בליסטיים",
-          "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-11/ty-article/.premium/000001a0-9161-d43d-a1b6-d5fd26700000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-11T17:26:00+00:00",
-          "image_url": null
-        },
-        {
-          "id": "756bbdf3c2",
-          "title": "אנתרופיק: חוקרים רצו לפתח נשק ביולוגי בעזרת קלוד; OpenAI קוראת להאט את מרוץ הפיתוח",
-          "url": "https://www.themarker.com/wallstreet/2026-09-11/ty-article/.premium/000001a0-8f15-d9a4-a3a7-9f77da390000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-11T07:38:45+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-8f5e-d9a4-a3a7-9f7ed9df0001/b6/6a/f5f30d9e425291d8fc6d7e6449f5/849636.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "שוק הנדל\"ן בישראל נמצא במצוקה: מתווכים מדווחים כי דירות עומדות ריקות במשך שנה שלמה ופניות הרוכשים נעלמו.",
-      "headlines": [
-        {
-          "id": "4a63a9546c",
-          "title": "07:13 הדירות עומדות שנה, הטלפונים נעלמו: המתווכים בישראל נשברים",
-          "url": "https://www.maariv.co.il/breaking-news/article-1365541",
-          "source": "maariv",
-          "source_label": "מעריב",
-          "source_label_he": "מעריב",
-          "published_at": null,
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "לצד עיסוק ביסודות חג ראש השנה, בציבור הדתי בארה\"ב מתלבטים כיצד לשלב את המצב בישראל בדרשות הימים הנוראים.",
-      "headlines": [
-        {
-          "id": "d21f224533",
-          "title": "בתורה אין חג בשם \"ראש השנה\" - אז מאיפה הוא הגיע?",
-          "url": "https://news.walla.co.il/item/3867071",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-11T18:30:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/9/4099851-46.jpg"
-        },
-        {
-          "id": "8eca3b22e9",
-          "title": "\"כל דבר חצי מהקהל לא יאהב\": רבנים בארה\"ב מתלבטים כיצד לדבר על ישראל בדרשות הימים הנוראים",
-          "url": "https://www.haaretz.co.il/news/world/america/2026-09-11/ty-article-magazine/.premium/000001a0-901c-d7ea-a7b4-f15db9ca0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-11T17:54:19+00:00",
-          "image_url": null
-        },
-        {
-          "id": "c443f4e5ae",
-          "title": "אש זרה האור הניגר הלבן: ראש השנה עם איה כורם",
-          "url": "https://www.kan.org.il/content/kan/podcasts/p-8234/1098652/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/za2igntk/איה.jpg?width=991&height=991&v=1dd417270cad0c0"
-        }
-      ]
-    }
-  ],
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
+    "israel_hayom",
     "kan",
     "mako",
     "walla",
@@ -320,190 +104,159 @@
     "times_of_israel",
     "maariv",
     "makor_rishon",
-    "reshet13",
     "i24"
   ],
   "sources_failed": [
-    "israel_hayom"
+    "reshet13"
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "A court case brought by a Zionist federation against journalist Mary Kostakidis concluded by mutual consent. Jewish-American writer Benjamin Moser said that the Jews he knows are exhausted with Israel, describing it as a \"genocidal apartheid state\" with no future. The debate between antisemitism and anti-Zionism continues in diaspora communities, with Hasan Piker in Belgium distinguishing between opposing antisemitism and supporting anti-Zionism. Israeli Consul General Ofir Akunis issued a Rosh Hashanah message calling for heightened awareness.",
+      "summary_en": "Israeli forces conducted airstrikes on Gaza, killing at least a pregnant woman and more than ten other people. In Belgium, antisemitic vandalism targeting mosques in Brussels and Laken—marked with swastika symbols—has sparked police investigations into hate crimes.",
       "headlines": [
         {
-          "id": "ca1a3a61c1",
-          "title": "Court case brought by Zionist federation against journalist Mary Kostakidis ended 'by consent'",
-          "url": "https://www.theguardian.com/media/2026/sep/12/journalist-mary-kostakidis-court-case-zionist-federation-australia-discontinued-by-consent-ntwnfb",
+          "id": "f49378d399",
+          "title": "Pregnant woman among more than 10 killed in Israeli attacks on Gaza",
+          "url": "https://www.theguardian.com/world/2026/sep/13/pregnant-woman-killed-israeli-attacks-gaza",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-09-12T03:21:50+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/ec9a46f3bb24cbf4f513ab30030e55271ad72895/296_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=3a0b846abc3234b05f08fd0d30b26edd"
+          "published_at": "2026-09-13T15:51:33+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/bf6ef76ba83fc39ae31761cdff23813105914be5/281_0_3388_2712/master/3388.jpg?width=700&quality=85&auto=format&fit=max&s=b294c02c13c91017cd4810a26281dacc"
         },
         {
-          "id": "398dcaebee",
-          "title": "All Jews I know are fed up: Jewish-American writer Benjamin Moser sees no future for the 'genocidal apartheid state' Israel",
-          "url": "https://www.demorgen.be/politiek/alle-joden-die-ik-ken-zijn-het-zo-beu-joods-amerikaanse-schrijver-benjamin-moser-ziet-geen-toekomst-voor-de-genocidale-apartheidsstaat-israel~bb7b8a109/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-12T01:00:21+00:00",
-          "image_url": "https://image.demorgen.be/277574447/feature-crop/320/320/afbeelding"
+          "id": "c6a1734315",
+          "title": "Mosque in Brussels vandalized with swastika: police start investigation",
+          "url": "https://www.hln.be/brussel/moskee-in-brussel-beklad-met-hakenkruis-politie-start-onderzoek~a27b76d0/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-13T15:58:00+00:00",
+          "image_url": "https://images.hln.be/NDRmZTQyOTFjNjU4NTFiNGQ1NGUvZGlvLzI3Nzc0NjI2MS9maXQtd2lkdGgvNDAw/attention-editors-handout-pictures-editorial-use-only-mandatory-credit-cabinet-this-handout-picture-released-by-ahmed-cabinet-laaouej-on-sunday-13-september-2026-shows-a-black-swastika-tag-on-the-centre-islamique-et-culturel-el-mouahidine-in-laeken-laken-brussels-belga-and-belga-editorial-board-decline-all-responsability-regarding-the-content-of-this-picture-photo-handout-cabinet-laaouej"
         },
         {
-          "id": "c267664be9",
-          "title": "Attacked by Francken and now in Belgium, Hasan Piker: 'I find antisemitism abhorrent, anti-Zionism is justified'",
-          "url": "https://www.demorgen.be/nieuws/aangevallen-door-francken-en-nu-in-belgie-hasan-piker-antisemitisme-vind-ik-afschuwelijk-antizionisme-gerechtvaardigd~bfd63db8/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-12T01:00:00+00:00",
-          "image_url": "https://image.demorgen.be/277660714/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "d294fdedb8",
-          "title": "Israeli consul general Ofir Akunis' Rosh Hashanah message: 'Wake up'",
-          "url": "https://www.jta.org/2026/09/11/ny/israeli-consul-general-ofir-akunis-rosh-hashanah-message-wake-up",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-11T14:30:31+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/ofir-akunis.jpg"
+          "id": "da40b99e76",
+          "title": "Laken region: Mosque in Laken vandalized with swastika, police conducting investigation",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/13/laken-moskee-hakenkruis-vandalisme-beklad/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/13/89f0fc2d-f14b-4f75-ae1e-7ca454d7a093.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium's government faces significant budgetary challenges, with authorities warning that spending is exploding while revenue is already very high, prompting emphasis on economic growth strategies. A major Hilton hotel development project received approval after political debate. The Belgian royal family mourned the death of Nicholas Coombs, a significant family member.",
+      "summary_en": "Two women were killed in an incident in Anderlecht. Brussels residents are mobilizing against the Crucke route, with over 200 families joining a lawsuit over frequent low-altitude aircraft flights over residential areas. In Antwerp, Fernand Huts lost a legal battle over control of the historic Boerentoren building.",
       "headlines": [
         {
-          "id": "4c0dbf6481",
-          "title": "Live - National Bank Governor Explains Budget Talks: 'Focus on Economic Growth'",
-          "url": "https://www.demorgen.be/snelnieuws/live-toelichting-van-gouverneur-nationale-bank-op-begrotingsgesprekken-inzetten-op-economische-groei~bf7e76f4/",
+          "id": "748251ae2d",
+          "title": "Two women killed in 'incident' in Anderlecht",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/13/2-vrouwen-om-het-leven-gekomen-bij-incident-in-anderlecht/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/13/2fdef1d6-29d5-4583-8f42-2002f573d94d.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "98463b3dc8",
+          "title": "Brussels residents protest 'Crucke-route', 200 families join lawsuit: 'Sometimes 300 aircraft fly over here per day'",
+          "url": "https://www.hln.be/brussel/brusselaars-protesteren-tegen-crucke-route-200-gezinnen-sluiten-zich-aan-bij-rechtszaak-soms-vliegen-hier-300-vliegtuigen-per-dag-over~a3614ab6/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-13T16:48:00+00:00",
+          "image_url": "https://images.hln.be/ZTE5NGI5YmM5YWU5NmYwMTJkMWMvZGlvLzI3Nzc1MzA1My9maXQtd2lkdGgvNDAw/protest-vliegroute-koekelberg-inzet-protest-vliegroute-koekelberg"
+        },
+        {
+          "id": "54a61883f8",
+          "title": "Fernand Huts loses battle in fight over Antwerp's Boerentoren",
+          "url": "https://www.demorgen.be/nieuws/fernand-huts-verliest-veldslag-in-de-strijd-om-antwerpse-boerentoren~b961711a/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-09-12T11:31:00+00:00",
-          "image_url": "https://image.demorgen.be/271659181/roi/320/320/834.0200000000001/882.9000000000001/afbeelding"
-        },
-        {
-          "id": "1334aa6fef",
-          "title": "Clarinval After Budget Talks: 'Spending is Exploding, While Income is Already Very High'",
-          "url": "https://www.hln.be/binnenland/clarinval-na-begrotingsoverleg-uitgaven-exploderen-terwijl-inkomsten-al-zeer-hoog-zijn~a9cb0fe2/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-12T11:40:00+00:00",
-          "image_url": "https://images.hln.be/N2I4NWZkM2UzNTM4OWY5M2M0MTAvZGlvLzI3NzY5ODk1NC9maXQtd2lkdGgvNDAw/minister-van-economie-david-clarinval-mr-vanmiddag-na-de-begrotingsgesprekken"
-        },
-        {
-          "id": "078efa6cd6",
-          "title": "'This is Not a Victory': Eric De Vocht Shakes Hands with Fernand Huts After Green Light for Hilton",
-          "url": "https://www.hln.be/antwerpen/dit-is-geen-overwinning-eric-de-vocht-reikt-fernand-huts-de-hand-na-groen-licht-voor-hilton~a9ba7014/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-12T12:00:00+00:00",
-          "image_url": "https://images.hln.be/ZGQxMzQxODJhMTM3NzBkMTFmMTIvZGlvLzI3NzY5Nzk4NS9maXQtd2lkdGgvNDAw/antwerpen-belgium-august-4-ithe-grand-bazar-once-a-bustling-shopping-centre-on-the-corner-of-groenplaats-and-schoenmarkt-is-living-out-its-final-months-where-escalators-now-roll-down-to-floors-with-fewer-and-fewer-shops-offices-or-rooms-of-the-hilton-will-soon-take-their-place-the-shops-are-moving-to-the-outside-of-the-building-iret-the-owner-of-the-grand-bazar-is-involved-in-a-dispute-with-the-owner-of-the-boerentoren-on-august-04-2025-in-antwerpen-belgium-04-08-2025-photo-by-bert-van-den-broucke-photonews-inzet-20150519-charleroi-belgium-veronique-salvi-shalom-engelstein-mr-belgian-prime-minister-charles-michel-mr-chairman-olivier-chastel-walloon-minister-president-paul-magnette-ps-and-eric-de-vocht-pictured-during-the-laying-of-the-foundation-stone-of-the-rive-gauche-shopping-complex-in-charleroi-tuesday-19-may-2015-belga-photo-bruno-fahy-inzet-antwerpen-belgium-november-22-press-preview-on-the-occasion-of-the-new-architectural-concept-for-the-boerentoren-the-boerentoren-will-be-completely-dismantled-inside-due-to-asbestos-reasons-and-will-be-given-a-new-interpretation-a-cultural-tower-and-a-panoramic-tower-for-antwerp-residents-flemish-and-international-visitors-among-others-fernand-huts-chairman-of-katoen-natie-and-architect-daniel-libeskind-will-be-present-at-the-press-conference-november-22-2022-in-antwerpen-belgium-22-11-2022-photo-by-bert-van-den-broucke-photonews"
-        },
-        {
-          "id": "260c46f4b4",
-          "title": "He Escorted His Daughter Claire to the Altar, Then Chose Anonymity Again: Royal Family Mourns Nicholas Coombs",
-          "url": "https://www.hln.be/royalty/hij-begeleidde-zijn-dochter-claire-naar-het-altaar-daarna-koos-hij-opnieuw-voor-anonimiteit-koninklijke-familie-rouwt-om-nicholas-coombs~a38b52e3/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-12T11:00:00+00:00",
-          "image_url": "https://images.hln.be/NjZiZDljYjI0ZTRkNGQ4YjJlMjcvZGlvLzI3NzU0MDIzMS9maXQtd2lkdGgvNDAw/brussels-belgium-november-15-their-royal-highnesses-princess-astrid-prince-laurent-and-princess-claire-will-attend-the-te-deum-celebrated-at-the-cathedral-of-st-michael-and-st-gudula-in-brussels-on-the-occasion-of-king-s-day-on-november-15-2025-in-brussels-belgium-15-11-2025-photo-by-didier-lebrun-photonews-inzet-prinses-claire-haar-vader-papa-overleden-three-months-ago-it-was-too-painful-to-share-now-it-still-feels-unreal-but-today-i-wanted-to-pay-tribute-to-my-grandad-and-share-some-of-the-precious-memories-we-created-together-he-meant-the-world-to-me-and-he-always-will"
+          "published_at": "2026-09-13T17:00:00+00:00",
+          "image_url": "https://image.demorgen.be/269455896/feature-crop/320/320/afbeelding"
         }
       ]
     },
     "europe": {
-      "summary_en": "A passenger train derailed in France, injuring at least 44 people, while a bus accident in Switzerland claimed five Dutch lives. Germany's far-right AfD party is seeking electoral gains following its success in state elections, and the EU delayed a tobacco tax vote until after Sweden's election. U.S. President Trump expressed support for Irish unification during a visit to Dublin.",
+      "summary_en": "Russian forces struck a Ukrainian passenger train shortly after Boris Johnson and senior European officials departed the station, in what officials suggest may have been a targeted attack. Germany has uncovered a suspected Russian spy network allegedly behind a drone attack in Leipzig. Scottish and Celtic leaders gathered to reaffirm their right to seek independence from the United Kingdom.",
       "headlines": [
         {
-          "id": "a95a11f55b",
-          "title": "Passenger train derails in France leaving at least 44 injured",
-          "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+          "id": "5923a3a276",
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+          "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-09-11T21:25:32+00:00",
+          "published_at": "2026-09-13T17:38:29+00:00",
           "image_url": null
         },
         {
-          "id": "4ba55ff51c",
-          "title": "Germany's far-right AfD, riding state win, targets more gains in elections from east to west",
-          "url": "https://www.jta.org/2026/09/11/global/germanys-far-right-afd-riding-state-win-targets-more-gains-in-elections-from-east-to-west",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-11T16:21:30+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/GettyImages-2294002291.jpg"
-        },
-        {
-          "id": "b56df2a64b",
-          "title": "EU delays key tobacco tax vote until after Swedish election",
-          "url": "https://www.politico.eu/article/eu-delays-key-tobacco-tax-vote-until-after-swedish-election/",
+          "id": "29f86875a1",
+          "title": "Suspected Russian spy behind drone attack in Leipzig",
+          "url": "https://www.politico.eu/article/suspect-russia-spy-drone-attack-in-leipzig-halle-airport-germany/",
           "source": "politico_eu",
           "source_label": "Politico Europe",
           "source_label_en": "Politico Europe",
-          "published_at": "2026-09-11T17:12:22+00:00",
+          "published_at": "2026-09-13T17:11:21+00:00",
           "image_url": null
         },
         {
-          "id": "9e9f437bf6",
-          "title": "Trump says he would 'love' to see unified Ireland and 'it may as well happen now' as he visits Dublin – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates",
+          "id": "916d8d4530",
+          "title": "Leaders at Celtic summit to affirm right to seek independence from UK",
+          "url": "https://www.theguardian.com/politics/2026/sep/13/first-ministers-to-affirm-right-to-seek-independence-from-the-uk",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-09-12T12:20:16+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/940819e55a0c4db9da28dac9e164b246df7aa257/449_316_2551_2042/master/2551.jpg?width=700&quality=85&auto=format&fit=max&s=9caf026679a91bb261f95bb45810acac"
-        },
-        {
-          "id": "b65afc3063",
-          "title": "Fatal Victims of Bus Accident in Switzerland are Four Women and a Man from the Netherlands",
-          "url": "https://www.demorgen.be/nieuws/dodelijke-slachtoffers-van-busongeval-in-zwitserland-zijn-vier-vrouwen-en-een-man-uit-nederland~bf4279cf/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-12T11:24:00+00:00",
-          "image_url": "https://image.demorgen.be/277634423/feature-crop/320/320/afbeelding"
+          "published_at": "2026-09-13T16:41:58+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/d8c494075f964bc1b31957ce6f18933e99d95166/3_0_5901_4724/master/5901.jpg?width=700&quality=85&auto=format&fit=max&s=1f723763a30e8316ae30e40b4b02f741"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Russian President Vladimir Putin warned at a BRICS summit that European military intervention in Ukraine would constitute war with Russia, amid ongoing attacks on Kyiv where psychological support is being provided to victims. A Jamaican delegation is pursuing a legal petition to King Charles III seeking slavery reparations from Britain.",
+      "summary_en": "Former U.S. President Donald Trump called on Ukraine to halt attacks on Russian oil refineries, signaling a potential shift in American policy toward the war. Leading researchers, technology executives, and former President Barack Obama have begun warning about the risks of artificial intelligence development. North Korea's Kim Jong-un is investing in luxury shopping, amusement parks, and vacation resorts to provide leisure opportunities for the population. Iran and the United Arab Emirates have indicated a desire to restore diplomatic relations.",
       "headlines": [
         {
-          "id": "925e98d39a",
-          "title": "Russia-Ukraine War: Vladimir Putin at BRICS Summit: 'If European Troops Enter Ukraine, That is War with Russia'",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/12/video-vladimir-poetin-brics-india-itv/",
+          "id": "58c53c35d8",
+          "title": "Trump calls on Ukraine to halt attacks on Russian oil refineries",
+          "url": "https://www.politico.eu/article/donald-trump-calls-on-ukraine-to-halt-attacks-on-russian-oil-refineries/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-13T15:35:39+00:00",
+          "image_url": null
+        },
+        {
+          "id": "6df7f67f50",
+          "title": "Researchers, CEOs and now Obama: why everyone suddenly seems to be warning about an AI apocalypse",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/13/ai-apocalyps-bezorgdheid-barack-obama-dario-amodei/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/12/93d8964d-e00d-4e43-8769-4bc028c24039.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/13/d8549ee2-ebe1-4211-bf0b-4774b545a1c5.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "d7da5917d4",
-          "title": "More Attacks Again in Kyiv; This Psychologist Supports Victims",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/12/video-marijn-trio-kiev-psycholoog-slachtoffers-ots/",
+          "id": "4ff172bd87",
+          "title": "Luxury shopping, amusement parks and vacation resorts: Kim Jong-un invests in leisure time for North Koreans, but with a reason",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/11/meer-luxe-in-noord-korea-nieuwe-strategie-van-kim-jong-un/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/12/eafc7f0a-e58c-4a7e-b015-63ea45004bff.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/13/45d5b0b7-1e9f-4e9c-8b7f-df7195f4b799.jpg?width=200&height=200&q=80&blur=90"
         },
         {
-          "id": "3b9db88b4f",
-          "title": "Jamaican delegation defends legal route of petition to King Charles for slavery reparations",
-          "url": "https://www.theguardian.com/news/2026/sep/12/jamaican-petition-delegation-king-charles-slavery-reparations",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-12T11:00:34+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/1c2dbacb3799105d4e0f77d6315b1d0ae1ca5ae8/1351_102_5986_4789/master/5986.jpg?width=700&quality=85&auto=format&fit=max&s=21c729e3ce2178cf4f468870773d9ab1"
+          "id": "2d886511b0",
+          "title": "Iran and Emirates want to restore relations, says Iranian president",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/iran-en-emiraten-willen-relaties-herstellen-zegt-iraanse-presid~1784611610051/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/13/8cbf5ac9-df0a-496f-8c6a-f9148ac89cdd.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
