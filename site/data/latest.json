@@ -1,59 +1,69 @@
 {
-  "generated_at": "2026-09-14T07:01:19.741141+00:00",
-  "date": "2026-09-14",
+  "generated_at": "2026-09-15T07:11:18.308481+00:00",
+  "date": "2026-09-15",
   "degraded": false,
   "top_general": {
-    "summary_he": "המזרח התיכון ממשיך להיות במוקד: החותים משפיעים על המפה האזורית לנוכח היחלשות מעורבות ארה\"ב, וטראמפ מתייחס למו\"מ עם איראן תוך הצבעה על עסקת עזה כמודל. במקביל מתפרסם דיווח על לחץ שהופעל על טייסי F15 שהופלו באיראן להתראיין לתקשורת האמריקאית.",
+    "summary_he": "סקרים חדשים מראים היחלשות אפשרית של נתניהו לקראת בחירות 2026, כאשר איזנקוט מוביל בסקר אחד. במקביל, הליכוד פועל לפסילת רע\"מ ועוצמה יהודית מהמרוץ, ונתניהו הבטיח לבן גביר וגוטליב על מקומם בממשלה הבאה. בזירה הכלכלית נחתמה עסקת ווישור־אלטשולר שחם המעוררת שאלות לגבי כספי החוסכים.",
     "headlines": [
       {
-        "id": "ef2c1cca53",
-        "title": "החותים מציירים מחדש את מפת המזרח התיכון, וארה\"ב מתרחקת מהתמונה",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-13/ty-article/.premium/000001a0-9aa6-dfa9-ada3-dae684430000",
+        "id": "e5c1d3d6cc",
+        "title": "סקר כאן חדשות: איזנקוט מוביל עם 24 מנדטים, נתניהו נחלש",
+        "url": "https://www.kan.org.il/content/kan-news/politic/1099439/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": "https://www.kan.org.il/media/oqkl1dgw/whatsapp-image-2026-09-14-at-191436.jpeg?width=490&height=272&v=1dd4486be029690"
+      },
+      {
+        "id": "0312e6aeb8",
+        "title": "מפלגת הליכוד ביקשה מוועדת הבחירות לפסול את רע\"מ; בקשות הוגשו גם נגד עוצמה יהודית",
+        "url": "https://www.haaretz.co.il/news/elections/2026-09-14/ty-article/.premium/000001a0-9f39-dfa9-ada3-df7b4c0f0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-09-13T15:12:25+00:00",
+        "published_at": "2026-09-14T15:18:19+00:00",
         "image_url": null
       },
       {
-        "id": "fa26a85412",
-        "title": "טראמפ על המו\"מ עם איראן: \"תסתכלו על עזה כדוגמה. החזרנו את כל החטופים\"",
-        "url": "https://news.walla.co.il/item/3867534",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-14T06:00:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/8/7/4087316-46.jpg"
+        "id": "6385a70f7f",
+        "title": "נתניהו הבטיח לבן גביר וגוטליב: לא מכניס במקומכם אף אחד לממשלה",
+        "url": "https://www.ynet.co.il/news/elections2026/article/hyp5vpbkze",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-14T19:25:31+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/BkxL11jU4Gx/BkxL11jU4Gx_711_382_2290_1289_0_medium.jpg"
       },
       {
-        "id": "4fd37634c7",
-        "title": "דיווח: פיט הגסת' לחץ על טייסי ה-F15 שהופלו באיראן להתראיין ל\"60 דקות\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-1a1b23084b790a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-13T06:47:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/03/06/GettyImages-2264358690_autoOrient_i.jpg"
+        "id": "7c5423779e",
+        "title": "מה יקרה לכסף של החוסכים ומה יעשו העובדים: מה שצריך לדעת על עסקת ווישור־אלטשולר שחם",
+        "url": "https://www.themarker.com/markets/2026-09-14/ty-article/.premium/000001a0-9ffa-d219-a3ed-bffa853f0000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-09-14T16:17:02+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a0-a02d-dceb-abe2-ac2ddd330001/0b/aa/e6c7022a4876a6013df296a0d5d6/whatsapp-image-2026-09-14-at-16-48-36.jpeg?width=108&height=81"
       }
     ]
   },
   "security_war": {
-    "summary_he": "איראן טוענת כי הפילה כלי טיס בלתי מאויש מעל מיצרי הורמוז, בעוד גורמים חומקים מההגנה האווירית מדווחים כי איראן ניסתה לרכוש כטב\"מי סילון מרוסיה. בלבנון מכחישים באיראן נוכחות של אנשי משמרות המהפכה במנהרות באזור בעלי טאהר, וצה\"ל הגיב לסרט תיעודי בשם \"נז\"א\" תוך דחיית הטענות שהועלו בו. במקביל נעצר חייל בחופשה בחשד לירי לעבר כפר פלסטיני סמוך לרמאללה.",
+    "summary_he": "דיווח אמריקאי מצביע על מחסור בחימושים כתוצאה מהמלחמה באיראן, ובישראל נחשף כי צה\"ל סובל ממחסור בכסף וציוד. באיראן דווח על התפוצצות מכלית נפט במצר הורמוז, ורוסיה ממשיכה להטיל מצור על עיר אוקראינית תוך מחסור חמור במזון. בתימן דווח על תקיפות נרחבות של החות'ים בסעודיה, ובישראל נחשד תושב כפר קאסם בתכנון פיגוע.",
     "headlines": [
       {
-        "id": "faae180ab9",
-        "title": "חומקים מההגנה האווירית: \"איראן ביקשה לרכוש את כטב\"מי הסילון של רוסיה\"",
-        "url": "https://www.ynet.co.il/news/article/rya0okekmg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-13T20:55:06+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/HJuWjtVtMg/HJuWjtVtMg_0_2_750_423_0_medium.jpg"
+        "id": "814086556d",
+        "title": "דיווח: משרד ההגנה של ארה\"ב קבע כי המלחמה באיראן יצרה מחסור בחימושים",
+        "url": "https://www.haaretz.co.il/news/world/america/2026-09-15/ty-article/000001a0-a226-dceb-abe2-ae2fbd400000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-14T23:38:02+00:00",
+        "image_url": null
       },
       {
-        "id": "430ca663f4",
-        "title": "לפני 6 דקות איראן טוענת: הפלנו כלי טיס בלתי מאויש מדגם MQ1 מעל הורמוז",
-        "url": "https://www.maariv.co.il/breaking-news/article-1366063",
+        "id": "ac1fb7c636",
+        "title": "לא רק המנהרות: השמדת המבצר של איראן העניקה לישראל מתנה של פעם בדור תחקיר מוצב פגה חושף לוחמים שנלחמו בלי ציוד ותחמושת; כמעט שלוש שנים אחרי, צה\"ל שוב מניף דגלים אדומים – הפעם על מחסור בכסף, חלפים וכלים. הלקח מ-7 באוקטובר עדיין לא נלמד",
+        "url": "https://www.maariv.co.il/news/military/article-1366336",
         "source": "maariv",
         "source_label": "מעריב",
         "source_label_he": "מעריב",
@@ -61,9 +71,29 @@
         "image_url": null
       },
       {
-        "id": "2228d9ae61",
-        "title": "באיראן טוענים: לא היו אנשי משמרות המהפכה במנהרות בעלי טאהר בדרום לבנון",
-        "url": "https://www.kan.org.il/content/kan-news/defense/live-1099200/liveid-1099266/",
+        "id": "90163df541",
+        "title": "איראן: \"מכלית נפט התפוצצה במצר הורמוז\"",
+        "url": "https://www.ynet.co.il/news/article/rkgcv6skgg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-14T19:05:26+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/14/B1mlPpHKGe/B1mlPpHKGe_0_0_768_432_0_medium.jpg"
+      },
+      {
+        "id": "c620fade6f",
+        "title": "רוסיה מטילה מצור על עיר היסטורית באוקראינה: \"תושביה נאלצים לאכול עשב\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-0c9d219f82f90a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-14T09:06:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/14/UKTRAIN_autoOrient_i.jpg"
+      },
+      {
+        "id": "dd424cc53e",
+        "title": "דיווחים בתימן: תקיפות נרחבות של החות'ים בסעודיה",
+        "url": "https://www.kan.org.il/content/kan-news/defense/live-1099556/",
         "source": "kan",
         "source_label": "כאן 11",
         "source_label_he": "כאן 11",
@@ -71,24 +101,14 @@
         "image_url": null
       },
       {
-        "id": "e274fa9723",
-        "title": "צה\"ל בתגובה מפורטת לסרט \"נז\"א\": \"דוחים מכל וכל את הטענות\"",
-        "url": "https://13tv.co.il/item/news/politics/security/naza-905356212/?pid=62&refc=902992383",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "72ce154e2a",
-        "title": "צה\"ל: חייל בחופשה נעצר אחרי שירה לעבר הכפר אל־מועייר שמצפון לרמאללה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-13/ty-article/000001a0-9af3-d9a4-a3a7-9ff382760000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-13T13:27:25+00:00",
-        "image_url": null
+        "id": "c1d14247e0",
+        "title": "Kafr Qasim resident suspected of planning terror attack, police and Shin Bet say",
+        "url": "https://www.timesofisrael.com/liveblog-september-15-2026/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-09-14T22:13:43+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/IMG-20260915-WA0002-1024x640.jpg"
       }
     ]
   },
@@ -96,71 +116,128 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בזירה הפוליטית המקומית מדווח על התקרבות הציונות הדתית למשה פייגלין, ובזירה הבינלאומית מסתמנת דרמה בבחירות בשבדיה עם יתרון למחנה המרכז-שמאל ושאלות סביב כניסת הימין הקיצוני לממשלה.",
+      "summary_he": "מפלגת הליכוד פנתה לוועדת הבחירות בבקשה לפסול את רע\"מ, ובקשות דומות הוגשו נגד עוצמה יהודית. נתניהו הבטיח לבן גביר וגוטליב כי לא יחליף אותם בקואליציה הבאה, על רקע סקרים המצביעים על היחלשותו מול איזנקוט.",
       "headlines": [
         {
-          "id": "9c90437ba6",
-          "title": "דרמה בבחירות בשבדיה: יתרון למרכז-שמאל, הימין הקיצוני ייכנס לממשלה?",
-          "url": "https://www.ynet.co.il/news/article/sjjkxontmg",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-14T03:14:03+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/14/rJThy9EKze/rJThy9EKze_0_0_1672_941_0_medium.jpg"
-        },
-        {
-          "id": "a9f0a6448a",
-          "title": "אחרי שהיה זאב בודד בשולי הפוליטיקה, הציונות הדתית התקרבה לפייגלין",
-          "url": "https://www.haaretz.co.il/news/elections/2026-09-14/ty-article-magazine/.premium/000001a0-8f57-d9a4-a3a7-9f77118d0000",
+          "id": "0312e6aeb8",
+          "title": "מפלגת הליכוד ביקשה מוועדת הבחירות לפסול את רע\"מ; בקשות הוגשו גם נגד עוצמה יהודית",
+          "url": "https://www.haaretz.co.il/news/elections/2026-09-14/ty-article/.premium/000001a0-9f39-dfa9-ada3-df7b4c0f0000",
           "source": "haaretz",
           "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-09-14T03:00:20+00:00",
+          "published_at": "2026-09-14T15:18:19+00:00",
           "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "מהבידור: רות סירקיס, שהוגדרה כמי שהמציאה את הבישול הישראלי, חוגגת יום הולדת 90, ובריטני ספירס מביעה תקווה להיות אם טובה.",
-      "headlines": [
+        },
         {
-          "id": "7ae869aff9",
-          "title": "האישה שהמציאה את הבישול הישראלי: רות סירקיס חוגגת 90",
-          "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1099165/",
+          "id": "6385a70f7f",
+          "title": "נתניהו הבטיח לבן גביר וגוטליב: לא מכניס במקומכם אף אחד לממשלה",
+          "url": "https://www.ynet.co.il/news/elections2026/article/hyp5vpbkze",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-14T19:25:31+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/BkxL11jU4Gx/BkxL11jU4Gx_711_382_2290_1289_0_medium.jpg"
+        },
+        {
+          "id": "a930f99df3",
+          "title": "הנדל וזליכה בפנים, נתניהו נחלש - ומה עם הגוש הערבי? | סקר מנדטים",
+          "url": "https://news.walla.co.il/item/3867770",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-09-14T21:31:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/6/4/3664683-46.jpg"
+        },
+        {
+          "id": "985896d623",
+          "title": "בחירות 2026: כל הסקרים בחירות 2026: כל הסקרים",
+          "url": "https://www.kan.org.il/lobby/skarim/",
           "source": "kan",
           "source_label": "כאן 11",
           "source_label_he": "כאן 11",
           "published_at": null,
-          "image_url": "https://www.kan.org.il/media/4txfptjc/3_אתר.jpg?width=490&height=272&v=1dd43c2be4bad90"
-        },
-        {
-          "id": "13d1084b81",
-          "title": "בריטני ספירס מקווה: \"אהיה האמא הכי טובה בעולם\"",
-          "url": "https://www.israelhayom.co.il/forreal/global/article/21413940",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
           "image_url": null
         }
       ]
     },
     {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "בתחום הנדל\"ן מוצג סקר נכסים יוצאי דופן שניתן לרכוש במחיר דירת 4 חדרים במרכז הארץ.",
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "מקורב לראש הממשלה מציע להקטין את הפנסיות, מהלך שמעורר ביקורת. במקביל נחתמה עסקת ענק בין ווישור לאלטשולר שחם, שעשויה להשפיע על כספי החוסכים.",
       "headlines": [
         {
-          "id": "a08e0939a4",
-          "title": "אי פרטי, ריזורט או טירה? מסע אחרי נכסים שאפשר לקנות במחיר דירת 4 חדרים במרכז",
-          "url": "https://www.themarker.com/realestate/2026-09-14/ty-article-magazine/.highlight/000001a0-8263-de99-afab-afe7037c0000",
+          "id": "92bf03a0bc",
+          "title": "האם הפנסיה שלנו גבוהה מדי? מקורב ראש הממשלה חושב שכן — ומציע להקטין אותה",
+          "url": "https://www.themarker.com/news/macroeconomics/2026-09-15/ty-article/.highlight/000001a0-9fef-d9a4-a3a7-9fff6a440000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-09-14T03:01:35+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-8262-de99-afab-afe6f28c0000/86/f5/9430a584409a82d285c9daecffa1/66502840.JPG?width=108&height=81"
+          "published_at": "2026-09-15T03:09:49+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-a1a4-d9a4-a3a7-bff6479a0000/b1/21/6fad61f5490c9e576815733962aa/376422.jpg?width=108&height=81"
+        },
+        {
+          "id": "0a180dc43f",
+          "title": "\"אמרתי לעצמי, אני צריך לקנות את השותף שלי החוצה\". הכירו את האיש שהוביל את עסקת אלטשולר",
+          "url": "https://www.themarker.com/markets/2026-09-15/ty-article/.highlight/000001a0-a04c-d9a4-a3a7-bf7edd250000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-15T03:02:51+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-a0ba-d9a4-a3a7-bffa4ce80000/7a/e3/01be795442c183ea840ceebdb990/743003-2.jpg?width=108&height=81"
+        },
+        {
+          "id": "56d56b9768",
+          "title": "האזהרה של חברת הדירוג: ענקיות הטכנולוגיה יוציאו יותר מ–7 טריליון דולר בשנים הקרובות על חוות שרתים",
+          "url": "https://www.themarker.com/markets/2026-09-15/ty-article/.highlight/000001a0-8fc2-dfa9-ada3-cfc2cf880000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-15T03:05:47+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-9b65-d9a4-a3a7-9f7743040000/a0/dc/f50ccd264d32a0cdd60bcee2defb/334503.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "דיווח חושף תנאים קשים בבתי ספר בנגב, שם לומדים 7,200 תלמידים בין ביוב גולש לתקרות קורסות וחוסר בשירותים תקינים.",
+      "headlines": [
+        {
+          "id": "34aa0501a0",
+          "title": "\"ביוב גולש, תקרות קורסות ושירותים בלי דלתות\": כך לומדים 7,200 תלמידים בנגב",
+          "url": "https://www.ynet.co.il/news/article/yokra14897079",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-15T03:19:19+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/14/Sye5Yu6HtGl/Sye5Yu6HtGl_0_340_961_541_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "חגיגות ראש השנה באומן שברו שיאי נוכחות למרות המלחמה באוקראינה, עם יותר מ-65 אלף מבקרים בציון של רבי נחמן מברסלב.",
+      "headlines": [
+        {
+          "id": "6355d89093",
+          "title": "1 דקות ראש השנה פוליטיקאים, ידוענים וגם עריקים: ראש השנה באומן שבר שיאים למרות המלחמה באוקראינה, יותר מ-65 אלף מאמינים הגיעו לציון של רבי נחמן מברסלב • מחירי המלונות והדיור עלו בהתאם - אך ההערכה היא שעם סיום המלחמה, כמות המבקרים תזנק אפילו יותר זמן קריאה: 1 דקות.",
+          "url": "https://www.i24news.tv/he/news/jewish-holidays/rosh-hashanah/artc-a0a5514a",
+          "source": "i24",
+          "source_label": "i24NEWS",
+          "source_label_he": "i24NEWS",
+          "published_at": null,
+          "image_url": "https://cdn.i24news.tv/uploads/75/36/d7/76/a8/61/f0/b5/89/aa/82/47/08/c7/c9/c3/7536d776a861f0b589aa824708c7c9c3.jpg?width=350"
+        },
+        {
+          "id": "6130cf5330",
+          "title": "הלו! היהדות שייכת גם לי",
+          "url": "https://www.ynet.co.il/news/article/bkbrnuskgl",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-15T00:40:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/06/B1KaL2bLzl/B1KaL2bLzl_0_303_3000_1689_0_medium.jpg"
         }
       ]
     }
@@ -168,7 +245,6 @@
   "sources_fetched": [
     "haaretz",
     "ynet",
-    "israel_hayom",
     "kan",
     "mako",
     "walla",
@@ -180,175 +256,177 @@
     "reshet13",
     "i24"
   ],
-  "sources_failed": [],
+  "sources_failed": [
+    "israel_hayom"
+  ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israeli authorities escalated crackdowns on dissent, with a senior minister threatening to revoke the citizenship of documentary filmmakers over a Gaza film deemed critical of the state. Tensions in the West Bank remained high after an Israeli soldier shot a Palestinian during a confrontation. Israeli military operations in Gaza resulted in at least 10 deaths, including a pregnant woman, underscoring the humanitarian toll of the ongoing conflict.",
+      "summary_en": "An Israeli government minister has threatened to strip Israeli filmmakers of their citizenship in response to a documentary about Gaza. This reflects ongoing internal tensions within Israel regarding media representation and coverage of the conflict.",
       "headlines": [
         {
-          "id": "0cf63c81f0",
-          "title": "Israeli minister wants to strip award-winning Gaza documentary makers of nationality: 'Betrayal of the state'",
-          "url": "https://www.demorgen.be/nieuws/israelische-minister-wil-makers-van-bekroonde-gaza-documentaire-nationaliteit-afnemen-verraad-aan-de-staat~b7ba9f44/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-14T06:04:00+00:00",
-          "image_url": "https://image.demorgen.be/277719013/feature-crop/320/320/afbeelding"
+          "id": "3abd403861",
+          "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+          "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-09-14T18:26:20+00:00",
+          "image_url": null
         },
         {
-          "id": "03bb7c5905",
-          "title": "Israeli soldier shoots Palestinian in leg during confrontation on West Bank",
-          "url": "https://www.hln.be/buitenland/israelische-soldaat-schiet-palestijn-in-been-tijdens-confrontatie-op-de-westelijke-jordaanoever~a99e0324/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-14T04:59:00+00:00",
-          "image_url": "https://images.hln.be/NWNmMDZkNGVlN2M1MDkwNjFmYTMvZGlvLzI3Nzc3NzQ3OC9maXQtd2lkdGgvNDAw/de-palestijn-die-in-zijn-been-werd-geschoten-wordt-na-het-schot-weggedragen"
-        },
-        {
-          "id": "f49378d399",
-          "title": "Pregnant woman among more than 10 killed in Israeli attacks on Gaza",
-          "url": "https://www.theguardian.com/world/2026/sep/13/pregnant-woman-killed-israeli-attacks-gaza",
+          "id": "d0289b14a6",
+          "title": "Israeli minister threatens to strip Israeli filmmakers of citizenship over Gaza documentary",
+          "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-09-13T15:51:33+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/bf6ef76ba83fc39ae31761cdff23813105914be5/281_0_3388_2712/master/3388.jpg?width=700&quality=85&auto=format&fit=max&s=b294c02c13c91017cd4810a26281dacc"
+          "published_at": "2026-09-14T15:38:35+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/dd4ef69614c96f364a2b95dce1a30cad7253d175/349_0_4487_3592/master/4487.jpg?width=700&quality=85&auto=format&fit=max&s=33d089c84ab4e7874b04987081317154"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgian economic and political trends shifted notably this week. Consumer behavior showed increased Sunday shopping, with supermarket revenues rising 22 percent while small retailers faced declining sales. Political controversy emerged over a government note suggesting possible changes to the tax treatment of health funds and labor unions. Sexual violence remains a critical social issue, with care centers reporting 14 victims seeking help daily, described as merely the tip of the iceberg.",
+      "summary_en": "Belgian authorities warn that fragmented vaccination policies are creating unequal access to vaccines across the country. Prosecutors are seeking a 20-year prison sentence for Flor Bressers in a major drug case known as Kriva Rochem. One in eight Belgian families reportedly uses illegal \"pirate boxes\" to watch television, while the city of Beringen has requested military permission to hunt wild boars.",
       "headlines": [
         {
-          "id": "e801741130",
-          "title": "Belgians increasingly shop on Sundays: supermarket revenue rises 22 percent, small retailers lose ground",
-          "url": "https://www.hln.be/binnenland/belgen-doen-steeds-meer-boodschappen-op-zondag-omzet-supermarkten-stijgt-22-procent-kleine-handelaars-verliezen-terrein~a75a2060/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-14T06:27:00+00:00",
-          "image_url": "https://images.hln.be/YWVkOGE0NDE5NmM1NWFkNTE0MzkvZGlvLzI3Nzc3ODQwOS9maXQtd2lkdGgvNDAw/young-man-in-the-supermarket"
-        },
-        {
-          "id": "8b572062bb",
-          "title": "Will health funds and labor unions soon be taxed as regular businesses? Note on minister Jambon's desk suggests possible change",
-          "url": "https://www.demorgen.be/snelnieuws/live-worden-ziekenfondsen-en-vakbonden-straks-als-gewone-bedrijven-belast-nota-op-bureau-van-minister-jambon-suggereert-van-wel~bf7e76f4/",
+          "id": "2790f42f22",
+          "title": "'Fragmented vaccination policy leads to unequal vaccine access,' warn Independent Health Insurance Funds",
+          "url": "https://www.demorgen.be/nieuws/versnipperd-vaccinatiebeleid-leidt-tot-ongelijke-toegang-tot-vaccins-waarschuwen-onafhankelijke-ziekenfondsen~b1311dfc/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-09-14T06:26:00+00:00",
-          "image_url": "https://image.demorgen.be/277541238/roi/320/320/834.0200000000001/882.9000000000001/afbeelding"
+          "published_at": "2026-09-15T06:25:41+00:00",
+          "image_url": "https://image.demorgen.be/259875130/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "21a34aea99",
-          "title": "'The figures now are just the tip of the iceberg': 14 victims per day come to Center for Sexual Violence",
-          "url": "https://www.hln.be/binnenland/de-cijfers-nu-zijn-maar-het-topje-van-de-ijsberg-14-slachtoffers-per-dag-stappen-naar-zorgcentrum-na-seksueel-geweld~a20fa3ff/",
+          "id": "08187d0223",
+          "title": "1 in 8 Belgian families watch TV illegally via 'pirate box': anyone thinking illegal streaming has no consequences is mistaken",
+          "url": "https://www.hln.be/tech/1-op-8-belgische-gezinnen-kijkt-illegaal-tv-via-piratenkastje-wie-denkt-dat-downloaden-of-illegaal-streamen-geen-gevolgen-heeft-vergist-zich~a4d68045/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-09-14T05:00:00+00:00",
-          "image_url": "https://images.hln.be/MmNjMGYxN2M0MjA0NDQ1YjNkZjIvZGlvLzI3NzcwMDE5NS9maXQtd2lkdGgvNDAw/opening-limburgs-zorgcentrum-na-seksueel-geweld-zsg-zol-genk-inzet-hannah-van-dingenen-inzet-opening-limburgs-zorgcentrum-na-seksueel-geweld-zsg-zol-genk-mevr-liesbet-paulissen-coordinator-zsg-limburg"
+          "published_at": "2026-09-15T04:00:00+00:00",
+          "image_url": "https://images.hln.be/NmMxZjMxZWE2NTA5YjU0MTIzZDcvZGlvLzI3Nzc5MzM3My9maXQtd2lkdGgvNDAw/piraterij"
         },
         {
-          "id": "0b8e188cf8",
-          "title": "In 6 years, nearly 20,000 more Belgians have had pensions paid abroad: what do you need to watch out for?",
-          "url": "https://www.hln.be/mijn-geld/op-6-jaar-tijd-laten-bijna-20-000-belgen-meer-hun-pensioen-in-het-buitenland-uitbetalen-waar-moet-je-dan-allemaal-op-letten~a1a21516/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-14T05:00:00+00:00",
-          "image_url": "https://images.hln.be/YjY2NTA1NDEwMjRmYzg1M2Q4NGQvZGlvLzI3NzY2NTc2Ny9maXQtd2lkdGgvNDAw/beeld-ter-illustratie-vik-beullens-woordvoerder-federale-pensioendienst"
+          "id": "9b3cf84b44",
+          "title": "Prosecutors seek 20 years in prison for Flor Bressers in major drug case Kriva Rochem: 'CEO of tightly run organization'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/14/kriva-rochem-strafeis-flor-bressers/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2023/01/27/f0498fbc-9e48-11ed-b07d-02b7b76bf47f.jpg?width=200&height=200&q=80&blur=90"
+        },
+        {
+          "id": "e95fa28548",
+          "title": "City of Beringen requests Defence permission to hunt wild boars on military domain",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/15/aanpak-everzwijnen-beringen/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/15/727c80ef-35cb-480b-87bc-77361b671113.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "europe": {
-      "summary_en": "European political and security challenges dominated the week. Sweden held a closely contested parliamentary election, with the left bloc narrowly maintaining its lead over the right. Amid escalating Russia-Ukraine tensions, European officials called for NATO to conduct more aggressive military exercises to pressure a Russian withdrawal from occupied territories. The Estonian border city of Narva has begun military preparations for potential Russian action, while reports indicated that a train carrying top European politicians traveling to Ukraine may have been targeted by a Russian drone attack near the Polish border.",
+      "summary_en": "NATO is responding to security threats in Eastern Europe, with fighter jets shooting down a Russian drone over Lithuania as the conflict in Ukraine continues. The Netherlands experienced major disruptions to its rail network due to deliberate sabotage, with materials found intentionally placed on the tracks. EU leadership is advancing economic policy priorities, with von der Leyen delivering a landmark speech while member states work to reduce barriers to worker mobility.",
       "headlines": [
         {
-          "id": "917b1fbb82",
-          "title": "Europe Neck-and-neck race in Swedish parliamentary election, left bloc narrowly in the lead",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/13/parlementsverkiezingen-zweden/",
+          "id": "71bc9331a7",
+          "title": "Ukraine-Russia war: NATO fighter jets shoot down drone over Lithuania",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/navogevechtsvliegtuigen-halen-drone-neer-boven-litouwen~1789060001669/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/13/25eb21dc-ec38-47d0-bb0b-be7d0ce484e9.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/03/02/16455d4b-ae8c-474e-915b-9dfd688e17c4.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "6f4b03f7ee",
-          "title": "European calls for tougher action against Russia grow: 'NATO must exercise more aggressively to force Putin to withdraw troops from Ukraine'",
-          "url": "https://www.hln.be/buitenland/europese-roep-om-hardere-aanpak-van-rusland-groeit-navo-moet-agressiever-oefenen-om-poetin-te-dwingen-troepen-uit-oekraine-terug-te-trekken~a70a0a36/",
+          "id": "5a907fe267",
+          "title": "Von der Leyen U-turns, will attend landmark Carney speech",
+          "url": "https://www.politico.eu/article/ursula-von-der-leyen-u-turns-will-attend-landmark-mark-carney-speech/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-14T20:53:51+00:00",
+          "image_url": null
+        },
+        {
+          "id": "a9fb751b0d",
+          "title": "Major problems on Dutch railway due to sabotage: materials found deliberately placed there",
+          "url": "https://www.hln.be/buitenland/grote-problemen-op-nederlandse-spoor-door-sabotage-materialen-aangetroffen-die-daar-bewust-zijn-neergelegd~a362787b/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-09-14T05:24:00+00:00",
-          "image_url": "https://images.hln.be/ZTE0OGRmNWZiNzg3MDNhOGZmYWEvZGlvLzI3Nzc3NzYyMS9maXQtd2lkdGgvNDAw/dabrowka-poland-2024-11-30-kto-rosomak-next-to-the-concrete-barriers-that-are-part-of-poland-s-east-shield-fortification-at-poland-s-border-with-russia-in-dabrowka-polish-prime-minister-donald-tusk-visited-the-first-completed-section-of-the-east-shield-polish-tarcza-wschod-a-landmark-national-defense-initiative-launched-to-strengthen-poland-s-eastern-borders-with-belarus-and-the-russian-exclave-of-kaliningrad-this-program-marks-one-of-the-largest-investments-in-national-security-and-border-defense-in-poland-s-post-war-history-during-the-visit-tusk-emphasized-the-project-s-critical-role-in-reinforcing-nato-s-eastern-flank-describing-it-as-a-vital-component-of-poland-s-efforts-to-enhance-regional-stability-and-collective-defense-capabilities-the-eastern-shield-reflects-poland-s-strategic-commitment-to-addressing-mounting-geopolitical-tensions-and-safeguarding-nato-s-eastern-borders-photo-by-marek-antoni-iwanczuk-sopa-images-lightrocket-via-getty-images-inzet-russian-president-vladimir-putin-attends-the-18th-brics-summit-alongside-china-s-president-xi-jinping-india-s-modi-iranian-president-masoud-pezeshkian-in-new-delhi-india-on-september-12-2026-hosted-by-india-the-summit-brings-together-brics-leaders-to-discuss-economic-and-political-cooperation-as-well-as-international-and-regional-developments-amid-rising-tensions-in-the-middle-east-apaimages-polaris-only-belgium-local-caption-08307134"
+          "published_at": "2026-09-15T06:09:00+00:00",
+          "image_url": "https://images.hln.be/MmE0ZWVhNmZiYTQwZTgxMjg5YmIvZGlvLzI3NzU4NTE2Ny9maXQtd2lkdGgvNDAw/2026-09-09-16-33-30-amsterdam-een-reiziger-op-een-verder-lege-kade-bij-de-veerpont-over-het-ij-tijdens-een-landelijke-24-uursstaking-in-het-ov-olaf-kraak-anp"
         },
         {
-          "id": "ede94de8aa",
-          "title": "How Estonian border city Narva prepares for possible Russian attack: 'All those threats, you get used to it'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/11/arnaud-de-decker-estland-rusland-reportage/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/14/08fc5309-1d76-4488-92ed-f766243d8045.jpg?width=200&height=125&q=80&blur=90"
+          "id": "8d6b173064",
+          "title": "Can less paperwork get EU workers moving?",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-less-paperwork-get-eu-workers-moving/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-15T04:05:00+00:00",
+          "image_url": null
         },
         {
-          "id": "af6cf4768c",
-          "title": "Train from Ukraine to Poland with European top politicians aboard was 'possibly' real target of Russian attack",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/13/oekraine-trein-geraakt/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/13/ab891a06-c5d2-49b9-99c6-73ec5bee5f5d.jpg?width=200&height=125&q=80&blur=90"
+          "id": "004f54b789",
+          "title": "Experts quit Lucy Letby's defence team over 'scientific credibility' as public inquiry reports",
+          "url": "https://www.theguardian.com/uk-news/2026/sep/14/experts-quit-lucy-letby-defence-team-scientific-credibility-concerns",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-15T05:05:25+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/d52aa18f1a86edab2f869d4f4c34f8526d0a8a58/92_0_2834_2268/master/2834.jpg?width=700&quality=85&auto=format&fit=max&s=65f308ffefa9295c64ddc2a4c9594e9e"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Global developments included intensifying Middle Eastern tensions and significant geopolitical shifts. Houthi forces claimed responsibility for an attack on a Saudi military base amid broader fighting in Yemen, driving oil prices to their highest level since May. North Korean leader Kim Jong-un announced major investments in leisure and entertainment infrastructure for citizens, including luxury shopping centers and theme parks. In Australia, political corruption proceedings heard testimony from a fugitive developer detailing alleged improper dealings, as major job losses loom in the regional city of Whyalla.",
+      "summary_en": "The US Supreme Court has rejected Trump's request to limit mail-in voting, affirming broader voting access rights. Ukraine faces a recruitment crisis amid reportedly low military enlistment. The US military has confirmed possessing weapons in space, raising questions about orbital military capabilities. According to a new report, America's democratic decline is becoming a concern for Europe.",
       "headlines": [
         {
-          "id": "774aa0351c",
-          "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
-          "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-13T11:26:06+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/88eb9c6600608e3f91ee393125ad91bb304592d6/1330_0_3600_2880/master/3600.jpg?width=700&quality=85&auto=format&fit=max&s=43a99f235320448a41f9168e090448f3"
-        },
-        {
-          "id": "5e48d9a6cb",
-          "title": "Oil prices reach highest level since May after drone attack on Saudi pipeline",
-          "url": "https://www.demorgen.be/snelnieuws/live-olieprijzen-naar-hoogste-peil-sinds-mei-na-droneaanval-op-saudische-pijpleiding~b31dbb6e/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-14T06:35:00+00:00",
-          "image_url": "https://image.demorgen.be/277760541/roi/320/320/771.65/829.94/afbeelding"
-        },
-        {
-          "id": "4ff172bd87",
-          "title": "Luxury shopping, theme parks and vacation resorts: Kim Jong-un invests in leisure time for North Koreans, but with a reason",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/11/meer-luxe-in-noord-korea-nieuwe-strategie-van-kim-jong-un/",
+          "id": "0b35b76ffc",
+          "title": "US Supreme Court rejects Trump's request to limit mail-in voting",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/15/amerikaans-hooggerechtshof-verwerpt-verzoek-van-trump-om-postste/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/13/45d5b0b7-1e9f-4e9c-8b7f-df7195f4b799.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/15/9ec50b00-dc7f-45c5-8d67-706a0e17292f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "366a5915c8",
-          "title": "Politics live: Fugitive developer Jean Nassif details feud with David Elliott, telling Icac Liberals were 'rejecting all my properties'; 500 Whyalla employees to lose jobs",
-          "url": "https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-14T06:37:43+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/2350a0ad5ad193d389f551b3ffd84d590edf9146/423_134_531_425/master/531.jpg?width=700&quality=85&auto=format&fit=max&s=d616293a3f1d3b5fcd992578bd3328aa"
+          "id": "df547c2037",
+          "title": "Russia-Ukraine war: Almost nobody wants to enlist in Ukrainian army anymore",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/14/niemand-wil-zich-nog-inschrijven-in-het-oekraiense-leger-vrt-nw/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/14/dc9c8e65-5790-4fbe-b425-4c949445bd24.jpg?width=200&height=200&q=80&blur=90"
+        },
+        {
+          "id": "541aeb1ed8",
+          "title": "US military confirms it has weapons in space",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/15/amerikaans-leger-bevestigt-dat-het-wapens-heeft-in-de-ruimte/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/15/92d950b4-a721-454b-9df2-71dc1ec5478d.jpg?width=200&height=200&q=80&blur=90"
+        },
+        {
+          "id": "3a00821254",
+          "title": "America's democratic decline is becoming Europe's problem, new report says",
+          "url": "https://www.politico.eu/article/americas-democratic-slide-is-becoming-europes-problem/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-15T00:01:00+00:00",
+          "image_url": null
         }
       ]
     },
