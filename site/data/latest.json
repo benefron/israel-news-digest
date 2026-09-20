@@ -1,288 +1,97 @@
 {
-  "generated_at": "2026-09-18T07:09:04.178248+00:00",
-  "date": "2026-09-18",
-  "degraded": false,
+  "generated_at": "2026-09-20T13:34:15.490649+00:00",
+  "date": "2026-09-19",
+  "degraded": true,
   "top_general": {
-    "summary_he": "פרשת ריגול שעלתה לכותרות בשיתוף עם חמאס ומודיעין איראני עוררה תגובות בירוקרטיות בישראל. בזירה הפוליטית, בית המשפט העליון הטיל איסור על מעקב בוחרים ביום בחירות, בעוד קואליציית הממשלה נמצאת על שוליים דקים בכנסת עם רוב צר מאוד. תאונה קטלנית בחדרה גבתה את חייו של נער בן 17, וברקע הגיאופוליטי הלחצים על איראן והקונפליקטים הבינלאומיים ממשיכים להשתנות.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "e2df9b8126",
-        "title": "פנה לחמאס ויצר קשר עם גורמי מודיעין איראניים: אישום נגד תושב טמרה",
-        "url": "https://news.walla.co.il/item/3868700",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-18T08:04:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/2/4102720-46.png"
-      },
-      {
-        "id": "39e982afde",
-        "title": "High Court bans parties from tracking voters on election day, angering Likud",
-        "url": "https://www.timesofisrael.com/high-court-bans-parties-from-tracking-voters-on-election-day-angering-likud/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-17T19:10:41+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/F221101GM06-1024x640.jpg"
-      },
-      {
-        "id": "b0dfd8af1e",
-        "title": "רק 123 קולות הפרידו כאן בין האופוזיציה לקואליציה: \"הצבעתי גנץ - ועכשיו רע\"מ\"",
-        "url": "https://www.ynet.co.il/news/article/h16i11vttzx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-17T21:01:00+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/H1TDSStYfg/H1TDSStYfg_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "80837c6722",
-        "title": "בן 17 נדרס למוות בקטטה במרכז קניות בחדרה, הנהג נפצע קל מירי",
-        "url": "https://www.haaretz.co.il/news/law/2026-09-18/ty-article/000001a0-b261-de67-a5a3-ff65ef2c0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-18T03:01:14+00:00",
-        "image_url": null
-      },
-      {
-        "id": "31497052d1",
-        "title": "גנרל רוסי בכיר קיבל עיטור מפוטין - ואז הוא חוסל מהאוויר",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-6ae5689115ea0a1027.htm",
+        "id": "a6b0e5d04a",
+        "title": "דיווח בניו יורק טיימס: ממשל טראמפ שוקל עסקאות כלכליות עם רוסיה – עוד לפני סיום המלחמה",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-2dd97141e43b0a1026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-09-17T07:53:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/17/GRUNIS_autoOrient_i.jpg"
+        "published_at": "2026-09-18T12:42:00+00:00",
+        "image_url": "https://img.mako.co.il/2025/08/16/pisgaa16081_autoOrient_i.jpg"
+      },
+      {
+        "id": "0af66fa069",
+        "title": "טראמפ מסלים את המלחמה בתקשורת: אוסר על CNN ורשתות נוספות להיכנס לבית הלבן",
+        "url": "https://www.ynet.co.il/news/article/by7zyfiffl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-18T21:05:29+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/H1Z1e4FYfg/H1Z1e4FYfg_0_85_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "0accc3a295",
+        "title": "טראמפ: ארה\"ב השיגה שליטה קבועה בענייני הביטחון בגרינלנד",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001556938",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-09-19T05:49:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1736774297/COT_Pic/800_vcyxy2.jpg"
+      },
+      {
+        "id": "29d0bf2c36",
+        "title": "מכירת ה-F-35 לסעודיה: חשש משבירת היתרון האיכותי של צה\"ל",
+        "url": "https://www.kan.org.il/content/kan-news/defense/1101016/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": "https://www.kan.org.il/media/aw2h02e3/2024-04-07t183622z_2028910683_rc24t1a1xl91_rtrmadp_3_israel-palestinians-usa-assistance.jpg?width=490&height=272&v=1daa2b9417de4b0"
+      },
+      {
+        "id": "ad8f4a63eb",
+        "title": "בניסיון לבלום משבר, טורקיה תפרק 130 קרנות בשווי 18 מיליארד דולר",
+        "url": "https://www.themarker.com/wallstreet/2026-09-18/ty-article/.premium/000001a0-b383-de67-a5a3-ffa7ab1d0000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-09-18T08:21:31+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a0-b395-d91d-afeb-fbd53a630000/ba/7f/522674984940bc6658dad091be46/533992.jpg?width=108&height=81"
+      },
+      {
+        "id": "bef7912cfd",
+        "title": "ממשלת ישראל היא נזק לא אגבי",
+        "url": "https://www.ynet.co.il/news/article/yokra14903446",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-18T18:07:31+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/ByC3shFKMl/ByC3shFKMl_0_0_3000_2000_0_medium.jpg"
+      },
+      {
+        "id": "da6de83fca",
+        "title": "ימינה, ימינה, עוד ימינה",
+        "url": "https://www.ynet.co.il/news/article/yokra14902528",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-18T18:10:27+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/yk14902882/yk14902882_0_0_704_535_0_medium.jpg"
+      },
+      {
+        "id": "3b80dd3bdd",
+        "title": "ארה\"ב הטילה סנקציות על בורסת קריפטו איראנית שהעבירה תשלומים עבור שיט בהורמוז",
+        "url": "https://www.themarker.com/wallstreet/2026-09-18/ty-article/.premium/000001a0-b334-df5b-adf2-f775a6180000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-09-18T07:16:35+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a0-b357-d91d-afeb-fb57b3260000/fe/e2/e993cc134089bcfc1a6a7bfb2a0e/097756.jpg?width=108&height=81"
       }
     ]
   },
   "security_war": {
-    "summary_he": "צה״ל המשיך בפעילות צבאית בעזה ובלבנון, עם דיונים עמוקים על מחיר המלחמה וההשלכויות האסטרטגיות. עלו טענות נגד ישראל בדבר פשעי מלחמה בעזה, בעוד הדחתו לשעבר של קמ״ן אוגדה ממשיכה להטריד. במהלך המלחמה זוהו טרוריסטים של חמאס שנהרגו בפעולות צה״ל, וצה״ל מעדיף להימנע מחזית חזיתית חדשה, כשהוא משקלל שיקולים אסטרטגיים ופוליטיים.",
-    "headlines": [
-      {
-        "id": "92d490a197",
-        "title": "ההתעלמות ממחיר המלחמה, ומה אמר המודיעין: האם ישראל עמדה בפני השמדה?",
-        "url": "https://www.ynet.co.il/news/elections2026/article/h1rl00nytze",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-17T21:26:11+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/B1TZKpYFGg/B1TZKpYFGg_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "5648f64aa3",
-        "title": "סערת נז\"א לא שינתה את השורה התחתונה: ישראל ביצעה בעזה פשעי מלחמה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-18/ty-article/.highlight/000001a0-b0a7-df5b-adf2-f6e79e7d0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-18T03:00:49+00:00",
-        "image_url": null
-      },
-      {
-        "id": "dcd39ddbdc",
-        "title": "צה\"ל הדיח את קמ\"ן אוגדת עזה ב־7 באוקטובר: \"נושא באחריות פיקודית\"",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-17/ty-article/.highlight/000001a0-b01a-dea8-afe0-f0be9d030000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-17T16:02:10+00:00",
-        "image_url": null
-      },
-      {
-        "id": "50e32733a4",
-        "title": "צה\"ל מעדיף להתרחק מהחזית החותית החדשה, לנתניהו עשויים להיות שיקולים משלו",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-18/ty-article/.highlight/000001a0-b0a6-dea8-afe0-f0ae1ac00000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-18T03:00:43+00:00",
-        "image_url": null
-      },
-      {
-        "id": "bceec42233",
-        "title": "Two Hamas terrorists who invaded Israel on Oct. 7 killed in recent Gaza strikes, IDF says",
-        "url": "https://www.timesofisrael.com/two-hamas-terrorists-who-invaded-israel-on-oct-7-killed-in-recent-gaza-strikes-idf-says/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-17T20:06:55+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/06/AFP__20231007__33XK9J8__v2__HighRes__PalestinianIsraelConflictGaza-1024x640.jpg"
-      }
-    ]
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "בזירה הפוליטית, נשמעת ביקורת בינלאומית על ישראל מגורמים שונים בעולם. בריטניה התקדמה בהטלת סנקציות על רוסיה למרות אזהרות מגורמי מודיעין בעלי ממשקל פוליטי. בנוסף, ישראל התקרבה לצד ימני קיצוני באוסטריה בעל שורשים היסטוריים בעייתיים.",
-      "headlines": [
-        {
-          "id": "91018250e6",
-          "title": "\"למה תמיד נגד ישראל? דוחפים להם את זה לתוך הגרון\"",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-67a1b98897760a1026.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-09-17T10:41:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/09/16/iraland_mag_05_autoOrient_i.jpg"
-        },
-        {
-          "id": "1285455682",
-          "title": "בכירי המודיעין בבריטניה הזהירו, אך הממשלה התקדמה עם הסנקציות",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001556792",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-09-17T13:14:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1789650828/2026-09-08T160627Z_528130721_RC21FNAS0LN3_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-BRITAIN_ijmncu.jpg"
-        },
-        {
-          "id": "3530e282a8",
-          "title": "שיקלי התגאה ב\"מהפך היסטורי\" ביחסים עם מפלגה אוסטרית בעלת שורשים נאציים",
-          "url": "https://www.haaretz.co.il/news/politics/2026-09-17/ty-article/.premium/000001a0-b017-dea8-afe0-f0bf15440000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-17T17:31:19+00:00",
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "בזירת הכלכלה, עסקים ישראליים ממשיכים לחתום על חוזים ארוכי טווח עם לקוחות בחו״ל למרות חששותיהם מהמלחמה. מערכת הפנסיה בישראל נחשבת לאחת המוצלחות בעולם, אך עם העלייה במחירים והירידה בתשואות בחו״ל, ההשקעות נשארות בסיכון. בנוסף, ישראל שברה שיא במספר האנשים שהגיעו לגיל מאה.",
-      "headlines": [
-        {
-          "id": "a08a163772",
-          "title": "מקום 29: \"לקוחות בחו\"ל מודאגים מהמלחמה, אבל חותמים איתנו 15 שנה קדימה\"",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001555189",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-09-17T18:00:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/v1788854586/800-29_%D7%A8%D7%9D_%D7%93%D7%A8%D7%95%D7%A8%D7%99_kvqmfo.png"
-        },
-        {
-          "id": "c775986d7c",
-          "title": "המחירים עולים, התשואות מתמתנות: האם התשואה בפורטוגל, ביוון ובקפריסין מצדיקה את הסיכון?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001554029",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-09-18T04:06:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1788284212/shutterstock_2750381303_qeawbi.jpg"
-        },
-        {
-          "id": "d2cba95186",
-          "title": "המדינה ששברה שיא במספר האנשים שהגיעו לגיל מאה",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001556783",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-09-17T15:30:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1789651699/800-%D7%96%D7%95%D7%9D_%D7%92%D7%9C%D7%95%D7%91%D7%9C%D7%99_svap5m.png"
-        }
-      ]
-    },
-    {
-      "key": "health",
-      "label_he": "בריאות ורפואה",
-      "summary_he": "בידיעה בינלאומית, פיג'י הכריזה על מצב חירום לאומי בעקבות התפשטות מגפת HIV בתחומה.",
-      "headlines": [
-        {
-          "id": "419ec6ad30",
-          "title": "\"מצב חירום לאומי\": פיג'י הכריזה על מגפת הידבקות ב-HIV",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-4e7706e531ea0a1027.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-09-17T07:00:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/09/17/SUVAFIJI_autoOrient_i.jpg"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "בעולם הטכנולוגיה, חברה ישראלית בשם AirSoft שהייתה בשיא הצלחתה נחשפה לחשדות הונאת עתק בסדר גודל רחב. בנוסף, מנהלים בחברות הייטק מדווחים על לחצים בגיוס כוח אדם בעקבות שמועות על פיטורים נרחבים בענף.",
-      "headlines": [
-        {
-          "id": "3b32c99cf7",
-          "title": "איירסופט הייתה חברה טכנולוגית בנסיקה, ואז עלה החשד להונאת עתק. תחקיר ישראלי בינלאומי חושף את השיטה",
-          "url": "https://www.ynet.co.il/news/article/yokra14890160",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-18T06:20:47+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/B1sX11ydtGl/B1sX11ydtGl_0_0_1920_1080_0_medium.jpg"
-        },
-        {
-          "id": "0c74672fed",
-          "title": "\"המנהלים בהייטק אומרים לנו: 'אנחנו שומעים שיש מלא מפוטרים, אז אני לא רוצה להתפשר'\"",
-          "url": "https://www.themarker.com/weekend/2026-09-18/ty-article-magazine/.highlight/000001a0-aa58-de68-a7e0-bb5e8a900000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-18T03:09:59+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-adee-d5b2-a9ee-afee5e3a0001/81/1c/4c372c874dd9bd1c8d5b77fde5c4/264216.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "בתחום התרבות והבידור, סוד פרטי של דמות ידועה בשם נרקיס נחשף, לאחר שהשתמשה בתחפושת מלאה כדי לשמור על חשאיותה.",
-      "headlines": [
-        {
-          "id": "2ef2aa7051",
-          "title": "הסוד של נרקיס: \"באה עם פאה ומשקפי שמש, שלא יזהו אותי\"",
-          "url": "https://www.israelhayom.co.il/magazine/shishabat/article/21436694",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "environment",
-      "label_he": "סביבה ואקלים",
-      "summary_he": "בחזית הסביבה והאקלים, הטמפרטורות ירדו ניכרות, בעוד בצפון הארץ צפויים גשמים מקומיים שעלולים לשפר את אספקת המים.",
-      "headlines": [
-        {
-          "id": "5dd5054323",
-          "title": "ירידה ניכרת בטמפרטורות - בצפון צפויים גשמים מקומיים | התחזית",
-          "url": "https://news.walla.co.il/item/3868686",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-18T06:00:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/4/6/4046571-46.jpg"
-        }
-      ]
-    },
-    {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "בזירה החברתית-דתית, המונים התפללו בכותל, בעוד צד אחר של הזירה הדתית הציג דינמיקות חברתיות מעניינות יותר.",
-      "headlines": [
-        {
-          "id": "9ae05d7c1b",
-          "title": "בצד אחד התפללו המונים בכותל. אבל דווקא הצד השני היה מעניין יותר",
-          "url": "https://www.haaretz.co.il/news/picofweek/2026-09-17/ty-article-magazine/.premium/000001a0-af01-d5b2-a9ee-af8b82d00000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-17T15:24:04+00:00",
-          "image_url": null
-        }
-      ]
-    }
-  ],
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -302,165 +111,82 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "A Jerusalem Reform synagogue was targeted in an egg attack, marking the second such incident against Jewish institutions in a month, reflecting ongoing antisemitism and security concerns. In Israel, strong protests have erupted against NAZA, with filmmakers calling for a related documentary not to be shown on October 7.",
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
       "headlines": [
         {
-          "id": "6c0d7694d1",
-          "title": "Intense protest in Israel against 'NAZA', filmmakers call for documentary not to be shown on October 7",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/18/protest-in-israel-tegen-naza-makers-roepen-op-documentaire-ni/",
+          "id": "62f80b32ec",
+          "title": "01:28 Journaal Eerste schooldag in Gaza na 3 jaar oorlog: kinderen krijgen les in geïmproviseerde lokalen za 19 sep.",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/19/video-eerste-schooldag-gaza-journaal/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/18/babb1588-d1ec-470e-be1c-89614f0eecc2.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/df757c35-c6bd-425c-aac8-641b029d995d.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "ca030e8b95",
-          "title": "Jerusalem Reform synagogue egged in second attack in a month",
-          "url": "https://www.jta.org/2026/09/17/israel/jerusalem-reform-synagogue-egged-in-second-attack-in-a-month",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-17T19:58:01+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/08/kol-hanesham.jpeg"
+          "id": "df51baf494",
+          "title": "Verenigde Staten Trump voegt daad bij woord: toegang journalisten van CNN, MSNOW en Politico geweigerd za 19 sep.",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/18/vs-cnn-msnow-politico-verbannen-uit-witte-huis/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/de27ba09-4049-414a-9c22-65b4d2ab33c1.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "c75c748b31",
+          "title": "Kasteelmoord Evert de Clercq, die huurmoordenaar voor Kasteelmoord regelde, vrijgelaten uit Nederlandse gevangenis za 19 sep.",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/kasteelmoord-evert-de-clercq-vrijgelaten/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/1d941a05-8b62-48cd-bdf0-b6f849378120.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "09e7ed70b2",
+          "title": "Nederland \"Excessief geweld tegen politie en Hitlergroeten gebracht\": Nederlandse premier reageert op rellen door extreemrechts in Den Haag za 19 sep.",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/den-haag-mars-extreemrechts-loopt-uit-de-hand/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/0e830b86-c5e5-468e-ba57-329b1b60774b.jpg?width=200&height=200&q=80&blur=90"
+        },
+        {
+          "id": "a494bd6d6f",
+          "title": "03:51 Verenigde Staten Bert De Vroey: \"Het is toch veel minder dan waar Trump op had ingezet\" za 19 sep.",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/19/bert-de-vroey-_het-is-toch-veel-minder-dan-waar-trump-op-had-in/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/1460ed05-f647-4c95-b612-5869ecda18de.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "8d507a7dd7",
+          "title": "Afrika Zeker 48 doden in Nigeria na drinken van ambachtelijk gestookte 'monkey tail' za 19 sep.",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/zeker-48-doden-in-nigeria-door-methanolvergiftiging/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/a66d54a1-33cd-470e-a9ac-d06a1b0bfade.png?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium faces significant political challenges, particularly in Oostende, where an N-VA coalition partnership appears headed toward gridlock. The Flemish government is investigating potential cuts to child allowances as part of broader budget-balancing efforts. Planned data centers across Belgium are expected to push energy demand to record levels, while business organizations warn against continued government hiring, arguing that it draws talent away from the private sector.",
-      "headlines": [
-        {
-          "id": "281d97abcf",
-          "title": "As their dream partnership with N-VA in Oostende appears headed for political deadlock: what will Mayor John Crombez (Vooruit) do?",
-          "url": "https://www.hln.be/oostende/nu-zijn-droomhuwelijk-met-n-va-in-oostende-lijkt-uit-te-monden-in-politieke-impasse-wat-doet-burgemeester-john-crombez-vooruit~a4d0d0ca/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-18T06:19:00+00:00",
-          "image_url": "https://images.hln.be/OTcxNjRhYmIyZmQ2MWYwOTcwYWMvZGlvLzI3NzkwODU5Ny9maXQtd2lkdGgvNDAw/venster-valt-uit-de-gevel-van-het-stadhuis-te-oostende-inzet-burgemeester-john-crombez-vooruit-en-schepen-charlotte-verkeyn-n-va-inzet-burgemeester-john-crombez-op-zijn-favoriete-vakantiebestemming-oostende"
-        },
-        {
-          "id": "5e78fd1fbb",
-          "title": "Flemish government explores savings on child allowances as it seeks budget balance",
-          "url": "https://www.hln.be/binnenland/vlaamse-regering-onderzoekt-besparingen-op-kinderbijslag-in-zoektocht-naar-begrotingsevenwicht~a9cb0fe2/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-18T05:37:00+00:00",
-          "image_url": "https://images.hln.be/ZDc5YTc3ZjE0NWY2Y2ZkOGZkOGQvZGlvLzI3NzkwODMzMS9maXQtd2lkdGgvNDAw/girl-child-putting-a-coin-in-a-piggy-bank-concept-of-pocket-money-careful-saving-and-financial-literacy"
-        },
-        {
-          "id": "d8649b7ef8",
-          "title": "Planned data centers in Belgium push energy demand to record levels",
-          "url": "https://www.hln.be/economie/geplande-datacenters-in-belgie-jagen-energievraag-naar-recordhoogtes~ae65bf17/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-18T04:03:00+00:00",
-          "image_url": "https://images.hln.be/NWQ4NDc0ZTBjYWYwMDM2ODgwZjMvZGlvLzI3NzYxNjczOC9maXQtd2lkdGgvNDAw/service-racks-inside-the-datacenter-fastweb-di-via-caracciolo-in-milan-italy-september-9-2026-reuters-daniele-mascolo"
-        },
-        {
-          "id": "4474aa0fde",
-          "title": "VBO calls for 'absolute hiring freeze' for government: 'Stop cannibalizing the labor market at the expense of the private sector'",
-          "url": "https://www.hln.be/binnenland/vbo-vraagt-absolute-wervingsstop-voor-de-overheid-stop-met-de-arbeidsmarkt-te-kannibaliseren-ten-nadele-van-de-private-sector~a872819b/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-18T06:35:02+00:00",
-          "image_url": "https://images.hln.be/MWE1NTIxNGM4N2UxNzMyOWQ3NTcvZGlvLzI3NjAyOTQ2OS9maXQtd2lkdGgvNDAw/brussels-belgium-july-02-pieter-timmermans-ceo-vbo-feb-edward-roosens-chief-economist-executive-manager-vbo-feb-pictured-during-the-press-conference-about-the-report-on-the-current-economic-situation-and-the-outlook-for-the-next-six-months-on-july-2-2026-in-brussels-belgium-02-07-2026-photo-by-didier-lebrun-photonews"
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
     "europe": {
-      "summary_en": "European Union politics are increasingly strained by budget disputes, with Germany and Spain clashing over fiscal policy while EU leaders debate whether Europe should increase spending more strategically rather than simply spending more. In Germany, political figure Merz faces significant challenges following recent elections. The Russia-Ukraine war remains a critical European concern, with the US Congress approving sanctions against Russia while granting the Trump administration authority over tariffs on Russian oil and gas.",
-      "headlines": [
-        {
-          "id": "81ff5ce656",
-          "title": "Germany and Spain go head-to-head in EU budget fight",
-          "url": "https://www.politico.eu/article/germany-and-spain-go-head-to-head-in-eu-budget-fight/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-09-18T02:04:02+00:00",
-          "image_url": null
-        },
-        {
-          "id": "f28b91190c",
-          "title": "Germany's Merz girds for a post-election fight for political survival",
-          "url": "https://www.politico.eu/article/germany-friedrich-merz-political-survival-fight-regional-elections/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-09-18T02:00:00+00:00",
-          "image_url": null
-        },
-        {
-          "id": "d809596ba2",
-          "title": "Five EU leaders: Europe must spend better, not just more",
-          "url": "https://www.politico.eu/article/five-eu-leaders-europe-must-spend-better-not-just-more/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-09-18T02:00:00+00:00",
-          "image_url": null
-        },
-        {
-          "id": "d76af16a11",
-          "title": "Russia-Ukraine War: US Congress approves sanctions against Russia but grants Trump authority over tariffs on Russian oil and gas",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/17/vs-sancties-rusland-oekraine-importheffingen-trump/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/16/93ad5e80-fbcf-43a0-ba0d-d23ad603ff68.jpg?width=200&height=125&q=80&blur=90"
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
     "world_top": {
-      "summary_en": "Russia reported hundreds of drones heading toward Moscow on the first day of its recent elections, highlighting ongoing security and military threats. Investigations have revealed that Russia uses its mobile super-app Max to conduct widespread surveillance of its citizens. In the Asia-Pacific region, South Korea has declined to send military forces to support potential US military operations against Iran, resisting pressure from the Trump administration.",
-      "headlines": [
-        {
-          "id": "1a4855407b",
-          "title": "Live - Russia reports hundreds of drones heading to Moscow on first day of elections",
-          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-vliegverkeer-in-twee-poolse-luchthavens-stilgelegd-vanwege-militaire-activiteit-rusland-meldt-honderden-drones-op-weg-naar-moskou-op-eerste-dag-verkiezingen~b38bed0a/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-18T06:58:00+00:00",
-          "image_url": "https://image.demorgen.be/277905442/roi/320/320/2416.74/1439.76/afbeelding"
-        },
-        {
-          "id": "2e283138cd",
-          "title": "Revealed: how Russia uses mobile 'super-app' Max to spy on its citizens",
-          "url": "https://www.theguardian.com/world/2026/sep/18/russian-super-app-max-spy-citizens",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-18T06:00:13+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/95dd18da1ae4e8f1270ed80fd88a01fc74cdf9cd/869_0_5933_4747/master/5933.jpg?width=700&quality=85&auto=format&fit=max&s=f231ec5f71d8510e57d211dbc9bb6c03"
-        },
-        {
-          "id": "02a24caced",
-          "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
-          "url": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-18T05:54:29+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/8d6e3c560c3b65c564e854088a72a2646843b9b7/1275_222_6202_4964/master/6202.jpg?width=700&quality=85&auto=format&fit=max&s=d76b1eacb4c1ed8f343c3cc7f1bd809d"
-        },
-        {
-          "id": "89685a9e79",
-          "title": "US resumes controversial testosterone testing for military personnel despite physician criticism",
-          "url": "https://www.hln.be/buitenland/vs-hervat-omstreden-testosterontesten-voor-militairen-ondanks-kritiek-van-artsen~a79c6d94/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-18T05:27:00+00:00",
-          "image_url": "https://images.hln.be/MDlhZjViMDlmNmVjZTgwNzNlNGUvZGlvLzI3NzkwODI3NS9maXQtd2lkdGgvNDAw/epa13192291-soldiers-stand-by-an-m113-armored-personnel-carrier-during-exercise-saber-junction-26-in-hohenfels-germany-26-august-2026-saber-junction-is-an-annual-combat-training-center-readiness-and-lethality-validation-exercise-series-for-u-s-army-europe-and-africa-s-permanently-assigned-brigades-in-2026-the-173rd-mobile-brigade-combat-team-is-the-primary-training-audience-with-approximately-3-360-troops-training-alongside-other-u-s-u-s-department-of-defense-units-units-and-european-allies-and-partners-for-a-total-exercise-participation-of-approximately-5-480-troops-from-august-15-to-september-13-epa-anna-szilagyi-inzet-file-photo-a-month-s-supply-of-testosterone-gel-is-displayed-in-its-box-in-melrose-massachusetts-u-s-september-9-2026-amy-swan-handout-via-reuters-this-image-has-been-supplied-by-a-third-party-file-photo"
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
-    "degraded": false
+    "degraded": true
   }
 }
