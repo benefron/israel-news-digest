@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-09-20T13:34:15.490649+00:00",
-  "date": "2026-09-19",
+  "generated_at": "2026-09-21T08:04:13.749967+00:00",
+  "date": "2026-09-21",
   "degraded": true,
   "top_general": {
     "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "a6b0e5d04a",
-        "title": "דיווח בניו יורק טיימס: ממשל טראמפ שוקל עסקאות כלכליות עם רוסיה – עוד לפני סיום המלחמה",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-2dd97141e43b0a1026.htm",
+        "id": "4ef389bd4f",
+        "title": "איראן: \"מחכים לתשובת טראמפ לסיום המלחמה\"; ארה\"ב מזהירה מפני הסלמה",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-e7cd1bc836cb0a1027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-09-18T12:42:00+00:00",
-        "image_url": "https://img.mako.co.il/2025/08/16/pisgaa16081_autoOrient_i.jpg"
+        "published_at": "2026-09-20T05:21:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/03/16/razi1603_autoOrient_i.jpg"
       },
       {
-        "id": "0af66fa069",
-        "title": "טראמפ מסלים את המלחמה בתקשורת: אוסר על CNN ורשתות נוספות להיכנס לבית הלבן",
-        "url": "https://www.ynet.co.il/news/article/by7zyfiffl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-18T21:05:29+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/H1Z1e4FYfg/H1Z1e4FYfg_0_85_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "0accc3a295",
-        "title": "טראמפ: ארה\"ב השיגה שליטה קבועה בענייני הביטחון בגרינלנד",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001556938",
+        "id": "bf79b78ba2",
+        "title": "איך מנהלים מלחמה כלכלית: המדריך לעולם מפולג",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001555562",
         "source": "globes",
         "source_label": "גלובס",
         "source_label_he": "גלובס",
-        "published_at": "2026-09-19T05:49:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1736774297/COT_Pic/800_vcyxy2.jpg"
+        "published_at": "2026-09-20T07:00:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1789569553/%D7%9B%D7%9C%D7%9B%D7%9C%D7%AA-%D7%A0%D7%A9%D7%A7_i64epu.jpg"
       },
       {
-        "id": "29d0bf2c36",
-        "title": "מכירת ה-F-35 לסעודיה: חשש משבירת היתרון האיכותי של צה\"ל",
-        "url": "https://www.kan.org.il/content/kan-news/defense/1101016/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": "https://www.kan.org.il/media/aw2h02e3/2024-04-07t183622z_2028910683_rc24t1a1xl91_rtrmadp_3_israel-palestinians-usa-assistance.jpg?width=490&height=272&v=1daa2b9417de4b0"
+        "id": "a465633873",
+        "title": "רוחות המלחמה באירופה: הזעקה בלונדון על הפקרת המוכנות, והמערכה לחניקת המשק האוקראיני",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-44f8da817adb0a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-20T08:00:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/20/katbamukraine20091_re_autoOrient_i.jpg"
       },
       {
-        "id": "ad8f4a63eb",
-        "title": "בניסיון לבלום משבר, טורקיה תפרק 130 קרנות בשווי 18 מיליארד דולר",
-        "url": "https://www.themarker.com/wallstreet/2026-09-18/ty-article/.premium/000001a0-b383-de67-a5a3-ffa7ab1d0000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-09-18T08:21:31+00:00",
-        "image_url": "https://img.haarets.co.il/bs/000001a0-b395-d91d-afeb-fbd53a630000/ba/7f/522674984940bc6658dad091be46/533992.jpg?width=108&height=81"
+        "id": "69afc5037d",
+        "title": "הרוג בפיגוע ירי במעיין עין ריא שבמרכז הגדה; המחבל נתפס בבית חולים סמוך",
+        "url": "https://www.haaretz.co.il/news/politics/2026-09-20/ty-article/000001a0-bdf5-d1d5-a1f5-bffd2dea0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-20T08:40:36+00:00",
+        "image_url": null
       },
       {
-        "id": "bef7912cfd",
-        "title": "ממשלת ישראל היא נזק לא אגבי",
-        "url": "https://www.ynet.co.il/news/article/yokra14903446",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-18T18:07:31+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/ByC3shFKMl/ByC3shFKMl_0_0_3000_2000_0_medium.jpg"
+        "id": "ea0b80bcb3",
+        "title": "סוכל חשד לפיגוע בארה\"ב: צעיר המזדהה עם דאעש תכנן להרעיל מזון בבתי כנסת",
+        "url": "https://news.walla.co.il/item/3869039",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-20T10:15:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/3/4103317-46.jpeg"
       },
       {
-        "id": "da6de83fca",
-        "title": "ימינה, ימינה, עוד ימינה",
-        "url": "https://www.ynet.co.il/news/article/yokra14902528",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-18T18:10:27+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/yk14902882/yk14902882_0_0_704_535_0_medium.jpg"
+        "id": "7e3e9a7dab",
+        "title": "יונתן נסע לאומן לראש השנה - ונעצר במעבר הגבול כדי לגייסו לצבא אוקראינה",
+        "url": "https://news.walla.co.il/item/3869045",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-20T10:57:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/3/4103325-46.png"
       },
       {
-        "id": "3b80dd3bdd",
-        "title": "ארה\"ב הטילה סנקציות על בורסת קריפטו איראנית שהעבירה תשלומים עבור שיט בהורמוז",
-        "url": "https://www.themarker.com/wallstreet/2026-09-18/ty-article/.premium/000001a0-b334-df5b-adf2-f775a6180000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-09-18T07:16:35+00:00",
-        "image_url": "https://img.haarets.co.il/bs/000001a0-b357-d91d-afeb-fb57b3260000/fe/e2/e993cc134089bcfc1a6a7bfb2a0e/097756.jpg?width=108&height=81"
+        "id": "68e37b07cc",
+        "title": "איראן: ארה\"ב נערכת לחדש את התקיפות, נגיב בפגיעה במדינות האזור",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-20/ty-article/000001a0-be75-d7f3-a1a6-ff7d78710000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-20T11:18:12+00:00",
+        "image_url": null
+      },
+      {
+        "id": "b1299430f0",
+        "title": "באיראן טוענים: ארה\"ב ומדינות באזור סיכמו בפגישה באירופה על חידוש המלחמה נגדנו",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-be79675b09eb0a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-20T11:40:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/01/irantkifa01082_autoOrient_i.jpg"
       }
     ]
   },
@@ -95,7 +95,6 @@
   "sources_fetched": [
     "haaretz",
     "ynet",
-    "israel_hayom",
     "kan",
     "mako",
     "walla",
@@ -107,86 +106,170 @@
     "i24"
   ],
   "sources_failed": [
+    "israel_hayom",
     "maariv"
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "summary_en": "Ed Sheeran spoke emotionally about the situation in Gaza during a concert, calling it catastrophic and indefensible. Meanwhile, US President Trump was reported to be wavering on whether to strike the Houthis, a decision tied to broader Middle East tensions.",
       "headlines": [
         {
-          "id": "62f80b32ec",
-          "title": "01:28 Journaal Eerste schooldag in Gaza na 3 jaar oorlog: kinderen krijgen les in geïmproviseerde lokalen za 19 sep.",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/19/video-eerste-schooldag-gaza-journaal/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/df757c35-c6bd-425c-aac8-641b029d995d.jpg?width=200&height=125&q=80&blur=90"
+          "id": "6eb23d200c",
+          "title": "Emotional Sheeran speaks out on Gaza during concert: 'What's happening there is catastrophic, indefensible'",
+          "url": "https://www.demorgen.be/tv-cultuur/emotionele-sheeran-spreekt-zich-uit-over-gaza-tijdens-concert-wat-daar-gebeurt-is-catastrofaal-onverdedigbaar~b1ddcef4/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-20T05:02:43+00:00",
+          "image_url": "https://image.demorgen.be/277924890/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "df51baf494",
-          "title": "Verenigde Staten Trump voegt daad bij woord: toegang journalisten van CNN, MSNOW en Politico geweigerd za 19 sep.",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/18/vs-cnn-msnow-politico-verbannen-uit-witte-huis/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/de27ba09-4049-414a-9c22-65b4d2ab33c1.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "c75c748b31",
-          "title": "Kasteelmoord Evert de Clercq, die huurmoordenaar voor Kasteelmoord regelde, vrijgelaten uit Nederlandse gevangenis za 19 sep.",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/kasteelmoord-evert-de-clercq-vrijgelaten/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/1d941a05-8b62-48cd-bdf0-b6f849378120.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "09e7ed70b2",
-          "title": "Nederland \"Excessief geweld tegen politie en Hitlergroeten gebracht\": Nederlandse premier reageert op rellen door extreemrechts in Den Haag za 19 sep.",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/den-haag-mars-extreemrechts-loopt-uit-de-hand/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/0e830b86-c5e5-468e-ba57-329b1b60774b.jpg?width=200&height=200&q=80&blur=90"
-        },
-        {
-          "id": "a494bd6d6f",
-          "title": "03:51 Verenigde Staten Bert De Vroey: \"Het is toch veel minder dan waar Trump op had ingezet\" za 19 sep.",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/19/bert-de-vroey-_het-is-toch-veel-minder-dan-waar-trump-op-had-in/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/1460ed05-f647-4c95-b612-5869ecda18de.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "8d507a7dd7",
-          "title": "Afrika Zeker 48 doden in Nigeria na drinken van ambachtelijk gestookte 'monkey tail' za 19 sep.",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/19/zeker-48-doden-in-nigeria-door-methanolvergiftiging/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/19/a66d54a1-33cd-470e-a9ac-d06a1b0bfade.png?width=200&height=125&q=80&blur=90"
+          "id": "daeae3e13f",
+          "title": "Not - yes - not: Trump wavers but decides for now not to attack the Houthis",
+          "url": "https://www.hln.be/buitenland/niet-wel-niet-trump-twijfelt-maar-besluit-voorlopig-om-houthis-niet-aan-te-vallen~a99e0324/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-21T04:54:00+00:00",
+          "image_url": "https://images.hln.be/NDlmZjhkY2YyZWEzY2I0YjZlZTQvZGlvLzI3Nzk0MjE3MS9maXQtd2lkdGgvNDAw/9-18-2026-washington-district-of-columbia-united-states-of-america-united-states-president-donald-j-trump-announces-the-new-most-favored-nation-pricing-for-some-drugs-in-the-oval-office-at-the-white-house-on-september-18-2026-in-washington-d-c-many-countries-have-negotiated-prices-for-certain-drugs-that-are-significantly-lower-than-what-americans-pay-for-the-same-medication-and-the-new-deal-will-allow-states-medicaid-programs-to-benefit-from-those-lower-prices-samuel-corum-cnp-polaris-only-belgium-local-caption-08310322"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
+      "summary_en": "Belgian news covers a range of domestic issues, from a documentary series on child sexual abuse featuring Sven Pichal, to the start of a trial for a potato farmer accused of killing his two young daughters. Other stories highlight the rising costs of dementia care in Belgium, estimated at €7 billion annually, and public opinion on taxing the wealthy without touching co-payments, VAT, or defense spending.",
+      "headlines": [
+        {
+          "id": "89b7e6e65b",
+          "title": "'We need to talk about this': Streamz documentary series on child sexual abuse also features Sven Pichal",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/18/docureeks-het-bestaat-streamz-seksueel-kindermisbruik-sven-picha/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/18/eaa73f75-c039-4fae-bf1d-f0c7e379573d.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "e189b3d719",
+          "title": "Justice: Potato farmer killed daughters Maud (8) and Ona (5) and may have intended to kill his ex-wife too: trial starts this week",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/16/assisenproces-chris-vanhaverbeke-moord-dochtertjes-voorbeschouwi/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/20/b717c9f6-95a6-48e1-8fa5-f06ee9f5354c.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "f5dada3c10",
+          "title": "Health: Dementia care costs Belgium 7 billion euros per year: 'Invest now to keep the situation under control'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/17/dementiezorg-kost-belgie-ruim-7-miljard-euro-per-jaar/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/17/532b3f2f-0413-44d2-b4e9-debf45af3ef8.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "e9d5cf6102",
+          "title": "EXCLUSIVE: Belgians want the rich taxed more, but not touch co-payments, VAT, or defense: what do they accept and what not?",
+          "url": "https://www.hln.be/binnenland/exclusief-belg-wil-de-rijken-extra-belasten-maar-niet-raken-aan-remgeld-btw-of-defensie-wat-pikt-hij-wel-en-wat-niet~a95b8285/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-21T04:00:00+00:00",
+          "image_url": "https://images.hln.be/ZGJlZmIwMzc5YmM4YTIzOTM2MzcvZGlvLzI3Nzk4OTgwNS9maXQtd2lkdGgvNDAw/kopfoto-peiling-bart-de-wever"
+        }
+      ]
     },
     "europe": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
+      "summary_en": "German Chancellor Merz's CDU suffered a major setback in the Mecklenburg-Vorpommern state election, falling below the electoral threshold as the far-right AfD won, though Merz vowed to remain in office, calling the result a 'disaster.' Elsewhere, Politico examines lessons from Sweden's election on why the far right lost, and De Morgen argues Europe needs a broader security strategy beyond defense spending.",
+      "headlines": [
+        {
+          "id": "dd67f687ea",
+          "title": "4.9 percent: The collapse of Merz's CDU",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/49-prozent-der-absturz-von-merz-cdu/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-21T04:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "8de59a1764",
+          "title": "AfD wins elections in Mecklenburg-Vorpommern, Merz's CDU falls below electoral threshold but chancellor wants to stay on",
+          "url": "https://www.hln.be/buitenland/afd-wint-verkiezingen-in-mecklenburg-voor-pommeren-cdu-van-merz-zakt-onder-kiesdrempel-maar-bondskanselier-wil-aanblijven~acab22b1/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-20T23:47:00+00:00",
+          "image_url": "https://images.hln.be/MzZkMzFjYTJjZmNkMjllMDkxYzYvZGlvLzI3Nzk5NTQ4OS9maXQtd2lkdGgvNDAw/german-chancellor-friedrich-merz-reacts-as-he-gives-a-statement-after-first-exit-polls-of-the-berlin-and-mecklenburg-western-pomerania-state-elections-at-the-cdu-headquarters-in-berlin-germany-september-20-2026-reuters-christian-mang-inzet-epa13252557-l-r-member-of-the-alternative-for-germany-afd-party-beatrix-von-storch-afd-top-candidate-for-the-berlin-house-of-representatives-election-2026-kristin-brinker-and-afd-party-and-parliamentary-group-co-chairwoman-alice-weidel-react-to-exit-poll-results-at-the-afd-election-party-at-the-berlin-house-of-representatives-during-the-berlin-state-election-2026-in-berlin-germany-20-september-2026-voters-in-berlin-elect-members-of-the-house-of-representatives-the-city-s-state-parliament-for-a-five-year-term-on-20-september-2026-epa-clemens-bilan"
+        },
+        {
+          "id": "c346ef593f",
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+          "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-09-21T03:22:44+00:00",
+          "image_url": null
+        },
+        {
+          "id": "e01d36d5be",
+          "title": "Why the far right lost: 11 lessons for Europe from Sweden's election",
+          "url": "https://www.politico.eu/article/why-the-far-right-failed-11-lessons-for-europe-from-swedens-election/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-21T02:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "7da2b96755",
+          "title": "Europe needs a broader security strategy than just defense",
+          "url": "https://www.demorgen.be/meningen/europa-heeft-nood-aan-een-bredere-veiligheidsstrategie-dan-alleen-defensie~b20754ee/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-21T01:00:12+00:00",
+          "image_url": "https://image.demorgen.be/278006219/feature-crop/320/320/afbeelding"
+        }
+      ]
     },
     "world_top": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
+      "summary_en": "Russia's ruling party won parliamentary elections as expected, in a vote critics described as a 'sham election.' Ukraine reported its largest-ever drone attack on Moscow, while deaths were reported from a Russian attack on Kyiv. In the US, a man was seriously wounded after being shot by an ICE agent in Texas, and CNN was removed from the White House press pool covering Trump.",
+      "headlines": [
+        {
+          "id": "132e8a126d",
+          "title": "Russia: President Putin's party wins parliamentary elections as expected: 'These are sham elections'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/20/verkiezingen-rusland/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/20/9c0dddb8-cbad-4b63-91f3-614b1999f8ff.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "98a0c831ea",
+          "title": "Ukraine-Russia War LIVEBLOG: 'Largest Ukrainian drone attack on Moscow ever,' deaths in Russian attack on Kyiv",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/grootste-oekraiense-droneaanval-op-moskou-ooit-doden-bij-russ~1789060001669/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/20/92f15f10-a044-4fd3-854f-a68911bd09af.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "a359d535af",
+          "title": "Live - Man seriously injured after ICE agent shoots him in Texas • CNN removed from White House press pool covering Trump",
+          "url": "https://www.demorgen.be/snelnieuws/live-man-zwaargewond-nadat-ice-agent-hem-neerschiet-in-texas~b13cc951/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-21T04:55:00+00:00",
+          "image_url": "https://image.demorgen.be/278013992/roi/320/320/3180/1640.4099999999999/afbeelding"
+        }
+      ]
     },
-    "degraded": true
+    "degraded": false
   }
 }
