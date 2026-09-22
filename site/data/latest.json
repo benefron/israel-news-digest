@@ -1,100 +1,322 @@
 {
-  "generated_at": "2026-09-21T08:04:13.749967+00:00",
-  "date": "2026-09-21",
-  "degraded": true,
+  "generated_at": "2026-09-22T07:08:05.143259+00:00",
+  "date": "2026-09-22",
+  "degraded": false,
   "top_general": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "summary_he": "יום כיפור עבר בישראל בצל אבטחה מוגברת: שני מחבלים שתכננו פיגוע מיידי נעצרו, ובעולם היהודי הוחמרה האבטחה במנייני כיפור בעקבות פיגוע בקנדה. במקביל נחשף כי בכיר פת\"ח תיווך בין ישראל לחמאס וכי הצדדים היו קרובים להסכם עוד לפני 7 באוקטובר. בזירה הבינלאומית ארה\"ב מתכננת לבסס נוכחות צבאית בגרינלנד במסגרת הסכם עם דנמרק, ואיטליה מקדמת חוק שיאסור כיסויי ראש בבתי ספר ויגביל תלמידים זרים בכיתות.",
     "headlines": [
       {
-        "id": "4ef389bd4f",
-        "title": "איראן: \"מחכים לתשובת טראמפ לסיום המלחמה\"; ארה\"ב מזהירה מפני הסלמה",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-e7cd1bc836cb0a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-20T05:21:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/03/16/razi1603_autoOrient_i.jpg"
+        "id": "7e7ab00cd2",
+        "title": "במהלך יום כיפור: נעצרו שני מחבלים שתכננו פיגוע מיידי",
+        "url": "https://www.ynet.co.il/news/article/hyqdeyk5ge",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-21T16:55:56+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/21/BklkA11p0FGg/BklkA11p0FGg_0_238_3000_1689_0_medium.jpg"
       },
       {
-        "id": "bf79b78ba2",
-        "title": "איך מנהלים מלחמה כלכלית: המדריך לעולם מפולג",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001555562",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-09-20T07:00:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1789569553/%D7%9B%D7%9C%D7%9B%D7%9C%D7%AA-%D7%A0%D7%A9%D7%A7_i64epu.jpg"
-      },
-      {
-        "id": "a465633873",
-        "title": "רוחות המלחמה באירופה: הזעקה בלונדון על הפקרת המוכנות, והמערכה לחניקת המשק האוקראיני",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-44f8da817adb0a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-20T08:00:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/20/katbamukraine20091_re_autoOrient_i.jpg"
-      },
-      {
-        "id": "69afc5037d",
-        "title": "הרוג בפיגוע ירי במעיין עין ריא שבמרכז הגדה; המחבל נתפס בבית חולים סמוך",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-20/ty-article/000001a0-bdf5-d1d5-a1f5-bffd2dea0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-20T08:40:36+00:00",
-        "image_url": null
-      },
-      {
-        "id": "ea0b80bcb3",
-        "title": "סוכל חשד לפיגוע בארה\"ב: צעיר המזדהה עם דאעש תכנן להרעיל מזון בבתי כנסת",
-        "url": "https://news.walla.co.il/item/3869039",
+        "id": "9901136b34",
+        "title": "בצל הפיגוע בקנדה: אבטחה קפדנית על מנייני כיפור בעולם היהודי",
+        "url": "https://news.walla.co.il/item/3869213",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-09-20T10:15:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/3/4103317-46.jpeg"
+        "published_at": "2026-09-22T08:41:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/7/0/3970475-46.jpg"
       },
       {
-        "id": "7e3e9a7dab",
-        "title": "יונתן נסע לאומן לראש השנה - ונעצר במעבר הגבול כדי לגייסו לצבא אוקראינה",
-        "url": "https://news.walla.co.il/item/3869045",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-20T10:57:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/3/4103325-46.png"
-      },
-      {
-        "id": "68e37b07cc",
-        "title": "איראן: ארה\"ב נערכת לחדש את התקיפות, נגיב בפגיעה במדינות האזור",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-20/ty-article/000001a0-be75-d7f3-a1a6-ff7d78710000",
+        "id": "353ca561fd",
+        "title": "בכיר פת\"ח שתיווך בין ישראל לחמאס: הצדדים היו קרובים להסכם לפני 7 באוקטובר",
+        "url": "https://www.haaretz.co.il/news/politics/2026-09-21/ty-article/.premium/000001a0-c2b4-d9a4-adf9-f3fdadd90000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-09-20T11:18:12+00:00",
+        "published_at": "2026-09-21T07:57:58+00:00",
         "image_url": null
       },
       {
-        "id": "b1299430f0",
-        "title": "באיראן טוענים: ארה\"ב ומדינות באזור סיכמו בפגישה באירופה על חידוש המלחמה נגדנו",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-be79675b09eb0a1027.htm",
+        "id": "c92203b42b",
+        "title": "מקורות: ארה\"ב תבסס נוכחות בשני בסיסים בגרינלנד במסגרת ההסכם עם דנמרק",
+        "url": "https://www.haaretz.co.il/news/world/america/2026-09-22/ty-article/.premium/000001a0-c63b-d568-a7fb-c6ff32840000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-21T23:31:09+00:00",
+        "image_url": null
+      },
+      {
+        "id": "901f20a363",
+        "title": "מלוני הודיעה: נקדם חוק שיאסור לעטות רעלות בבתי הספר - מספר התלמידים הזרים בכיתה יוגבל",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b2ed2f3a2b3c0a1027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-09-20T11:40:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/01/irantkifa01082_autoOrient_i.jpg"
+        "published_at": "2026-09-21T16:15:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/05/28/Meloni_Italy_re_autoOrient_i.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
-    "headlines": []
+    "summary_he": "איראן מאיימת כי תשנה את \"גאוגרפיית המלחמה\", בעוד שר החוץ האיראני נחת בארה\"ב לראשונה מאז פרוץ המלחמה ונשיא איראן הודיע שיציג באו\"ם את \"הפשעים שבוצעו נגד עמו\". בישראל נמשך הדיון הקריטי בין משרד האוצר לביטחון סביב תקציב של 15 מיליארד שקלים, ובכאן 11 נשאלת השאלה מדוע פוטין לא עוצר את המלחמה באוקראינה.",
+    "headlines": [
+      {
+        "id": "4026765c7c",
+        "title": "האיום החדש של טהרן: \"נשנה את גאוגרפיית המלחמה\"",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001556960",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "8696afd8eb",
+        "title": "לראשונה מאז פרוץ המלחמה: שר החוץ האיראני נחת בארה\"ב",
+        "url": "https://www.makorrishon.co.il/news/world-news/article/372644",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "c0f8cdae98",
+        "title": "נשיא איראן: \"נציג באו\"ם את הפשעים שבוצעו נגד עמנו\"",
+        "url": "https://13tv.co.il/item/news/politics/security/day-1082-905364892/?pid=62&refc=902992383",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "7a00990393",
+        "title": "הקרב בין האוצר לביטחון נמשך: הדיון הקריטי על 15 מיליארד השקלים",
+        "url": "https://news.walla.co.il/item/3869216",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-09-22T08:40:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/1/4101442-46.jpg"
+      },
+      {
+        "id": "b444aea8aa",
+        "title": "מלחמה שלא נגמרת: למה פוטין לא עוצר באוקראינה?",
+        "url": "https://www.kan.org.il/content/kan-news/global/1101501/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": "https://www.kan.org.il/media/krxpmllk/עיצוב-ללא-שם-2.jpg?rxy=0.5027645417078677,0.3770770812285638&width=490&height=272&v=1dd4856d18b2f50"
+      }
+    ]
   },
-  "subjects": [],
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "ראש עיריית ניו יורק ממדאני תקף שוב את נתניהו וכינה אותו \"פושע מלחמה\". בישראל מתפרסמים סקרי בחירות 2026, ואיזנקוט דרש להסיר סרטון AI שפרסמה הציונות הדתית. עוד עלה כי נבנתה מנהרה סודית מבית ראש הממשלה לבית הכנסת, אך נתניהו לא הגיע אליו.",
+      "headlines": [
+        {
+          "id": "3d2bfaf9f4",
+          "title": "המתקפה החדשה של ממדאני על נתניהו: \"פושע מלחמה\"",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-af8d5431567c0a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-09-22T04:40:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/08/06/Zohran_Mamdani_NY_re_autoOrient_i.jpg"
+        },
+        {
+          "id": "985896d623",
+          "title": "בחירות 2026: כל הסקרים בחירות 2026: כל הסקרים",
+          "url": "https://www.kan.org.il/lobby/skarim/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "8b66a1d492",
+          "title": "איזנקוט דורש להסיר את סרטון ה-AI שפרסמה הציונות הדתית",
+          "url": "https://www.kan.org.il/content/kan-news/politic/1101506/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": "https://www.kan.org.il/media/jbrpkxti/טאמבנייל-כללי-שתי-שורות.png?width=490&height=272&v=1dd4a33b0de5050"
+        },
+        {
+          "id": "c85f64475b",
+          "title": "\"מנהרה סודית\" וממוזגת הוקמה מבית רה\"מ - עד לבית הכנסת. אך נתניהו לא הגיע",
+          "url": "https://www.ynet.co.il/news/article/bykfcyy9zl",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-21T18:16:37+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/21/S1Wlt2yy5Gg/S1Wlt2yy5Gg_0_153_1280_721_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "מפלגות מתחרות מציגות תוכניות בנושא שהצית מחאה חסרת תקדים, לצד חשד לחברות תחבורה ציבורית שמנסות להתחמק מקנסות. בנוסף נחשף מקרה של דמי ניהול חריגים בביטוחי מנהלים.",
+      "headlines": [
+        {
+          "id": "947db52f59",
+          "title": "\"שלא יגידו 'לא ידענו'\": מה התוכנית של כל מפלגה על הנושא שהצית מחאה חסרת תקדים",
+          "url": "https://www.ynet.co.il/news/elections2026/article/yokra14903844",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-22T04:21:45+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/SJ5KVKyqMl/SJ5KVKyqMl_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "172472973d",
+          "title": "המטרה - להתחמק מקנסות: החשדות נגד חברות התחבורה הציבורית",
+          "url": "https://www.ynet.co.il/news/article/yokra14904161",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-22T03:48:08+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/21/yk14904269/yk14904269_0_84_1181_665_0_medium.jpg"
+        },
+        {
+          "id": "5e92d2128d",
+          "title": "90 אלף שקל דמי ניהול בשנה אחת: \"ראיתי הרבה דו\"חות ביטוחי מנהלים — אבל זה השיא\"",
+          "url": "https://www.themarker.com/markets/2026-09-22/ty-article/.premium/000001a0-af89-de67-a5a3-efad11ff0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-22T03:12:20+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-afde-de67-a5a3-effeaded0000/88/c8/4a2f1f654d5b99378fa6aeb955ca/383951.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "עליבאבא קפצה בבורסת אסיה בעקבות חשיפת שבב AI חדש, בעוד יצרניות רכב סיניות ממשיכות לכבוש שווקים באירופה, מהונגריה ועד בריטניה.",
+      "headlines": [
+        {
+          "id": "601c21316c",
+          "title": "עליות בבורסות אסיה; עליבאבא קופצת בקרוב ל-3% אחרי שחשפה שבב AI חדש",
+          "url": "https://www.themarker.com/wallstreet/2026-09-22/ty-article-live/000001a0-c29e-df75-a7a7-fadf942e0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-22T04:25:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-c3e0-d310-a9bf-c7ea428f0000/dc/0a/da68c93648058de64542c32e2bc8/463976.jpg?width=108&height=81"
+        },
+        {
+          "id": "0fdf059b5e",
+          "title": "מהונגריה ועד בריטניה: הסיניות מקימות מפעלי מכוניות שכובשים את אירופה",
+          "url": "https://www.themarker.com/wallstreet/2026-09-21/ty-article/.premium/000001a0-9fb4-de76-a1f7-bffcab5d0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-21T15:56:49+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-9fca-d219-a3ed-bfda011b0000/6f/01/7a97095d449e839e2166d5a9161f/866543.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "בצל הפיגוע בקנדה הוחמרה האבטחה במנייני יום כיפור בעולם היהודי, ובתל אביב דווח על גל פריצות לבתים בזמן התפילות. בגלובס נשאלת השאלה האם משפחות חרדיות לוקחות מהקופה הציבורית יותר משהן תורמות לה.",
+      "headlines": [
+        {
+          "id": "915c81e434",
+          "title": "מחשבים, אלכוהול ומזומן: גל פריצות בת\"א ביום כיפור",
+          "url": "https://www.israelhayom.co.il/news/local/article/21461636",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "efc64410f0",
+          "title": "האם משפחה חרדית לוקחת מהקופה הציבורית יותר משהיא תורמת לה?",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001555475",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": null,
+          "image_url": "https://res.cloudinary.com/globes/image/upload/v1789489282/%D7%9E%D7%A9%D7%A8%D7%95%D7%A7%D7%99%D7%AA-%D7%A6%D7%99%D7%95%D7%A0%D7%99%D7%9D-200_tc0o5w.png"
+        }
+      ]
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "איטליה, בהובלת ראש הממשלה מלוני, מקדמת חוק שיאסור כיסויי ראש בבתי הספר ויגביל את מספר התלמידים הזרים בכיתות. במקביל, ברצועת עזה חוזרים תלמידים ללימודים פרונטליים לראשונה זה שלוש שנים.",
+      "headlines": [
+        {
+          "id": "3311bb149e",
+          "title": "מלוני: איטליה תאסור כיסויי ראש בבתי הספר ותגביל את מספר הזרים בכיתות",
+          "url": "https://www.haaretz.co.il/news/world/europe/2026-09-21/ty-article/.premium/000001a0-c517-d9a4-adf9-f5ffc79f0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-21T18:11:51+00:00",
+          "image_url": null
+        },
+        {
+          "id": "8f5f531d0f",
+          "title": "Gaza students return to in-person schooling for first time in three years",
+          "url": "https://www.timesofisrael.com/gaza-students-return-to-in-person-schooling-for-first-time-in-three-years/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-09-21T19:52:38+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26262414968056-1024x640.jpg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "תחזית מזג האוויר ליום שלישי צופה ירידה בטמפרטורות וסיכוי לגשם קל בבוקר.",
+      "headlines": [
+        {
+          "id": "2117e341d2",
+          "title": "תחזית מזג האוויר ליום שלישי: ירידה בטמפרטורות, ייתכן גשם קל בבוקר",
+          "url": "https://www.haaretz.co.il/news/weather/2026-09-21/ty-article/000001a0-c561-d9a4-adf9-f5ed835c0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-21T20:13:25+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "health",
+      "label_he": "בריאות ורפואה",
+      "summary_he": "עשרות ישראלים בריזורט יוקרתי בחו\"ל דיווחו על תסמינים קשים ומקרי הקאות במהלך החופשה.",
+      "headlines": [
+        {
+          "id": "a974916018",
+          "title": "\"הקאתי כל הלילה\": במהלך החופשה בריזורט היוקרתי - עשרות ישראלים החלו לסבול מתסמינים קשים",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-83a0e646ea3c0a1026.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-09-21T17:02:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/09/21/W_grid_clubmed22_autoOrient_i.jpg"
+        }
+      ]
+    }
+  ],
   "sources_fetched": [
     "haaretz",
     "ynet",
+    "israel_hayom",
     "kan",
     "mako",
     "walla",
@@ -106,167 +328,126 @@
     "i24"
   ],
   "sources_failed": [
-    "israel_hayom",
     "maariv"
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Ed Sheeran spoke emotionally about the situation in Gaza during a concert, calling it catastrophic and indefensible. Meanwhile, US President Trump was reported to be wavering on whether to strike the Houthis, a decision tied to broader Middle East tensions.",
+      "summary_en": "A VRT investigation has documented dozens of extreme statements on a popular Israeli talk show called \"The Patriots,\" including explicit calls for harming Palestinian children, with the program regularly normalizing extreme language about Gaza during primetime broadcasts. Canadian leaders have condemned a shooting outside a synagogue in Ontario that occurred at the start of Yom Kippur, highlighting ongoing antisemitic violence targeting Jewish communities.",
       "headlines": [
         {
-          "id": "6eb23d200c",
-          "title": "Emotional Sheeran speaks out on Gaza during concert: 'What's happening there is catastrophic, indefensible'",
-          "url": "https://www.demorgen.be/tv-cultuur/emotionele-sheeran-spreekt-zich-uit-over-gaza-tijdens-concert-wat-daar-gebeurt-is-catastrofaal-onverdedigbaar~b1ddcef4/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-20T05:02:43+00:00",
-          "image_url": "https://image.demorgen.be/277924890/feature-crop/320/320/afbeelding"
+          "id": "1c16ba750b",
+          "title": "Investigation 'We must kill all their children': VRT NWS finds dozens of extreme statements in popular Israeli talkshow",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/14/vrt-nws-keer-meer-dan-30-uur-israelische-televisie/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/16/8eb0a1e1-7275-4d5b-98f0-36cc39e33ea4.png?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "daeae3e13f",
-          "title": "Not - yes - not: Trump wavers but decides for now not to attack the Houthis",
-          "url": "https://www.hln.be/buitenland/niet-wel-niet-trump-twijfelt-maar-besluit-voorlopig-om-houthis-niet-aan-te-vallen~a99e0324/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-21T04:54:00+00:00",
-          "image_url": "https://images.hln.be/NDlmZjhkY2YyZWEzY2I0YjZlZTQvZGlvLzI3Nzk0MjE3MS9maXQtd2lkdGgvNDAw/9-18-2026-washington-district-of-columbia-united-states-of-america-united-states-president-donald-j-trump-announces-the-new-most-favored-nation-pricing-for-some-drugs-in-the-oval-office-at-the-white-house-on-september-18-2026-in-washington-d-c-many-countries-have-negotiated-prices-for-certain-drugs-that-are-significantly-lower-than-what-americans-pay-for-the-same-medication-and-the-new-deal-will-allow-states-medicaid-programs-to-benefit-from-those-lower-prices-samuel-corum-cnp-polaris-only-belgium-local-caption-08310322"
+          "id": "6a36d9dc1a",
+          "title": "Investigation How Israeli talkshow 'The Patriots' daily normalises extreme language about Gaza in primetime",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/22/de-patriotten-extreem-taalgebruik/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/22/f8110ac1-c2b3-418b-818f-254078091676.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "6df60d9f6a",
+          "title": "Canadian leaders condemn shooting outside Ontario synagogue at the start of Yom Kippur",
+          "url": "https://www.jta.org/2026/09/21/default/canadian-leaders-condemn-shooting-outside-ontario-synagogue-at-the-start-of-yom-kippur",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-09-22T02:13:14+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/09.21.26-Syn-Can.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgian news covers a range of domestic issues, from a documentary series on child sexual abuse featuring Sven Pichal, to the start of a trial for a potato farmer accused of killing his two young daughters. Other stories highlight the rising costs of dementia care in Belgium, estimated at €7 billion annually, and public opinion on taxing the wealthy without touching co-payments, VAT, or defense spending.",
+      "summary_en": "Belgian politics faces tensions following PM De Wever's proposed budget starting note of 14 billion euros, which has drawn significant concern from French-speaking politicians over its implications. Brussels authorities have extended the city center's alcohol ban for another four years, acknowledging it as an unpopular measure. Security concerns emerged in Antwerp after two explosions in the Antwerp-North district, with reports indicating one house had been previously targeted.",
       "headlines": [
         {
-          "id": "89b7e6e65b",
-          "title": "'We need to talk about this': Streamz documentary series on child sexual abuse also features Sven Pichal",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/18/docureeks-het-bestaat-streamz-seksueel-kindermisbruik-sven-picha/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/18/eaa73f75-c039-4fae-bf1d-f0c7e379573d.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "e189b3d719",
-          "title": "Justice: Potato farmer killed daughters Maud (8) and Ona (5) and may have intended to kill his ex-wife too: trial starts this week",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/16/assisenproces-chris-vanhaverbeke-moord-dochtertjes-voorbeschouwi/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/20/b717c9f6-95a6-48e1-8fa5-f06ee9f5354c.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "f5dada3c10",
-          "title": "Health: Dementia care costs Belgium 7 billion euros per year: 'Invest now to keep the situation under control'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/17/dementiezorg-kost-belgie-ruim-7-miljard-euro-per-jaar/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/17/532b3f2f-0413-44d2-b4e9-debf45af3ef8.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "e9d5cf6102",
-          "title": "EXCLUSIVE: Belgians want the rich taxed more, but not touch co-payments, VAT, or defense: what do they accept and what not?",
-          "url": "https://www.hln.be/binnenland/exclusief-belg-wil-de-rijken-extra-belasten-maar-niet-raken-aan-remgeld-btw-of-defensie-wat-pikt-hij-wel-en-wat-niet~a95b8285/",
+          "id": "fb6cfff213",
+          "title": "Alcohol ban in Brussels city center extended for four years: 'Not a pleasant measure'",
+          "url": "https://www.hln.be/brussel/alcoholverbod-in-brusselse-binnenstad-met-vier-jaar-verlengd-geen-aangename-maatregel~a66762ac/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-09-21T04:00:00+00:00",
-          "image_url": "https://images.hln.be/ZGJlZmIwMzc5YmM4YTIzOTM2MzcvZGlvLzI3Nzk4OTgwNS9maXQtd2lkdGgvNDAw/kopfoto-peiling-bart-de-wever"
+          "published_at": "2026-09-22T06:08:00+00:00",
+          "image_url": "https://images.hln.be/ZWRhNTI4MjZiOGVhOGRmMGZlZGYvZGlvLzI3ODA0NTk5Ni9maXQtd2lkdGgvNDAw/het-voetgangersgebied-in-brussel-waar-nu-voor-een-periode-van-vier-jaar-een-verbod-is-ingesteld-op-het-drinken-van-alcohol-terrassen-en-cafe-s-krijgen-een-uitzondering-inzet-burgemeester-philippe-close-ps-noemt-het-alcoholverbod-geen-aangename-maatregel-belga-photo-emile-windal"
+        },
+        {
+          "id": "54d0648263",
+          "title": "With starting budget note of 14 billion euros, PM De Wever causes 'stomach ache' among French speakers",
+          "url": "https://www.demorgen.be/politiek/met-startnota-van-14-miljard-euro-zorgt-premier-de-wever-voor-maagpijn-bij-franstaligen~bd969beb/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-21T17:34:00+00:00",
+          "image_url": "https://image.demorgen.be/277899121/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "8c2c02ddbb",
+          "title": "Two explosions in Antwerp-North, one house previously targeted",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/22/twee-explosies-op-korte-tijd-in-antwerpen-noord-huizen-beschad/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/22/bc29331d-8924-4ead-a32f-e72e09833e93.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "europe": {
-      "summary_en": "German Chancellor Merz's CDU suffered a major setback in the Mecklenburg-Vorpommern state election, falling below the electoral threshold as the far-right AfD won, though Merz vowed to remain in office, calling the result a 'disaster.' Elsewhere, Politico examines lessons from Sweden's election on why the far right lost, and De Morgen argues Europe needs a broader security strategy beyond defense spending.",
+      "summary_en": "German Chancellor Merz continues to face mounting pressure, with analysts describing him as a symbol of Germany's broader existential crisis amid political and economic challenges. In response to ongoing Russian aggression, EU foreign affairs chief Kallas has called for maintaining European sanctions against Russia following Russian attacks on the Ukrainian city of Dnipro that killed three people.",
       "headlines": [
         {
-          "id": "dd67f687ea",
-          "title": "4.9 percent: The collapse of Merz's CDU",
-          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/49-prozent-der-absturz-von-merz-cdu/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-09-21T04:00:00+00:00",
-          "image_url": null
-        },
-        {
-          "id": "8de59a1764",
-          "title": "AfD wins elections in Mecklenburg-Vorpommern, Merz's CDU falls below electoral threshold but chancellor wants to stay on",
-          "url": "https://www.hln.be/buitenland/afd-wint-verkiezingen-in-mecklenburg-voor-pommeren-cdu-van-merz-zakt-onder-kiesdrempel-maar-bondskanselier-wil-aanblijven~acab22b1/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-20T23:47:00+00:00",
-          "image_url": "https://images.hln.be/MzZkMzFjYTJjZmNkMjllMDkxYzYvZGlvLzI3Nzk5NTQ4OS9maXQtd2lkdGgvNDAw/german-chancellor-friedrich-merz-reacts-as-he-gives-a-statement-after-first-exit-polls-of-the-berlin-and-mecklenburg-western-pomerania-state-elections-at-the-cdu-headquarters-in-berlin-germany-september-20-2026-reuters-christian-mang-inzet-epa13252557-l-r-member-of-the-alternative-for-germany-afd-party-beatrix-von-storch-afd-top-candidate-for-the-berlin-house-of-representatives-election-2026-kristin-brinker-and-afd-party-and-parliamentary-group-co-chairwoman-alice-weidel-react-to-exit-poll-results-at-the-afd-election-party-at-the-berlin-house-of-representatives-during-the-berlin-state-election-2026-in-berlin-germany-20-september-2026-voters-in-berlin-elect-members-of-the-house-of-representatives-the-city-s-state-parliament-for-a-five-year-term-on-20-september-2026-epa-clemens-bilan"
-        },
-        {
-          "id": "c346ef593f",
-          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-          "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-09-21T03:22:44+00:00",
-          "image_url": null
-        },
-        {
-          "id": "e01d36d5be",
-          "title": "Why the far right lost: 11 lessons for Europe from Sweden's election",
-          "url": "https://www.politico.eu/article/why-the-far-right-failed-11-lessons-for-europe-from-swedens-election/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-09-21T02:00:00+00:00",
-          "image_url": null
-        },
-        {
-          "id": "7da2b96755",
-          "title": "Europe needs a broader security strategy than just defense",
-          "url": "https://www.demorgen.be/meningen/europa-heeft-nood-aan-een-bredere-veiligheidsstrategie-dan-alleen-defensie~b20754ee/",
+          "id": "26a17dec42",
+          "title": "'Merz is the symbol of the German existential crisis': what options does the chancellor have?",
+          "url": "https://www.demorgen.be/nieuws/merz-is-het-symbool-van-de-duitse-existentiele-crisis-welke-opties-heeft-de-bondskanselier-nog~b47a396b/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-09-21T01:00:12+00:00",
-          "image_url": "https://image.demorgen.be/278006219/feature-crop/320/320/afbeelding"
+          "published_at": "2026-09-21T17:16:00+00:00",
+          "image_url": "https://image.demorgen.be/278030782/roi/320/320/4257/4573/christian-democratic-union-cdu-press-conference-after-state"
+        },
+        {
+          "id": "40ef42b98e",
+          "title": "Three dead in Russian attacks on Dnipro - EU foreign affairs chief Kallas calls for maintaining sanctions against Russia",
+          "url": "https://www.hln.be/buitenland/drie-doden-bij-russische-aanvallen-op-dnipro-eu-buitenlandchef-kallas-pleit-voor-handhaven-sancties-tegen-rusland~a93df6b5/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-22T05:59:00+00:00",
+          "image_url": "https://images.hln.be/MmZkYjUzYWViMTJmMWRiM2Q2ZjgvZGlvLzI3ODA0MTY2Ny9maXQtd2lkdGgvNDAw/vice-president-of-the-european-commission-kaja-kallas-speaks-during-a-news-conference-ahead-of-the-united-nations-general-assembly-in-new-york-on-september-21-2026-photo-by-leonardo-munoz-afp"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Russia's ruling party won parliamentary elections as expected, in a vote critics described as a 'sham election.' Ukraine reported its largest-ever drone attack on Moscow, while deaths were reported from a Russian attack on Kyiv. In the US, a man was seriously wounded after being shot by an ICE agent in Texas, and CNN was removed from the White House press pool covering Trump.",
+      "summary_en": "At the UN summit in New York, French President Macron held a \"very constructive\" conversation with President Trump, with the American president scheduled to address the General Assembly this afternoon, signaling continued diplomatic engagement at the highest international level. In Asia, Typhoon Dujuan has caused significant damage across Japan, leaving at least four people dead as the powerful storm swept through the region.",
       "headlines": [
         {
-          "id": "132e8a126d",
-          "title": "Russia: President Putin's party wins parliamentary elections as expected: 'These are sham elections'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/20/verkiezingen-rusland/",
+          "id": "83e1dc9c8a",
+          "title": "UN summit New York LIVEBLOG Macron had 'very constructive' conversation with Trump, American president speaks to General Assembly this afternoon",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/macron-had-zeer-constructief-gesprek-met-trump-amerikaanse-pr~1790053731944/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/20/9c0dddb8-cbad-4b63-91f3-614b1999f8ff.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/22/f806bb63-c76a-403f-b481-3e1a7e41f64d.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "98a0c831ea",
-          "title": "Ukraine-Russia War LIVEBLOG: 'Largest Ukrainian drone attack on Moscow ever,' deaths in Russian attack on Kyiv",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/grootste-oekraiense-droneaanval-op-moskou-ooit-doden-bij-russ~1789060001669/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/20/92f15f10-a044-4fd3-854f-a68911bd09af.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "a359d535af",
-          "title": "Live - Man seriously injured after ICE agent shoots him in Texas • CNN removed from White House press pool covering Trump",
-          "url": "https://www.demorgen.be/snelnieuws/live-man-zwaargewond-nadat-ice-agent-hem-neerschiet-in-texas~b13cc951/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-21T04:55:00+00:00",
-          "image_url": "https://image.demorgen.be/278013992/roi/320/320/3180/1640.4099999999999/afbeelding"
+          "id": "228f64a4d4",
+          "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
+          "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-09-22T05:58:35+00:00",
+          "image_url": null
         }
       ]
     },
