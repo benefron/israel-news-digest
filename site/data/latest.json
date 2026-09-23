@@ -1,318 +1,97 @@
 {
-  "generated_at": "2026-09-22T07:08:05.143259+00:00",
-  "date": "2026-09-22",
-  "degraded": false,
+  "generated_at": "2026-09-23T07:04:56.626219+00:00",
+  "date": "2026-09-23",
+  "degraded": true,
   "top_general": {
-    "summary_he": "יום כיפור עבר בישראל בצל אבטחה מוגברת: שני מחבלים שתכננו פיגוע מיידי נעצרו, ובעולם היהודי הוחמרה האבטחה במנייני כיפור בעקבות פיגוע בקנדה. במקביל נחשף כי בכיר פת\"ח תיווך בין ישראל לחמאס וכי הצדדים היו קרובים להסכם עוד לפני 7 באוקטובר. בזירה הבינלאומית ארה\"ב מתכננת לבסס נוכחות צבאית בגרינלנד במסגרת הסכם עם דנמרק, ואיטליה מקדמת חוק שיאסור כיסויי ראש בבתי ספר ויגביל תלמידים זרים בכיתות.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "7e7ab00cd2",
-        "title": "במהלך יום כיפור: נעצרו שני מחבלים שתכננו פיגוע מיידי",
-        "url": "https://www.ynet.co.il/news/article/hyqdeyk5ge",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-21T16:55:56+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/21/BklkA11p0FGg/BklkA11p0FGg_0_238_3000_1689_0_medium.jpg"
+        "id": "6802b9348b",
+        "title": "בן גביר: דורש את תיק הביטחון בממשלה הבאה, ואת תיק המשפטים לגוטליב",
+        "url": "https://www.haaretz.co.il/news/elections/2026-09-22/ty-article/.premium/000001a0-c9ef-d688-a7b4-c9ff0f7c0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-22T17:46:55+00:00",
+        "image_url": null
       },
       {
-        "id": "9901136b34",
-        "title": "בצל הפיגוע בקנדה: אבטחה קפדנית על מנייני כיפור בעולם היהודי",
-        "url": "https://news.walla.co.il/item/3869213",
+        "id": "71e84b1f91",
+        "title": "Trump tells UN he may sign deal with Iran after midterms, or ‘annihilate’ it instead",
+        "url": "https://www.timesofisrael.com/trump-tells-un-he-may-sign-deal-with-iran-after-midterms-or-annihilate-it-instead/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-09-22T20:24:14+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26265541629192-1024x640.jpg"
+      },
+      {
+        "id": "57b34bc3bb",
+        "title": "א-שרע בשולי עצרת האו\"ם: \"הגענו עם ישראל ל-90% הסכמה\"",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001557091",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-09-23T04:51:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1763477605/direct/AP25127646809740-POOL_emweie_v0r6tu.jpg"
+      },
+      {
+        "id": "08ffa88de3",
+        "title": "\"בטוח שהרווחת כסף\"? שאלתי אותו. הוא שתק, ואז קילל בשקט: \"אני מפסיק עם הדבר הזה\"",
+        "url": "https://www.themarker.com/markets/2026-09-23/ty-article/.premium/000001a0-cc84-d52e-a7f4-fe8d47ad0000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-09-23T05:35:58+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a0-ccbb-dfbe-a3ff-fdbf0c0a0000/86/16/ec3f954948cda6aeace2a1ba98ee/127138.jpg?width=108&height=81"
+      },
+      {
+        "id": "dc408f801b",
+        "title": "האוסקר הופך לבינלאומי. האם גם הנציג הישראלי ירוויח?",
+        "url": "https://e.walla.co.il/item/3869442",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-09-22T08:41:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/7/0/3970475-46.jpg"
+        "published_at": "2026-09-23T07:12:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/9/4099535-46.jpeg"
       },
       {
-        "id": "353ca561fd",
-        "title": "בכיר פת\"ח שתיווך בין ישראל לחמאס: הצדדים היו קרובים להסכם לפני 7 באוקטובר",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-21/ty-article/.premium/000001a0-c2b4-d9a4-adf9-f3fdadd90000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-21T07:57:58+00:00",
+        "id": "552b86d972",
+        "title": "אייפון שהוא אקדח: הנשק החריג שנתפס בצפון",
+        "url": "https://www.israelhayom.co.il/news/crime/article/21469073",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
         "image_url": null
       },
       {
-        "id": "c92203b42b",
-        "title": "מקורות: ארה\"ב תבסס נוכחות בשני בסיסים בגרינלנד במסגרת ההסכם עם דנמרק",
-        "url": "https://www.haaretz.co.il/news/world/america/2026-09-22/ty-article/.premium/000001a0-c63b-d568-a7fb-c6ff32840000",
+        "id": "9ea843a8b5",
+        "title": "התחזית: למה לתת שמות לאירועי מזג אוויר? בואו נקרא להם ע\"ש פוליטיקאים",
+        "url": "https://www.haaretz.co.il/news/weather/2026-09-22/ty-article/.premium/000001a0-c96b-d7fa-a9ea-df7f99180000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-09-21T23:31:09+00:00",
+        "published_at": "2026-09-22T16:38:54+00:00",
         "image_url": null
       },
       {
-        "id": "901f20a363",
-        "title": "מלוני הודיעה: נקדם חוק שיאסור לעטות רעלות בבתי הספר - מספר התלמידים הזרים בכיתה יוגבל",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b2ed2f3a2b3c0a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-21T16:15:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/05/28/Meloni_Italy_re_autoOrient_i.jpg"
+        "id": "2623890009",
+        "title": "כלל ביטוח בדרך להשקעה באחד מבנקי ההשקעות הוותיקים בישראל",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001557093",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-09-23T05:54:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790144128/%D7%95%D7%99%D7%A7%D7%98%D7%95%D7%A8_%D7%A9%D7%9E%D7%A8%D7%99%D7%9A_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%AA%D7%95%D7%9E%D7%A8_%D7%99%D7%A2%D7%A7%D7%95%D7%91%D7%A1%D7%95%D7%9F_dnxnst.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "איראן מאיימת כי תשנה את \"גאוגרפיית המלחמה\", בעוד שר החוץ האיראני נחת בארה\"ב לראשונה מאז פרוץ המלחמה ונשיא איראן הודיע שיציג באו\"ם את \"הפשעים שבוצעו נגד עמו\". בישראל נמשך הדיון הקריטי בין משרד האוצר לביטחון סביב תקציב של 15 מיליארד שקלים, ובכאן 11 נשאלת השאלה מדוע פוטין לא עוצר את המלחמה באוקראינה.",
-    "headlines": [
-      {
-        "id": "4026765c7c",
-        "title": "האיום החדש של טהרן: \"נשנה את גאוגרפיית המלחמה\"",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001556960",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "8696afd8eb",
-        "title": "לראשונה מאז פרוץ המלחמה: שר החוץ האיראני נחת בארה\"ב",
-        "url": "https://www.makorrishon.co.il/news/world-news/article/372644",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "c0f8cdae98",
-        "title": "נשיא איראן: \"נציג באו\"ם את הפשעים שבוצעו נגד עמנו\"",
-        "url": "https://13tv.co.il/item/news/politics/security/day-1082-905364892/?pid=62&refc=902992383",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "7a00990393",
-        "title": "הקרב בין האוצר לביטחון נמשך: הדיון הקריטי על 15 מיליארד השקלים",
-        "url": "https://news.walla.co.il/item/3869216",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-09-22T08:40:00+00:00",
-        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/1/4101442-46.jpg"
-      },
-      {
-        "id": "b444aea8aa",
-        "title": "מלחמה שלא נגמרת: למה פוטין לא עוצר באוקראינה?",
-        "url": "https://www.kan.org.il/content/kan-news/global/1101501/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": "https://www.kan.org.il/media/krxpmllk/עיצוב-ללא-שם-2.jpg?rxy=0.5027645417078677,0.3770770812285638&width=490&height=272&v=1dd4856d18b2f50"
-      }
-    ]
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "ראש עיריית ניו יורק ממדאני תקף שוב את נתניהו וכינה אותו \"פושע מלחמה\". בישראל מתפרסמים סקרי בחירות 2026, ואיזנקוט דרש להסיר סרטון AI שפרסמה הציונות הדתית. עוד עלה כי נבנתה מנהרה סודית מבית ראש הממשלה לבית הכנסת, אך נתניהו לא הגיע אליו.",
-      "headlines": [
-        {
-          "id": "3d2bfaf9f4",
-          "title": "המתקפה החדשה של ממדאני על נתניהו: \"פושע מלחמה\"",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-af8d5431567c0a1027.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-09-22T04:40:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/08/06/Zohran_Mamdani_NY_re_autoOrient_i.jpg"
-        },
-        {
-          "id": "985896d623",
-          "title": "בחירות 2026: כל הסקרים בחירות 2026: כל הסקרים",
-          "url": "https://www.kan.org.il/lobby/skarim/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "8b66a1d492",
-          "title": "איזנקוט דורש להסיר את סרטון ה-AI שפרסמה הציונות הדתית",
-          "url": "https://www.kan.org.il/content/kan-news/politic/1101506/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/jbrpkxti/טאמבנייל-כללי-שתי-שורות.png?width=490&height=272&v=1dd4a33b0de5050"
-        },
-        {
-          "id": "c85f64475b",
-          "title": "\"מנהרה סודית\" וממוזגת הוקמה מבית רה\"מ - עד לבית הכנסת. אך נתניהו לא הגיע",
-          "url": "https://www.ynet.co.il/news/article/bykfcyy9zl",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-21T18:16:37+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/21/S1Wlt2yy5Gg/S1Wlt2yy5Gg_0_153_1280_721_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "מפלגות מתחרות מציגות תוכניות בנושא שהצית מחאה חסרת תקדים, לצד חשד לחברות תחבורה ציבורית שמנסות להתחמק מקנסות. בנוסף נחשף מקרה של דמי ניהול חריגים בביטוחי מנהלים.",
-      "headlines": [
-        {
-          "id": "947db52f59",
-          "title": "\"שלא יגידו 'לא ידענו'\": מה התוכנית של כל מפלגה על הנושא שהצית מחאה חסרת תקדים",
-          "url": "https://www.ynet.co.il/news/elections2026/article/yokra14903844",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-22T04:21:45+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/SJ5KVKyqMl/SJ5KVKyqMl_0_0_850_479_0_medium.jpg"
-        },
-        {
-          "id": "172472973d",
-          "title": "המטרה - להתחמק מקנסות: החשדות נגד חברות התחבורה הציבורית",
-          "url": "https://www.ynet.co.il/news/article/yokra14904161",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-22T03:48:08+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/21/yk14904269/yk14904269_0_84_1181_665_0_medium.jpg"
-        },
-        {
-          "id": "5e92d2128d",
-          "title": "90 אלף שקל דמי ניהול בשנה אחת: \"ראיתי הרבה דו\"חות ביטוחי מנהלים — אבל זה השיא\"",
-          "url": "https://www.themarker.com/markets/2026-09-22/ty-article/.premium/000001a0-af89-de67-a5a3-efad11ff0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-22T03:12:20+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-afde-de67-a5a3-effeaded0000/88/c8/4a2f1f654d5b99378fa6aeb955ca/383951.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "עליבאבא קפצה בבורסת אסיה בעקבות חשיפת שבב AI חדש, בעוד יצרניות רכב סיניות ממשיכות לכבוש שווקים באירופה, מהונגריה ועד בריטניה.",
-      "headlines": [
-        {
-          "id": "601c21316c",
-          "title": "עליות בבורסות אסיה; עליבאבא קופצת בקרוב ל-3% אחרי שחשפה שבב AI חדש",
-          "url": "https://www.themarker.com/wallstreet/2026-09-22/ty-article-live/000001a0-c29e-df75-a7a7-fadf942e0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-22T04:25:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-c3e0-d310-a9bf-c7ea428f0000/dc/0a/da68c93648058de64542c32e2bc8/463976.jpg?width=108&height=81"
-        },
-        {
-          "id": "0fdf059b5e",
-          "title": "מהונגריה ועד בריטניה: הסיניות מקימות מפעלי מכוניות שכובשים את אירופה",
-          "url": "https://www.themarker.com/wallstreet/2026-09-21/ty-article/.premium/000001a0-9fb4-de76-a1f7-bffcab5d0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-21T15:56:49+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-9fca-d219-a3ed-bfda011b0000/6f/01/7a97095d449e839e2166d5a9161f/866543.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "בצל הפיגוע בקנדה הוחמרה האבטחה במנייני יום כיפור בעולם היהודי, ובתל אביב דווח על גל פריצות לבתים בזמן התפילות. בגלובס נשאלת השאלה האם משפחות חרדיות לוקחות מהקופה הציבורית יותר משהן תורמות לה.",
-      "headlines": [
-        {
-          "id": "915c81e434",
-          "title": "מחשבים, אלכוהול ומזומן: גל פריצות בת\"א ביום כיפור",
-          "url": "https://www.israelhayom.co.il/news/local/article/21461636",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "efc64410f0",
-          "title": "האם משפחה חרדית לוקחת מהקופה הציבורית יותר משהיא תורמת לה?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001555475",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": null,
-          "image_url": "https://res.cloudinary.com/globes/image/upload/v1789489282/%D7%9E%D7%A9%D7%A8%D7%95%D7%A7%D7%99%D7%AA-%D7%A6%D7%99%D7%95%D7%A0%D7%99%D7%9D-200_tc0o5w.png"
-        }
-      ]
-    },
-    {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "איטליה, בהובלת ראש הממשלה מלוני, מקדמת חוק שיאסור כיסויי ראש בבתי הספר ויגביל את מספר התלמידים הזרים בכיתות. במקביל, ברצועת עזה חוזרים תלמידים ללימודים פרונטליים לראשונה זה שלוש שנים.",
-      "headlines": [
-        {
-          "id": "3311bb149e",
-          "title": "מלוני: איטליה תאסור כיסויי ראש בבתי הספר ותגביל את מספר הזרים בכיתות",
-          "url": "https://www.haaretz.co.il/news/world/europe/2026-09-21/ty-article/.premium/000001a0-c517-d9a4-adf9-f5ffc79f0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-21T18:11:51+00:00",
-          "image_url": null
-        },
-        {
-          "id": "8f5f531d0f",
-          "title": "Gaza students return to in-person schooling for first time in three years",
-          "url": "https://www.timesofisrael.com/gaza-students-return-to-in-person-schooling-for-first-time-in-three-years/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-09-21T19:52:38+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26262414968056-1024x640.jpg"
-        }
-      ]
-    },
-    {
-      "key": "environment",
-      "label_he": "סביבה ואקלים",
-      "summary_he": "תחזית מזג האוויר ליום שלישי צופה ירידה בטמפרטורות וסיכוי לגשם קל בבוקר.",
-      "headlines": [
-        {
-          "id": "2117e341d2",
-          "title": "תחזית מזג האוויר ליום שלישי: ירידה בטמפרטורות, ייתכן גשם קל בבוקר",
-          "url": "https://www.haaretz.co.il/news/weather/2026-09-21/ty-article/000001a0-c561-d9a4-adf9-f5ed835c0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-21T20:13:25+00:00",
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "health",
-      "label_he": "בריאות ורפואה",
-      "summary_he": "עשרות ישראלים בריזורט יוקרתי בחו\"ל דיווחו על תסמינים קשים ומקרי הקאות במהלך החופשה.",
-      "headlines": [
-        {
-          "id": "a974916018",
-          "title": "\"הקאתי כל הלילה\": במהלך החופשה בריזורט היוקרתי - עשרות ישראלים החלו לסבול מתסמינים קשים",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-83a0e646ea3c0a1026.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-09-21T17:02:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/09/21/W_grid_clubmed22_autoOrient_i.jpg"
-        }
-      ]
-    }
-  ],
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -332,122 +111,192 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "A VRT investigation has documented dozens of extreme statements on a popular Israeli talk show called \"The Patriots,\" including explicit calls for harming Palestinian children, with the program regularly normalizing extreme language about Gaza during primetime broadcasts. Canadian leaders have condemned a shooting outside a synagogue in Ontario that occurred at the start of Yom Kippur, highlighting ongoing antisemitic violence targeting Jewish communities.",
+      "summary_en": "Israel experienced heightened tensions around Yom Kippur, marked by multiple antisemitic incidents, including the vandalism of a Reform synagogue in Jerusalem and harassment of congregants. The death of an Israeli citizen killed while protecting his son from a terror attack underscored ongoing security concerns, while international attention turned to calls for Israeli Prime Minister Netanyahu's arrest at the UN. French President Macron publicly criticized the UN's handling of the Gaza situation.",
       "headlines": [
         {
-          "id": "1c16ba750b",
-          "title": "Investigation 'We must kill all their children': VRT NWS finds dozens of extreme statements in popular Israeli talkshow",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/14/vrt-nws-keer-meer-dan-30-uur-israelische-televisie/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/16/8eb0a1e1-7275-4d5b-98f0-36cc39e33ea4.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "6a36d9dc1a",
-          "title": "Investigation How Israeli talkshow 'The Patriots' daily normalises extreme language about Gaza in primetime",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/22/de-patriotten-extreem-taalgebruik/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/22/f8110ac1-c2b3-418b-818f-254078091676.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "6df60d9f6a",
-          "title": "Canadian leaders condemn shooting outside Ontario synagogue at the start of Yom Kippur",
-          "url": "https://www.jta.org/2026/09/21/default/canadian-leaders-condemn-shooting-outside-ontario-synagogue-at-the-start-of-yom-kippur",
+          "id": "1bebe93d5c",
+          "title": "Mahmoud Khalil decries 'Zionist project' at Yom Kippur service",
+          "url": "https://www.jta.org/2026/09/22/ny/mahmoud-khalil-decries-zionist-project-at-yom-kippur-service",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-09-22T02:13:14+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/09.21.26-Syn-Can.jpg"
+          "published_at": "2026-09-22T22:15:53+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/GettyImages-2296466625.jpg"
+        },
+        {
+          "id": "f03c313ab2",
+          "title": "Israeli teenager eulogizes slain father who saved his life in pre-Yom Kippur terror attack",
+          "url": "https://www.jta.org/2026/09/22/israel/teenager-eulogizes-slain-father-who-saved-his-life-in-pre-yom-kippur-terror-attack",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-09-22T20:41:45+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/09-22-2026-Shukron.jpg"
+        },
+        {
+          "id": "8cafddeb8a",
+          "title": "Reform synagogue in Jerusalem vandalized, congregants harassed in three incidents around Yom Kippur",
+          "url": "https://www.jta.org/2026/09/22/israel/reform-synagogue-in-jerusalem-vandalized-congregants-harassed-in-three-incidents-around-yom-kippur",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-09-22T19:01:36+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/Kol-Haneshama-.jpg"
+        },
+        {
+          "id": "038a73fac8",
+          "title": "Netanyahu to confront Mamdani's call to arrest him in U.N. address this week",
+          "url": "https://www.jta.org/2026/09/22/ny/netanyahu-to-confront-mamdanis-call-to-arrest-him-in-u-n-address-this-week",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-09-22T15:34:35+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/GettyImages-2295160329.jpg"
+        },
+        {
+          "id": "5902b3ae18",
+          "title": "\"We should all be ashamed!\": Angry French President Macron strongly criticizes UN over Gaza",
+          "url": "https://www.hln.be/buitenland/we-moeten-ons-allemaal-schamen-kwade-franse-president-macron-haalt-hard-uit-bij-vn-vanwege-gaza~af997b4c/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-23T06:09:00+00:00",
+          "image_url": "https://images.hln.be/YTY5NGE0NTU4ODU2NjFiYzM1NGQvZGlvLzI3ODA2OTEzOC9maXQtd2lkdGgvNDAw/france-s-president-emmanuel-macron-speaks-during-the-81st-united-nations-general-assembly-at-the-united-nations-headquarters-in-new-york-on-september-22-2026-photo-by-ludovic-marin-afp"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgian politics faces tensions following PM De Wever's proposed budget starting note of 14 billion euros, which has drawn significant concern from French-speaking politicians over its implications. Brussels authorities have extended the city center's alcohol ban for another four years, acknowledging it as an unpopular measure. Security concerns emerged in Antwerp after two explosions in the Antwerp-North district, with reports indicating one house had been previously targeted.",
+      "summary_en": "Belgium is confronting its most severe drought since the 1970s, with water providers struggling to access sufficient supplies from the Meuse River. The prison system faces mounting pressure as the number of elderly inmates grows substantially, requiring institutional adaptation. Political tensions are rising as socialist unions plan nationwide strikes on October 12 to protest government budget proposals, while transport authorities navigate ongoing policy questions about ticket verification procedures.",
       "headlines": [
         {
-          "id": "fb6cfff213",
-          "title": "Alcohol ban in Brussels city center extended for four years: 'Not a pleasant measure'",
-          "url": "https://www.hln.be/brussel/alcoholverbod-in-brusselse-binnenstad-met-vier-jaar-verlengd-geen-aangename-maatregel~a66762ac/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-22T06:08:00+00:00",
-          "image_url": "https://images.hln.be/ZWRhNTI4MjZiOGVhOGRmMGZlZGYvZGlvLzI3ODA0NTk5Ni9maXQtd2lkdGgvNDAw/het-voetgangersgebied-in-brussel-waar-nu-voor-een-periode-van-vier-jaar-een-verbod-is-ingesteld-op-het-drinken-van-alcohol-terrassen-en-cafe-s-krijgen-een-uitzondering-inzet-burgemeester-philippe-close-ps-noemt-het-alcoholverbod-geen-aangename-maatregel-belga-photo-emile-windal"
-        },
-        {
-          "id": "54d0648263",
-          "title": "With starting budget note of 14 billion euros, PM De Wever causes 'stomach ache' among French speakers",
-          "url": "https://www.demorgen.be/politiek/met-startnota-van-14-miljard-euro-zorgt-premier-de-wever-voor-maagpijn-bij-franstaligen~bd969beb/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-21T17:34:00+00:00",
-          "image_url": "https://image.demorgen.be/277899121/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "8c2c02ddbb",
-          "title": "Two explosions in Antwerp-North, one house previously targeted",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/22/twee-explosies-op-korte-tijd-in-antwerpen-noord-huizen-beschad/",
+          "id": "af32d8cabc",
+          "title": "Belgium heading toward biggest drought since the 1970s: Brussels water provider Vivaqua can extract less water from Meuse",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/22/droogte-in-belgie-drinkwaterproductie-gevolgen/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/22/bc29331d-8924-4ead-a32f-e72e09833e93.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/22/39278bba-fbf3-4074-bc51-063b010b86fe.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "5eccae7fdd",
+          "title": "Rising number of older detainees: Prisons must adapt to aging population",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/22/vergrijzing-gevangenissen-toezichtsraad/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/22/9e629838-3796-424d-b1dd-d43e82a40fb8.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "1243ded26c",
+          "title": "Transport Minister De Ridder reverses De Lijn directive on checking travel documents",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/23/de-lijn-bestuurders-richtlijn-vervoersbewijs-annick-de-ridder/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/04/24/75061d75-4d08-42ed-9b81-819c489f1e80.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "e0b1094355",
+          "title": "Socialist union organizes public-sector strike day on October 12 protesting budget proposals",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/22/acod-organiseert-stakingsdag-in-openbare-diensten-op-12-oktober/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/22/a6ecc20e-eb11-4fae-95b7-fb31e90de6cf.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "fed1c425bb",
+          "title": "Radio station Qmusic flies listener by helicopter from Kortrijk to Mechelen to avoid traffic",
+          "url": "https://www.hln.be/zwevegem/geen-files-vandaag-voor-mathieu-26-qmusic-brengt-luisteraar-met-helikopter-van-kortrijk-naar-zijn-werk-in-mechelen-hier-kan-ik-wel-aan-wennen~ab820c7b/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-23T06:16:00+00:00",
+          "image_url": "https://images.hln.be/YzQ5NWQzMTk0MDA1OTRkZTAwZTYvZGlvLzI3ODA3OTU0My9maXQtd2lkdGgvNDAw/vincent-fierens-kwam-luisteraar-mathieu-oppikken-met-de-heli"
         }
       ]
     },
     "europe": {
-      "summary_en": "German Chancellor Merz continues to face mounting pressure, with analysts describing him as a symbol of Germany's broader existential crisis amid political and economic challenges. In response to ongoing Russian aggression, EU foreign affairs chief Kallas has called for maintaining European sanctions against Russia following Russian attacks on the Ukrainian city of Dnipro that killed three people.",
+      "summary_en": "European nations showed signs of resistance to Trump administration positions at the UN, while the UK established a new agency to counter Russian information warfare. Ukraine and the US signaled interest in ending the war by winter following high-level talks between Zelensky and Trump. Britain's government defended its economic forecasting institutions against parliamentary criticism.",
       "headlines": [
         {
-          "id": "26a17dec42",
-          "title": "'Merz is the symbol of the German existential crisis': what options does the chancellor have?",
-          "url": "https://www.demorgen.be/nieuws/merz-is-het-symbool-van-de-duitse-existentiele-crisis-welke-opties-heeft-de-bondskanselier-nog~b47a396b/",
+          "id": "cfd35363d5",
+          "title": "New UK agency to fight 'information warfare' from Russia and others, Burnham tells UN",
+          "url": "https://www.theguardian.com/technology/2026/sep/23/andy-burnham-national-centre-russian-disinformation-deepfakes",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-23T05:00:16+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/b6c4a5ca2a7c384a2d34ecc6aa663401f7130433/369_0_1774_1419/master/1774.jpg?width=700&quality=85&auto=format&fit=max&s=ace22c789db12b8ac8fe38c8b49b5bb8"
+        },
+        {
+          "id": "394f10bcfc",
+          "title": "Ukraine and US want war ended 'for the winter,' says Zelensky after talks with Trump",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-oekraine-en-vs-willen-oorlog-voor-de-winter-beeindigen-zegt-zelensky-na-gesprek-met-trump~b38bed0a/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-09-21T17:16:00+00:00",
-          "image_url": "https://image.demorgen.be/278030782/roi/320/320/4257/4573/christian-democratic-union-cdu-press-conference-after-state"
+          "published_at": "2026-09-23T04:52:00+00:00",
+          "image_url": "https://image.demorgen.be/278069889/roi/320/320/2416.74/1439.76/afbeelding"
         },
         {
-          "id": "40ef42b98e",
-          "title": "Three dead in Russian attacks on Dnipro - EU foreign affairs chief Kallas calls for maintaining sanctions against Russia",
-          "url": "https://www.hln.be/buitenland/drie-doden-bij-russische-aanvallen-op-dnipro-eu-buitenlandchef-kallas-pleit-voor-handhaven-sancties-tegen-rusland~a93df6b5/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-22T05:59:00+00:00",
-          "image_url": "https://images.hln.be/MmZkYjUzYWViMTJmMWRiM2Q2ZjgvZGlvLzI3ODA0MTY2Ny9maXQtd2lkdGgvNDAw/vice-president-of-the-european-commission-kaja-kallas-speaks-during-a-news-conference-ahead-of-the-united-nations-general-assembly-in-new-york-on-september-21-2026-photo-by-leonardo-munoz-afp"
+          "id": "e2577d7413",
+          "title": "Critics of UK government's economic forecaster are 'shooting the messenger', say MPs",
+          "url": "https://www.theguardian.com/business/2026/sep/23/obr-treasury-committee-shooting-messenger-mps-economic-forecaster-uk",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-23T05:00:16+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/2ead32c37ba3aab6ca04926b389450b34bcb91d7/2122_465_3852_3083/master/3852.jpg?width=700&quality=85&auto=format&fit=max&s=50950feee4d0b5e5a930f10608dd6c11"
+        },
+        {
+          "id": "8e87b32e6c",
+          "title": "World shows hints of bucking Trump at the UN",
+          "url": "https://www.politico.com/news/2026/09/22/world-shows-hints-of-bucking-trump-at-the-un-01089101",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-23T03:38:58+00:00",
+          "image_url": null
         }
       ]
     },
     "world_top": {
-      "summary_en": "At the UN summit in New York, French President Macron held a \"very constructive\" conversation with President Trump, with the American president scheduled to address the General Assembly this afternoon, signaling continued diplomatic engagement at the highest international level. In Asia, Typhoon Dujuan has caused significant damage across Japan, leaving at least four people dead as the powerful storm swept through the region.",
+      "summary_en": "The US and Iran held their first talks since June, following President Trump's dramatic threat to \"annihilate\" Iran at the UN General Assembly, demonstrating that diplomatic channels remain open despite escalating rhetoric. Meanwhile, tech entrepreneur Elon Musk praised Chinese leader Xi Jinping as a \"great leader\" during an interview with Chinese state media, reflecting the complex intersection of business and geopolitical interests.",
       "headlines": [
         {
-          "id": "83e1dc9c8a",
-          "title": "UN summit New York LIVEBLOG Macron had 'very constructive' conversation with Trump, American president speaks to General Assembly this afternoon",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/macron-had-zeer-constructief-gesprek-met-trump-amerikaanse-pr~1790053731944/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/22/f806bb63-c76a-403f-b481-3e1a7e41f64d.jpg?width=200&height=125&q=80&blur=90"
+          "id": "c1ce1679f0",
+          "title": "Trump's threat to annihilate Iran to UN general assembly is stunning, even for him",
+          "url": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-22T18:23:08+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/b60b2766fdb26e598fb612318c23f6eb1d00909a/382_598_3523_2819/master/3523.jpg?width=700&quality=85&auto=format&fit=max&s=1c1d8d70f5f271e5f1e047d129155be9"
         },
         {
-          "id": "228f64a4d4",
-          "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
-          "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+          "id": "934a7d1633",
+          "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+          "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-09-22T05:58:35+00:00",
+          "published_at": "2026-09-23T06:12:56+00:00",
           "image_url": null
+        },
+        {
+          "id": "b7067439a4",
+          "title": "Elon Musk praises Xi Jinping as 'great leader' in interview with Chinese state television",
+          "url": "https://www.hln.be/buitenland/elon-musk-prijst-xi-jinping-als-grote-leider-in-interview-met-chinese-staatstelevisie~ab7a1e0b/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-23T05:51:00+00:00",
+          "image_url": "https://images.hln.be/Yjc4MDMwZDRkY2QyNzQ0MWM0YTIvZGlvLzI3NzEwNzg3Ny9maXQtd2lkdGgvNDAw/file-elon-musk-departs-after-a-welcome-ceremony-with-president-donald-trump-and-china-s-president-xi-jinping-at-the-great-hall-of-the-people-may-14-2026-in-beijing-ap-photo-mark-schiefelbein-file"
         }
       ]
     },
