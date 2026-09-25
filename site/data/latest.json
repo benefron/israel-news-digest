@@ -1,104 +1,84 @@
 {
-  "generated_at": "2026-09-24T07:50:30.500528+00:00",
-  "date": "2026-09-24",
+  "generated_at": "2026-09-25T05:56:55.045054+00:00",
+  "date": "2026-09-25",
   "degraded": false,
   "top_general": {
-    "summary_he": "יום טעון בביטחון ודיפלומטיה: נתניהו פוגש מנהיגים אירופים באו״ם, בעוד מדינות בעולם סוגרות טיסות לאיראן; נשיא איראן משווה את תוכנית הגרעין לצורך אנרגטי בלבד. בשטח, צה״ל חיסל את מנהל הכספים של חמאס, שהעביר לארגון למעלה ממיליארד שקל. בכלכלה העולמית, תשואות האג״ח בארה״ב טיפסו לשיאים.",
+    "summary_he": "נתניהו ביצע פעילות דיפלומטית נרחבת בחו\"ל — נפגש עם הנשיא טראמפ בבית הלבן לראשונה לאחר יותר מעשור, נאם בעוצמה באו\"ם בהגנה על עמדת ישראל נגד איראן וקטאר, והשתתף בפגישה אזורית עם נציגי מדינות הסכמי אברהם.",
     "headlines": [
       {
-        "id": "60bbbcd397",
-        "title": "נתניהו יפגוש באו\"ם 2 מנהיגים מאירופה, וטוען: \"רבים ביקשו, לא יכול בגלל סוכות\"",
-        "url": "https://www.ynet.co.il/news/article/r1nawnzqzl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-24T05:49:15+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/Byrq02tFGl/Byrq02tFGl_0_204_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "c130651cd8",
-        "title": "סוגרים גם את השמיים: המדינות החשובות ביותר עוצרות את הטיסות לאיראן",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-d7dc3654e1dc0a1027.htm",
+        "id": "beb1396586",
+        "title": "הפגישה החשוב של השנה: אחרי יותר מעשור - טראמפ ושי נפגשו בבית הלבן",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-3f0c9d2a4a3d0a1027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-09-23T07:18:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/23/IRANAIR_re_autoOrient_i.jpg"
+        "published_at": "2026-09-24T14:35:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/24/tru1_re_autoOrient_i.jpg"
       },
       {
-        "id": "540e2f091f",
-        "title": "נשיא איראן באו\"ם: אנו צריכים גרעין רק לצורכי אנרגיה; נציגי ארה\"ב יצאו מהאולם",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-23/ty-article/000001a0-cea1-dcb9-a9a4-fee5dbd20000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-23T14:56:31+00:00",
-        "image_url": null
+        "id": "502381ac50",
+        "title": "In fiery UN speech, Netanyahu blasts Iran, Qatar, Turkey, slams Gaza genocide accusation",
+        "url": "https://www.timesofisrael.com/in-fiery-un-speech-netanyahu-blasts-iran-qatar-turkey-slams-gaza-genocide-accusation/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-09-24T20:53:34+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/993-1024x640.jpeg"
       },
       {
-        "id": "ff43a12a75",
-        "title": "צה\"ל: חוסל מנהל הכספים בחמאס, שהעביר יותר ממיליארד שקל לארגון במלחמה",
-        "url": "https://www.ynet.co.il/news/article/rkpm67fczg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-24T05:03:59+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/HJsgAmM9Ge/HJsgAmM9Ge_0_541_999_563_0_medium.jpg"
-      },
-      {
-        "id": "7acb57af11",
-        "title": "ירידות של עד 0.5% באירופה; תשואת האג\"ח של יפן בשיא של 30 שנה",
-        "url": "https://www.themarker.com/wallstreet/2026-09-24/ty-article-live/000001a0-c29e-df75-a7a7-fadf942e0000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-09-24T07:29:00+00:00",
-        "image_url": "https://img.haarets.co.il/bs/000001a0-ce8d-d18d-afbf-ffcf51e40000/d4/a8/e7ee72064f999cd6e11c7db50cb6/529601.jpg?width=108&height=81"
+        "id": "359eacdb6e",
+        "title": "Representatives from Abraham Accords countries meet on sidelines of UN for first time since Jan. 2023",
+        "url": "https://www.timesofisrael.com/liveblog-september-25-2026/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-09-25T00:44:03+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/AA-Roundtable-Sept-2026-1024x640.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "ממד ביטחוני מעמיק: צה״ל המשיך בפעולות נגד חמאס — חוסל מחבל שהחזיק שבעה חטופים בעזה. צה״ל הציג גם מערכת הגנה חדשה לשדה הקרב. בהשקפה גלובלית: דיווחים אומרים כי החות׳ים גייסו בינה מלאכותית אמריקנית נגד ישראל וארה״ב, וה-CIA הודיעה כי רוסיה מתכננת התקפות כטב״מים נגד מדינות אירופה.",
+    "summary_he": "ישראל מתמודדת עם התחזקות של איומים ביטחוניים במספר חזיתות — אלימות בגדה המערבית, התקפות על אישי ממשלה בתוך הארץ והתנגדות אלימה בעולם להנהגה הישראלית, כשגם החששות סביב המשא ומתן עם איראן משפיעים על הדיון הביטחוני.",
     "headlines": [
       {
-        "id": "dc4f389462",
-        "title": "חוסל מחבל חמאס שהחזיק בשבעה חטופים בעזה",
-        "url": "https://www.kan.org.il/content/kan-news/defense/live-1102340/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": "https://www.kan.org.il/media/ugemr0qp/f231017ark203.jpg?width=490&height=272&v=1da93bd70e356a0"
+        "id": "ce21fa8b22",
+        "title": "אלימות בגדה? פגיעה במעמד ישראל? את הממשלה מעסיקים איומים מוחשיים פחות",
+        "url": "https://www.haaretz.co.il/news/politics/2026-09-25/ty-article/.highlight/000001a0-d4a5-db25-a5ac-dcbf33300000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-25T03:00:16+00:00",
+        "image_url": null
       },
       {
-        "id": "8dcb15d90f",
-        "title": "מערכת ההגנה החדשה של צה\"ל בשדה הקרב",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001556977",
+        "id": "8fafb418ce",
+        "title": "חפצים הושלכו לעבר בנט במסעדה בבני ברק, אישה בצוותו נפגעה; נעצר חשוד | תיעוד",
+        "url": "https://www.ynet.co.il/news/elections2026/article/h1tt0wx5me",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-24T21:00:53+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/SyIBlzmcGg/SyIBlzmcGg_1_497_720_406_0_medium.jpg"
+      },
+      {
+        "id": "f3506c6383",
+        "title": "Anti-Zionist protesters put Netanyahu effigy in a noose outside UN headquarters",
+        "url": "https://www.timesofisrael.com/anti-zionist-protesters-put-netanyahu-effigy-in-a-noose-outside-un-headquarters/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-09-25T01:31:39+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/20260924_untitled_06763-1024x640.jpg"
+      },
+      {
+        "id": "240cae762b",
+        "title": "היועץ לשעבר של טראמפ מזהיר: \"אם המטרה להביא את איראן למו\"מ - נתאכזב שוב\"",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001557559",
         "source": "globes",
         "source_label": "גלובס",
         "source_label_he": "גלובס",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "a00cbf3d50",
-        "title": "החות'ים הערימו על קלוד: כך גייסו איראן ושלוחיה AI אמריקני נגד ישראל וארה\"ב",
-        "url": "https://www.makorrishon.co.il/news/defence/article/373487",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "af396e11ba",
-        "title": "דיווח: ה-CIA הזהיר את צרפת, ספרד ואיטליה כי רוסיה מתכננת מתקפות כטב\"מים נגדן",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-3ad83081722d0a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-24T06:43:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/19/ibudrasitputin19091_re_autoOrient_i.jpg"
+        "published_at": "2026-09-24T18:00:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790244678/shutterstock_687998698_rvu4ah.jpg"
       }
     ]
   },
@@ -106,162 +86,229 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בזירה הפוליטית: טראמפ נמצא בתחרות עם נשיא סין ופגש באופן משמעותי את מנהיגת ונצואלה. בארץ, שרים חנכו התנחלות חדשה תוך גירוש קהילה פלסטינית, וערכאה שיפוטית קבעה כי החרם על כלי תקשורת אינו חוקתי.",
+      "summary_he": "הדיון המדיני בישראל מתמקד בסוגיות של תקשורת וחופש הביטוי — חוק השידורים המוצע מעורר חששות משפטיים חמורים, כלי תקשורת נאסרה כניסתם לבית הלבן למרות צו שיפוטי, וביחסים הבינלאומיים ישראל נתפסת כמתמודדת עם קשיים דיפלומטיים.",
       "headlines": [
         {
-          "id": "8d85df0677",
-          "title": "מאבק של טראמפ והנשיא שי: מאחורי הקלעים של הפגישה החשובה של השנה",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-77d5eba9d4dc0a1027.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-09-23T08:14:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/09/12/trumpxhi1505_autoOrient_i.jpg"
+          "id": "7242f212f0",
+          "title": "היועמ\"שית לבג\"ץ: חוק השידורים של קרעי יפגע קשות בשוק התקשורת, נדרש צו ביניים לעצירתו",
+          "url": "https://www.themarker.com/news/themedia/2026-09-24/ty-article/.premium/000001a0-d4f4-d259-a3b4-dcfc0f460000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-24T19:49:39+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019f-389c-d269-af9f-3edd5b840001/f3/1c/cbfe00d34aceb5496d599d2926af/whatsapp-image-2026-07-06-at-21-01-20.jpeg?width=108&height=81"
         },
         {
-          "id": "3ac04eb853",
-          "title": "במקביל לפגישת טראמפ עם נשיאת ונצואלה: מנהיגת האופוזיציה נכשלה לשוב בחשאי למדינה",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-3cd07936b9dc0a1026.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-09-23T13:40:00+00:00",
-          "image_url": "https://img.mako.co.il/2025/12/11/MACHADO_re_autoOrient_i.jpg"
-        },
-        {
-          "id": "28bb787c7c",
-          "title": "שרים חנכו התנחלות חדשה שהקמתה לוותה בגירוש קהילה פלסטינית",
-          "url": "https://www.haaretz.co.il/news/politics/2026-09-23/ty-article/000001a0-cd4c-dcf7-a5ee-efed79990000",
+          "id": "90470e1a83",
+          "title": "כלי התקשורת שהוחרמו על ידי טראמפ לא הורשו להיכנס לבית הלבן למרות צו שופט",
+          "url": "https://www.haaretz.co.il/news/world/america/2026-09-24/ty-article/.premium/000001a0-d39f-d4f6-aba2-fbffcac80000",
           "source": "haaretz",
           "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-09-23T17:07:19+00:00",
+          "published_at": "2026-09-24T13:55:58+00:00",
           "image_url": null
         },
         {
-          "id": "80075ae674",
-          "title": "בית המשפט לטראמפ: \"החרם על כלי התקשורת - לא חוקתי\"",
-          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21473151",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
+          "id": "486fcfd3a9",
+          "title": "מבודד, לעומתי ו\"נלחם על עתידו הפוליטי\": נאום נתניהו באו\"ם בכותרות בעולם",
+          "url": "https://www.ynet.co.il/news/article/s1xffq75gl",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-25T05:16:43+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/BJqv5d7qfg/BJqv5d7qfg_0_0_850_479_0_medium.jpg"
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "הערכות כלכליות קודרות: אסון כלכלי אפשרי, בסיכוי של 1 ל-6, עלול להרעיד מיליארדים; תשואות האג״ח בארה״ב בשיא של 20 שנה, ובורסות אירופה נפלו עד 0.5%. בישראל, משקיעים פונים להשקעות בביטקוין בחיפוש אחר תשואות גבוהות יותר.",
+      "summary_he": "בתחום הנדל\"ן והכלכלה המשפחתית ניכרים הבדלים משמעותיים בין ערים — דמי השכירות משתנים באופן דרמטי בין מרכזים שונים, וגם שביעות הרצון של התושבים מפעילות הרשויות המקומיות משתנה בין אזורים.",
       "headlines": [
         {
-          "id": "1ba29a68cf",
-          "title": "סיכוי של 1 ל-6: האסון שאנחנו כמעט לא מתכוננים אליו ירעיב מיליארדים",
-          "url": "https://news.walla.co.il/item/3868526",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-25T00:01:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/7/7/4/3774783-46.jpg"
-        },
-        {
-          "id": "e6ce345e89",
-          "title": "תשואות האג\"ח בארה\"ב זינקו לשיא של כמעט 20 שנה",
-          "url": "https://www.themarker.com/wallstreet/2026-09-23/ty-article/.premium/000001a0-cf1a-d72e-a7e0-ffbfbe320000",
+          "id": "527c62138b",
+          "title": "דירות 5 חדרים בנהריה ובבאר שבע — איזו הייתה יקרה יותר?",
+          "url": "https://www.themarker.com/realestate/2026-09-25/ty-article/.premium/000001a0-d2cd-d18d-afbf-f3cffbdd0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-09-23T17:08:11+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-cf3a-d4d3-a1b0-ef3bc61f0000/76/ed/01eec69d40d487f7bf6cbd85c90e/471641.jpg?width=108&height=81"
+          "published_at": "2026-09-25T03:29:58+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-d4da-d9ab-abfd-f7fb22490001/51/9a/a5fc153849329659842c375a300b/meshorer.PNG?width=108&height=81"
         },
         {
-          "id": "c3e5e777a8",
-          "title": "\"הבנתי שאני רוצה לנסות להרוויח תשואות גבוהות יותר מהמדדים, והתחלתי להשקיע בקרן סל על ביטקוין\"",
-          "url": "https://www.themarker.com/markets/newinvestors/2026-09-24/ty-article-magazine/.highlight/000001a0-c382-d310-a9bf-c7ca35650000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-24T03:00:09+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-c51f-d9a4-adf9-f5ff2dbd0001/ec/c7/a80191bf4f20bc3caa713d4bc1f4/mashkiim-shaked-homepage.jpg?width=108&height=81"
+          "id": "20993b334f",
+          "title": "באיזו עיר התושבים בישראל הכי מרוצים מהעירייה שלהם?",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001557123",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-09-25T04:01:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790267547/shutterstock_1814656724_yxpk3p.jpg"
         }
       ]
     },
     {
-      "key": "education",
-      "label_he": "חינוך",
-      "summary_he": "שיעור התלמידים המצטיינים בישראל קרס בצורה חדה, וכתוצאה מכך הארץ נמחקת ממפת המדע וההייטק העתידית בעולם.",
+      "key": "health",
+      "label_he": "בריאות ורפואה",
+      "summary_he": "מערכת הבריאות בישראל עוברת שינויים משמעותיים — פקולטות חדשות לרפואה נפתחות כדי להגדיל את כוח האדם הרפואי, בעוד התכנון לרפורמה בתחום מעלה הצעות חדשות להצלת המערכת.",
       "headlines": [
         {
-          "id": "abf3be8c1c",
-          "title": "שיעור התלמידים המצטיינים קרס — וישראל נמחקת ממפת המדע וההייטק העתידית",
-          "url": "https://www.themarker.com/news/education/2026-09-24/ty-article/.premium/000001a0-c892-dcf7-a5ee-efb7cf000000",
+          "id": "e5be0c4461",
+          "title": "חמש פקולטות חדשות לרפואה נפתחו בישראל. האם הן ימנעו את קריסת המערכת?",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001557569",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-09-25T04:06:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790273868/800_op9atk.jpg"
+        },
+        {
+          "id": "800abad9c7",
+          "title": "בגיל 96, זלמן שובל רוצה להציל את מערכת הבריאות בישראל. ויש לו תוכנית",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001557582",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-09-25T04:07:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1789634707/%D7%96%D7%9C%D7%9E%D7%9F_%D7%A9%D7%95%D7%91%D7%9C_18_1_bp19mb.jpg"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "הטכנולוגיה והבינה המלאכותית משנות את הנוף הכלכלי — ישראל חשופה במיוחד להשפעות של בינה מלאכותית על שוק העבודה, וחברות ענק כמו גוגל מרחיבות את השקעותיהן בכיוונים חדשים.",
+      "headlines": [
+        {
+          "id": "1279ac73fa",
+          "title": "ישראל בין הכלכלות החשופות ביותר לשיבוש ה-AI: מה זה אומר על שוק ההון?",
+          "url": "https://www.themarker.com/agents/2026-09-24/ty-article/000001a0-d4f2-d259-a3b4-dcfa39b90000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-09-24T02:59:36+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-cdd9-d72e-a7e0-fffd11770000/bf/ab/b870583a40d68d1a31b3344bbc3f/527663.jpg?width=108&height=81"
+          "published_at": "2026-09-24T20:35:34+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-d511-dfbb-afa4-f751d5140000/e7/e4/f818435b4eb9bcefacab56d64d25/123542.jpg?width=108&height=81"
+        },
+        {
+          "id": "e00383b6c5",
+          "title": "מרכז נתונים בחלל? גוגל מרחיבה את מרוץ ה-AI אל מחוץ לאטמוספירה",
+          "url": "https://www.themarker.com/wallstreet/2026-09-24/ty-article/.premium/000001a0-d441-db4b-a7a5-d6735f850000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-24T20:57:39+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-d4c9-db4b-a7a5-d6fbcd880001/f1/11/4698f93848e4b34218948aa6e17b/google-ai-satellite-3.jpg?width=108&height=81"
         }
       ]
     },
     {
       "key": "culture_entertainment",
       "label_he": "תרבות ובידור",
-      "summary_he": "בתחום הבידור: נטפליקס ביטלה סדרה פופולרית למרות 100 מיליון צפיות, וטיילור סוויפט משיקה סינגל חדש.",
+      "summary_he": "בתחום התרבות והבידור מתרחשות תופעות שונות — סדרה ישראלית פופולרית עוברת לשידור חופשי ברשת, אמן משנה את כיווני הופעותיו, וחדשות נוספות עוסקות בעולם הקולנוע והטעמים.",
       "headlines": [
         {
-          "id": "f5f94977bd",
-          "title": "100 מיליון צפיות לא הספיקו: נטפליקס ביטלה את הסדרה האהובה",
-          "url": "https://e.walla.co.il/item/3869389",
+          "id": "e7f0b9d43e",
+          "title": "נז\"א יופץ לצפייה חופשית ברשת - ויובל אברהם מבהיר: \"נחזור לארץ\"",
+          "url": "https://e.walla.co.il/item/3869663",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-09-23T08:00:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/3/4103791-46.jpg"
+          "published_at": "2026-09-24T13:22:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/0/4100655-46.jpg"
         },
         {
-          "id": "48c525cedc",
-          "title": "טיילור סוויפט משיקה סינגל חדש - ומסתבכת",
-          "url": "https://e.walla.co.il/item/3869455",
+          "id": "a295f51b2f",
+          "title": "\"התפנה לי הלו\"ז\": מקלמור מכריז על סיבוב ההופעות \"Free Palestine\"",
+          "url": "https://e.walla.co.il/item/3869718",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-09-23T08:46:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/7/2/3/3723569-46.jpg"
+          "published_at": "2026-09-24T19:40:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/9/4099739-46.jpg"
+        },
+        {
+          "id": "fe009ddb43",
+          "title": "כוכבת אונליפאנס חושפת את הצד האפל: \"הוא חשב שנתחתן\"",
+          "url": "https://news.walla.co.il/item/3869038",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-09-24T14:21:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/7/4097275-46.jpeg"
+        },
+        {
+          "id": "751e5dce6f",
+          "title": "יוצאים מהסרט, פותחים שולחן: תחנות החובה הטעימות ביותר בחיפה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001557587",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-09-24T16:00:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790244632/%D7%9C%D7%95%D7%9C%D7%95%D7%9C%D7%99%D7%99%D7%A9-_%D7%A7%D7%A8%D7%93%D7%99%D7%98-%D7%90%D7%A4%D7%99%D7%A7_%D7%92%D7%91%D7%90%D7%99_1_cianyk.jpg"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "קהילת הרפורמים בירושלים מתמודדת עם רצף מעשי אלימות.",
+      "summary_he": "בחברה הישראלית נשמעים קולות מפוצלים — פעילת זכויות שטענה להשתייך לתנועה פרו-חמאסית התוודתה שהונתה בזהותה, בעוד קבוצות יהודיות בינלאומיות מפגינות נגד מדיניות הממשלה.",
       "headlines": [
         {
-          "id": "e2c049fac6",
-          "title": "קהילת רפורמים בירושלים מנסה להתמודד עם רצף מעשי אלימות",
-          "url": "https://www.haaretz.co.il/news/education/2026-09-24/ty-article/.premium/000001a0-cf61-d18d-afbf-ffe35d4a0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-24T02:50:34+00:00",
-          "image_url": null
+          "id": "8f593144a4",
+          "title": "הפעילה הפרו-חמאסית הודתה: שיקרתי, אני יהודייה לבנה",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-05f5931c6e1d0a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-09-24T07:23:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/09/24/peila2_autoOrient_i.jpg"
+        },
+        {
+          "id": "84f2ee937d",
+          "title": "NY Jewish groups, Israelis protest against Netanyahu as he addresses UN",
+          "url": "https://www.timesofisrael.com/ny-jewish-groups-israelis-protest-against-netanyahu-as-he-addresses-un/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-09-25T00:44:17+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/20260924_untitled_06666-1024x640.jpg"
         }
       ]
     },
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "לזוגות צעירים הרוכשים דירה ראשונה, מדריך משפטי מתאר את ההליכים וההיבטים הקריטיים לפני החתימה על חוזה.",
+      "summary_he": "שוק הנדל\"ן בישראל ובחו\"ל משקף מגמות בעלות השלכות — ירושלים עוברת בום בנייה נרחב, קהילה ישראלית בפנמה הפכה למרכז נדל\"ן בינלאומי, ומשפחות חוסכות כספים כשהן עוזבות עיר לטובת מרכז פחות צפוף.",
       "headlines": [
         {
-          "id": "11a255babf",
-          "title": "לפני שחותמים: המדריך המשפטי לזוג צעיר שרוכש דירה ראשונה",
-          "url": "https://news.walla.co.il/item/3869566",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-23T16:17:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/7/2/9/3729003-46.jpg"
+          "id": "c95e9292ed",
+          "title": "\"בקטמונים ח'־ט' בירושלים יש כל כך הרבה עבודות בנייה, ששומעים סינית בכל מקום\"",
+          "url": "https://www.themarker.com/realestate/neighborhood/2026-09-25/ty-article-magazine/.premium/000001a0-cd7e-dcf7-a5ee-efff82c10000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-25T03:12:31+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-d39a-d4f6-aba2-fbfee57d0000/cd/bf/bc5db49b409c9c632b316b74e4b3/513917.jpg?width=108&height=81"
+        },
+        {
+          "id": "a38eedfa6f",
+          "title": "מחוף שומם לעיירת גלישה בינלאומית ואימפריית נדל\"ן: הסיפור של המושבה הישראלית בפלאיה ונאו, פנמה",
+          "url": "https://www.themarker.com/realestate/2026-09-25/ty-article-magazine/.highlight/000001a0-769e-db00-afb5-f6bf89ca0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-25T03:09:41+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-769e-db00-afb5-f6bf2ddc0000/d7/33/bfa2c4b0473ebd98d0f848fd0b12/66420941.JPG?width=108&height=81"
+        },
+        {
+          "id": "e2f5d43e39",
+          "title": "עזבו את העיר לשנתיים — וחתכו לפחות 100 אלף שקל במחיר הדירה",
+          "url": "https://www.themarker.com/realestate/2026-09-25/ty-article/.highlight/000001a0-d464-db25-a5ac-dc7e76890000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-25T03:02:21+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-d4c7-dfbb-afa4-f7d73c9d0001/d9/47/39fbb9c74f15b92f580d81d174ae/bash-2.PNG?width=108&height=81"
         }
       ]
     }
@@ -285,195 +332,82 @@
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Gaza faces water shortages because its water treatment infrastructure has been destroyed. A ramming attack in the West Bank seriously injured the son of Israel's ambassador to the US. International concern over antisemitism is intensifying, with rallies at the UN and warnings from German leaders, as far-right parties gain electoral strength and threaten Jewish communities across Europe.",
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
       "headlines": [
         {
-          "id": "9bac96c38c",
-          "title": "Israel facing water shortages caused by destruction of Gaza's treatment plants",
-          "url": "https://www.theguardian.com/world/2026/sep/24/israel-water-shortages-destruction-gaza-treatment-plants-pollution-sanitation-crisis",
+          "id": "00ac2625c6",
+          "title": "Ooit reden Evenepoel, Van Aert en Van der Poel samen in de ploeg. En toen lag hun ploegmaat in zijn bloot gat vastgebonden in de hotellobby",
+          "url": "https://www.hln.be/wielrennen/ooit-reden-evenepoel-van-aert-en-van-der-poel-samen-in-de-ploeg-en-toen-lag-hun-ploegmaat-in-zijn-bloot-gat-vastgebonden-in-de-hotellobby~a2056dd3/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-25T05:07:00+00:00",
+          "image_url": "https://images.hln.be/YjZkM2M3NWQwN2RlMWQ5MDM1MzgvZGlvLzI3ODEyNDU2Mi9maXQtd2lkdGgvNDAw/hln-fotomontage"
+        },
+        {
+          "id": "bed43ffe18",
+          "title": "‘Devastating’: council rejects Frome residents’ bid for regeneration project",
+          "url": "https://www.theguardian.com/society/2026/sep/25/council-rejects-frome-residents-bid-regeneration-project-mayday-saxonvale",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-09-24T05:00:08+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/6967079caa25fed26eddc59a77b0a56695226817/0_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=d1956559fa46b15304bce8e5fd8c2f64"
+          "published_at": "2026-09-25T05:00:40+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/e0f73ef715ee57cd1d7e75ffb3621774d0dd6436/242_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=6836a9f31ea75f7f193459ce17f004ef"
         },
         {
-          "id": "bb603163f8",
-          "title": "Son of Israel's US Ambassador seriously injured in West Bank ramming attack",
-          "url": "https://www.jta.org/2026/09/23/israel/son-of-israels-us-ambassador-seriously-injured-in-west-bank-ramming-attack",
+          "id": "d576540c29",
+          "title": "LIVE. Toptalent Paul Seixas ziet België als “grote favoriet”, Mathieu van der Poel: “Pakweg vijf procent kans dat ik wereldkampioen word”",
+          "url": "https://www.hln.be/wk-wielrennen/live-toptalent-paul-seixas-ziet-belgie-als-grote-favoriet-mathieu-van-der-poel-pakweg-vijf-procent-kans-dat-ik-wereldkampioen-word~ae0822a9/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-25T04:29:00+00:00",
+          "image_url": "https://images.hln.be/YWFhNGRmOGQ1ZDg1ZDYwMzJhNGMvZGlvLzI3ODAxNTkzOS9maXQtd2lkdGgvNDAw/epa13253266-remco-evenepoel-of-belgium-congratulates-paul-seixas-of-france-for-winning-the-bronze-medal-on-the-podium-after-the-men-s-elite-time-trial-at-the-uci-road-world-championships-in-montreal-canada-20-september-2026-epa-edouard-desroches"
+        },
+        {
+          "id": "d8cac04744",
+          "title": "Abbas at the United Nations: The Palestinian people won’t be displaced or disappear",
+          "url": "https://www.jta.org/2026/09/24/israel/abbas-at-the-united-nations-the-palestinian-people-wont-be-displaced-or-disappear",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-09-23T20:39:16+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/Neria-Leiter-attack.jpg"
+          "published_at": "2026-09-24T18:37:32+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/09-24-2026-Abbas-United-Nations-scaled.jpg"
         },
         {
-          "id": "57bef0b82e",
-          "title": "Hundreds rally at UN to urge world leaders to address antisemitism",
-          "url": "https://www.jta.org/2026/09/23/default/hundreds-rally-at-un-to-urge-world-leaders-to-address-antisemitism",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-24T02:19:06+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/UJA-UNGA-Rally-Devorah-Halberstam.png"
+          "id": "eeb4f1993e",
+          "title": "Watch: UN delegates walk out of Netanyahu speech",
+          "url": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-09-24T18:29:29+00:00",
+          "image_url": null
         },
         {
-          "id": "c29aa2f78d",
-          "title": "Merz warns that Jews are not safe in Germany, as voters choose parties linked to antisemitism",
-          "url": "https://www.jta.org/2026/09/23/global/merz-warns-that-jews-are-not-safe-in-germany-as-voters-choose-parties-linked-to-antisemitism",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-23T22:40:59+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/Berlin-elections.jpg"
-        },
-        {
-          "id": "ddde3c2d83",
-          "title": "Jewish Dems in Congress oppose plans to merge Holocaust and antisemitism envoys",
-          "url": "https://www.jta.org/2026/09/23/united-states/jewish-dems-in-congress-oppose-plans-to-merge-holocaust-and-antisemitism-envoys",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-23T20:32:03+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/image-1.png"
-        },
-        {
-          "id": "7796a4599e",
-          "title": "Germany's far-right victory in eastern state election portends 'disaster' for centrists",
-          "url": "https://www.jta.org/2026/09/23/global/germanys-far-right-victory-in-eastern-state-election-portends-disaster-for-centrists",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-23T17:20:20+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/GettyImages-2295697718.jpg"
+          "id": "e88ffd3a11",
+          "title": "Sport 26 graden in Deinze, 30 graden in Wingene: wat is de ideale zwembadtemperatuur? 3 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/temperatuur-zwembad-sport-koud-warm/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/23/8750f776-52d6-4bd6-9541-2a7b5a28a983.png?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Flemish authorities are exploring tax measures, including closing loopholes on inheritance and gifts, to address budget shortfalls. A student from Hasselt won a court case that allows 31 young people to enroll in medical studies. Autonomous Tesla vehicles have had difficulty navigating Belgium's cycle lanes and zone 30 speed-restricted areas, raising questions about their readiness for local traffic rules.",
-      "headlines": [
-        {
-          "id": "cf76a2fa2c",
-          "title": "Vooruit examines tax loopholes in inheritance and gift taxes and subsidies to close Flemish budget gap",
-          "url": "https://www.hln.be/binnenland/vooruit-kijkt-naar-fiscale-achterpoortjes-bij-erf-en-schenkbelasting-en-subsidies-om-gat-in-vlaamse-begroting-te-dichten~a9cb0fe2/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-24T07:00:00+00:00",
-          "image_url": "https://images.hln.be/MDM5OTdkOGQ3NzExMGNmZTVkYWIvZGlvLzI3NzY1ODk4MS9maXQtd2lkdGgvNDAw/flemish-minister-for-housing-and-energy-melissa-depraetere-pictured-during-a-press-conference-of-the-flemish-government-regarding-the-agreement-on-the-flanders-spatial-policy-plan-brv-beleidsplan-ruimte-vlaanderen-on-friday-11-september-2026-in-brussels-belga-photo-nicolas-maeterlinck"
-        },
-        {
-          "id": "2c6867eac9",
-          "title": "Student (19) from Hasselt wins State Council case: 31 youth may start medical studies",
-          "url": "https://www.hln.be/hasselt/studente-19-uit-hasselt-krijgt-gelijk-van-raad-van-state-31-jongeren-mogen-alsnog-starten-aan-opleiding-geneeskunde~a7ba720d/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-24T05:55:00+00:00",
-          "image_url": "https://images.hln.be/MjBmODNiZjM3NDMzNDVmYTA3ZjUvZGlvLzI3NTQ1ODI1NC9maXQtd2lkdGgvNDAw/items-the-medical-and-dental-entrance-examination-at-brussels-expo-in-brussels-thursday-2-july-2026-7000-candidates-are-expected-belga-photo-timon-ramboer"
-        },
-        {
-          "id": "170fd339a1",
-          "title": "'In all her haste, minister De Ridder bet on the wrong horse': self-driving Tesla stumbles in cycle lanes and zone 30",
-          "url": "https://www.demorgen.be/nieuws/in-al-haar-haast-heeft-minister-de-ridder-op-het-verkeerde-paard-gewed-zelfrijdende-tesla-s-blunderen-in-fietsstraten-en-zones-30~b962d2f8/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-24T04:00:00+00:00",
-          "image_url": "https://image.demorgen.be/275943903/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "e189b3d719",
-          "title": "Farmer killed daughters Maud (8) and Ona (5) and possibly wanted to kill ex-wife: trial begins",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/16/assisenproces-chris-vanhaverbeke-moord-dochtertjes-voorbeschouwi/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/20/b717c9f6-95a6-48e1-8fa5-f06ee9f5354c.png?width=200&height=125&q=80&blur=90"
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
     "europe": {
-      "summary_en": "The UK loses approximately £6.5 billion annually because its product regulations no longer match those of the EU after Brexit. According to Ukrainian officials, Russia has suffered roughly 248,000 casualties in the war in Ukraine over eight months. European countries face emerging security challenges, including a space arms race, while cultural events such as Eurovision proceed.",
-      "headlines": [
-        {
-          "id": "6ebebd836f",
-          "title": "UK losing up to £6.5bn a year in EU trade due to mismatched product rules",
-          "url": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-24T04:00:10+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/e8f34616a89eb687ef51aa6aa3542d0569d4d6f6/508_163_3615_2892/master/3615.jpg?width=700&quality=85&auto=format&fit=max&s=920de3fadfda2bafeb26cb91c731de45"
-        },
-        {
-          "id": "3295b10dfc",
-          "title": "Ukraine-Russia war: Russia lost 248,000 troops in the past 8 months, says Zelensky",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/rusland-verloor-afgelopen-8-maanden-248000-troepen-zegt-zelens~1789060001669/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/23/95f1f515-3e40-4ab5-9416-bedaeb414a61.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "b9fbc8c36f",
-          "title": "Eurovision Song Festival: Gustaph expresses compassion for those departing for the contest",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/gustaph-compassie-met-wie-voor-ons-land-naar-songfestival-moet~1764873476127/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2023/05/13/1a5ebacc-f165-11ed-91d7-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "f66d406473",
-          "title": "Watch: The arms race in space and how the UK is defending itself",
-          "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-09-23T21:29:04+00:00",
-          "image_url": null
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
     "world_top": {
-      "summary_en": "Chinese President Xi Jinping is making a significant state visit to the United States, with full diplomatic ceremony including a military flyover and a state dinner. In Morocco's elections, the social-liberal PAM party won, though voter turnout was only 38 percent. A bus crash in Victoria, Australia, caused multiple injuries amid ongoing regional infrastructure and employment challenges.",
-      "headlines": [
-        {
-          "id": "148a630a49",
-          "title": "Trump receives Xi Jinping with red carpet and military fly-over; consultation and state dinner to follow",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/trump-ontvangt-xi-jinping-met-rode-loper-en-militaire-flyover-~1790221115060/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/24/4d550818-3764-43ce-82e4-5b4842fbb62c.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "ecd3a9a29b",
-          "title": "Morocco: Social-liberal party PAM wins elections with 38 percent voter turnout",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/24/sociaal-liberale-partij-voor-authenticiteit-en-moderniteit-pam/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/24/72609edd-c2ba-4cf5-8855-fd2e00e58822.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "a2b347563e",
-          "title": "Australia news: Multiple injured in Victoria bus crash; workers stood down after funding ends",
-          "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-24T07:29:57+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/b6bc2811f207a47f1a64b2d966a52a4c91e0fb20/128_0_606_485/master/606.jpg?width=700&quality=85&auto=format&fit=max&s=2cd80ab1e0d90d22c675152a9d44ffdb"
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
-    "degraded": false
+    "degraded": true
   }
 }
