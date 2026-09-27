@@ -1,318 +1,97 @@
 {
-  "generated_at": "2026-09-25T05:56:55.045054+00:00",
-  "date": "2026-09-25",
-  "degraded": false,
+  "generated_at": "2026-09-27T18:51:56.186912+00:00",
+  "date": "2026-09-26",
+  "degraded": true,
   "top_general": {
-    "summary_he": "נתניהו ביצע פעילות דיפלומטית נרחבת בחו\"ל — נפגש עם הנשיא טראמפ בבית הלבן לראשונה לאחר יותר מעשור, נאם בעוצמה באו\"ם בהגנה על עמדת ישראל נגד איראן וקטאר, והשתתף בפגישה אזורית עם נציגי מדינות הסכמי אברהם.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "beb1396586",
-        "title": "הפגישה החשוב של השנה: אחרי יותר מעשור - טראמפ ושי נפגשו בבית הלבן",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-3f0c9d2a4a3d0a1027.htm",
+        "id": "da2bade033",
+        "title": "גשרים חדשים, חתונות פאר ולמבורגיני בכל פינה: המדינה שהרוויחה בגדול מהמלחמה באיראן",
+        "url": "https://www.themarker.com/wallstreet/2026-09-25/ty-article/.premium/000001a0-d38a-d7ed-a1ed-ffba1b600000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-09-25T06:30:36+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a0-d39b-d9ab-abfd-f7bb9f1a0000/53/e4/2ad3d52e44ba9d77753c79e636bc/541829.jpg?width=108&height=81"
+      },
+      {
+        "id": "25daf3f31c",
+        "title": "כוננות שיא בסעודיה: צרפת שולחת כוחות להגנת אתרי הנפט, המופתי בקריאה חריגה למלחמה בחות'ים",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-f4c6288d657d0a1027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-09-24T14:35:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/24/tru1_re_autoOrient_i.jpg"
+        "published_at": "2026-09-25T08:22:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/14/n20-1409-Hotim2-ibud-1-1_re_autoOrient_i.jpg"
       },
       {
-        "id": "502381ac50",
-        "title": "In fiery UN speech, Netanyahu blasts Iran, Qatar, Turkey, slams Gaza genocide accusation",
-        "url": "https://www.timesofisrael.com/in-fiery-un-speech-netanyahu-blasts-iran-qatar-turkey-slams-gaza-genocide-accusation/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-24T20:53:34+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/993-1024x640.jpeg"
+        "id": "eb116cf7c8",
+        "title": "שלושה הרוגים, בהם נער ישראלי, מפגיעת כטב\"ם רוסי בקייב",
+        "url": "https://www.haaretz.co.il/news/politics/2026-09-25/ty-article/000001a0-d8a6-d9ab-abfd-ffa717ec0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-25T13:07:13+00:00",
+        "image_url": null
       },
       {
-        "id": "359eacdb6e",
-        "title": "Representatives from Abraham Accords countries meet on sidelines of UN for first time since Jan. 2023",
-        "url": "https://www.timesofisrael.com/liveblog-september-25-2026/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-25T00:44:03+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/AA-Roundtable-Sept-2026-1024x640.jpg"
+        "id": "98bdd34d4a",
+        "title": "ניו יורק טיימס: נתניהו הוזהר שחמאס יפתח במתקפה גדולה, והתעלם מכך בדיון ביטחוני 6 ימים לפני 7/10",
+        "url": "https://www.ynet.co.il/news/article/hjrgsmvqml",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-25T16:01:52+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/B1OqX7N9fe/B1OqX7N9fe_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "4b69d0c6c1",
+        "title": "דיווח: ההתרעה ממצרים לפני 7 באוקטובר: \"עזה תתפוצץ לכם בפנים\"",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001557624",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-09-26T05:00:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1699960472/direct/2_lpafrz.jpg"
+      },
+      {
+        "id": "badd1ca1f0",
+        "title": "\"עזה תתפוצץ לכם בפרצוף\": האזהרה המצרית ימים לפני 7.10",
+        "url": "https://www.kan.org.il/content/kan-news/defense/1103042/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "4596fb3372",
+        "title": "מפגיעת רחפן צה\"לי: שני חיילים נהרגו בתאונה מבצעית ברצועת עזה",
+        "url": "https://www.makorrishon.co.il/news/defence/article/374235",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "0f312f405b",
+        "title": "הותר לפרסום: שני לוחמי מילואים נהרגו מפיצוץ רחפן צה\"לי ברצועה",
+        "url": "https://13tv.co.il/item/news/politics/security/idf-905369672/?pid=62&refc=902992386",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
       }
     ]
   },
   "security_war": {
-    "summary_he": "ישראל מתמודדת עם התחזקות של איומים ביטחוניים במספר חזיתות — אלימות בגדה המערבית, התקפות על אישי ממשלה בתוך הארץ והתנגדות אלימה בעולם להנהגה הישראלית, כשגם החששות סביב המשא ומתן עם איראן משפיעים על הדיון הביטחוני.",
-    "headlines": [
-      {
-        "id": "ce21fa8b22",
-        "title": "אלימות בגדה? פגיעה במעמד ישראל? את הממשלה מעסיקים איומים מוחשיים פחות",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-25/ty-article/.highlight/000001a0-d4a5-db25-a5ac-dcbf33300000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-25T03:00:16+00:00",
-        "image_url": null
-      },
-      {
-        "id": "8fafb418ce",
-        "title": "חפצים הושלכו לעבר בנט במסעדה בבני ברק, אישה בצוותו נפגעה; נעצר חשוד | תיעוד",
-        "url": "https://www.ynet.co.il/news/elections2026/article/h1tt0wx5me",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-24T21:00:53+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/SyIBlzmcGg/SyIBlzmcGg_1_497_720_406_0_medium.jpg"
-      },
-      {
-        "id": "f3506c6383",
-        "title": "Anti-Zionist protesters put Netanyahu effigy in a noose outside UN headquarters",
-        "url": "https://www.timesofisrael.com/anti-zionist-protesters-put-netanyahu-effigy-in-a-noose-outside-un-headquarters/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-25T01:31:39+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/20260924_untitled_06763-1024x640.jpg"
-      },
-      {
-        "id": "240cae762b",
-        "title": "היועץ לשעבר של טראמפ מזהיר: \"אם המטרה להביא את איראן למו\"מ - נתאכזב שוב\"",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001557559",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-09-24T18:00:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790244678/shutterstock_687998698_rvu4ah.jpg"
-      }
-    ]
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "הדיון המדיני בישראל מתמקד בסוגיות של תקשורת וחופש הביטוי — חוק השידורים המוצע מעורר חששות משפטיים חמורים, כלי תקשורת נאסרה כניסתם לבית הלבן למרות צו שיפוטי, וביחסים הבינלאומיים ישראל נתפסת כמתמודדת עם קשיים דיפלומטיים.",
-      "headlines": [
-        {
-          "id": "7242f212f0",
-          "title": "היועמ\"שית לבג\"ץ: חוק השידורים של קרעי יפגע קשות בשוק התקשורת, נדרש צו ביניים לעצירתו",
-          "url": "https://www.themarker.com/news/themedia/2026-09-24/ty-article/.premium/000001a0-d4f4-d259-a3b4-dcfc0f460000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-24T19:49:39+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000019f-389c-d269-af9f-3edd5b840001/f3/1c/cbfe00d34aceb5496d599d2926af/whatsapp-image-2026-07-06-at-21-01-20.jpeg?width=108&height=81"
-        },
-        {
-          "id": "90470e1a83",
-          "title": "כלי התקשורת שהוחרמו על ידי טראמפ לא הורשו להיכנס לבית הלבן למרות צו שופט",
-          "url": "https://www.haaretz.co.il/news/world/america/2026-09-24/ty-article/.premium/000001a0-d39f-d4f6-aba2-fbffcac80000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-24T13:55:58+00:00",
-          "image_url": null
-        },
-        {
-          "id": "486fcfd3a9",
-          "title": "מבודד, לעומתי ו\"נלחם על עתידו הפוליטי\": נאום נתניהו באו\"ם בכותרות בעולם",
-          "url": "https://www.ynet.co.il/news/article/s1xffq75gl",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-09-25T05:16:43+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/BJqv5d7qfg/BJqv5d7qfg_0_0_850_479_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "בתחום הנדל\"ן והכלכלה המשפחתית ניכרים הבדלים משמעותיים בין ערים — דמי השכירות משתנים באופן דרמטי בין מרכזים שונים, וגם שביעות הרצון של התושבים מפעילות הרשויות המקומיות משתנה בין אזורים.",
-      "headlines": [
-        {
-          "id": "527c62138b",
-          "title": "דירות 5 חדרים בנהריה ובבאר שבע — איזו הייתה יקרה יותר?",
-          "url": "https://www.themarker.com/realestate/2026-09-25/ty-article/.premium/000001a0-d2cd-d18d-afbf-f3cffbdd0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-25T03:29:58+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-d4da-d9ab-abfd-f7fb22490001/51/9a/a5fc153849329659842c375a300b/meshorer.PNG?width=108&height=81"
-        },
-        {
-          "id": "20993b334f",
-          "title": "באיזו עיר התושבים בישראל הכי מרוצים מהעירייה שלהם?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001557123",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-09-25T04:01:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790267547/shutterstock_1814656724_yxpk3p.jpg"
-        }
-      ]
-    },
-    {
-      "key": "health",
-      "label_he": "בריאות ורפואה",
-      "summary_he": "מערכת הבריאות בישראל עוברת שינויים משמעותיים — פקולטות חדשות לרפואה נפתחות כדי להגדיל את כוח האדם הרפואי, בעוד התכנון לרפורמה בתחום מעלה הצעות חדשות להצלת המערכת.",
-      "headlines": [
-        {
-          "id": "e5be0c4461",
-          "title": "חמש פקולטות חדשות לרפואה נפתחו בישראל. האם הן ימנעו את קריסת המערכת?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001557569",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-09-25T04:06:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790273868/800_op9atk.jpg"
-        },
-        {
-          "id": "800abad9c7",
-          "title": "בגיל 96, זלמן שובל רוצה להציל את מערכת הבריאות בישראל. ויש לו תוכנית",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001557582",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-09-25T04:07:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1789634707/%D7%96%D7%9C%D7%9E%D7%9F_%D7%A9%D7%95%D7%91%D7%9C_18_1_bp19mb.jpg"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "הטכנולוגיה והבינה המלאכותית משנות את הנוף הכלכלי — ישראל חשופה במיוחד להשפעות של בינה מלאכותית על שוק העבודה, וחברות ענק כמו גוגל מרחיבות את השקעותיהן בכיוונים חדשים.",
-      "headlines": [
-        {
-          "id": "1279ac73fa",
-          "title": "ישראל בין הכלכלות החשופות ביותר לשיבוש ה-AI: מה זה אומר על שוק ההון?",
-          "url": "https://www.themarker.com/agents/2026-09-24/ty-article/000001a0-d4f2-d259-a3b4-dcfa39b90000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-24T20:35:34+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-d511-dfbb-afa4-f751d5140000/e7/e4/f818435b4eb9bcefacab56d64d25/123542.jpg?width=108&height=81"
-        },
-        {
-          "id": "e00383b6c5",
-          "title": "מרכז נתונים בחלל? גוגל מרחיבה את מרוץ ה-AI אל מחוץ לאטמוספירה",
-          "url": "https://www.themarker.com/wallstreet/2026-09-24/ty-article/.premium/000001a0-d441-db4b-a7a5-d6735f850000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-24T20:57:39+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-d4c9-db4b-a7a5-d6fbcd880001/f1/11/4698f93848e4b34218948aa6e17b/google-ai-satellite-3.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "בתחום התרבות והבידור מתרחשות תופעות שונות — סדרה ישראלית פופולרית עוברת לשידור חופשי ברשת, אמן משנה את כיווני הופעותיו, וחדשות נוספות עוסקות בעולם הקולנוע והטעמים.",
-      "headlines": [
-        {
-          "id": "e7f0b9d43e",
-          "title": "נז\"א יופץ לצפייה חופשית ברשת - ויובל אברהם מבהיר: \"נחזור לארץ\"",
-          "url": "https://e.walla.co.il/item/3869663",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-24T13:22:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/0/4100655-46.jpg"
-        },
-        {
-          "id": "a295f51b2f",
-          "title": "\"התפנה לי הלו\"ז\": מקלמור מכריז על סיבוב ההופעות \"Free Palestine\"",
-          "url": "https://e.walla.co.il/item/3869718",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-24T19:40:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/9/4099739-46.jpg"
-        },
-        {
-          "id": "fe009ddb43",
-          "title": "כוכבת אונליפאנס חושפת את הצד האפל: \"הוא חשב שנתחתן\"",
-          "url": "https://news.walla.co.il/item/3869038",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-24T14:21:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/9/7/4097275-46.jpeg"
-        },
-        {
-          "id": "751e5dce6f",
-          "title": "יוצאים מהסרט, פותחים שולחן: תחנות החובה הטעימות ביותר בחיפה",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001557587",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-09-24T16:00:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790244632/%D7%9C%D7%95%D7%9C%D7%95%D7%9C%D7%99%D7%99%D7%A9-_%D7%A7%D7%A8%D7%93%D7%99%D7%98-%D7%90%D7%A4%D7%99%D7%A7_%D7%92%D7%91%D7%90%D7%99_1_cianyk.jpg"
-        }
-      ]
-    },
-    {
-      "key": "religion_society",
-      "label_he": "דת וחברה",
-      "summary_he": "בחברה הישראלית נשמעים קולות מפוצלים — פעילת זכויות שטענה להשתייך לתנועה פרו-חמאסית התוודתה שהונתה בזהותה, בעוד קבוצות יהודיות בינלאומיות מפגינות נגד מדיניות הממשלה.",
-      "headlines": [
-        {
-          "id": "8f593144a4",
-          "title": "הפעילה הפרו-חמאסית הודתה: שיקרתי, אני יהודייה לבנה",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-05f5931c6e1d0a1027.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-09-24T07:23:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/09/24/peila2_autoOrient_i.jpg"
-        },
-        {
-          "id": "84f2ee937d",
-          "title": "NY Jewish groups, Israelis protest against Netanyahu as he addresses UN",
-          "url": "https://www.timesofisrael.com/ny-jewish-groups-israelis-protest-against-netanyahu-as-he-addresses-un/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-09-25T00:44:17+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/20260924_untitled_06666-1024x640.jpg"
-        }
-      ]
-    },
-    {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "שוק הנדל\"ן בישראל ובחו\"ל משקף מגמות בעלות השלכות — ירושלים עוברת בום בנייה נרחב, קהילה ישראלית בפנמה הפכה למרכז נדל\"ן בינלאומי, ומשפחות חוסכות כספים כשהן עוזבות עיר לטובת מרכז פחות צפוף.",
-      "headlines": [
-        {
-          "id": "c95e9292ed",
-          "title": "\"בקטמונים ח'־ט' בירושלים יש כל כך הרבה עבודות בנייה, ששומעים סינית בכל מקום\"",
-          "url": "https://www.themarker.com/realestate/neighborhood/2026-09-25/ty-article-magazine/.premium/000001a0-cd7e-dcf7-a5ee-efff82c10000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-25T03:12:31+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-d39a-d4f6-aba2-fbfee57d0000/cd/bf/bc5db49b409c9c632b316b74e4b3/513917.jpg?width=108&height=81"
-        },
-        {
-          "id": "a38eedfa6f",
-          "title": "מחוף שומם לעיירת גלישה בינלאומית ואימפריית נדל\"ן: הסיפור של המושבה הישראלית בפלאיה ונאו, פנמה",
-          "url": "https://www.themarker.com/realestate/2026-09-25/ty-article-magazine/.highlight/000001a0-769e-db00-afb5-f6bf89ca0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-25T03:09:41+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-769e-db00-afb5-f6bf2ddc0000/d7/33/bfa2c4b0473ebd98d0f848fd0b12/66420941.JPG?width=108&height=81"
-        },
-        {
-          "id": "e2f5d43e39",
-          "title": "עזבו את העיר לשנתיים — וחתכו לפחות 100 אלף שקל במחיר הדירה",
-          "url": "https://www.themarker.com/realestate/2026-09-25/ty-article/.highlight/000001a0-d464-db25-a5ac-dc7e76890000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-25T03:02:21+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-d4c7-dfbb-afa4-f7d73c9d0001/d9/47/39fbb9c74f15b92f580d81d174ae/bash-2.PNG?width=108&height=81"
-        }
-      ]
-    }
-  ],
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -324,75 +103,75 @@
     "themarker",
     "times_of_israel",
     "makor_rishon",
-    "reshet13",
-    "i24"
+    "reshet13"
   ],
   "sources_failed": [
-    "maariv"
+    "maariv",
+    "i24"
   ],
   "world": {
     "israel_jewish": {
       "summary_en": "Automatic summary unavailable — raw headlines shown below.",
       "headlines": [
         {
-          "id": "00ac2625c6",
-          "title": "Ooit reden Evenepoel, Van Aert en Van der Poel samen in de ploeg. En toen lag hun ploegmaat in zijn bloot gat vastgebonden in de hotellobby",
-          "url": "https://www.hln.be/wielrennen/ooit-reden-evenepoel-van-aert-en-van-der-poel-samen-in-de-ploeg-en-toen-lag-hun-ploegmaat-in-zijn-bloot-gat-vastgebonden-in-de-hotellobby~a2056dd3/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-25T05:07:00+00:00",
-          "image_url": "https://images.hln.be/YjZkM2M3NWQwN2RlMWQ5MDM1MzgvZGlvLzI3ODEyNDU2Mi9maXQtd2lkdGgvNDAw/hln-fotomontage"
-        },
-        {
-          "id": "bed43ffe18",
-          "title": "‘Devastating’: council rejects Frome residents’ bid for regeneration project",
-          "url": "https://www.theguardian.com/society/2026/sep/25/council-rejects-frome-residents-bid-regeneration-project-mayday-saxonvale",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-25T05:00:40+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/e0f73ef715ee57cd1d7e75ffb3621774d0dd6436/242_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=6836a9f31ea75f7f193459ce17f004ef"
-        },
-        {
-          "id": "d576540c29",
-          "title": "LIVE. Toptalent Paul Seixas ziet België als “grote favoriet”, Mathieu van der Poel: “Pakweg vijf procent kans dat ik wereldkampioen word”",
-          "url": "https://www.hln.be/wk-wielrennen/live-toptalent-paul-seixas-ziet-belgie-als-grote-favoriet-mathieu-van-der-poel-pakweg-vijf-procent-kans-dat-ik-wereldkampioen-word~ae0822a9/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-09-25T04:29:00+00:00",
-          "image_url": "https://images.hln.be/YWFhNGRmOGQ1ZDg1ZDYwMzJhNGMvZGlvLzI3ODAxNTkzOS9maXQtd2lkdGgvNDAw/epa13253266-remco-evenepoel-of-belgium-congratulates-paul-seixas-of-france-for-winning-the-bronze-medal-on-the-podium-after-the-men-s-elite-time-trial-at-the-uci-road-world-championships-in-montreal-canada-20-september-2026-epa-edouard-desroches"
-        },
-        {
-          "id": "d8cac04744",
-          "title": "Abbas at the United Nations: The Palestinian people won’t be displaced or disappear",
-          "url": "https://www.jta.org/2026/09/24/israel/abbas-at-the-united-nations-the-palestinian-people-wont-be-displaced-or-disappear",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-24T18:37:32+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/09-24-2026-Abbas-United-Nations-scaled.jpg"
-        },
-        {
-          "id": "eeb4f1993e",
-          "title": "Watch: UN delegates walk out of Netanyahu speech",
-          "url": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-09-24T18:29:29+00:00",
-          "image_url": null
-        },
-        {
-          "id": "e88ffd3a11",
-          "title": "Sport 26 graden in Deinze, 30 graden in Wingene: wat is de ideale zwembadtemperatuur? 3 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/08/26/temperatuur-zwembad-sport-koud-warm/",
+          "id": "cd381585c4",
+          "title": "Oorlog Rusland-Oekraïne \"Zet die roze bril af, België\": commandant Oekraïense dronetroepen waarschuwt voor Russische dreiging 57 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/24/oekraine-arnaud-magyar-drones-oorlog-rusland/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/23/8750f776-52d6-4bd6-9541-2a7b5a28a983.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/24/1fb39a9c-cc03-447a-876e-d0773dcc61c7.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "11abf4b811",
+          "title": "Regio Antwerpen (Stad) Nieuwe explosie in Antwerpen: glazen voordeur vernield, geen gewonden 39 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/27/explosie-antwerpen/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/27/d633aadc-41fc-472c-ad00-ae2329c459b2.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "3ab45a4282",
+          "title": "Europa Opnieuw tienduizenden Spanjaarden op straat uit steun voor uitgezette Maricarmen (87), die gezicht is geworden van wooncrisis za 26 sep.",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/26/spanje-protesten-maricarmen-woningmarkt/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/26/c140d18f-4be2-452e-b336-fde01b187a3b.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "9466bb30c9",
+          "title": "Regio Borgerhout 18-jarige in levensgevaar na steekpartij tijdens Reuzenstoet in Borgerhout za 26 sep.",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/26/steekpartij-borgerhout/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/26/f4329a6d-05bf-435e-bdd9-5f8acf99bd43.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "1d42dc67a6",
+          "title": "Politiek LIVEBLOG Vlaamse begrotingsgesprekken hervatten straks rond 12 uur za 26 sep.",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/vlaamse-begrotingsgesprekken-hervatten-straks-rond-12-uur~1780024580839/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/26/5a4151f8-ecee-44bc-b65a-3bb51050cf0c.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "5cad2e4ae2",
+          "title": "03:51 Politiek Het mondeling examen van de minister-president: wat is de Septemberverklaring? 37 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/25/video-septemberverklaring-regeerverklaring-beleidsverklaring-sta/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/26/38a36702-3372-4e8a-8c0c-32b9d7314605.png?width=200&height=125&q=80&blur=90"
         }
       ]
     },
