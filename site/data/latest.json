@@ -1,97 +1,361 @@
 {
-  "generated_at": "2026-09-27T18:51:56.186912+00:00",
-  "date": "2026-09-26",
-  "degraded": true,
+  "generated_at": "2026-09-28T08:54:28.335239+00:00",
+  "date": "2026-09-28",
+  "degraded": false,
   "top_general": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "summary_he": "שלוש אזהרות מראש המודיעין המצרי נחשפו לנתניהו ימים ספורים לפני טבח 7 באוקטובר, מה שמעורר שאלות חדות על הכשל בהנהגה. בנוסף, טראמפ דחה הצעה איראנית לחידוש המשא ומתן על מצר הורמוז, בעוד נתניהו ביקר בחשאי באמירויות בפגישה עם נשיא בן זאיד. במקביל, מתעמק משבר פנימי בהנהגת חיזבאללה, וההתחייבות הישירה לאיראן מצמצמת את שטח היוזמה של תנועות האופוזיציה.",
     "headlines": [
       {
-        "id": "da2bade033",
-        "title": "גשרים חדשים, חתונות פאר ולמבורגיני בכל פינה: המדינה שהרוויחה בגדול מהמלחמה באיראן",
-        "url": "https://www.themarker.com/wallstreet/2026-09-25/ty-article/.premium/000001a0-d38a-d7ed-a1ed-ffba1b600000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-09-25T06:30:36+00:00",
-        "image_url": "https://img.haarets.co.il/bs/000001a0-d39b-d9ab-abfd-f7bb9f1a0000/53/e4/2ad3d52e44ba9d77753c79e636bc/541829.jpg?width=108&height=81"
+        "id": "028c22d9a6",
+        "title": "Egypt’s intel chief warned Netanyahu of attack days before Oct. 7, after 2 previous warnings — report",
+        "url": "https://www.timesofisrael.com/liveblog-september-28-2026/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-09-27T22:40:47+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/English_NEWSROOM-2021_GPOABG-Netanyahu-Kamel-e1790452220910-1024x640.jpg"
       },
       {
-        "id": "25daf3f31c",
-        "title": "כוננות שיא בסעודיה: צרפת שולחת כוחות להגנת אתרי הנפט, המופתי בקריאה חריגה למלחמה בחות'ים",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-f4c6288d657d0a1027.htm",
+        "id": "80fa60c0d0",
+        "title": "טראמפ לחדשות 12: \"מצפה לשיחות נוספות עם איראן השבוע, הם מתחו את החבל יותר מדי\" | בלעדי",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-910f71d0823e0a1026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-09-25T08:22:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/14/n20-1409-Hotim2-ibud-1-1_re_autoOrient_i.jpg"
+        "published_at": "2026-09-27T14:55:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/22/AP26265146484730_autoOrient_i.jpg"
       },
       {
-        "id": "eb116cf7c8",
-        "title": "שלושה הרוגים, בהם נער ישראלי, מפגיעת כטב\"ם רוסי בקייב",
-        "url": "https://www.haaretz.co.il/news/politics/2026-09-25/ty-article/000001a0-d8a6-d9ab-abfd-ffa717ec0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-09-25T13:07:13+00:00",
-        "image_url": null
-      },
-      {
-        "id": "98bdd34d4a",
-        "title": "ניו יורק טיימס: נתניהו הוזהר שחמאס יפתח במתקפה גדולה, והתעלם מכך בדיון ביטחוני 6 ימים לפני 7/10",
-        "url": "https://www.ynet.co.il/news/article/hjrgsmvqml",
+        "id": "9b380dbe17",
+        "title": "בצל סערת ההתרעה מהאמירויות: נתניהו ביקר שם בחשאי - ונפגש עם בן זאיד",
+        "url": "https://www.ynet.co.il/news/article/sk6kbjwcfg",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-09-25T16:01:52+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/B1OqX7N9fe/B1OqX7N9fe_0_0_850_479_0_medium.jpg"
+        "published_at": "2026-09-27T21:12:45+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/HybgklvqGg/HybgklvqGg_0_0_850_479_0_medium.jpg"
       },
       {
-        "id": "4b69d0c6c1",
-        "title": "דיווח: ההתרעה ממצרים לפני 7 באוקטובר: \"עזה תתפוצץ לכם בפנים\"",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001557624",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-09-26T05:00:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1699960472/direct/2_lpafrz.jpg"
+        "id": "f3cdf42633",
+        "title": "דיווח: הלחץ הפנימי של חיזבאללה - והמשבר בהנהגה: \"מרחב היוזמה מצטמצם לטובת החלטות שמגיעות ישירות מאיראן\"",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-07fbef91e82e0a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-27T15:30:00+00:00",
+        "image_url": "https://img.mako.co.il/2024/11/03/naim03112_autoOrient_i.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "בבסיס חיל האוויר הבריטי בחו\"ל נכשל ניסיון פיגוע טרור שתוכנן על ידי רדיקלים, וחקירה בריטית בוחנת קשר אפשרי לאיראן. איראן מייתרת דרישות בנוגע לגמישות גרעינית, כשהמתווכות לוחצות עליה בעת שישראל משיקה צוללת חדשה בעלת יכולות גרעיניות משופרות. בגבול הצפוני, חמאס מעלה כוננות ופורס כוחות משלו, בעוד קוריאה הצפונית מפיקה לקחים מסכסוכים גלובליים.",
+    "headlines": [
+      {
+        "id": "b907b0f177",
+        "title": "\"אירוע חמור\" בבסיס המפציצים בבריטניה: משטרת הטרור עצרה חשודים שתכננו פיגוע מכונית תופת",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-657730d07d1e0a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-27T07:56:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/27/atzurimmm270911_autoOrient_i.jpg"
       },
       {
-        "id": "badd1ca1f0",
-        "title": "\"עזה תתפוצץ לכם בפרצוף\": האזהרה המצרית ימים לפני 7.10",
-        "url": "https://www.kan.org.il/content/kan-news/defense/1103042/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": null
+        "id": "3c630bc2e2",
+        "title": "דיווח: איראן נדרשת להתגמש בגרעין - ודורשת התחייבות שישראל לא תתקוף",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-29eb387a386e0a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-28T05:45:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/05/03/haminai_junior_trump_0305_autoOrient_i.jpg"
       },
       {
-        "id": "4596fb3372",
-        "title": "מפגיעת רחפן צה\"לי: שני חיילים נהרגו בתאונה מבצעית ברצועת עזה",
-        "url": "https://www.makorrishon.co.il/news/defence/article/374235",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "0f312f405b",
-        "title": "הותר לפרסום: שני לוחמי מילואים נהרגו מפיצוץ רחפן צה\"לי ברצועה",
-        "url": "https://13tv.co.il/item/news/politics/security/idf-905369672/?pid=62&refc=902992386",
+        "id": "0e34295d0c",
+        "title": "טילי שיוט וראשי קרב גרעיניים: כך נראית הצוללת החדשה של צה\"ל",
+        "url": "https://13tv.co.il/item/news/politics/security/pv4hc-905372245/?pid=62&refc=902992386",
         "source": "reshet13",
         "source_label": "חדשות 13",
         "source_label_he": "חדשות 13",
         "published_at": null,
         "image_url": null
+      },
+      {
+        "id": "82a245a3bb",
+        "title": "חמאס העלה כוננות ופרס כוחות בידוק בחוף",
+        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21502314",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "4a03ad1a2d",
+        "title": "לקראת מלחמה עם ארה\"ב? קוריאה הצפונית מתרגלת את לקחי אוקראינה ואיראן",
+        "url": "https://www.mako.co.il/news-world/2026_q3/Article-ceddef91e82e0a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-09-27T11:13:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/27/rocketkorea27091_autoOrient_i.jpg"
       }
     ]
   },
-  "security_war": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
-    "headlines": []
-  },
-  "subjects": [],
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "סקר חדש מראה שוויון מחודש בין הגושים הפוליטיים הגדולים, עם חציית אחוז החסימה על ידי כמה מפלגות קטנות. מתנהל דיון על אפשרות הכללת מפלגות ערביות בממשלה הבאה, כאשר כמה כוחות פוליטיים נבחנים על התנהגותם בעת משברים.",
+      "headlines": [
+        {
+          "id": "42427902a8",
+          "title": "סקר כאן 11: שוב שוויון בין הגושים, וינטר והנדל עוברים את אחוז החסימה",
+          "url": "https://www.haaretz.co.il/news/elections/2026-09-27/ty-article/.premium/000001a0-e3f0-dfbb-afa4-f3f09f2d0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-27T18:33:52+00:00",
+          "image_url": null
+        },
+        {
+          "id": "345ca5fda3",
+          "title": "The ban on Arab parties will likely be reversed. To Israel critics, that isn’t exactly a relief",
+          "url": "https://www.timesofisrael.com/the-ban-on-arab-parties-will-likely-be-reversed-to-israel-critics-that-isnt-exactly-a-relief/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-09-28T03:00:12+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/F260908YS132-1024x640.jpg"
+        },
+        {
+          "id": "fb413b17b2",
+          "title": "נתניהו נגד נתניהו: ההנחיות שניתנו לפני 7 באוקטובר - והגרסאות הסותרות",
+          "url": "https://www.ynet.co.il/news/article/yokra14910988",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-27T21:00:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/yk14911072/yk14911072_0_0_1654_1036_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "שוק הדיור מגלה סימני התפוררות, עם ירידה חדה במכירות קרקעות למגורים וציפיות להמשך ההידרדרות. בתחום הפנסיות והתעסוקה, צעירים חוששים לתעסוקתם בעת מילואים, בעוד חברות טכנולוגיה בתחום הביטחון נהנות מרווחים משמעותיים על רקע הצרכים הביטחוניים. הבנקים מצמצמים את מספר הכספומטים, ומחיר הנפט עלה ביותר מ-2.5 אחוזים על רקע המתיחות העולמית.",
+      "headlines": [
+        {
+          "id": "7652eb2359",
+          "title": "שיווקי הקרקעות לדיור נחתכו בחדות וגם בליץ סוף השנה לא צפוי להציל את המצב",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001557665",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-09-28T06:12:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1630846437/direct/shutterstock_1622160325_qubkpt.jpg"
+        },
+        {
+          "id": "1401333e0f",
+          "title": "\"אני מקווה שאצליח למצוא עבודה עכשיו, לפני סבב המילואים הבא\"",
+          "url": "https://www.themarker.com/career/2026-09-28/ty-article-magazine/.premium/000001a0-d401-d9ab-abfd-f7a128e70000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-28T03:07:04+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-d406-d9ab-abfd-f7a746a20000/08/2e/42e1b8b74a14bd508914fcc417f9/073058.jpg?width=108&height=81"
+        },
+        {
+          "id": "1818142dbc",
+          "title": "אחות קטנה לחברות הביטחוניות: המלחמה האיצה את קצב ההכנסות של תומר למיליארד שקל בשנה",
+          "url": "https://www.themarker.com/news/security/2026-09-28/ty-article/.premium/000001a0-e237-d272-adf6-fff76e370000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-28T03:02:13+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-e2ab-d272-adf6-ffef148f0000/2d/8b/63bc291e447ba5a23009c827402b/565834.jpg?width=108&height=81"
+        },
+        {
+          "id": "5232e2c553",
+          "title": "לנו זה עולה יותר: הכספומטים של הבנקים נעלמים — מי המרוויחים והנפגעים הגדולים?",
+          "url": "https://www.themarker.com/markets/2026-09-28/ty-article/.premium/000001a0-e291-db4b-a7a5-f2f3c76d0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-28T03:14:58+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-e2e8-db4b-a7a5-f2fa39e90000/52/86/a34617d145b69a18aa0266551cd5/839582.jpg?width=108&height=81"
+        },
+        {
+          "id": "c7f6704e44",
+          "title": "הנפט קופץ ב-2.5%; ארה\"ב וסין מבטלות מכסים בשווי 30 מיליארד דולר",
+          "url": "https://www.themarker.com/wallstreet/2026-09-28/ty-article-live/000001a0-e185-d272-adf6-fdc703270000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-28T06:05:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-e64f-d272-adf6-ffcf5fdc0000/5e/32/25639f63440cb5f347dfbd78ac71/867276.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "נבחרת אירלנד בכדורגל סירבה להסיר את הכיפה במהלך מחאה נגד ניגון ההמנון הישראלי, זכתה במשחק 3-0 וזעזעה את עולם הספורט בהחלטתה הפוליטית. בהוליווד, טקס ה-VMA כלל את הקאמבק של הלהקה 'נירוונה' ואת שובה של מדונה לבמה לאחר 23 שנה. סטודנט פלסטיני הושעה מאוניברסיטה בהולנד לאחר שטען כי השתתף בטבח 7 באוקטובר.",
+      "headlines": [
+        {
+          "id": "baceaf12ae",
+          "title": "Irish soccer team refuses handshakes, bows heads during Israeli anthem, wins the match 3-0",
+          "url": "https://www.timesofisrael.com/irish-soccer-team-refuses-handshakes-bows-heads-during-israeli-anthem-wins-the-match-3-0/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-09-28T01:02:07+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/2026-09-27T185400Z_41122193_UP1EM9R1GHYN3_RTRMADP_3_SOCCER-UEFANATIONS-ISR-IRL-1024x640.jpg"
+        },
+        {
+          "id": "c69bce8ac7",
+          "title": "מדונה חוזרת אחרי 23 שנה והאיחוד המרגש של נירוונה | טקס ה-VMA 2026",
+          "url": "https://e.walla.co.il/item/3870042",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-09-28T07:14:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/5/4105203-46.jpg"
+        },
+        {
+          "id": "d8f35d9907",
+          "title": "הושעה בהולנד סטודנט פלסטיני שצפה במחבלי חמאס מ-7/10 - וטען: \"זה אני\"",
+          "url": "https://www.ynet.co.il/news/article/bywhkjp9gx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-27T19:12:04+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/r1gPPl1D9zg/r1gPPl1D9zg_0_48_847_477_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "מזג אוויר קיצוני בדרום אסיה גרם להצפות משמעותיות בתאילנד ובנפאל, עם דיווחים על קריסת גשרים וניצולים שניצלו בנס. בהודו ובאינדונזיה מתפשטות שריפות בלתי נשלטות במטעי דקלים, ותופעת אל-ניניו צפויה להחמיר את הפגיעה בסביבה. בארץ, התחזית מצביעה על התחממות קלה וגשם מקומי בימים הקרובים.",
+      "headlines": [
+        {
+          "id": "e1384cfe5b",
+          "title": "ההצפות בבנגקוק נמשכות: שגרירות ישראל מזהירה מגשמים כבדים בתאילנד",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-710ae4dda72e0a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-09-27T13:03:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/09/27/bankpk_autoOrient_i.jpg"
+        },
+        {
+          "id": "d137068943",
+          "title": "עשרות ישראלים תקועים בנפאל בשל מזג אוויר קיצוני: \"גשרים נפלו, חיינו ניצלו בנס\" | תיעוד",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-7a6ed1b6b22e0a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-09-27T09:25:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/09/27/W_grid_ASAFD_autoOrient_i.jpg"
+        },
+        {
+          "id": "6deada1b73",
+          "title": "השריפות במטעי הדקלים חונקות את אינדונזיה ושכנותיה; \"אל־ניניו\" רק יחמיר את המצב",
+          "url": "https://www.haaretz.co.il/nature/2026-09-28/ty-article-magazine/.premium/000001a0-d290-decb-affc-d7b9de6f0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-28T06:22:11+00:00",
+          "image_url": null
+        },
+        {
+          "id": "6cb3609d89",
+          "title": "אחרי התחממות קלה: ירידה בטמפרטורות וגשם מקומי במהלך השבוע | התחזית",
+          "url": "https://news.walla.co.il/item/3869916",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-09-27T06:00:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/1/4061367-46.jpeg"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "חקירה בצרפת חשפה בעיות ממשיות של התעללות מינית בקהילות דתיות, עם הטלת פיצויים של 37,000 יורו לנפגעים. בישראל, חקירת משטרה חשפה שלושים צעירים שהוחזקו בתנאים בעייתיים במסגרת ארגון, ושני ראשיו נעצרו. גוברת מחאה על ניסיון \"מחיקת\" זיכרון 7 באוקטובר במסגרות תרבות וקולנוע בעולם.",
+      "headlines": [
+        {
+          "id": "5852697375",
+          "title": "37 אלף אירו לנפגע: כך מתמודדת צרפת עם פרשות ההתעללות המינית בכנסייה",
+          "url": "https://www.haaretz.co.il/news/world/europe/2026-09-27/ty-article-magazine/000001a0-e3bd-ded3-adba-efff1cdf0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-27T18:17:38+00:00",
+          "image_url": null
+        },
+        {
+          "id": "39498ba81f",
+          "title": "כ-30 צעירים נמצאו חצי עירומים במרתף – שני ראשי אחווה נעצרו",
+          "url": "https://www.mako.co.il/news-world/2026_q3/Article-88ef9b0f022e0a1026.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-09-27T09:17:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/09/27/AutoCms_95240E8FA_autoOrient_i.jpg"
+        },
+        {
+          "id": "6c8455a218",
+          "title": "\"לא נאפשר למחוק את 7 באוקטובר\": עצרת מחאה מול הקרנת \"נז\"א\" בניו יורק",
+          "url": "https://news.walla.co.il/item/3869915",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-09-27T06:00:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/4/4104794-46.jpeg"
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "שוק הדיור בישראל מתמודד עם בעיות עמוקות, עם ירידה מתגברת במכירות קרקעות למגורים ותחזיות לתמיכה ממשלתית בסוף השנה. פרויקט נתב\"ג סיטי מתמודד עם אתגר של שינוי מודל עסקי לטובת לוגיסטיקה, בעוד מתנחלים שואפים להרחיב את ההתיישבות בעמקים סביב רמאללה.",
+      "headlines": [
+        {
+          "id": "7652eb2359",
+          "title": "שיווקי הקרקעות לדיור נחתכו בחדות וגם בליץ סוף השנה לא צפוי להציל את המצב",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001557665",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-09-28T06:12:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1630846437/direct/shutterstock_1622160325_qubkpt.jpg"
+        },
+        {
+          "id": "baab4ea6d0",
+          "title": "פחות משרדים, יותר לוגיסטיקה: האתגר של איירפורט סיטי",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001557144",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-09-28T02:55:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1752652770/direct/%D7%90%D7%99%D7%A8%D7%A4%D7%95%D7%A8%D7%98_%D7%A1%D7%99%D7%98%D7%992_ktfrz6.jpg"
+        },
+        {
+          "id": "ea591e072a",
+          "title": "המתנחלים שואפים לפצל את מטרופולין רמאללה, והצבא פועל בהתאם",
+          "url": "https://www.haaretz.co.il/news/politics/2026-09-28/ty-article/.premium/000001a0-e2c4-d259-a3b4-eadc55ce0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-28T03:00:05+00:00",
+          "image_url": null
+        }
+      ]
+    }
+  ],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -103,90 +367,162 @@
     "themarker",
     "times_of_israel",
     "makor_rishon",
-    "reshet13"
+    "reshet13",
+    "i24"
   ],
   "sources_failed": [
-    "maariv",
-    "i24"
+    "maariv"
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "summary_en": "No headlines in this batch directly addressed Israel, Jewish communities, or related diplomatic issues, though regional tensions were indirectly reflected in oil market coverage tied to US-Iran talks. No dedicated Israel-related stories were identified today.",
+      "headlines": []
+    },
+    "belgium": {
+      "summary_en": "Belgian politics remains dominated by tense budget negotiations, with Flemish minister Diependaele pushing an 'ultimate proposal' amid criticism from Groen and Vlaams Belang, while Vooruit reportedly floated a higher energy levy for businesses, with little support from other parties. Separately, a tragic case in Denderleeuw saw a mother and daughter found dead, with a 17-year-old son arrested as prosecutors investigate a possible murder. A scandal involving cheating in magistrate exams has also triggered what is being called the biggest trust crisis in Belgian justice since the Dutroux affair.",
       "headlines": [
         {
-          "id": "cd381585c4",
-          "title": "Oorlog Rusland-Oekraïne \"Zet die roze bril af, België\": commandant Oekraïense dronetroepen waarschuwt voor Russische dreiging 57 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/24/oekraine-arnaud-magyar-drones-oorlog-rusland/",
+          "id": "19cfe91401",
+          "title": "LIVEBLOG: Make or break — Diependaele comes with ultimate proposal to reach budget agreement",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/erop-of-eronder-diependaele-komt-met-ultiem-voorstel-om-tot-beg~1780024580839/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/24/1fb39a9c-cc03-447a-876e-d0773dcc61c7.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/07/10/e6f74de5-9c5c-48ee-ac56-1cf64cdf810f.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "11abf4b811",
-          "title": "Regio Antwerpen (Stad) Nieuwe explosie in Antwerpen: glazen voordeur vernield, geen gewonden 39 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/27/explosie-antwerpen/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/27/d633aadc-41fc-472c-ad00-ae2329c459b2.jpg?width=200&height=125&q=80&blur=90"
+          "id": "9c6e2585b0",
+          "title": "Live - Diependaele calls top ministers together again over budget; Vooruit reportedly proposed higher energy levy for businesses, little enthusiasm from other parties",
+          "url": "https://www.demorgen.be/snelnieuws/live-diependaele-roept-topministers-weer-samen-over-begroting-vooruit-zou-hogere-energieheffing-voor-bedrijven-op-tafel-hebben-gelegd-weinig-enthousiasme-bij-andere-partijen~bf7e76f4/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-28T08:07:00+00:00",
+          "image_url": "https://image.demorgen.be/275786370/roi/320/320/834.0200000000001/882.9000000000001/afbeelding"
         },
         {
-          "id": "3ab45a4282",
-          "title": "Europa Opnieuw tienduizenden Spanjaarden op straat uit steun voor uitgezette Maricarmen (87), die gezicht is geworden van wooncrisis za 26 sep.",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/26/spanje-protesten-maricarmen-woningmarkt/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/26/c140d18f-4be2-452e-b336-fde01b187a3b.jpg?width=200&height=125&q=80&blur=90"
+          "id": "ceb119edb3",
+          "title": "The magistrate exam cheating scandal: 'The biggest trust crisis in justice since the Dutroux case'",
+          "url": "https://www.demorgen.be/nieuws/het-gesjoemel-in-het-magistratenexamen-de-grootste-vertrouwenscrisis-binnen-justitie-sinds-de-zaak-dutroux~b52c37c2/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-28T08:00:18+00:00",
+          "image_url": "https://image.demorgen.be/277129871/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "9466bb30c9",
-          "title": "Regio Borgerhout 18-jarige in levensgevaar na steekpartij tijdens Reuzenstoet in Borgerhout za 26 sep.",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/26/steekpartij-borgerhout/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/26/f4329a6d-05bf-435e-bdd9-5f8acf99bd43.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "1d42dc67a6",
-          "title": "Politiek LIVEBLOG Vlaamse begrotingsgesprekken hervatten straks rond 12 uur za 26 sep.",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/vlaamse-begrotingsgesprekken-hervatten-straks-rond-12-uur~1780024580839/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/26/5a4151f8-ecee-44bc-b65a-3bb51050cf0c.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "5cad2e4ae2",
-          "title": "03:51 Politiek Het mondeling examen van de minister-president: wat is de Septemberverklaring? 37 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/09/25/video-septemberverklaring-regeerverklaring-beleidsverklaring-sta/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/26/38a36702-3372-4e8a-8c0c-32b9d7314605.png?width=200&height=125&q=80&blur=90"
+          "id": "b65e31776f",
+          "title": "Mother (51) and daughter (20) found dead in Denderleeuw, 17-year-old son arrested: prosecutors launch murder investigation",
+          "url": "https://www.demorgen.be/nieuws/moeder-51-en-dochter-20-dood-aangetroffen-in-denderleeuw-17-jarige-zoon-opgepakt-parket-start-onderzoek-naar-moord~bf197215/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-28T07:51:00+00:00",
+          "image_url": "https://image.demorgen.be/278302579/feature-crop/320/320/afbeelding"
         }
       ]
     },
-    "belgium": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
-    },
     "europe": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
+      "summary_en": "European affairs coverage includes a Politico piece on a possible 'new era' for European defense, alongside debate over the EU's Common Fisheries Policy. Europe's divided conservative parties have also launched a 2029 strategy aimed at countering the far right. In France, Pope Francis spoke out against the country's new euthanasia law during a visit to Lourdes, arguing that legality does not equate to moral permissibility.",
+      "headlines": [
+        {
+          "id": "f9ce37c7e4",
+          "title": "A new era for European defense?",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/a-new-era-for-european-defense/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-28T04:05:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "a0d1a7f638",
+          "title": "Why the EU must stand firm on its Common Fisheries Policy",
+          "url": "https://www.politico.eu/sponsored-content/why-the-eu-must-stand-firm-on-its-common-fisheries-policy/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-28T03:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "d9ac557817",
+          "title": "Europe's divided conservatives launch 2029 plan to beat far right",
+          "url": "https://www.politico.eu/article/europes-divided-conservatives-launch-2029-plan-to-beat-far-right/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-28T02:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "240f859891",
+          "title": "France: Pope speaks out against new French euthanasia law: 'What is legal is not necessarily morally permissible'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/27/paus-veroordeelt-euthanasie-tijdens-bezoek-aan-lourdes/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/28/eb8fefb7-cfe6-46ed-9316-47b16127c84e.png?width=200&height=125&q=80&blur=90"
+        }
+      ]
     },
     "world_top": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
+      "summary_en": "British authorities arrested five men over a possible planned terror attack at RAF Fairford air base. Oil prices rose again amid a continuing impasse in US-Iran talks. In Asia, Bangkok has been declared a disaster zone as heavy rains shift north-westward across Thailand, while global attention also turned to the Trump-Xi summit, with analysts noting that what wasn't said may matter most. Meanwhile, Anthropic will skip a US Senate inquiry into AI and data centers following fallout from an OpenAI hack.",
+      "headlines": [
+        {
+          "id": "66e771bd09",
+          "title": "UK: Five men arrested over possible preparation of terror attack at British RAF Fairford air base",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/27/incident-raf-fairford/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/27/34360648-ef36-45fa-b7b8-a33a6ced99e6.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "2ca1f06497",
+          "title": "LIVEBLOG: Oil prices rise again amid continuing impasse in US-Iran talks",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/olieprijzen-gaan-alweer-omhoog-door-blijvende-impasse-over-gespr~1774343778229/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/09/f2b57a6c-7db1-456c-b399-0039ca804ab2.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "369ddaa4bf",
+          "title": "Thai downpours shift north-westwards after Bangkok declared a disaster zone",
+          "url": "https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-28T08:18:24+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/dcc2852e98a9bd1af71d8b7a03431f29f3cd6573/484_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=0b59473306a829cdea30014da64f9060"
+        },
+        {
+          "id": "7e75547f16",
+          "title": "Trump-Xi summit: What wasn't said might matter the most",
+          "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-09-28T07:52:23+00:00",
+          "image_url": null
+        },
+        {
+          "id": "b0f582facb",
+          "title": "Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/28/anthropic-will-not-appear-at-senate-inquiry-into-ai-and-datacentres-amid-fallout-from-openai-hack-ntwnfb",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-28T08:00:26+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/94b6b9331fe3393d2dba8ae844852e1cdb601e8b/212_80_1546_1237/master/1546.jpg?width=700&quality=85&auto=format&fit=max&s=ffeb80b62749f01efb3c858b597512ca"
+        }
+      ]
     },
-    "degraded": true
+    "degraded": false
   }
 }
