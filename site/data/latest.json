@@ -1,104 +1,74 @@
 {
-  "generated_at": "2026-09-29T06:55:04.092333+00:00",
-  "date": "2026-09-29",
+  "generated_at": "2026-09-30T05:09:14.335734+00:00",
+  "date": "2026-09-30",
   "degraded": false,
   "top_general": {
-    "summary_he": "ישראל מתמודדת עם משבר פוליטי, כשחברי כנסת חרדים שוקלים תמיכה בממשלה אלטרנטיבית בהנהגת אייזנקוט. בעניינים משפטיים, בית המשפט העליון קבע כי הנוהל של עיריית ירושלים למימון אירועים פרטיים ללא מכרז אינו חוקי. בתחום הכלכלה, החד־קרן Openweb פתחה בהליכי חדלות פירעון לאחר גיוס של 400 מיליון דולר.",
+    "summary_he": "בעקבות נסיגת ארה״ב מעיראק לאחר כ-20 שנה, נתניהו טוען כי יש סימנים לתכנון תקיפה מצד אויבים לקראת הבחירות, בעוד ראש קטאר מדווח על עדכון שקיבל חצי שעה לפני התקיפות בעיראן.",
     "headlines": [
       {
-        "id": "695f7b220d",
-        "title": "Angry with PM, Haredi MKs said planning to allow formation of Eisenkot-led government",
-        "url": "https://www.timesofisrael.com/mad-at-pm-haredi-mks-said-planning-to-allow-formation-of-eisenkot-led-government/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-29T02:36:24+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2022/10/F220728YS26-1024x640.jpg"
-      },
-      {
-        "id": "1c46710b89",
-        "title": "העליון קבע כי הנוהל של עיריית ירושלים לממן אירועים פרטיים בלי מכרז אינו חוקי",
-        "url": "https://www.haaretz.co.il/news/law/2026-09-28/ty-article/000001a0-e85f-d259-a3b4-e8df93bb0000",
+        "id": "c7a00abaeb",
+        "title": "ארה\"ב נסוגה מבסיסיה האחרונים בעיראק אחרי יותר מ־20 שנה. איראן חוגגת \"ניצחון\", דאעש מרים את ראשו",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-29/ty-article/.premium/000001a0-ecaf-d272-adf6-fdef9eaa0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-09-28T14:54:38+00:00",
+        "published_at": "2026-09-29T11:00:03+00:00",
         "image_url": null
       },
       {
-        "id": "801bf0196f",
-        "title": "אחרי שגייס 400 מיליון דולר: חד הקרן הישראלי Openweb פתח בהליכי חדלות פירעון",
-        "url": "https://www.themarker.com/technation/2026-09-28/ty-article/.highlight/000001a0-e93a-d272-adf6-fdfe9ce00000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-09-28T18:25:24+00:00",
-        "image_url": "https://img.haarets.co.il/bs/000001a0-e940-d272-adf6-fdc6c4c50000/0e/c4/cfc608574f959c08c81b28cae7fb/833426.jpg?width=108&height=81"
+        "id": "6e2442cb5d",
+        "title": "נתניהו טוען: \"יש סימנים שלקראת הבחירות האויבים שלנו ינסו לתקוף אותנו\"",
+        "url": "https://www.haaretz.co.il/news/elections/2026-09-29/ty-article/.premium/000001a0-ecfd-dfbb-afa4-fffd79bf0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-09-29T11:48:52+00:00",
+        "image_url": null
+      },
+      {
+        "id": "8d2c4bb864",
+        "title": "ראש ממשלת קטאר: \"עודכנתי חצי שעה לפני התקיפות באיראן\"",
+        "url": "https://www.ynet.co.il/news/article/r1d6uky5fg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-09-29T19:47:26+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/17/H1EZxzRk1e/H1EZxzRk1e_0_0_3000_1689_0_medium.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "ההתרחשויות הביטחוניות מתעצמות — חוסל מפקד חמאס בצפון הרצועה, שהצליח לשרוד ניסיון חיסול קודם. יותר ממאה מתנחלים ישראלים תקפו כפר בשומרון וגרמו לשריפות, בעוד פיצוץ של מטען בחולון כמעט הסתיים בטרגדיה. בחו״ל, בריטניה סיכלה פיגוע בחשד לקשר עם איראן, המתקדמת בתחום הגרעיני, ודורשת מישראל שלא תתקוף.",
+    "summary_he": "סוריה עצרה חוליית חיזבאללה שניסתה להציב משגרי טילים, בעוד מעריכים כי איראן וארה״ב קרובות למלחמה יותר מאשר להסכם, וסוכנויות בבריטניה סיכלו פיגוע בבסיס צבאי.",
     "headlines": [
       {
-        "id": "25dbf644a2",
-        "title": "חוסל מח\"ט צפון הרצועה בחמאס, ששרד ניסיון חיסול לפני 4 חודשים",
-        "url": "https://www.ynet.co.il/news/article/rj6mdau9fe",
+        "id": "c773272833",
+        "title": "סוריה עצרה חוליית חיזבאללה: \"ניסו להציב משגרי טילים\"",
+        "url": "https://www.ynet.co.il/news/article/sy5z9cfcfg",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-09-29T05:19:51+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/SJKXK6d9fx/SJKXK6d9fx_1_0_1062_598_0_medium.jpg"
+        "published_at": "2026-09-29T21:08:02+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/rJlcI9cF9Me/rJlcI9cF9Me_0_0_1279_720_0_medium.jpg"
       },
       {
-        "id": "34bcb51ae0",
-        "title": "Over 100 settlers involved in fiery West Bank attack, thwarting Palestinian family’s return home — IDF",
-        "url": "https://www.timesofisrael.com/liveblog-september-29-2026/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-29T00:20:40+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/Screenshot-2026-09-28-at-7.14.55-PM-1024x640.jpg"
+        "id": "5d955bab52",
+        "title": "גורם במו\"מ לחדשות 13: \"איראן וארה\"ב קרובות למלחמה מאשר להסכם\"",
+        "url": "https://13tv.co.il/item/news/politics/state-policy/iran-5-905375617/?pid=62&refc=902992371",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
       },
       {
-        "id": "02d45018c0",
-        "title": "מתקרבים לאסון: פיצוץ המטען בחולון \"כמעט הרג 3 ילדים\", חיפושים אחר מקורב למוסלי",
-        "url": "https://www.ynet.co.il/news/article/bypszzu5gg",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-09-28T18:20:22+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/r14vOTvcze/r14vOTvcze_0_0_1280_723_0_medium.jpg"
-      },
-      {
-        "id": "d00677c456",
-        "title": "שיחת הטלפון הבהולה שמנעה את פיגוע הענק בבריטניה - והחשד: איראן קשורה | דיווח",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-b00ecee5335e0a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-28T07:00:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/28/sikurrrr280191100_autoOrient_i.jpg"
-      },
-      {
-        "id": "3c630bc2e2",
-        "title": "דיווח: איראן נדרשת להתגמש בגרעין - ודורשת התחייבות שישראל לא תתקוף",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-29eb387a386e0a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-09-28T05:45:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/05/03/haminai_junior_trump_0305_autoOrient_i.jpg"
-      },
-      {
-        "id": "ae9bd2d79f",
-        "title": "Gazans desperate to leave still struggling to do so, even as Israel claims door is open",
-        "url": "https://www.timesofisrael.com/gazans-desperate-to-leave-still-struggling-to-do-so-even-as-israel-claims-door-is-open/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-09-29T01:17:50+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/02/AFP__20260208__96KB29F__v1__HighRes__PalestinianIsraelConflict-1024x640.jpg"
+        "id": "5413278910",
+        "title": "2 דקות אירופה סיכול הפיגוע בבסיס בבריטניה: אחד החשודים הזעיק את המשטרה ב\"טיימס\" הבריטי מדווחים כי החוקרים כעת בודקים מה הניע את החשוד להזעיק את המשטרה - התחרטות של הרגע האחרון, או שמא הדבר היה חלק מתוכנית לבחון את תגובת הרשויות זמן קריאה: 2 דקות.",
+        "url": "https://www.i24news.tv/he/news/international/europe/artc-29ce50b5",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
+        "published_at": null,
+        "image_url": "https://cdn.i24news.tv/uploads/38/58/4f/74/a4/e6/ec/83/cb/f7/5c/51/99/4c/4a/18/38584f74a4e6ec83cbf75c51994c4a18.png?width=350"
       }
     ]
   },
@@ -106,165 +76,162 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "קול ביקורתי עולה בנוגע לאחריות פוליטית — גבריאלה ליימברג הזהירה כי בלי הטלת אחריות על האחראים בכל הדרגים, התופעות יחזרו על עצמן. באירועים פוליטיים, מועמדי הליכוד נתונים לביקורת, בעוד שיחות על מורשתו של בנימין נתניהו ממשיכות להשפיע על הדיון הציבורי.",
+      "summary_he": "בדיווח לקראת הבחירות הקרובות, תוקף שלוש שנים של מלחמה משפיע על דפוסי ההצבעה בצפון, בעוד צנגאוקר טוען כי נתניהו מנהל קמפיין השפעה כדי לנקות את עצמו מאחריות על אירועי ה-7 באוקטובר.",
       "headlines": [
         {
-          "id": "d522270b0a",
-          "title": "גבריאלה ליימברג: אם האחראים מכל הדרגים לא ייקחו אחריות, זה יקרה שוב",
-          "url": "https://www.haaretz.co.il/news/politics/2026-09-28/ty-article/000001a0-e89c-d272-adf6-fdde1e700000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-09-28T15:37:43+00:00",
+          "id": "c0402fd042",
+          "title": "\"זו לא נאמנות עיוורת\": האם 3 שנות מלחמה השפיעו על ההצבעה בצפון?",
+          "url": "https://13tv.co.il/item/news/politics/politics/elections-905358725/?pid=62&refc=902992425",
+          "source": "reshet13",
+          "source_label": "חדשות 13",
+          "source_label_he": "חדשות 13",
+          "published_at": null,
           "image_url": null
         },
         {
-          "id": "2bd0997b5b",
-          "title": "Likud candidate says he wishes he could ‘return’ ex-hostage Yocheved Lifshitz to Hamas",
-          "url": "https://www.timesofisrael.com/likud-candidate-says-he-wishes-he-could-return-ex-hostage-yocheved-lifshitz-to-hamas/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-09-28T17:30:49+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/montage-2up-20260928-f42af3-1024x640.jpg"
-        },
-        {
-          "id": "7687419f1b",
-          "title": "אין תיאור קולע יותר למורשת נתניהו מסתימת החניונים בנתב\"ג",
-          "url": "https://www.themarker.com/news/politics/2026-09-28/ty-article/.premium/000001a0-e847-dfbb-afa4-fb5795a60000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-09-28T16:12:05+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-e869-d9ab-abfd-ffe97a4e0000/65/e7/185d8ee542a192ed1f3e8ef311d0/599394-2.jpg?width=108&height=81"
+          "id": "31151509cc",
+          "title": "צנגאוקר: נתניהו מנהל קמפיין השפעה נבזי כדי לנקותו מאחריות על 7 באוקטובר",
+          "url": "https://www.haaretz.co.il/news/elections/2026-09-29/ty-article/.premium/000001a0-eddc-d259-a3b4-eddc3ce90000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-09-29T16:59:53+00:00",
+          "image_url": null
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "הלחצים הכלכליים מתרבים — מחיר הנפט עלה בכמעט שני אחוזים, בעוד מחירי החנייה בתל אביב מגיעים ל־156 שקל ביום. משרד האוצר מביע חששות בנוגע לעסקת צים בשל סיכונים משפטיים וחשש מעורבות קטארית, וגידול במספר העובדים הזרים מעורר דאגה לניפוח כלכלי.",
+      "summary_he": "בשוק ההון ירידה בתשואות חזרה לרמות של שני עשורים קודמים, בעוד הציבור מחפש דרכים להשתכר — כולל שכפולי מפתחות וטיעונים משפטיים בנושא הנדל״ן והבנקים.",
       "headlines": [
         {
-          "id": "9c136a72b5",
-          "title": "מחיר הנפט מטפס בכ-2%; אוסטרליה מעלה ריבית לרמה הגבוה ביותר מזה 15 שנה",
-          "url": "https://www.themarker.com/wallstreet/2026-09-29/ty-article-live/000001a0-e185-d272-adf6-fdc703270000",
+          "id": "c4a220cd11",
+          "title": "התשואה ל-30 שנה חזרה שני עשורים לאחור. למה זה מסוכן?",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001557949",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-09-29T18:28:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1663249744/direct/ahmer-kalam-STJJ6OR3F1c-unsplash_pz9pbn.jpg"
+        },
+        {
+          "id": "7367924708",
+          "title": "\"על 30 שכפולי מפתחות אנחנו יכולים לקבל כמה מאות שקלים, אנחנו בונים פרנסה משקל לשקל\"",
+          "url": "https://www.themarker.com/career/2026-09-30/ty-article-magazine/.premium/000001a0-ec54-d259-a3b4-ecdc49b80002",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-09-29T04:44:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-eb73-dfbb-afa4-fb7366ce0000/7a/3e/250d34764fd3a1fa7efafb273cd7/883102.jpg?width=108&height=81"
+          "published_at": "2026-09-30T03:00:15+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-ec9e-dfbb-afa4-ffde90220000/12/62/88ae19b04406a4469b733bb84c53/598277.jpg?width=108&height=81"
         },
         {
-          "id": "81195434a1",
-          "title": "פערי החניה בתל אביב: 156 שקל ליום, באותה שכונה",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001557770",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-09-29T02:52:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1619092112/direct/20210422_115214_s642ow.jpg"
-        },
-        {
-          "id": "a017de38ce",
-          "title": "משרד האוצר נגד עסקת צים: \"סיכונים מהותיים\" וחשש ממעורבות קטאר",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001557796",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-09-28T16:46:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1772458747/direct/IMG-20260302-WA0031_mbztlf.jpg"
-        },
-        {
-          "id": "8e97f5ea7e",
-          "title": "ישראל היא לא דובאי: המחיר של הצפת המשק בעובדים זרים",
-          "url": "https://www.themarker.com/news/internal-info/2026-09-28/ty-article/000001a0-e8b0-dfbb-afa4-fbf097c10000",
+          "id": "6839a6224e",
+          "title": "התביעה, הריבית, הנדל\"ן המדשדש — וכל מה שמעיב על מניות הבנקים",
+          "url": "https://www.themarker.com/markets/2026-09-30/ty-article/.premium/000001a0-eced-d272-adf6-fdefb6840000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-09-28T16:57:39+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-e8cc-d272-adf6-fdce65dd0000/72/8a/ec96f1c440ad8b1436b284a2b589/380608.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "ספקות בדבר בקרה טכנולוגית עולים — השאלה המטרידה \"צ׳אט, אתה הולך לחסל אותי?\" משקפת דאגות בעקבות התפתחויות בבינה מלאכותית. בתחום ההשקעות, מנהלים מחפשים הזדמנויות בסקטורים שעלו מאות אחוזים, למרות רמות אינפלציה גבוהות.",
-      "headlines": [
-        {
-          "id": "37e4d36239",
-          "title": "\"צ'אט, אתה הולך לחסל אותי?\" מה יקרה כשנאבד שליטה ב-AI",
-          "url": "https://www.kan.org.il/content/kan-news/global/1104183/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/cqkfx5lc/בינה-169.png?width=490&height=272&v=1dd4f877fe8ded0"
-        },
-        {
-          "id": "b08e7c5f4a",
-          "title": "מנהל ההשקעות שלא נבהל מהאינפלציה ומהמלצה על סקטורים שזינקו מאות אחוזים",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001557788",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-09-29T02:50:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790590835/%D7%AA%D7%99%D7%A7_%D7%94%D7%A9%D7%A7%D7%A2%D7%95%D7%AA_800_ahdent.png"
+          "published_at": "2026-09-30T03:22:08+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-ecf9-dfbb-afa4-fff9f1a60000/45/7c/804c46654300a528248a0bd3cbdd/528161-5.jpg?width=108&height=81"
         }
       ]
     },
     {
       "key": "culture_entertainment",
       "label_he": "תרבות ובידור",
-      "summary_he": "עולם התרבות בתזוזה — רוד סטיוארט הכריז כי סדרת ההופעות הבאה שלו תהיה האחרונה, בעוד מדונה חוזרת לבמה אחרי 23 שנה. בישראל, שולי רנד מתגוננת מפני ביקורות ברשתות החברתיות.",
+      "summary_he": "איגוד התסריטאים התנגד לסדרה החדשה של נועה קירל, בעוד שחקן וטייס ישראלי גיא קפולניק נהרג בהתרסקות מטוס קל.",
       "headlines": [
         {
-          "id": "68811e2379",
-          "title": "רוד סטיוארט נפרד: סיבוב ההופעות הבא יהיה האחרון",
-          "url": "https://e.walla.co.il/item/3870132",
+          "id": "77eecdd99b",
+          "title": "\"קשה לנו לברך\": איגוד התסריטאים נגד הסדרה החדשה של נועה קירל",
+          "url": "https://e.walla.co.il/item/3870256",
           "source": "walla",
           "source_label": "וואלה",
           "source_label_he": "וואלה",
-          "published_at": "2026-09-28T19:20:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/1/3/3913823-46.jpg"
+          "published_at": "2026-09-29T18:05:00+00:00",
+          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/6/5/4065894-46.jpg"
         },
         {
-          "id": "c69bce8ac7",
-          "title": "מדונה חוזרת אחרי 23 שנה והאיחוד המרגש של נירוונה | טקס ה-VMA 2026",
-          "url": "https://e.walla.co.il/item/3870042",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-28T07:14:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/5/4105203-46.jpg"
+          "id": "0a6dd7bb90",
+          "title": "השחקן והטייס הישראלי גיא קפולניק נהרג בהתרסקות מטוס קל",
+          "url": "https://www.ynet.co.il/news/article/bywnpdf9mg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-09-29T18:10:13+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/HJKVpdtcfg/HJKVpdtcfg_1_24_1440_811_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "בעקבות התפשטות השימוש בבינה מלאכותית בחינוך, קיים חשש שהיא תנוון את הסטודנטים האקדמיים.",
+      "headlines": [
+        {
+          "id": "a6371922aa",
+          "title": "\"הם אומרים לצ'אט 'תכתוב לי'\": כך ה-AI מנוונת את הסטודנטים באקדמיה",
+          "url": "https://www.themarker.com/career/2026-09-30/ty-article-magazine/.premium/000001a0-a0dc-d219-a3ed-bdde94a00000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-30T03:22:39+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-a0f1-d219-a3ed-bdfb49030000/05/d7/cb5986054a388906adc6a2bf85bb/553950.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "אלפים צעדו בירושלים בתמיכה בדוחי גיוס חרדים עם הבטחות למענקים, בעוד בריטניה מאיימת בחרם על סחורות מההתנחלויות.",
+      "headlines": [
+        {
+          "id": "6a34365a88",
+          "title": "Thousands march in Jerusalem to fete Haredi draft dodgers; cash grants promised",
+          "url": "https://www.timesofisrael.com/thousands-march-in-jerusalem-to-fete-haredi-draft-dodgers-with-cash-grants-reportedly-promised/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-09-29T22:18:27+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/F260929CG219-e1790719205273-1024x640.jpg"
         },
         {
-          "id": "43e1af661b",
-          "title": "שולי רנד על סערת הרשת: \"לא עשיתי שום חטא, שלם עם ההחלטה\"",
-          "url": "https://e.walla.co.il/item/3870100",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-09-28T15:45:00+00:00",
-          "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/3/1/3931459-46.jpeg"
+          "id": "0d4af65305",
+          "title": "בריטניה מאיימת לקחת את החרם על סחורות מההתנחלויות צעד משמעותי קדימה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001557915",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-09-30T03:16:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790685389/MT1ZUMA00097VP8G_RTRMADP_3_ZUMA_lqaaom.jpg"
         }
       ]
     },
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "פרויקט נדל״ן משמעותי בישראל — בניית המגדל הגבוה ביותר בישראל, בעל 78 קומות, מתחילה להשתלם, ועירייה אחת צפויה להרוויח במיוחד מסיום הפרויקט.",
+      "summary_he": "תחום הנדל״ן פעיל — רמת גן מציגה תוכניות לעשרה מגדלים חדשים, בעוד מתנהלים דיונים על הפוטנציאל של תחבורה אוטונומית בתחום.",
       "headlines": [
         {
-          "id": "a68d0b3e42",
-          "title": "עם 78 קומות: המגדל הגבוה בישראל מתחיל להתאכלס ועירייה אחת תרוויח במיוחד",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001557752",
+          "id": "e70bc8dfaa",
+          "title": "רמת גן מציגה: עוד עשרה מגדלים של עד 100 קומות באחד המתחמים הוותיקים",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001557142",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-09-29T02:49:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1715511466/direct/%D7%94%D7%93%D7%9E%D7%99%D7%94_%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98_%D7%91%D7%99%D7%95%D7%A0%D7%93._%D7%A7%D7%A8%D7%93%D7%99%D7%98_-_%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95_84_2_cm73ob.jpg"
+          "published_at": "2026-09-30T02:42:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790160285/%D7%95%D7%A8%D7%98%D7%99%D7%A7%D7%9C_%D7%A7%D7%A8%D7%93%D7%99%D7%98_%D7%9E%D7%A9%D7%A8%D7%93_%D7%91%D7%A8%D7%A2%D7%9C%D7%99_%D7%9C%D7%95%D7%99%D7%A6%D7%A7%D7%99_%D7%9B%D7%A1%D7%99%D7%A3_%D7%93%D7%94_%D7%9C%D7%94_%D7%A4%D7%95%D7%A0%D7%98%D7%99%D7%99%D7%9F_%D7%90%D7%93%D7%A8%D7%99%D7%9B%D7%9C%D7%99%D7%9D_uthcef.jpg"
+        },
+        {
+          "id": "1bc452ef5a",
+          "title": "הרבה מעבר למונית פרימיום: הפוטנציאל הנדל\"ני של הרכב האוטונומי",
+          "url": "https://www.themarker.com/realestate/2026-09-30/ty-article/.premium/000001a0-773c-db00-afb5-f7bf30500000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-09-30T03:24:32+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-773b-db00-afb5-f7bbe1a90000/9f/19/5b8c51504e9eaf2e7feab6248321/66281330.JPG?width=108&height=81"
         }
       ]
     }
@@ -279,240 +246,209 @@
     "globes",
     "themarker",
     "times_of_israel",
+    "maariv",
     "makor_rishon",
     "reshet13",
     "i24"
   ],
-  "sources_failed": [
-    "maariv"
-  ],
+  "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israel's political sphere faced critical revelations and international tensions this week. Netanyahu reportedly asked UAE leadership to deny prior warnings about the Hamas attack, raising questions about diplomatic accountability. High-profile figures voiced criticism of Israeli military operations, with actor Adam Brody calling actions in Gaza \"genocide,\" while Ireland's national soccer team refused to shake hands with Israel following their match. Jewish institutions across the diaspora received heightened focus, with California Governor Newsom signing legislation creating safe zones around synagogues, and Israel's President Herzog meeting Jerusalem Reform synagogue leaders to address security concerns. In Belgium, an antisemitic incident occurred when a Palestinian child's school sports bag was defaced with a Star of David in Vorst.",
+      "summary_en": "Israeli-Palestinian tensions remain acute across multiple fronts. Prime Minister Netanyahu is challenging media reporting about advance warnings before October 7, while the US Senate has blocked a resolution demanding accountability for Israeli violence in the West Bank. Over 150 settlers harassed a Palestinian family in the West Bank with Israeli border police present, highlighting ongoing territorial violence. International pressure is mounting, with the UK foreign secretary stating that security threats to Israel do not justify its treatment of Palestinians, and Jewish organizations criticizing a new antisemitism plan for failing to address anti-Israel rhetoric.",
       "headlines": [
         {
-          "id": "636f269fd6",
-          "title": "Netanyahu asked UAE leader to deny being warned about Hamas attack",
-          "url": "https://www.demorgen.be/snelnieuws/live-netanyahu-vroeg-leider-emiraten-te-ontkennen-dat-hij-was-gewaarschuwd-voor-hamas-aanval~ba7f8873/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-29T04:46:00+00:00",
-          "image_url": "https://image.demorgen.be/277539294/roi/320/320/691.1999999999999/529.2/afbeelding"
-        },
-        {
-          "id": "b286d33654",
-          "title": "Jewish star Adam Brody calls Israeli actions in Gaza 'genocide'",
-          "url": "https://www.jta.org/2026/09/28/united-states/jewish-star-adam-brody-calls-israeli-actions-in-gaza-genocide",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-28T13:47:04+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/Adam-Brody.jpg"
-        },
-        {
-          "id": "12441c3bf4",
-          "title": "Irish national soccer team won't shake hands with Israel after win",
-          "url": "https://www.jta.org/2026/09/28/sports/irish-national-soccer-team-wont-shake-hands-with-israel-after-win",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-09-28T21:12:41+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/Ireland-Israel.jpg"
-        },
-        {
-          "id": "cc0b380a0e",
-          "title": "Vorst municipality files complaint after Palestinian child's school sports bag defaced with Star of David",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/28/sportzak-palestijns-kind-op-school-beklad-met-davidster-en-afkor/",
+          "id": "e130aae700",
+          "title": "Israeli-Palestinian conflict 'NAZA': what if Israeli soldiers tell the truth about Gaza in this film?",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/28/naza-wat-als-israelische-militairen-de-waarheid-vertellen-over/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/28/2e016f3b-ff25-4c1f-8714-b31f566af103.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/11/cabff384-57dd-40ee-81ed-5f44299c3542.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "6898f21d75",
-          "title": "California Gov. Gavin Newsom signs bill to create safe spaces around synagogues",
-          "url": "https://www.jta.org/2026/09/28/politics/california-gov-gavin-newsom-signs-bill-to-create-safe-spaces-around-synagogues",
+          "id": "96f09da872",
+          "title": "Live - Netanyahu sues media over report about October 7 warning",
+          "url": "https://www.demorgen.be/snelnieuws/live-zeven-doden-in-gaza-onder-wie-commandant-van-hamas-meer-dan-honderd-israelische-kolonisten-vallen-dorp-op-westelijke-jordaanoever-aan~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-30T04:44:00+00:00",
+          "image_url": "https://image.demorgen.be/278165073/roi/320/320/691.1999999999999/529.2/afbeelding"
+        },
+        {
+          "id": "7a755b2185",
+          "title": "Over 150 settlers harass Palestinian family and Israeli border police on West Bank",
+          "url": "https://www.demorgen.be/nieuws/ruim-150-kolonisten-belagen-palestijns-gezin-en-israelische-grenspolitie-op-de-westoever~b41cfb0a/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-30T01:00:25+00:00",
+          "image_url": "https://image.demorgen.be/278347445/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "7402e2a1cc",
+          "title": "US Senate blocks resolution demanding accountability over Israeli violence in West Bank",
+          "url": "https://www.theguardian.com/us-news/2026/sep/29/senate-resolution-west-bank-israel-violence",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-09-30T00:16:17+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/bfba616079d8505a1e4d7f05b980cf6bad30de18/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=db9845a94eeeadd102dc74bde3f4a838"
+        },
+        {
+          "id": "e261d53313",
+          "title": "UK foreign secretary: The threats to Israel don't justify its treatment of Palestinians",
+          "url": "https://www.jta.org/2026/09/29/israel/the-threats-israel-faces-dont-justify-the-suffering-of-the-palestinians-people-miliband-said",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-09-28T22:43:11+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/09-28-2026-Gavin-Newsom-scaled.jpg"
+          "published_at": "2026-09-29T19:03:47+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/Milibad-Labour.jpg"
         },
         {
-          "id": "42ea1eaa43",
-          "title": "Herzog speaks with Jerusalem Reform synagogue leaders, personally checks in with police",
-          "url": "https://www.jta.org/2026/09/28/israel/herzog-speaks-with-jerusalem-reform-synagogue-leaders-personally-checks-in-with-police",
+          "id": "01f67d43f5",
+          "title": "Mamdani's plan to combat antisemitism 'fails to address' anti-Israel rhetoric, some Jewish groups say",
+          "url": "https://www.jta.org/2026/09/29/ny/mamdanis-office-unveils-plan-to-combat-antisemitism",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-09-28T15:46:51+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/Herzog-synagogue.jpg"
+          "published_at": "2026-09-29T15:00:54+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/GettyImages-2245176030.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium's political landscape remained contentious as the Flemish government finalized budget negotiations with controversial economic measures. Service vouchers will increase from 10 to 12 euros, raising concerns in the sector about widespread economic impact, while the broader budget deal includes limited birth bonuses and modest reductions in registration rights. Housing costs are set to rise by an average of 3,950 euros across Flanders, adding to household pressures. Maritime news brought the confirmed discovery of the fishing vessel Z.592 Hosanna from Zeebrugge, wrecked off the Dover coast, while political tensions escalated within the Vooruit party over MP Jinnih Beels.",
+      "summary_en": "Belgium faces critical budget negotiations as the Diependaele government announced savings of 1.2 billion euros through eliminating two public holidays and cutting government staff, while the Vooruit party reached a framework agreement on the broader budget. New regulations take effect on October 1, including mandatory ID verification at dental offices and the elimination of improper energy contract discounts. Separately, shepherds are marching on foot to Brussels to protest agricultural policies.",
       "headlines": [
         {
-          "id": "9eefca6356",
-          "title": "Service vouchers up to 13 euros, single birth bonus and 3 percent registration rights: incoming Flemish budget agreement analyzed",
-          "url": "https://www.demorgen.be/nieuws/dienstencheques-tot-13-euro-slechts-een-geboortepremie-en-registratierechten-van-3-procent-het-nakende-vlaamse-begrotingsakkoord-doorgelicht~bba6a79c/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-09-28T15:00:00+00:00",
-          "image_url": "https://image.demorgen.be/278314928/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "9b3d23f4dc",
-          "title": "Service vouchers rise from 10 to 12 euros: 'I fear bloodbath in our sector'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/28/poetshulpen-getuigen-over-stijgende-prijs-dienstencheques/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/28/cfdb1f9d-e254-48e9-85fa-f7820f5b3d46.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "db719a20f7",
-          "title": "Houses will cost on average 3,950 euros more: here's what the Flemish government plans to do with your money",
-          "url": "https://www.hln.be/binnenland/huis-kost-straks-gemiddeld-3-950-euro-meer-dit-is-de-vlaamse-regering-van-plan-met-jouw-geld~ac4edcd9/",
+          "id": "6cb321bbf1",
+          "title": "Diependaele saves 1.2 billion euros in government: Flemish government eliminates 2 holidays and cuts government staff",
+          "url": "https://www.hln.be/binnenland/diependaele-bespaart-1-2-miljard-euro-bij-overheid-vlaamse-regering-schrapt-2-feestdagen-en-bespaart-op-overheidspersoneel~ace4b8d5/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-09-29T04:00:00+00:00",
-          "image_url": "https://images.hln.be/ZmIwMjAzN2FhN2JhYzdkMDhkM2IvZGlvLzI3ODMxODgyMi9maXQtd2lkdGgvNDAw/vlaamse-begroting"
+          "published_at": "2026-09-30T04:59:11+00:00",
+          "image_url": "https://images.hln.be/MTY1N2ZjODNkMjE3MjIzNTM4ZjMvZGlvLzI3ODM2NTg4NS9maXQtd2lkdGgvNDAw/brussels-belgium-september-28-flemish-minister-president-matthias-diependaele-n-va-pictured-during-the-september-statement-by-the-flemish-government-on-september-28-2026-in-brussels-belgium-28-09-2026-photo-by-didier-lebrun-photonews"
         },
         {
-          "id": "1bbd26d7d2",
-          "title": "Zeebrugge: Suspicions confirmed as wreck of fishing vessel Z.592 Hosanna lies off Dover coast",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/27/doorbraak-46-jaar-wrak-3-belgische-vermisten/",
+          "id": "a227fba9fb",
+          "title": "Vooruit pulls in agreement: is the September Statement now at risk?",
+          "url": "https://www.hln.be/nieuws/vooruit-trekt-akkoord-in-komt-septemberverklaring-dan-toch-in-het-gedrang~a21fbbe3/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-09-30T05:00:29+00:00",
+          "image_url": "https://images.hln.be/MmQxMjFmOTE2NDIwMDdkNWM0YTAvZGlvLzI3ODM3MzM1OC9maXQtd2lkdGgvNDAw/flemish-minister-for-housing-and-energy-melissa-depraetere-pictured-during-a-press-conference-of-the-flemish-government-regarding-the-agreement-on-the-flanders-spatial-policy-plan-brv-beleidsplan-ruimte-vlaanderen-on-friday-11-september-2026-in-brussels-belga-photo-nicolas-maeterlinck"
+        },
+        {
+          "id": "4aeacc2f09",
+          "title": "National - New on October 1: ID card required at dentist and no more improper discounts on energy contracts",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/29/nieuw-op-1-oktober/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/27/f05cbfb7-08f8-482f-8f29-9df53270c311.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/29/db41edc5-eba4-41fd-89bf-2e14abef5957.png?width=200&height=200&q=80&blur=90"
         },
         {
-          "id": "9f2d389a7f",
-          "title": "Rift between Vooruit and Jinnih Beels becomes acrimonious split",
-          "url": "https://www.demorgen.be/politiek/breuk-tussen-vooruit-en-jinnih-beels-wordt-vechtscheiding~bc5f6b72/",
+          "id": "af5d5ef0bf",
+          "title": "A farmer's protest can be gentle too: shepherds march on foot to Brussels",
+          "url": "https://www.demorgen.be/nieuws/een-boerenprotest-kan-ook-lieflijk-zijn-schaapherders-trekken-te-voet-naar-brussel~b055b165/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-09-28T18:52:00+00:00",
-          "image_url": "https://image.demorgen.be/274171187/feature-crop/320/320/afbeelding"
+          "published_at": "2026-09-30T01:00:26+00:00",
+          "image_url": "https://image.demorgen.be/278352808/feature-crop/320/320/afbeelding"
         }
       ]
     },
     "europe": {
-      "summary_en": "European politics underwent significant shifts across multiple nations. Student protests in France escalated dramatically, resulting in 164 arrests and dozens of injuries and prompting warnings from the Prime Minister. France's far-right Rassemblement National celebrated substantial Senate gains, with Marine Le Pen calling the results a \"milestone\" toward the presidency. Sweden's left bloc suffered internal rifts, allowing the right-wing opposition to begin government formation attempts. Britain's Labour government under Andy Burnham faced internal divisions over EU relations, reopening Brexit debates within party ranks. Spain's housing crisis regained attention when 87-year-old Maricarmen was allowed to return to her Madrid apartment following massive nationwide public protests.",
+      "summary_en": "Ukraine continues to suffer severe destruction as Russia's sustained missile campaign has devastated the nation's vital steel industry, with civilians living under constant threat from drone attacks that have created widespread fear and psychological trauma among the population. Spain has announced a ban on residential evictions following public outcry over the forced removal of an elderly woman from her home. French students are actively protesting deteriorating conditions in the education system, while the European Union is moving to clarify governmental responsibilities for managing climate-related disasters.",
       "headlines": [
         {
-          "id": "ccf234233f",
-          "title": "France: Student protest escalates with 164 arrests and at least 32 injured",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/29/schoolprotest-frankrijk/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/29/d64191f9-bd06-4b33-be93-5a54c9e55f50.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "33dadb78ce",
-          "title": "Marine Le Pen hails RN senate surge as 'milestone' towards French presidency",
-          "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-28T17:24:32+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/5288c790e7b60f3b9c78a4c5e419880d07b44c58/522_0_2450_1961/master/2450.jpg?width=700&quality=85&auto=format&fit=max&s=aed6c25338d7106e514774cb927b2fd9"
-        },
-        {
-          "id": "358c2a752c",
-          "title": "Disagreement within left bloc in Sweden; right-wing gets chance to form new government",
-          "url": "https://www.demorgen.be/nieuws/ruzie-binnen-links-blok-in-zweden-rechts-krijgt-nu-de-kans-om-nieuwe-regering-te-vormen~bd6e847a/",
+          "id": "ad9c54b360",
+          "title": "'Many people have developed enormous fear of drones': Kyiv undergoes constant Russian attacks",
+          "url": "https://www.demorgen.be/nieuws/veel-mensen-hebben-een-enorme-angst-ontwikkeld-voor-drones-kiev-ondergaat-constant-russische-aanvallen~b1579bf6/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-09-29T05:25:18+00:00",
-          "image_url": "https://image.demorgen.be/278304277/feature-crop/320/320/afbeelding"
+          "published_at": "2026-09-30T01:00:20+00:00",
+          "image_url": "https://image.demorgen.be/278350109/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "8050480915",
-          "title": "Analysis: From Manchester to Westminster – is this the end of the honeymoon for PM Andy Burnham?",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/27/van-manchester-naar-westminster-het-einde-van-de-wittebroodswek/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/28/6ad8f8a4-fbbe-4fc7-a955-87f4053b55c6.jpg?width=200&height=125&q=80&blur=90"
+          "id": "f4dc8bb353",
+          "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+          "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-09-29T23:33:34+00:00",
+          "image_url": null
         },
         {
-          "id": "85774032a8",
-          "title": "Maricarmen (87), symbol of Madrid's housing crisis, allowed to return to her apartment",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/28/maricarmen-87-mag-terugkeren-naar-huis-in-madrid-maar-protest/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/29/de8eb91d-bb11-4ff5-a9b0-86aff9d39b39.jpg?width=200&height=125&q=80&blur=90"
+          "id": "5eba141f33",
+          "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-09-29T16:23:58+00:00",
+          "image_url": null
+        },
+        {
+          "id": "c279811b11",
+          "title": "Brussels wants to clarify authorities' responsibilities in responding to climate disasters",
+          "url": "https://www.politico.eu/article/bruxelles-veut-clarifier-les-responsabilites-des-autorites-face-aux-catastrophes-climatiques/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-09-29T19:36:08+00:00",
+          "image_url": null
+        },
+        {
+          "id": "be9864cb9d",
+          "title": "French students take action for better education: 'Getting lessons here is a form of violence'",
+          "url": "https://www.demorgen.be/nieuws/franse-scholieren-voeren-actie-voor-beter-onderwijs-hier-les-krijgen-is-een-vorm-van-geweld~b3139fc1/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-09-30T01:00:00+00:00",
+          "image_url": "https://image.demorgen.be/278341441/feature-crop/320/320/students-take-shelter-from-teargas-during-scuffles-with-police"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Global headlines were dominated by military escalation, trade conflict, and violent crime. Russia intensified drone attacks on Kyiv, striking the National Academy of Sciences, while Putin issued decrees to significantly expand military forces. The US-Canada trade war escalated as new tariffs on alcohol and dairy came into effect, raising tensions between the North American allies. In a shocking crime, a New York Times executive was fatally shot in California by elderly in-laws. U.S.-Iran tensions simmered as President Trump doubled down on military rhetoric, claiming the US would decisively win any potential conflict. Argentina threatened legal action against the UK over Falkland Islands oil exploration activities.",
+      "summary_en": "Morocco has appointed Fatima Zahra El Mansouri as its first female prime minister, marking a historic political milestone for the North African nation. The United States faces ongoing immigration enforcement debates as ICE agents maintain a visible presence throughout New York, creating public anxiety about the country's restrictive immigration policies. In a high-profile case in the United States, a former American Idol contestant and pastor was convicted of murdering his wife.",
       "headlines": [
         {
-          "id": "55bf398eb7",
-          "title": "Live: Fresh heavy explosions in Kyiv after night of Russian drone attacks; Putin scales up military forces by decree",
-          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-poetin-schaalt-per-decreet-omvang-strijdmacht-op-russische-drone-ingeslagen-nabij-poolse-grenspost~b38bed0a/",
+          "id": "248f0c3d55",
+          "title": "Fatima Zahra El Mansouri becomes Morocco's first female prime minister",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/09/29/minister-fatima-zahra-mansouri-wordt-eerste-vrouwelijke-premier/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/29/a901503b-d484-4f2e-8600-946973978681.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "265f450aef",
+          "title": "ICE agents are everywhere in New York, but everyone is silent about it. 'These are frightening times'",
+          "url": "https://www.demorgen.be/nieuws/overal-in-new-york-zitten-agenten-van-ice-maar-iedereen-zwijgt-erover-het-zijn-enge-tijden~b8591b1f/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-09-29T05:00:00+00:00",
-          "image_url": "https://image.demorgen.be/278321005/roi/320/320/2416.74/1439.76/afbeelding"
+          "published_at": "2026-09-30T01:00:20+00:00",
+          "image_url": "https://image.demorgen.be/277846401/roi/320/320/0.448659/0.462768/afbeelding"
         },
         {
-          "id": "2354848b83",
-          "title": "New York Times executive fatally shot allegedly by elderly in-laws",
-          "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+          "id": "b4420c3061",
+          "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+          "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-09-29T04:06:43+00:00",
-          "image_url": null
-        },
-        {
-          "id": "75c9965721",
-          "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-          "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-09-29T04:10:33+00:00",
-          "image_url": null
-        },
-        {
-          "id": "2514fb17fd",
-          "title": "Trump doubles down on claims US will win war with Iran 'one way or another' as talks are in doubt",
-          "url": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-09-29T01:54:38+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/f88590e10388331e5ffbbfb897feeff374ec1248/704_16_2983_2387/master/2983.jpg?width=700&quality=85&auto=format&fit=max&s=b073bdd14d5c0d81efa0e854cd5797b7"
-        },
-        {
-          "id": "10b405488c",
-          "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-          "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-09-29T03:50:40+00:00",
+          "published_at": "2026-09-29T22:13:36+00:00",
           "image_url": null
         }
       ]
