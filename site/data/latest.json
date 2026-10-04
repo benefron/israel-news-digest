@@ -1,94 +1,84 @@
 {
-  "generated_at": "2026-10-03T06:42:15.859799+00:00",
-  "date": "2026-10-03",
+  "generated_at": "2026-10-04T09:44:34.701520+00:00",
+  "date": "2026-10-04",
   "degraded": false,
   "top_general": {
-    "summary_he": "טראמפ הצהיר כי לטייס המשנה בטיסת דובאי יש קשר לאיראן, מה שמעלה חשדות בנוגע לרקע של התקיפה. הפיגוע הוביל לשינויים מהותיים בנהלי הטיסה בעולם, וישראל קיבלה אישור להחזיר טיסות מדובאי, אם כי דרישות חדשות של האמירויות מעמידות בסכנה את המשך הפעולות. בעקבות ההתנגשויות האזוריות, ארצות הברית מחזקת את נוכחותה הצבאית במזרח התיכון.",
+    "summary_he": "צה\"ל ניסה להתנקש בבכיר חמאס בעזה, כאשר תוצאות התקיפה אינן ידועות ולפחות ארבע נשים נהרגו. במקביל נחשף תיק פלילי בעירייה במרכז הארץ בחשד לשוחד, ובארה\"ב מתקיימות הכנות מיוחדות לקראת ביקור נשיא סין.",
     "headlines": [
       {
-        "id": "f0f9fc6e52",
-        "title": "טראמפ: \"לטייס המשנה בטיסת 'פליי דובאי' יש קשר לאיראן\"",
-        "url": "https://www.makorrishon.co.il/news/world-news/article/376613",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
+        "id": "ab066731e7",
+        "title": "צה\"ל ניסה להתנקש בבכיר חמאס בעזה: תוצאות התקיפה אינן ידועות, ולפחות ארבע נשים נהרגו",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-03/ty-article/000001a1-00a7-d8d3-aba3-2af76e8f0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-03T07:31:50+00:00",
         "image_url": null
       },
       {
-        "id": "e9505c8838",
-        "title": "הדלת הארורה והנוסעים שהסתערו: הפיגועים ששינו את חוקי הטיסה לנצח",
-        "url": "https://www.makorrishon.co.il/news/world-news/article/376639",
-        "source": "makor_rishon",
-        "source_label": "מקור ראשון",
-        "source_label_he": "מקור ראשון",
-        "published_at": null,
-        "image_url": null
+        "id": "e83c548fad",
+        "title": "פרשת \"יד לוחצת יד\": בכיר בעירייה במרכז הארץ נחקר בחשד לשוחד",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001558330",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-04T09:25:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1667491117/direct/20221103_154402_ivjtas.jpg"
       },
       {
-        "id": "60bc41e0eb",
-        "title": "ישראייר וארקיע: קיבלנו את האישורים הנדרשים לביצוע טיסות השבה מדובאי",
-        "url": "https://www.themarker.com/news/aviation/2026-10-02/ty-article/000001a0-fb21-da62-a7ac-fb2dd55c0000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-10-02T07:01:50+00:00",
-        "image_url": "https://img.haarets.co.il/bs/000001a0-fb23-dbcb-a7e9-ff33bafb0001/0e/bc/3cef55ac416c97be20491ae63828/631056.jpg?width=108&height=81"
-      },
-      {
-        "id": "05734a4e66",
-        "title": "מטוסי ארקיע וישראייר נחתו בדובאי, גורם אמירתי: \"ישראל מנצלת את הפיגוע לצרכים פוליטיים\"",
-        "url": "https://www.ynet.co.il/news/article/b1mexep5me",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-10-02T14:30:53+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/BJTybzpcGe/BJTybzpcGe_0_0_850_479_0_medium.jpg"
+        "id": "ce92194a0e",
+        "title": "סובל מבעיות בריאות? ההפסקות והדרישות החריגות בביקור נשיא סין בארה\"ב",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-793deb177f501a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-04T08:16:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/24/XIUSA_re_autoOrient_i.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "קבינט הביטחון של טראמפ דן בהמשך הקונפליקטים במזרח התיכון, כולל המלחמה נגד איראן ועימות בין סעודיה לחות'ים. בתגובה לכך, ארצות הברית משדרגת את נוכחותה הצבאית בחזית המזרח התיכון, כולל הוספת מערכות הגנה בסעודיה וקטאר. סעודיה מתכוננת לתקיפה עצמאית נגד החות'ים באזור מצר באב אל-מנדב. בנוסף, מטוס קטן התרסק בצפון ישראל, מה שגרם למותו של אדם אחד.",
+    "summary_he": "בדרום לבנון נפצעו שני לוחמים, קשה ובינוני, לאחר שרימון הושלך באופן לא תקין במהלך פעילות מבצעית. בנוסף, תושב באר שבע נדון לשלוש שנות מאסר על הצעת מידע לסוכן איראני אודות הכור בדימונה, ובגדה המערבית דווח על התקפות מתנחלים בעונת מסיק הזיתים.",
     "headlines": [
       {
-        "id": "3c23f9bacf",
-        "title": "הקבינט הביטחוני של טראמפ דן בהמשך המלחמה באיראן ובעימות בין סעודיה לחות'ים",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-6f040e6f18ff0a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-10-03T03:34:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/23/AP26266048146044_autoOrient_i.jpg"
+        "id": "56f37d2374",
+        "title": "רימון הושלך באופן לא תקין בדרום לבנון, שני לוחמים נפצעו קשה ובינוני",
+        "url": "https://www.ynet.co.il/news/article/s1pwbcr5ze",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-04T03:01:48+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/15/B111UI952h11e/B111UI952h11e_1_166_1601_901_0_medium.jpg"
       },
       {
-        "id": "6ee57a0690",
-        "title": "דיווחים: ארה\"ב מתגברת כוחות במזרח התיכון ומוסיפה מערכות הגנה בסעודיה ובקטאר",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-02/ty-article/000001a0-fb3e-dbcb-a7e9-ff3fe1e00000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-10-02T07:38:54+00:00",
-        "image_url": null
+        "id": "cbdadc480e",
+        "title": "תאונה קשה בלבנון: רימון התפוצץ במהלך פעילות מבצעית",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001558318",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-04T08:47:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1780219796/direct/Screenshot_2026-05-31_122711_qptynv.png"
       },
       {
-        "id": "5b3295f5e2",
-        "title": "1 דקות המזרח התיכון דיווח: סעודיה נערכת למתקפה נגד החות'ים באזור הים האדום סוכנות הידיעות רויטרס דיווחה כי ריאד שוקלת לבצע פעולה נגד החות'ים - בהשתתפות חיילים תימנים • אחת האפשרויות הנשקלות: תקיפה באזור מצר באב אל-מנדב זמן קריאה: 1 דקות.",
-        "url": "https://www.i24news.tv/he/news/international/middle-east/artc-0ac53f57",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": "https://cdn.i24news.tv/uploads/bd/89/63/f2/48/32/5d/89/53/c8/0f/93/a0/a6/62/f9/bd8963f248325d8953c80f93a0a662f9.jpg?width=350"
+        "id": "f07c1ac30a",
+        "title": "שלוש שנות מאסר לתושב באר שבע שהציע לסוכן איראני \"מידע על הכור בדימונה\"",
+        "url": "https://www.ynet.co.il/news/article/b1sdfkjofe",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-04T07:45:22+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/02/HyWRSWfi1e/HyWRSWfi1e_0_0_850_479_0_medium.jpg"
       },
       {
-        "id": "49252fccf4",
-        "title": "Small plane crashes in northern Israel, killing 1 and injuring another",
-        "url": "https://www.timesofisrael.com/small-plane-crashes-in-northern-israel-killing-1-and-injuring-another/",
+        "id": "ddaae148e3",
+        "title": "Settler attacks reported across West Bank as Palestinians begin olive harvest",
+        "url": "https://www.timesofisrael.com/settler-attacks-reported-across-west-bank-as-palestinians-begin-olive-harvest/",
         "source": "times_of_israel",
         "source_label": "Times of Israel",
         "source_label_he": "Times of Israel",
-        "published_at": "2026-10-02T16:40:00+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/WhatsApp-Image-2026-10-02-at-09.31.51-1024x640.jpeg"
+        "published_at": "2026-10-03T19:12:36+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AFP__20261003__D24Z4K3__v1__HighRes__PalestinianIsraelConflictWestBankFiresOliveHarv-1024x640.jpg"
       }
     ]
   },
@@ -96,22 +86,12 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בעקבות הפיגוע בדובאי, בארצות הברית מדברים כבר על סנקציות נגד ישראל, בהתאם לתוצאות הבחירות בישראל. דיווחים מדברים גם על תכניות של חמאס לחזרה לשלטון בעזה, כולל קשרים מדיניים עם דחלאן והבית הלבן. בארצות הברית, המרוץ לירושת טראמפ מתחמם, כשוואנס מסמן את יריביו האפשריים ל-2028. הסקרים החדשים על הבחירות בישראל ב-2026 משקללים את התמונה המדינית.",
+      "summary_he": "ח\"כ ביסמוט יכנס דיון ביטחוני מיוחד בוועדה בנושא הפיגוע בטיסת פליי דובאי, בעוד ח\"כ וינטר מצהיר כי ידרוש גיוס חרדים לצה\"ל, אך עדיין ישקול הצטרפות לקואליציה עם החרדים.",
       "headlines": [
         {
-          "id": "278da753f3",
-          "title": "\"הגענו לתחתית\": גם בארה\"ב כבר מדברים על סנקציות - תלוי בבחירות בישראל",
-          "url": "https://www.ynet.co.il/news/article/sjlfzr3qgx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-10-02T11:58:52+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/rkTRhGacGl/rkTRhGacGl_0_204_3000_1689_0_medium.jpg"
-        },
-        {
-          "id": "c684cc4b51",
-          "title": "07:07 קו ישיר לבית הלבן וברית סודית עם דחלאן: התוכנית של חמאס לחזור לשלטון | ג'קי חוגי",
-          "url": "https://www.maariv.co.il/breaking-news/article-1373060",
+          "id": "89f4778b52",
+          "title": "11:12 ביסמוט יכנס בוועדה דיון ביטחוני מיוחד - בנושא הפיגוע בטיסת פליי דובאי",
+          "url": "https://www.maariv.co.il/breaking-news/article-1373363",
           "source": "maariv",
           "source_label": "מעריב",
           "source_label_he": "מעריב",
@@ -119,90 +99,73 @@
           "image_url": null
         },
         {
-          "id": "2f520f23c7",
-          "title": "המרוץ לירושת טראמפ מתחמם: ואנס מסמן את יריבו האפשרי ב-2028",
-          "url": "https://www.mako.co.il/news-world/2026_q4/Article-192e49ad7ebf0a1026.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-10-02T14:31:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/09/18/1809VANCE_autoOrient_i.jpg"
-        },
-        {
-          "id": "985896d623",
-          "title": "בחירות 2026: כל הסקרים בחירות 2026: כל הסקרים",
-          "url": "https://www.kan.org.il/lobby/skarim/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": null
+          "id": "3a0b4c4f72",
+          "title": "Winter says he’ll demand ultra-Orthodox IDF service, but will still join coalition with Haredim",
+          "url": "https://www.timesofisrael.com/winter-says-hell-demand-ultra-orthodox-idf-service-but-will-still-join-coalition-with-haredim/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-10-04T03:57:58+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/F260915AVS100-1024x640.jpg"
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "צרפת מגיעה לנקודת שפל בעיני השוק האירופי, כשהמשקיעים בורחים והרחובות בוערים. למרות היכולת להינות ממאכלים יוקרתיים כסטייק וואגיו משובח, תשתיות בסיסיות כמו מערכת הביוב עדיין סובלות מתקלות.",
+      "summary_he": "חברת ביטחון ישראלית מתכננת הנפקת ענק תוך השוואה עצמית לתע\"א, אלביט ורפאל, ובמקביל נמכרים 50% ממניות רשת הנקניקיות זלמנ'ס החרדית בעסקה בשווי מיליוני שקלים.",
       "headlines": [
         {
-          "id": "9781ffb8bb",
-          "title": "\"המדינה הגרועה ביותר בגוש היורו\": הצרות של צרפת מעמיקות, הרחובות בוערים והמשקיעים בורחים",
-          "url": "https://www.themarker.com/wallstreet/2026-10-02/ty-article/.premium/000001a0-fc07-d3f9-abf6-fe6fd2160000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-02T11:16:41+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-fc1d-dbb2-a9f8-ffdf6eb30000/76/4f/e0a346cf4571a4db52be5a3f6d7c/886914.jpg?width=108&height=81"
+          "id": "8803696488",
+          "title": "המנכ\"ל מאחורי הנפקת הענק הביטחונית: \"רואים את עצמנו באותה רמה עם תע\"א, אלביט ורפאל\"",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001558253",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-04T07:00:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1789041617/%D7%99%D7%A8%D7%95%D7%9F_%D7%9E%D7%96%D7%A8%D7%97%D7%99_%D7%9E%D7%A0%D7%9B%D7%9C_%D7%91%D7%92%D7%99%D7%A8%D7%94._%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%A8%D7%A4%D7%99_%D7%9E%D7%9C%D7%A0%D7%99%D7%A7_oztttt.jpg"
         },
         {
-          "id": "72015cc3c6",
-          "title": "אפשר לאכול שם סטייק וואגיו משובח, אבל הביוב עדיין זורם ברחובות",
-          "url": "https://www.themarker.com/wallstreet/2026-10-02/ty-article/.premium/000001a0-f6d1-d272-adf6-ffd713580000",
+          "id": "6f8c2c9b12",
+          "title": "האקזיט של זלמן: 50% מרשת הנקניקיות החרדית זלמנ'ס יימכרו לפי שווי של 7 מיליון שקל לקמרי קמעונאות",
+          "url": "https://www.themarker.com/consumer/2026-10-04/ty-article/.premium/000001a1-05bf-d75d-a1e7-2fbfd13c0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-10-02T14:29:09+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-d3a1-d9b2-abe7-f7b3a7880000/ed/68/ad1376364024b036fa3bd13db469/541835.jpg?width=108&height=81"
+          "published_at": "2026-10-04T07:23:53+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-05cc-d5d6-a9fb-bdffef600001/b1/15/015c7f8c4f8681d3c79b39376db0/675448-2.jpg?width=108&height=81"
+        },
+        {
+          "id": "f0d34b0014",
+          "title": "ב-3.5 מיליון שקל: 50% מרשת הנקניקיות זלמנ'ס נמכרת",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001558326",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-04T07:55:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791100112/%D7%A7%D7%9E%D7%A8%D7%99_-_%D7%A8%D7%A9%D7%AA_%D7%96%D7%9C%D7%9E%D7%A0_%D7%A1_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%91%D7%90%D7%93%D7%99%D7%91%D7%95%D7%AA_%D7%A7%D7%9E%D7%A8%D7%99_%D7%A7%D7%9E%D7%A2%D7%95%D7%A0%D7%90%D7%95%D7%AA_4_liou9r.jpg"
+        },
+        {
+          "id": "69e4741626",
+          "title": "אחרי ניסוי מוצלח עם ענקית מסתורית: המניה הישראלית שזינקה ב-40% ביום אחד",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001558325",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-04T07:42:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791101035/%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%95%D7%AA_%D7%91%D7%95%D7%95%D7%9C_%D7%A1%D7%98%D7%A8%D7%99%D7%98_800_x_392_px_2_zsihts.png"
         }
       ]
     },
     {
       "key": "health",
       "label_he": "בריאות ורפואה",
-      "summary_he": "חברת ביטוח ישיר סירבה לשלם לחולת סרטן שהצליחה לשרוד יותר מתשעה חודשים, בטענה שחיים ממושכים חורגים מהציפיות. בנוסף, מדווח על תופעה גדלה של אנשים שעובדים ומגדלים ילדים תוך צריכת סמים בכמויות קיצוניות.",
+      "summary_he": "כתבה עוסקת בפתרונות חלופיים לאשפוז בבית חולים באמצעות החלמה בבית, לצד דיווח על מחדל רב-שנתי בביטוח הסיעודי שטרם נפתר.",
       "headlines": [
         {
-          "id": "f640fea04f",
-          "title": "ביטוח ישיר סירבה לשלם לחולת סרטן בגלל שהאריכה חיים מעבר ל-9 חודשים",
-          "url": "https://www.themarker.com/agents/2026-10-02/ty-article/.premium/000001a0-fba1-d2b3-a1b8-fbebed900000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-02T08:31:04+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a0-fbb4-dbb2-a9f8-fbffc12b0000/23/5a/47c5633b4504a352afc7ac208119/390995.jpg?width=108&height=81"
-        },
-        {
-          "id": "4b0a1bc4cd",
-          "title": "עובדים, מגדלים ילדים - וצורכים סמים עד \"שהלב מתפוצץ\" | תופעת \"הנרקומנים המתפקדים\"",
-          "url": "https://www.ynet.co.il/news/article/h1rgghecze",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-10-02T18:30:26+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/H1fP1YMcGl/H1fP1YMcGl_1_331_720_406_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "נוי מתוכנית 'חתונמי' הודיעה על התארסותה. מג\"ד בדימוס, שלחם בכל החזיתות הצבאיות, החליף את הקריירה הצבאית בעסק ממתקים. בצרפת, פוליטיקאי נקלע לסערת ביקורת בעקבות הצהרות אנטישמיות.",
-      "headlines": [
-        {
-          "id": "f1a39fe60b",
-          "title": "לקח לה כמה ימים לספר: נוי מ\"חתונמי\" מאורסת",
-          "url": "https://www.israelhayom.co.il/forreal/15_minutes/article/21537910",
+          "id": "e653a673c2",
+          "title": "להחלים בסלון: התחליף לאשפוז בבית חולים",
+          "url": "https://www.israelhayom.co.il/you-may-find-interesting/article/21444642",
           "source": "israel_hayom",
           "source_label": "ישראל היום",
           "source_label_he": "ישראל היום",
@@ -210,24 +173,112 @@
           "image_url": null
         },
         {
-          "id": "4af5b6cf39",
-          "title": "מעז יצא מתוק: המג\"ד שלחם בכל החזיתות - ופתח חנות ממתקים",
-          "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s1/1105195/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/j2odkrig/רובי-אתר.png?rxy=0.22241201769346303,0.3015628541025896&width=490&height=272&v=1dd51ee64822520"
+          "id": "e31194b690",
+          "title": "אחרי שבע שנים של מחדל בביטוח הסיעודי, לאף אחד אין באמת רצון לפתור אותו",
+          "url": "https://www.themarker.com/markets/2026-10-04/ty-article/.premium/000001a1-0507-d350-a9ab-df4743650000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-04T05:09:09+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-053a-d6fb-a9ab-87ba31a10001/64/d4/502c3b1b47b281cea5c66ec85b73/196469.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "בתחום הבינה המלאכותית מוערך כי חברות רבות לא ישרדו, בעוד המובילות יתחזקו, במקביל לדיון על סוף עידן הריבית האפסית וגל ההנפקות הקשור לבועת ה-AI.",
+      "headlines": [
+        {
+          "id": "ec9e0a27b1",
+          "title": "\"הרבה חברות בינה מלאכותית לא יחזיקו מעמד, אך אלה שיישארו יתחזקו עוד יותר\"",
+          "url": "https://www.themarker.com/markets/newinvestors/2026-10-04/ty-article-magazine/.highlight/000001a0-f64a-de52-afe1-f6cedf420000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-04T03:01:34+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-f6e4-de52-afe1-f6e6a5970000/63/7e/87bbca3e4450be0e38580c01ba35/123323.jpg?width=108&height=81"
         },
         {
-          "id": "6aee992ffc",
-          "title": "הסערה האנשטימית של הפוליטיקאי הצרפתי",
-          "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s1/1104474/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
+          "id": "613ef829c0",
+          "title": "סוף עידן הין הזול, גל ההנפקות — והשוק שממתין בצד השני של בועת ה–AI",
+          "url": "https://www.themarker.com/markets/2026-10-04/ty-article/.highlight/000001a0-f6c3-de52-afe1-f6c7c4b60000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-04T03:24:38+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-f820-da62-a7ac-fa2c47e60000/b4/77/6f82aeb54705b17c6ed112d81fa3/873459.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "סדרה שהעניקה השראה לגיבור פיגוע טיסת פליי דובאי זוכה לפופולריות גואה, ונטפליקס מציגה את מה שמתואר כסדרה הטובה ביותר של השנה.",
+      "headlines": [
+        {
+          "id": "87cabbea38",
+          "title": "הזינוק המטורף של הסדרה שנתנה השראה לגיבור טיסת פליי דובאי",
+          "url": "https://www.israelhayom.co.il/news/local/article/21547106",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
           "published_at": null,
-          "image_url": "https://www.kan.org.il/media/km1hzqt1/אנטישמית-מוסר.jpg?rxy=0.5223476347877998,0.2505945478488178&width=490&height=272&v=1dd5056f4ec7690"
+          "image_url": null
+        },
+        {
+          "id": "efa80fd3d7",
+          "title": "זו אולי הסדרה הכי טובה של השנה בנטפליקס",
+          "url": "https://www.israelhayom.co.il/culture/tv/article/21545292",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "225f0e0935",
+          "title": "רונה לי שמעון שנה אחרי הלידה: \"כמה אני מתגעגעת\"",
+          "url": "https://www.israelhayom.co.il/forreal/localy/article/21546939",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "פרשה באוניברסיטה עוררה ביקורת לאחר שנטען כי המוסד איבד שליטה ונכנע למרצה, מה שפגע ביכולתה של סטודנטית להמשיך בחייה.",
+      "headlines": [
+        {
+          "id": "4c24004440",
+          "title": "\"האוניברסיטה איבדה שליטה ונכנעה למרצה, יוהאנה לא הצליחה להמשיך בחייה\"",
+          "url": "https://www.haaretz.co.il/news/education/2026-10-04/ty-article-magazine/.premium/000001a0-fb23-d5a8-afe2-ff77c37b0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-04T09:12:06+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "בחיפה נמכרה דירה שגודלה קטן מגודל המרפסת שלה, במחיר של כ-1.55 מיליון שקל.",
+      "headlines": [
+        {
+          "id": "b2c0d04032",
+          "title": "חיפה: דירה שקטנה מהמרפסת שלה נמכרה ב־1.55 מיליון שקל",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001557846",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-04T02:54:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790752907/WhatsApp_Image_2026-09-25_at_19.10.29_1_-1_xoemfc.jpg"
         }
       ]
     }
@@ -250,172 +301,111 @@
   "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Jewish communities worldwide face heightened security concerns following an attempted terrorist attack aboard a Flydubai flight in which a pilot attacked a colleague. Two Iranians have been charged in the United Kingdom with plotting a foiled attack on the Jewish community in Manchester. Israeli entertainment executive Ynon Kreiz has been appointed to a senior position at Paramount-Warner studios.",
-      "headlines": [
-        {
-          "id": "4cf2a445f2",
-          "title": "Two Iranians charged for foiled attack on Jewish community in Manchester",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/02/twee-iraniers-aangeklaagd-voor-een-terroristisch-complot-tegen-d/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/02/0289ced8-e736-44e2-951b-d9c41a8041e4.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "42f4a2cea5",
-          "title": "David Ellison slots Israeli Ynon Kreiz into executive role at merged Paramount-Warner studios",
-          "url": "https://www.jta.org/2026/10/02/united-states/david-ellison-slots-israeli-ynon-kreiz-into-executive-role-at-merged-paramount-warner-studios",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-02T22:01:04+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/10-02-2026-Ynon-Kreiz-scaled.jpg"
-        },
-        {
-          "id": "dbd5870dd3",
-          "title": "Pilot who attacked colleague on Flydubai flight attempted terrorist attack, prosecutors say",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/03/piloot-die-andere-piloot-aanviel-had-vliegverbod-door-extremisti/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/03/b0fb99dc-2487-406b-bc9f-66f33a32304b.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "8c0b82dffc",
-          "title": "Jewish communities worldwide under heightened threat after flydubai attack",
-          "url": "https://www.jta.org/2026/10/02/israel/jewish-communities-worldwide-under-heightened-threat-after-flydubai-attack",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-02T16:57:30+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/10.02.26-flydubai.jpg"
-        }
-      ]
+      "summary_en": "No headlines related to Israel, Gaza, the Palestinian territories, Jewish communities, or Israeli diplomatic matters were found in this news batch.",
+      "headlines": []
     },
     "belgium": {
-      "summary_en": "Belgium faces a political crisis as the De Wever government navigates significant challenges this weekend. Public health authorities warn that up to one million Belgian children could require glasses by 2050 without improved early detection programs. A week after a shocking double murder in Iddergem, residents remain traumatized and fearful for their safety. Health officials have detected the highest coronavirus concentration in Leuven's wastewater in a year, raising new public health concerns.",
+      "summary_en": "Belgium reported a serious metro safety incident and addressed infrastructure and energy transition priorities. A person sustained severe leg injuries after becoming trapped in a roller blind at a Brussels metro station, marking another such incident. Flanders has 2,623 kilometers of dedicated bike lanes, with only 9 municipalities meeting perfect safety standards, while policymakers debate cost responsibility as over a million apartments must transition away from gas heating.",
       "headlines": [
         {
-          "id": "02f3a373c4",
-          "title": "De Wever government heading for total crisis this weekend",
-          "url": "https://www.hln.be/binnenland/belandt-regering-de-wever-dit-weekend-in-totale-crisis-big-shit-is-incoming~a0a8211f/",
+          "id": "55562e4ea8",
+          "title": "Another person trapped in roller blind at Brussels metro station: 'The man has serious leg injuries'",
+          "url": "https://www.hln.be/brussel/opnieuw-zit-iemand-gekneld-in-rolluik-van-metrostation-in-brussel-de-man-heeft-ernstige-verwondingen-aan-het-been~aa3d0842/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-10-03T05:00:00+00:00",
-          "image_url": "https://images.hln.be/OTU1Mjc1OGY1ZGQwYjkyNDcxYzgvZGlvLzI3ODQ3ODcxNi9maXQtd2lkdGgvNDAw/20261001-bruxelles-weekendinterview-dubbelinterview-met-hln-vtm-journalisten-isolde-van-den-eynde-en-karel-lattrez-over-de-vlaamse-begroting-20261001-brussel-journalisten-isolde-van-den-eynde-en-karel-lattrez-foto-bas-bogaerts-202610011207-id-bas-bogaerts-inzet-epa13246075-belgian-prime-minister-bart-de-wever-attends-a-plenary-session-in-the-belgian-federal-parliament-in-brussels-belgium-17-september-2026-epa-olivier-matthys"
+          "published_at": "2026-10-04T06:08:00+00:00",
+          "image_url": "https://images.hln.be/Y2ZkOGQ2ZjVmN2NiYzY5MzBmNGUvZGlvLzI3ODUxMTM2OS9maXQtd2lkdGgvNDAw/archiefbeeld-van-metrostation-kruidtuin-in-brussel-inzet-woordvoerder-brandweer-brussel-walter-derieuw"
         },
         {
-          "id": "c4628a535e",
-          "title": "Possibly 1 million Belgian children will be nearsighted by 2050, experts call for early detection",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/03/mogelijk-een-miljoen-bijziende-kinderen-in-belgie-tegen-2050/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/03/874f5897-9249-4b95-99b5-ad9f6108f5be.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "b0d4d83004",
-          "title": "Residents of Iddergem still in shock one week after double murder: \"You just don't feel safe anymore\"",
-          "url": "https://www.hln.be/binnenland/inwoners-van-iddergem-zijn-nog-altijd-in-shock-week-na-dubbele-bijlmoord-je-voelt-je-gewoon-niet-meer-veilig~a1f32aa7/",
+          "id": "bd6c3404b1",
+          "title": "Flanders counts 2,623 kilometers of bike lanes, only 9 municipalities have perfect rating: here's how it is in your neighborhood",
+          "url": "https://www.hln.be/regio/vlaanderen-telt-2-623-kilometer-moordstrookjes-voor-fietsers-slechts-9-gemeenten-hebben-perfect-rapport-zo-is-het-in-jouw-woonplaats~a0bb3dd9/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-10-03T04:00:00+00:00",
-          "image_url": "https://images.hln.be/MGE3Njc5NTk2MDVmM2VkNDJjY2YvZGlvLzI3ODQ2MTY3OS9maXQtd2lkdGgvNDAw/valerie-borremans-aan-de-schoolpoort-202610021538-id-filip-meutermans"
+          "published_at": "2026-10-04T06:31:08+00:00",
+          "image_url": "https://images.hln.be/NjExMmZlNDAyYjBmNWI0ZDA1NDQvZGlvLzI3ODQyNjgzMi9maXQtd2lkdGgvNDAw/moordstrookjes"
         },
         {
-          "id": "59187e32ff",
-          "title": "Highest coronavirus concentration in Leuven's sewage measured in one year",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/03/hoogste-coronaconcentratie-in-leuvens-rioolwater-gemeten-in-een/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2020/07/31/df90253f-d30e-11ea-aae0-02b7b76bf47f.jpg?width=200&height=125&q=80&blur=90"
+          "id": "733d4c95fb",
+          "title": "More than a million apartments must get off gas: will the tenant pay the bill?",
+          "url": "https://www.hln.be/mijn-geld/ook-meer-dan-een-miljoen-appartementen-moeten-van-het-gas-af-betaalt-de-huurder-de-rekening~a5ea0588/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-04T05:00:00+00:00",
+          "image_url": "https://images.hln.be/MDM2ZjAzYjk5YWRlZWYyNzBkYzUvZGlvLzI3ODQ4MjQ0My9maXQtd2lkdGgvNDAw/architecture-apartment-houses-in-belgium-flanders-in-the-backlight-wim-boone-coordinator-bij-het-vlaams-huurdersplatform"
         }
       ]
     },
     "europe": {
-      "summary_en": "France's presidential campaign has been thrown into disarray following a chaotic week of political upheaval. Latvia's prime minister won an election victory, though the win was tempered by ongoing tensions with Russia and regional security concerns. Seventeen European Union member states have joined forces to oppose proposed EU budget cuts, signaling significant internal resistance within the bloc. Russia has intensified military operations in Ukraine, launching attacks on critical infrastructure, including major bridges over the Dnieper River in Kyiv.",
+      "summary_en": "Western Europe faced severe weather impacts and critical geopolitical developments related to Ukraine. Spain experienced record rainfall, causing flooding and two deaths in the Barcelona region, with major transport disruptions. Germany's Chancellor Friedrich Merz made a surprise, unannounced visit to Kyiv as Russia continued striking Ukrainian infrastructure. Latvia's election results strengthened prospects for a pro-Ukraine coalition government.",
       "headlines": [
         {
-          "id": "82f69b3307",
-          "title": "'Maxi merde': French presidential campaign rattled by a week of chaos",
-          "url": "https://www.politico.eu/article/maxi-merde-french-presidential-campaign-rattled-by-a-week-of-chaos/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-10-02T16:59:21+00:00",
-          "image_url": null
-        },
-        {
-          "id": "75a178e160",
-          "title": "Latvian PM faces bittersweet victory in election backdropped by Russia",
-          "url": "https://www.politico.eu/article/latvia-prime-minister-andris-kulbergs-faces-bittersweet-victory-election-2026/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-10-03T02:00:00+00:00",
-          "image_url": null
-        },
-        {
-          "id": "0a14084f08",
-          "title": "17 countries join forces to oppose EU budget cuts",
-          "url": "https://www.politico.eu/article/17-countries-join-forces-to-oppose-eu-budget-cuts/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-10-02T14:39:01+00:00",
-          "image_url": null
-        },
-        {
-          "id": "8b70c5cc7d",
-          "title": "Mayor sounds alarm over 'highly dramatic situation' in Kyiv; Russians target two major bridges over Dnieper River",
-          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-burgemeester-slaat-alarm-over-zeer-dramatische-situatie-in-kiev-russen-vallen-opnieuw-belangrijke-brug-aan-eu-schuift-oekraine-nog-eens-2-9-miljard-euro-toe~b38bed0a/",
+          "id": "1395c42a2e",
+          "title": "Record rain and flooding hit Barcelona and surroundings, trains largely halted",
+          "url": "https://www.demorgen.be/nieuws/recordregen-en-overstromingen-treffen-barcelona-en-omstreken-treinen-grotendeels-stilgelegd~b59c0a7e/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-10-03T05:17:00+00:00",
-          "image_url": "https://image.demorgen.be/278461210/roi/320/320/2416.74/1439.76/afbeelding"
+          "published_at": "2026-10-04T05:35:00+00:00",
+          "image_url": "https://image.demorgen.be/278500841/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "0e85bcf2fc",
+          "title": "Two deaths from severe weather in Barcelona and surroundings, residents urged to stay home",
+          "url": "https://www.hln.be/buitenland/twee-doden-bij-zwaar-noodweer-in-barcelona-en-omstreken-inwoners-opgeroepen-thuis-te-blijven~va59c0a7e/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-04T04:54:00+00:00",
+          "image_url": "https://images.hln.be/MzQyY2ZmYjRhMWRiNDNiOWI5YmEvZGlvLzI3ODUwMDg0Mi9maXQtd2lkdGgvNDAw/epa13279507-a-passer-by-and-his-dog-run-during-heavy-rainfall-in-barcelona-catalonia-northeastern-spain-03-october-2026-epa-alejandro-garcia"
+        },
+        {
+          "id": "46b2b9c329",
+          "title": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine's capital",
+          "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-04T09:20:21+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/e401b844d0ecddf5fafedf092397064f660fa4a2/729_0_3363_2692/master/3363.jpg?width=700&quality=85&auto=format&fit=max&s=c2e5a68a2586176ca480edaa93a542fe"
+        },
+        {
+          "id": "8ba001093f",
+          "title": "Latvian PM's election win boosts chances for pro-Ukraine coalition",
+          "url": "https://www.politico.eu/article/latvian-pm-andris-kulbergs-election-win-boosts-chances-for-pro-ukraine-coalition/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-04T09:26:05+00:00",
+          "image_url": null
         }
       ]
     },
     "world_top": {
-      "summary_en": "North Korea launched a ballistic missile in response to South Korean demands for an apology over wounded soldiers, escalating regional tensions. An oil tanker was struck by an unknown projectile near the Omani coast, prompting the United States to deploy a third aircraft carrier to the Middle East amid rising regional tensions. Energy analysts are examining whether oil prices have been lower under the Trump administration compared with his predecessors.",
+      "summary_en": "Major global developments included Brazil's pivotal election and a diplomatic stalemate in Middle East negotiations. Brazilians voted in a decisive election expected to significantly shape the country's future direction. Iran's foreign minister stated that negotiations remain the only viable path to a resolution after talks with the United States reached an impasse.",
       "headlines": [
         {
-          "id": "d00a10e57f",
-          "title": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
-          "url": "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
+          "id": "e4cefa03c7",
+          "title": "Brazil goes to polls in decisive election for future of Latin America",
+          "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-10-03T05:31:08+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/9ba691b79ce886213316c0877262c106a43521f1/356_0_3778_3022/master/3778.jpg?width=700&quality=85&auto=format&fit=max&s=1f34268b4a097c4fb6510f80c3822200"
+          "published_at": "2026-10-04T08:53:01+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/757a9527f797178522ea1b4923ab7b3c421076ee/71_0_2014_1612/master/2014.jpg?width=700&quality=85&auto=format&fit=max&s=ae31d06a8840731dcc2f6fcd0464110a"
         },
         {
-          "id": "36c61a787c",
-          "title": "Oil tanker hit by unknown projectile near Omani coast – US sends third aircraft carrier to Middle East",
-          "url": "https://www.hln.be/buitenland/olietanker-geraakt-door-onbekend-projectiel-in-de-buurt-van-omaanse-kust-vs-sturen-derde-vliegdekschip-naar-midden-oosten~a99e0324/",
+          "id": "3755cead26",
+          "title": "Iranian minister after stalled talks with US: 'Only negotiations offer a solution'",
+          "url": "https://www.hln.be/buitenland/iraanse-minister-na-vastgelopen-gesprekken-met-vs-alleen-onderhandelingen-bieden-een-oplossing~a99e0324/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-10-03T03:55:00+00:00",
-          "image_url": "https://images.hln.be/ZTgzMTRmMzQ5MjA2MmUzOTJkMGQvZGlvLzI3ODMzODg5Ny9maXQtd2lkdGgvNDAw/file-in-this-photograph-released-by-the-u-s-navy-military-planes-stand-on-the-flight-deck-of-the-nimitz-class-aircraft-carrier-uss-theodore-roosevelt-july-4-2024-in-the-south-china-sea-seaman-ryan-holloway-u-s-navy-via-ap-file"
-        },
-        {
-          "id": "fef2f28c0e",
-          "title": "Oil prices lower under Trump than under Obama and Biden: Did Trump really perform better than his predecessors?",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/28/factcheck-olieprijs-minder-vaak-boven-100-dollar-onder-trump/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/28/fab6b487-bea0-49d3-bee8-09b27f9808f5.jpg?width=200&height=125&q=80&blur=90"
+          "published_at": "2026-10-04T09:14:00+00:00",
+          "image_url": "https://images.hln.be/YWYwMGIzYTk3ZWIwMzQ2NWNkMjkvZGlvLzI3ODUxMjgwNi9maXQtd2lkdGgvNDAw/iran-s-foreign-minister-abbas-araghchi-speaks-during-a-meeting-with-foreign-ambassadors-and-diplomats-in-tehran-on-october-4-2026-araghchi-said-on-october-4-that-there-was-no-military-solution-to-his-country-s-conflict-with-the-us-with-talks-on-ending-the-war-apparently-at-an-impasse-photo-by-atta-kenare-afp"
         }
       ]
     },
