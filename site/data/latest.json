@@ -1,33 +1,68 @@
 {
-  "generated_at": "2026-10-07T06:59:31.095256+00:00",
-  "date": "2026-10-07",
+  "generated_at": "2026-10-08T06:35:18.347403+00:00",
+  "date": "2026-10-08",
   "degraded": false,
   "top_general": {
-    "summary_he": "ישראל מציינת שלוש שנים לטבח 7 באוקטובר בטקסים, תערוכות ואירועי זיכרון ברחבי הארץ, לצד דריכות גבוהה לקראת מחאות ענק ברחבי העולם נגד ישראל. סגן נשיא ארה\"ב ואנס מסר כי איראן תידרש לצמצם משמעותית את יכולות ההעשרה שלה כתנאי לסיום המלחמה, בעוד תמונות לוויין חושפות שאיראן משקמת מתחם גרעיני שהותקף על ידי צה\"ל. במקביל נמשכת המערכה הפוליטית הפנימית, עם 20 יום לבחירות ודיווח על ניסיון חיסול פוליטי של עופר וינטר.",
+    "summary_he": "ישראל ציינה שלוש שנים לטבח ה-7 באוקטובר בטקסים ומחאות ברחבי העולם, כשבני משפחות הנרצחים דורשים ועדת חקירה ממלכתית. במקביל מתגבר החשש מחידוש הלחימה באיראן, עם דיווחים כי טראמפ שוקל תקיפה נוספת וצבא ארה\"ב נערך לתרחיש כזה. בזירה המדינית מתפרסם סקר לפיו גוש נתניהו מוביל, ובכלכלה ממשיכות ההשלכות של הסנקציות הבינלאומיות על ישראל.",
     "headlines": [
       {
-        "id": "8b79de60cf",
-        "title": "ההפגנות והאירועים ביום השנה השלישי לטבח 7/10 - וציר הזמן של המלחמה",
-        "url": "https://www.ynet.co.il/news/article/hyittlzifx",
+        "id": "ea1f2fd2b5",
+        "title": "היום ששינה את הכל",
+        "url": "https://www.ynet.co.il/news/article/rkcbiznszx",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-10-07T03:23:37+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/Hk3pCRGszg/Hk3pCRGszg_0_0_850_479_0_medium.jpg"
+        "published_at": "2026-10-07T18:36:40+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/18/HyPQdLz91g/HyPQdLz91g_0_0_1920_1080_0_medium.jpg"
       },
       {
-        "id": "75b0122847",
-        "title": "ואנס חשף את התנאי לסיום המלחמה: \"איראן חייבת לצמצם משמעותית את יכולות ההעשרה\"",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-176725c877311a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-10-07T00:54:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/02/27/AP26057643121011_re_autoOrient_i.jpg"
+        "id": "43ca286c16",
+        "title": "דיווח: טראמפ שוקל לחדש את התקיפות באיראן בשבועות הקרובים",
+        "url": "https://www.haaretz.co.il/news/world/america/2026-10-08/ty-article/000001a1-1907-d5f6-a9f5-dd373bb10000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-08T01:15:00+00:00",
+        "image_url": null
+      },
+      {
+        "id": "99a61475da",
+        "title": "סקר חדשות 13: גוש נתניהו ממשיך להוביל וגדול מגוש איזנקוט בחמישה מנדטים",
+        "url": "https://www.haaretz.co.il/news/elections/2026-10-07/ty-article/000001a1-176c-d042-a9e9-176c0e490000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-07T18:10:09+00:00",
+        "image_url": null
+      },
+      {
+        "id": "8ac4ea9220",
+        "title": "93 סנקציות מ–53 מדינות ועוד תשע סנקציות בדרך — ישראל נהפכת למדינה מצורעת כמו איראן",
+        "url": "https://www.themarker.com/news/politics/2026-10-07/ty-article/.premium/000001a1-1693-dba5-a5bf-dfd39e2c0000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-10-07T16:03:15+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-1714-d042-a9e9-173428c20000/55/b9/47d516c74810931b09b38640f1c3/548003-2.jpg?width=108&height=81"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "דיווחים חדשים מצביעים על כך שחיזבאללה קיבל מאיראן 200 מיליון דולר לסיוע לעקורים, ותמונות לוויין מראות שאיראן משקמת מתחם גרעיני שהותקף. ארה\"ב שוקלת לחדש תקיפות באיראן בשבועות הקרובים, וההסלמה מול החות'ים בתימן מחריפה. בעזה, למרות הפסקת הלחימה הרשמית, התושבים עדיין חיים במצוקה הומניטרית קשה.",
+    "headlines": [
+      {
+        "id": "c3dbd55f01",
+        "title": "מקורות: חיזבאללה קיבל מאיראן 200 מיליון דולר לסיוע לעקורים במלחמה",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-07/ty-article/.premium/000001a1-16c6-dbd6-a5a5-9ff795970000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-07T14:50:07+00:00",
+        "image_url": null
       },
       {
         "id": "5be38a0769",
-        "title": "תמונות הלוויין חושפות: איראן משקמת מתחם לפיתוח נשק גרעיני שהותקף ע\"י צה\"ל",
+        "title": "תמונות הלוויין חושפות: איראן משקמת מתחם לפיתוח נשק גרעיני שהותקף בידי צה\"ל",
         "url": "https://www.mako.co.il/news-world/2026_q3/Article-c37025c877311a1027.htm",
         "source": "mako",
         "source_label": "N12",
@@ -36,78 +71,33 @@
         "image_url": "https://img.mako.co.il/2026/10/06/lavyannn0610_autoOrient_i.jpg"
       },
       {
-        "id": "985266cc57",
-        "title": "ההחלטה של נתניהו ברורה: עופר וינטר הוא מטרה לחיסול פוליטי",
-        "url": "https://www.haaretz.co.il/news/elections/2026-10-07/ty-article/.premium/000001a1-12b6-d091-aba9-17feef150000",
+        "id": "43ca286c16",
+        "title": "דיווח: טראמפ שוקל לחדש את התקיפות באיראן בשבועות הקרובים",
+        "url": "https://www.haaretz.co.il/news/world/america/2026-10-08/ty-article/000001a1-1907-d5f6-a9f5-dd373bb10000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-10-07T03:01:53+00:00",
+        "published_at": "2026-10-08T01:15:00+00:00",
         "image_url": null
       },
       {
-        "id": "056da64ff3",
-        "title": "דריכות שיא: צפי למחאות ענק נגד ישראל ביום השנה לטבח תחת הכותרת \"3 שנים לרצח עם\"",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-9e0fc4b155211a1027.htm",
+        "id": "ceb9736375",
+        "title": "ההסלמה עם החות'ים עולה מדרגה: \"איראן מרוויחה, ההתבססות - תעמיק את האיום\"",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-58b0511549911a1027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-10-07T04:44:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/10/06/hafganot061012_autoOrient_i.jpg"
-      }
-    ]
-  },
-  "security_war": {
-    "summary_he": "ציר הזמן של המלחמה מאז 7 באוקטובר ממשיך להיסקר בהרחבה, מהפתעת ההתקפה ועד ימינו, לצד דיווחים על מתיחות בצה\"ל ואזהרות בכירים מפני משבר עם המילואימניקים. בשטח, מתנחלים תקפו מוסקים פלסטינים בעומק שטח B בנוכחות צה\"ל, וצלם עיתונות נפצע. נתונים חדשים מצביעים על כך שרבע מהישראלים סובלים מתסמיני פוסט-טראומה בעקבות המלחמה.",
-    "headlines": [
-      {
-        "id": "b7021671c1",
-        "title": "6 דקות ביטחוני פריצת המלחמה, החטופים - והחיסולים ששינו את המזרח התיכון | האירועים המרכזיים מ-06:29 ועד היום מ-7 באוקטובר ועד היום: ציר הזמן המלא של המלחמה ששינתה את ישראל - התקפת הפתע, התמרון הקרקעי, עסקאות השחרור, החזיתות הנוספות והרגעים המכריעים שליוו אותנו בדרך זמן קריאה: 6 דקות.",
-        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-86bc679a",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": null
+        "published_at": "2026-10-08T04:14:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/16/AP26253315512845_autoOrient_i.jpg"
       },
       {
-        "id": "dd6314d745",
-        "title": "מתיחת הפנים של צה\"ל מאז 7/10 - ואזהרת הבכירים: החבל עם המילואימניקים ייקרע",
-        "url": "https://www.ynet.co.il/news/article/hkzduamsfe",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-10-07T03:00:00+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/06/HJbdDsoMjMg/HJbdDsoMjMg_0_117_2560_1441_0_medium.jpg"
-      },
-      {
-        "id": "b5b409b066",
-        "title": "בנוכחות צה\"ל: מתנחלים תקפו מוסקים פלסטינים בעומק שטח B, צלם עיתונות נפצע",
-        "url": "https://www.haaretz.co.il/news/politics/2026-10-06/ty-article/.premium/000001a1-111a-d88d-aba1-dd9bb2850000",
+        "id": "f3df59b524",
+        "title": "באוהלים בלויים, בתור למים ולתרופות, בעזה לא מרגישים שהמלחמה נגמרה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-08/ty-article/.premium/000001a1-16d0-d89b-a9bb-57d5eb470000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-10-06T14:10:53+00:00",
-        "image_url": null
-      },
-      {
-        "id": "189fa1921f",
-        "title": "הקרב שלא נגמר: רבע מהישראלים עם תסמיני פוסט-טראומה | הנתונים העדכניים",
-        "url": "https://www.ynet.co.il/news/article/yokra14919252",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-10-07T04:56:05+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/08/rJx8qIJxW6/rJx8qIJxW6_0_0_1280_720_0_medium.jpg"
-      },
-      {
-        "id": "210b80761c",
-        "title": "1 דקות בריאות הדלתות של חדר הטראומה נפתחו ולא נסגרו\": עובדי כללית חוזרים ל-7 באוקטובר אחות שאחותה נחטפה לעזה, מנהלת מרפאה שבנה נלחם בעזה, טראומטולוג שטיפל בגל הפצועים ומנהלות שהפכו את בתיהן למרפאות חירום - חוזרים לרגעים שבהם השליחות המקצועית והכאב האישי התערבבו זמן קריאה: 1 דקות.",
-        "url": "https://www.i24news.tv/he/news/news/health/artc-f22f530b",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
+        "published_at": "2026-10-08T03:01:08+00:00",
         "image_url": null
       }
     ]
@@ -116,73 +106,46 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "המערכה הפוליטית מתחממת לקראת הבחירות, עם 20 ימים שנותרו ואירוע יקר במיוחד עם גולן. במקביל מדווח כי נתניהו החליט להפוך את עופר וינטר למטרה לחיסול פוליטי, וסקרי בחירות חדשים מתפרסמים.",
+      "summary_he": "נתניהו וסמוטריץ' יקיימו כנס \"מצילים את הימין\" בלי בן גביר, בעוד סקר מצביע על יתרון לגוש נתניהו. בפוליטיקה הפנימית התגלו מינויים לפעילי ליכוד ערב הבחירות, וברקע נמשכות מחלוקות סביב ניסוח ההיסטוריה של 7 באוקטובר.",
       "headlines": [
         {
-          "id": "b5580e004b",
-          "title": "20 ימים לבחירות: מיליון שקל לאירוע עם גולן",
-          "url": "https://www.israelhayom.co.il/forreal/localy/article/21569511",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "985266cc57",
-          "title": "ההחלטה של נתניהו ברורה: עופר וינטר הוא מטרה לחיסול פוליטי",
-          "url": "https://www.haaretz.co.il/news/elections/2026-10-07/ty-article/.premium/000001a1-12b6-d091-aba9-17feef150000",
+          "id": "da92057803",
+          "title": "נתניהו וסמוטריץ' יקיימו כנס \"מצילים את הימין\", בן גביר לא הוזמן",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-07/ty-article/.premium/000001a1-161a-dbd6-a5a5-9fffd6c30000",
           "source": "haaretz",
           "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-10-07T03:01:53+00:00",
+          "published_at": "2026-10-07T13:24:30+00:00",
           "image_url": null
         },
         {
-          "id": "985896d623",
-          "title": "סקר בחירות 2026 סקר בחירות 2026",
-          "url": "https://www.kan.org.il/lobby/skarim/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "ערוצי הטלוויזיה עוצרים הערב לשדרי זיכרון מיוחדים ליום 7 באוקטובר. בנוסף, מדווח על נפילתה התדמיתית של מיילי סיירוס ועל מחלוקת עדתית בתוכנית הבישול \"המטבח המנצח\".",
-      "headlines": [
-        {
-          "id": "0e4cdfac33",
-          "title": "הערב שבו הערוצים עוצרים כדי לזכור: משדרי יום 7 באוקטובר בטלוויזיה",
-          "url": "https://www.israelhayom.co.il/culture/tv/article/21562662",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
+          "id": "115ad86551",
+          "title": "הג'ובים לפעיל הליכוד לפני הבחירות: כץ מינה אותו ליועץ במשרדו, גמליאל לראש מטה",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-07/ty-article/.premium/000001a1-10ce-dd49-a5ff-d2de755c0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-07T12:40:15+00:00",
           "image_url": null
         },
         {
-          "id": "8d38913660",
-          "title": "מהפסגה ל-157: הנפילה של מיילי סיירוס",
-          "url": "https://www.israelhayom.co.il/forreal/global/article/21569490",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
+          "id": "6058d7b6ea",
+          "title": "המזכיר הצבאי של נתניהו ב־7 באוקטובר: מה שמספרים לציבור זה לא מה שקרה באמת",
+          "url": "https://www.haaretz.co.il/news/politics/2026-10-08/ty-article/000001a1-19ce-d70d-a5b9-fbde4cdd0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-08T04:56:31+00:00",
           "image_url": null
         },
         {
-          "id": "262cc560d0",
-          "title": "עוד לפני שהדליקו אש: השד העדתי שוב חרך את המסך ב\"המטבח המנצח\"",
-          "url": "https://www.israelhayom.co.il/culture/tv/article/21569787",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
+          "id": "d5860003c4",
+          "title": "הרב יצחק יוסף האשים את בן גביר במעצר תלמידי ישיבות עריקים",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-07/ty-article/.premium/000001a1-17ed-d199-a5fd-bfff15780000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-07T20:31:42+00:00",
           "image_url": null
         }
       ]
@@ -190,54 +153,84 @@
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "חברת ניו מד מתעקשת כי עסקת הגז הענקית, בשווי 6.7 מיליארד דולר, מבוטלת — התפתחות כלכלית משמעותית בתחום האנרגיה.",
+      "summary_he": "ראש קרן המטבע הבינלאומית מזהירה משלושה איומים גדולים על הכלכלה העולמית, בעוד בישראל מתברר כי הבטחת אלי כהן לגז במחיר מפוקח אינה ישימה בפועל. מחירי הנפט עולים על רקע החשש מהסלמה מול איראן, ובורסת תל אביב מפגרת אחרי וול סטריט.",
       "headlines": [
         {
-          "id": "271cc26012",
-          "title": "בניו מד מתעקשים: עסקת הגז בת 6.7 מיליארד הדולרים מבוטלת",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001558667",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-10-07T04:12:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790516849/800_dqv9us.jpg"
+          "id": "6698b93f43",
+          "title": "ראש קרן המטבע הבינלאומית מזהירה: אלה שלושת האיומים הגדולים על הכלכלה העולמית",
+          "url": "https://www.themarker.com/wallstreet/2026-10-07/ty-article/.premium/000001a1-1613-d042-a9e9-1633a8290000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-07T12:55:53+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000199-f7f6-dfc6-a3bf-f7f63b940000/30/c0/784557cd4c4aac1bd63438b78894/63460011.JPG?width=108&height=81"
+        },
+        {
+          "id": "462451d6e8",
+          "title": "אלי כהן הבטיח לציבור גז במחיר מפוקח — אבל נראה שאין מי שמוכן או יכול למכור אותו",
+          "url": "https://www.themarker.com/news/energy/2026-10-07/ty-article/.premium/000001a1-1666-dc83-abad-3fff41210000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-07T13:17:38+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-166d-dba5-a5bf-df6dc6090000/9c/5e/86728d6a4c9ca93f681588419fcf/327463-2.jpg?width=108&height=81"
+        },
+        {
+          "id": "3ceb1354bf",
+          "title": "ירידות באסיה; הנפט עולה ב-2% על רקע דיווחים כי ארה\"ב שוקלת לתקוף שוב באיראן",
+          "url": "https://www.themarker.com/wallstreet/2026-10-08/ty-article-live/000001a1-0a37-dff9-a3b3-cf3fba8e0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-08T04:16:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-172b-dafb-a3b1-3fbb8a320000/84/a4/c75d8fad42e7b67e731386483944/690968.jpg?width=108&height=81"
+        },
+        {
+          "id": "bb6ecab54a",
+          "title": "הפער בין ת\"א לוול סטריט מחדד את הדילמה הקשה בהשקעות. ומה חושב עליה באפט?",
+          "url": "https://www.themarker.com/markets/2026-10-08/ty-article/000001a1-19a3-d042-a9e9-19a304eb0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-08T05:22:40+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-19e9-dbd6-a5a5-99ffce670000/4a/bc/da788abc495db8e8567c81d7d658/733728.jpg?width=108&height=81"
         }
       ]
     },
     {
       "key": "religion_society",
       "label_he": "דת וחברה",
-      "summary_he": "סביב יום השנה לטבח מתפרסמות כתבות על עסקים שקמו מחדש בעוטף עזה כחלק מחיבור הקהילה, לצד עדכונים על מחאות משפחות בנובה וחסימות כבישים.",
+      "summary_he": "הרב יצחק יוסף האשים את בן גביר במעצר תלמידי ישיבות עריקים, בעוד החרדים הקיצוניים מכריזים על מחאות ענק בגוש דן ובירושלים. המתחים בין הציבור החרדי לממשלה ממשיכים להעסיק את השיח הציבורי.",
       "headlines": [
         {
-          "id": "1e03a78446",
-          "title": "\"מחברים את הקהילה מחדש\": העסקים שקמו בעוטף אחרי המלחמה",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001557923",
+          "id": "d5860003c4",
+          "title": "הרב יצחק יוסף האשים את בן גביר במעצר תלמידי ישיבות עריקים",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-07/ty-article/.premium/000001a1-17ed-d199-a5fd-bfff15780000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-07T20:31:42+00:00",
+          "image_url": null
+        },
+        {
+          "id": "b55d126f1e",
+          "title": "פקקים בדרך: החרדים הקיצונים הכריזו על מחאות ענק היום בגוש דן ובירושלים",
+          "url": "https://www.ynet.co.il/news/article/hykvsa7img",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-07T21:45:34+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/SJx68GYINMx/SJx68GYINMx_0_99_1280_721_0_medium.jpg"
+        },
+        {
+          "id": "b2544a3865",
+          "title": "לידיעת הנהגים: מחאות ענק צפויות היום ברחבי גוש דן וירושלים",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001558818",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-10-06T18:00:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790775246/1000624474_oo7vzk.jpg"
-        },
-        {
-          "id": "c1470c6e85",
-          "title": "משפחות בנובה, מחאות בכנסת וחסימות באיילון | עדכונים",
-          "url": "https://www.israelhayom.co.il/news/local/article/21568844",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "134ca138d4",
-          "title": "בלב פריז: שביל נקרא על שמם של שירי, אריאל וכפיר ביבס",
-          "url": "https://www.israelhayom.co.il/travel/tourism-news/article/21570016",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
+          "published_at": "2026-10-08T02:37:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1624521390/direct/20210622_174301_ejp3db.jpg"
         }
       ]
     }
@@ -254,198 +247,219 @@
     "times_of_israel",
     "maariv",
     "makor_rishon",
-    "reshet13",
+    "reshet13"
+  ],
+  "sources_failed": [
     "i24"
   ],
-  "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "On the third anniversary of the October 7 Hamas attack, Israel confronts profound trauma and deep political divisions. Survivors continue grappling with psychological impacts, and kibbutzim destroyed in the assault are working toward rebuilding. The commemoration has exposed significant rifts within Israeli society, while the country faces ongoing tensions in the West Bank and international concerns about antisemitism affecting Jewish communities globally.",
+      "summary_en": "October 7-related issues continue to dominate Israeli news: a peace vigil was disrupted by protesters, while Palestinians in Gaza face an ongoing humanitarian crisis, including disease and destruction. Newly released recordings from paramedic Amit Mann have renewed calls for families to gain access to records related to October 7 victims. Antisemitic incidents, including online threats against Jewish individuals, continue to be reported.",
       "headlines": [
         {
-          "id": "d91407fcbb",
-          "title": "Analysis: Emily was 8 and a hostage—three years ago Israel experienced its darkest day",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/06/7-oktober-2023-de-dag-die-israel-hertekende/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2024/10/13/343b573e-bb05-4829-8916-5a1d01f9dc6f.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "a684256221",
-          "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-          "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-10-07T05:02:18+00:00",
-          "image_url": null
-        },
-        {
-          "id": "912d7979e6",
-          "title": "'Shame yourself, it's a disgrace!': Hamas attack commemoration exposes deep political rift in Israel",
-          "url": "https://www.demorgen.be/nieuws/schaam-je-het-is-een-schande-herdenking-van-hamas-aanval-legt-diepe-politieke-kloof-in-israel-bloot~b4587955/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-07T03:00:00+00:00",
-          "image_url": "https://image.demorgen.be/278519958/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "ad71f84dd7",
-          "title": "'All I want to do is cry': trauma of 7 October survivors three years after the attacks",
-          "url": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-06T20:00:23+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/973838ccf1ce6f4f09e56468c00686b72111b4c9/658_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=fb20d1a73adf67e827e5fb88d0d9000f"
-        },
-        {
-          "id": "6df5b789f8",
-          "title": "Three years after October 7 massacre: war journalist Robin Ramaekers analyzes Gaza conflict",
-          "url": "https://www.hln.be/nieuws/3-jaar-na-bloedbad-van-7-oktober-oorlogsjournalist-robin-ramaekers-analyseert-gaza-conflict~a474242e/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-10-07T05:00:41+00:00",
-          "image_url": "https://images.hln.be/NzRlMTA2MTdjMmQ1NWEzZjhjNjIvZGlvLzI3ODYxNjI3MS9maXQtd2lkdGgvNDAw/mourners-gather-at-the-site-of-the-nova-music-festival-in-re-im-southern-israel-on-october-7-2026-to-mark-the-third-anniversary-of-hamas-s-october-7-2023-attack-mourners-observed-a-moment-of-silence-on-october-7-at-sites-in-southern-israel-attacked-by-hamas-three-years-earlier-the-country-s-deadliest-ever-attack-which-triggered-a-massive-israeli-offensive-in-gaza-at-the-site-of-the-nova-music-festival-which-hamas-militants-infiltrated-on-october-7-2023-through-cars-and-paragliders-family-members-bowed-their-heads-at-6-29-am-0329-gmt-surrounded-by-portraits-of-victims-with-flowers-placed-underneath-photo-by-john-wessels-afp"
-        },
-        {
-          "id": "084f4bddce",
-          "title": "In Britain, 'Jewish Greens' chief mulls quitting party after 'Zionism is Racism' motion passes",
-          "url": "https://www.jta.org/2026/10/06/global/in-britain-jewish-greens-chief-mulls-quitting-party-after-zionism-is-racism-motion-passes",
+          "id": "1d67c05812",
+          "title": "Protesters overrun Oct. 7 Israeli peace vigil attended by Mamdani",
+          "url": "https://www.jta.org/2026/10/07/ny/on-nyc-streets-jews-feel-fear-on-oct-7-anniversary-while-protesters-rage-against-israel",
           "source": "jta",
           "source_label": "JTA",
           "source_label_en": "JTA",
-          "published_at": "2026-10-06T21:32:21+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/GettyImages-2297660229.jpg"
+          "published_at": "2026-10-07T21:22:41+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/10.07-protest-2.jpg"
+        },
+        {
+          "id": "4f5afb6271",
+          "title": "'Neither war nor peace': Palestinians in Gaza on existing amid disease, despair and ruins",
+          "url": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-07T21:00:01+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/0d0f5ae6a7f02c5a92bea298f0d96f41be8a5762/385_0_4402_3521/master/4402.jpg?width=700&quality=85&auto=format&fit=max&s=05fb37ef3e6822a2451429f14c361335"
+        },
+        {
+          "id": "e7091900ff",
+          "title": "Newly aired recordings of paramedic Amit Mann's final hours renew push to let families access Oct. 7 records",
+          "url": "https://www.jta.org/2026/10/07/israel/newly-aired-recordings-of-paramedic-amit-manns-final-hours-renew-push-to-let-families-access-oct-7-records",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-07T20:39:50+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2024/10/Mann2.jpg"
+        },
+        {
+          "id": "1cc3ec5a82",
+          "title": "I made a film about Oct. 7 hostage posters. I was accused of centering 'whiteness.'",
+          "url": "https://www.jta.org/2026/10/07/ideas/i-made-a-film-about-oct-7-hostage-posters-i-was-accused-of-centering-whiteness",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-07T19:39:16+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/TORN_2025_NimShapira00004.jpg"
+        },
+        {
+          "id": "8aabdf0896",
+          "title": "Haverford professor accused of threatening, stalking Jewish person online",
+          "url": "https://www.jta.org/2026/10/07/united-states/haverford-professor-accused-of-threatening-stalking-jewish-person-online",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-07T19:31:14+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/10-07-2026-Haverford-scaled.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgian politics centers on PM Bart De Wever's governance and reform plans, including a contentious VAT revision designed to increase net wages starting in 2027—a proposal facing resistance from coalition partners who question the financial strategy. Education continues to face strain, with teachers protesting overcrowded classrooms where a single instructor manages 35 students. Energy regulation changes continue to affect households, while infrastructure and commuter patterns remain significant policy concerns.",
+      "summary_en": "Belgian news includes significant legal proceedings and public safety incidents. A trial is examining the death of toddler Dean, investigating the circumstances of a fatal car ride. Multiple regions reported earthquake activity more than 200 times, and a passenger attacked a train conductor at Tienen station. Youth vandalism in Liège resulted in the arrest of mostly minors, with parents facing charges for the damages. Surveys indicate that nearly a third of Belgian office workers suffer from weekly headaches.",
       "headlines": [
         {
-          "id": "4e004c5829",
-          "title": "From cleanup to regionalization: what is at stake in Bart De Wever's plan",
-          "url": "https://www.demorgen.be/meningen/van-saneren-tot-regionaliseren-dit-staat-er-op-het-spel-in-het-plan-van-bart-de-wever~b37b2b97/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-07T04:00:00+00:00",
-          "image_url": "https://image.demorgen.be/278596478/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "74c840c763",
-          "title": "De Wever wants higher net wages from 2027 in exchange for VAT reform, but clashes with MR: 'Do they understand the financial seriousness?'",
-          "url": "https://www.hln.be/binnenland/de-wever-wil-meer-nettoloon-vanaf-2027-in-ruil-voor-btw-hervorming-maar-botst-op-mr-begrijpen-ze-wel-de-financiele-ernst-van-de-situatie~a5a1dfd8/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-10-07T04:00:00+00:00",
-          "image_url": "https://images.hln.be/ZjY3MjA1ZTM5ZThjNmFhZjViMmMvZGlvLzI3MTk4MzkzNC9maXQtd2lkdGgvNDAw/epa12866121-leader-of-the-reformist-movement-mr-party-georges-louis-bouchez-l-speaks-next-to-belgian-prime-minister-bart-de-wever-during-a-plenary-session-at-the-belgian-federal-parliament-in-brussels-belgium-02-april-2026-the-members-of-parliament-interpellate-the-prime-minister-about-the-government-s-plans-regarding-rising-fuel-prices-and-the-government-s-planned-increase-in-fuel-taxes-epa-olivier-matthys"
-        },
-        {
-          "id": "17503a19eb",
-          "title": "Education: Students protest in Liège: 'One teacher for 35 students is too many'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/06/scholenprotest-waarom-protesteren-de-leerlingen-portret/",
+          "id": "c85a764864",
+          "title": "Death of toddler Dean: What happened during the fatal car ride? These questions are central to the trial",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/07/assisenproces-dean-start-gent/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/06/3fca7073-50d5-4688-b16a-7e7ceea26e50.png?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/07/4fcb915c-eade-491b-8919-9d370ce42626.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "feb9986c88",
-          "title": "Brussels continues to attract most commuters, but only 7 people board daily at these stations",
-          "url": "https://www.hln.be/brussel/brussel-blijft-meeste-pendelaars-aantrekken-maar-in-deze-stations-stappen-dagelijks-slechts-7-mensen-op~ae8841ad/",
+          "id": "61e9a94cde",
+          "title": "Over 200 reports of earthquakes in Ruiselede and surrounding area: 'Seemed like a rumbling truck, but it gave us quite a fright'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/08/aardbeving-ruiselede-sterrenwacht-richter/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/08/846883bc-1766-4f20-b4a6-9df91e9cc96e.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "9e65a840ad",
+          "title": "Six of seven arrested youths in Liège were minors: Parents face charges for damages",
+          "url": "https://www.hln.be/binnenland/zes-van-de-zeven-opgepakte-jongeren-in-luik-waren-minderjarig-ouders-riskeren-rekening-voor-vernielingen~afbd3208/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-10-07T05:21:00+00:00",
-          "image_url": "https://images.hln.be/NTkzOGYzZTc4YTYzOGE2NTA1YjUvZGlvLzIzNDEwMDU0MS9maXQtd2lkdGgvNDAw/20230809-brussel-belgie-onveiligheid-in-en-rond-station-brussel-zuid-copyright-bart-dewaele-brussel-zuid-omgeving-onveiligheid-reizigers-station-vuil-20230809140938-id-bart-dewaele"
+          "published_at": "2026-10-08T06:00:00+00:00",
+          "image_url": "https://images.hln.be/ZDg2NGY0ZGRjNjZhNWFiYWM5MTUvZGlvLzI3ODU5OTMzMS9maXQtd2lkdGgvNDAw/youths-confront-riot-police-as-students-gather-outside-several-schools-in-liege-during-a-protest-against-education-reforms-and-budget-cuts-on-tuesday-6-october-2026-yesterday-police-arrested-16-people-after-the-protests-turned-violent-the-protests-in-french-speaking-belgium-have-been-ongoing-for-months-following-a-series-of-reforms-and-budget-cuts-introduced-by-the-french-community-government-belga-photo-jonas-roosens"
+        },
+        {
+          "id": "1d1a5ed526",
+          "title": "Passenger attacks train conductor at Tienen station",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/07/tienen-station-agressie-treinbegeleider-reiziger-nmbs/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/07/4f48be4e-37db-4ca2-ac24-f843b035292c.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "0d97a694ff",
+          "title": "Nearly a third of Belgian office workers suffer from weekly headaches",
+          "url": "https://www.hln.be/binnenland/bijna-een-derde-van-de-belgische-kantoormedewerkers-heeft-wekelijk-last-van-hoofdpijn~ab47ddb1/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-08T04:38:20+00:00",
+          "image_url": "https://images.hln.be/OTRiZjkzNDQyNjU3NmM4NTJjNzIvZGlvLzI3ODY0NjU2OC9maXQtd2lkdGgvNDAw/hoofdpijn"
         }
       ]
     },
     "europe": {
-      "summary_en": "Russia intensified military operations against Ukraine, launching massive coordinated air strikes on Kyiv and multiple cities, causing casualties and damaging infrastructure as the conflict enters its third year. European Union negotiators are engaging with China to address concerns over cheap hybrid electric vehicle imports affecting European manufacturers. Romania faces mounting political pressure, with growing calls for a crisis election amid economic instability, while Germany's coalition dynamics continue to shape the broader European political landscape.",
+      "summary_en": "European news encompasses economic, environmental, and geopolitical developments. Spain is mourning Maricarmen Abascal (87), who became a symbol of the nation's housing crisis. The European Court of Auditors warns of rapid EU debt growth, with projections rising from 235 billion to one trillion euros. A controversial golden statue of Trump was unveiled at the European Parliament. Switzerland faces significant glacier loss following record summer temperatures, while Lithuania is considering restricting Russian transit over plague concerns.",
       "headlines": [
         {
-          "id": "e92046f290",
-          "title": "Ukraine-Russia War LIVEBLOG: Russia launches new wave of attacks on Kyiv, other Ukrainian cities hit",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/rusland-lanceert-nieuwe-aanvalsgolf-op-kiev-ook-andere-oekraien~1789060001669/",
+          "id": "86712f4f49",
+          "title": "Maricarmen Abascal (87) deceased, the symbol of Spain's housing crisis",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/07/maricarmen-spanje-overleden/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
           "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/07/d89c4b36-0423-4662-b72a-27cb47d3b195.jpg?width=200&height=125&q=80&blur=90"
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/27/85b2638b-2d8f-47ce-b4d4-c3397ce12849.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "3f7a44ec7b",
-          "title": "Russia confirms 'massive' air attack on Ukraine, preliminary two deaths and multiple injured; oil tanker ablaze in Black Sea off Russian coast",
-          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-twee-doden-en-meerdere-gewonden-bij-russische-drone-en-raketaanvallen-op-kiev-olietanker-in-zwarte-zee-in-brand-voor-russische-kust~b38bed0a/",
+          "id": "1db4d4694d",
+          "title": "European Court of Auditors raises alarm over rapidly rising EU debt: from 235 billion euros to 740 billion euros and soon 1,000 billion euros",
+          "url": "https://www.demorgen.be/nieuws/europese-rekenkamer-slaat-alarm-over-snel-stijgende-eu-schuld-van-235-miljard-euro-naar-740-miljard-euro-en-straks-1-000-miljard-euro~be765441/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-10-07T05:43:00+00:00",
-          "image_url": "https://image.demorgen.be/278616144/roi/320/320/2416.74/1439.76/afbeelding"
+          "published_at": "2026-10-08T01:00:00+00:00",
+          "image_url": "https://image.demorgen.be/278583243/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "93bf178307",
-          "title": "'Nobody wants a new Greece': Calls grow for crisis election in Romania",
-          "url": "https://www.politico.eu/article/romania-election-calls-crisis-nicusor-dan-george-simion/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-10-07T02:00:00+00:00",
-          "image_url": null
+          "id": "202569d932",
+          "title": "'Orange Plague': Golden statue of naked Trump unveiled in European Parliament",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/10/07/video-_orange-plague-gouden-beeld-van-naakte-trump-/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/07/5ea93336-11b0-4ea3-bd82-d2201f83b6e6.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "9d387e0b45",
-          "title": "EU negotiators head to China hoping to curb cheap imports of hybrid electric cars",
-          "url": "https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-07T04:00:34+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/6769d2b168b667e4ba8bdb16b088d0aaeccffd89/779_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=9df4ade5be165cb1d86b25f2be5c9dcd"
+          "id": "9c84400f98",
+          "title": "Switzerland in upheaval: Top of iconic mountain is 'bare' after hottest summer ever",
+          "url": "https://www.hln.be/weer-en-wetenschap/zwitserland-in-rep-en-roer-top-van-iconische-berg-is-kaal-na-warmste-zomer-ooit~a9f3d44b/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-08T04:58:58+00:00",
+          "image_url": "https://images.hln.be/M2EwNmY5NjZkYzc1NjBiMDAzZDgvZGlvLzI3ODYwMjExOC9maXQtd2lkdGgvNDAw/de-matterhorn-op-28-september-2025-met-sneeuw-en-op-28-september-2026-zonder-sneeuw"
+        },
+        {
+          "id": "9852865b4d",
+          "title": "Lithuania can restrict Russian transit if plague is confirmed, Mongolia tightens border supervision",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/07/litouwen-pest-rusland-mongolie-maatregellen/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/07/781a9cca-ee62-45e1-bfd0-a13207a10f3e.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Diplomatic tensions are escalating between the United States and Russia as Washington formally requests clarification on a possible plague outbreak, with President Trump signaling readiness for rapid talks with Putin. A major investigation into a Flydubai attack has expanded to examine the alleged hijacker's training history in New Zealand. In sports, Argentine football legend Lionel Messi concluded his international career with an emotional farewell match in Buenos Aires.",
+      "summary_en": "Global headlines reflect ongoing regional conflicts and political volatility. Russian military strikes on Ukraine have killed at least 28-32 people, including several children, prompting Lithuania to strengthen its military presence near Kaliningrad. Major Russian data center infrastructure was destroyed in drone attacks. The U.S. military has received orders to prepare for potential operations against Iran, while Houthi forces claim ballistic missile attacks on Saudi airports. A Trump rally in Texas was disrupted by protesters, with twelve individuals removed.",
       "headlines": [
         {
-          "id": "907b54c357",
-          "title": "Flydubai attack investigation widens as alleged hijacker's training in New Zealand scrutinised",
-          "url": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-07T05:25:10+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/3896ca0479fed88b7e5394212443180d14b75745/406_0_4058_3249/master/4058.jpg?width=700&quality=85&auto=format&fit=max&s=86065664a2ade8ed52fa287855dd68a6"
+          "id": "99cced0fdc",
+          "title": "Death toll from Russian attack on Ukraine rises to 28, including 5 children - Lithuania sends military to border with Kaliningrad",
+          "url": "https://www.hln.be/buitenland/dodentol-na-russische-aanval-op-oekraine-stijgt-naar-28-onder-wie-5-kinderen-litouwen-stuurt-militairen-naar-grens-met-kaliningrad~a93df6b5/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-08T05:18:00+00:00",
+          "image_url": "https://images.hln.be/OTFmNWIwNDY1ZjNjYjA3YWE0MjQvZGlvLzI3ODYzMTU5Ny9maXQtd2lkdGgvNDAw/epa13287576-a-ukrainian-emergency-worker-carries-the-body-of-a-killed-child-at-the-site-of-a-destroyed-residential-building-following-a-russian-strike-in-pryluky-chernihiv-area-ukraine-07-october-2026-according-to-the-state-emergency-service-of-ukraine-report-at-least-nine-people-including-three-children-were-killed-and-40-others-injured-after-a-russian-missile-hit-the-apartment-complex-as-search-and-rescue-teams-continue-clearing-rubble-to-locate-missing-residents-epa-serhii-okunev"
         },
         {
-          "id": "9d823dc976",
-          "title": "United States formally requests additional explanation from Russia on possible plague outbreak; Trump seeks rapid talks with Putin",
-          "url": "https://www.demorgen.be/nieuws/verenigde-staten-vragen-formeel-extra-uitleg-aan-rusland-over-mogelijke-pestuitbraak-trump-wil-snel-overleg-met-poetin~bca84d479/",
+          "id": "7e23b57675",
+          "title": "Live - Largest data center of Russian internet giant Yandex shut down after drone attack • Three 1-year-old children killed in Russian attacks on Ukraine, 32 dead total",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-grootste-datacenter-russische-internetgigant-yandex-stilgelegd-na-droneaanval-drie-kinderen-van-1-jaar-oud-gedood-bij-russische-aanvallen-op-oekraine-32-doden-in-totaal~b38bed0a/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-10-07T05:22:00+00:00",
-          "image_url": "https://image.demorgen.be/276739008/feature-crop/320/320/afbeelding"
+          "published_at": "2026-10-08T05:59:00+00:00",
+          "image_url": "https://image.demorgen.be/278631597/roi/320/320/2416.74/1439.76/afbeelding"
         },
         {
-          "id": "6b225158b4",
-          "title": "Tearful farewell in Buenos Aires: Messi says goodbye as Argentina international",
-          "url": "https://www.demorgen.be/nieuws/tranendal-in-buenos-aires-messi-neemt-afscheid-als-international-van-argentinie~b39baaaa/",
+          "id": "c89bc6d883",
+          "title": "Live - Axios: US military receives orders to be ready for attacks on Iran • Houthis: 'Ballistic missile fired at airport in Riyadh'",
+          "url": "https://www.demorgen.be/snelnieuws/live-axios-leger-vs-krijgt-bevel-klaar-te-zijn-voor-aanvallen-op-iran-houthi-s-ballistische-raket-afgevuurd-op-luchthaven-in-riyad~be9c4f82/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-10-07T04:58:00+00:00",
-          "image_url": "https://image.demorgen.be/278613930/feature-crop/320/320/afbeelding"
+          "published_at": "2026-10-08T05:03:00+00:00",
+          "image_url": "https://image.demorgen.be/278330622/roi/320/320/2805/1918.28/afbeelding"
+        },
+        {
+          "id": "9644d48e8f",
+          "title": "Protesters interrupt Trump rally in Texas: twelve people removed",
+          "url": "https://www.hln.be/buitenland/demonstranten-onderbreken-trump-bijeenkomst-in-texas-twaalf-mensen-afgevoerd~a79c6d94/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-08T05:27:00+00:00",
+          "image_url": "https://images.hln.be/YTg1MWE3NzNiMWZkYWFiNjBhMTYvZGlvLzI3ODY0NDk5NS9maXQtd2lkdGgvNDAw/a-protester-is-removed-from-the-audience-as-us-president-donald-trump-campaigns-ahead-of-the-midterms-in-san-antonio-texas-us-october-7-2026-reuters-callaghan-o-hare"
         }
       ]
     },
