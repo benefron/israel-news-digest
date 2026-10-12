@@ -1,271 +1,97 @@
 {
-  "generated_at": "2026-10-10T05:09:43.660407+00:00",
-  "date": "2026-10-10",
-  "degraded": false,
+  "generated_at": "2026-10-12T06:13:55.643835+00:00",
+  "date": "2026-10-11",
+  "degraded": true,
   "top_general": {
-    "summary_he": "ישראל עומדת מול גל כבד של לחץ בינלאומי: שופטת בינלאומית זכתה בפרס נובל לשלום לאחר שהצהירה כי ישראל מבצעת רצח עם בעזה, בעוד עלו מתיחויות דיפלומטיות חדות עם צרפת כשעובדים בפריז מסרבים להעמיס מטענים ביטחוניים על טיסות אל על. ממשל טראמפ ממשיך בתקיפת בתי משפט בינלאומיים, וטראמפ עצמו תקף את הזוכה בנובל ותיאר אותה כשונאת ישראל.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "943ad7b64e",
-        "title": "קבעה שישראל מבצעת רצח עם בעזה: פרס נובל לשלום יוענק לשופטת נאווי פילאי",
-        "url": "https://www.mako.co.il/news-world/2026_q3/Article-fb91a5edcdf11a1027.htm",
+        "id": "81e4b44e3c",
+        "title": "חברת מפלגת הירוקים הבריטית: \"אשמח להיקרא מחבלת חמאס אנטישמית\"",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-780ece6496421a1026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-10-09T09:08:00+00:00",
-        "image_url": "https://img.mako.co.il/2025/09/16/PILLAY_re_autoOrient_i.jpg"
+        "published_at": "2026-10-10T07:50:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/10/GettyImages-2254949581_re_autoOrient_i.jpg"
       },
       {
-        "id": "8645c955fc",
-        "title": "ההידרדרות ביחסים עם צרפת נמשכת: עובדים בפריז מסרבים להעמיס מטען ביטחוני על טיסת אל על",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-e27df06014121a1026.htm",
+        "id": "0596a36070",
+        "title": "למרות התקיפות של ארה\"ב וישראל: איראן שימרה את יכולות ייצור הטילים והכטב\"מים | דיווח",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-92cafa0168421a1026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-10-09T15:40:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/10/09/charl09101_re_autoOrient_i.jpg"
+        "published_at": "2026-10-10T08:50:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/10/irannew101002_autoOrient_i.jpg"
       },
       {
-        "id": "c214d9027e",
-        "title": "המתקפה של טראמפ על זוכת הנובל: \"איש לא יודע עליה כלום, חוץ מהשנאה שלה לישראל\"",
-        "url": "https://www.ynet.co.il/news/article/s1qswndofe",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-10-10T04:34:43+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/09/SkQMgtUsMg/SkQMgtUsMg_0_0_850_479_0_medium.jpg"
+        "id": "cb019afa33",
+        "title": "דיווח: איראן שימרה את יכולות ייצור הטילים שלה, וצבאה מצויד בהם היטב",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-10/ty-article/.premium/000001a1-25a2-d0ca-a7b7-bfa22b0b0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-10T11:59:04+00:00",
+        "image_url": null
       },
       {
-        "id": "193846049e",
-        "title": "\"מסלול התנגשות\": המהלך של ממשל טראמפ נגד בית הדין בהאג",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-fb036ab9ee021a1026.htm",
+        "id": "8fd5360d9c",
+        "title": "הצלב האדום לא ביקר את החטופים בשבי חמאס – וכעת נשיאת הארגון מודה: \"יכולנו להציל הרבה יותר חיים\"",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-bc6596dd63621a1027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-10-09T14:30:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/23/AP26266048146044_autoOrient_i.jpg"
+        "published_at": "2026-10-10T14:54:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/10/zlavvvv_autoOrient_i.jpg"
+      },
+      {
+        "id": "6ca3a36e3e",
+        "title": "נשיאת הצלב האדום: הפעלת לחץ חזק יותר להשבת החטופים בשלב מוקדם הייתה מצילה חיים",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-2668-d8f6-a3f3-efef75700000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-10T17:08:29+00:00",
+        "image_url": null
+      },
+      {
+        "id": "72b0b21189",
+        "title": "סימני האזהרה למלחמה הבאה יכולים להימצא במקומות הכי לא צפויים",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001558900",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-10T18:03:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791461207/_RC2VM5AHBKMZ_RTRMADP_3_ISRAEL-PALESTINIANS-YEMEN-HOUTHIS_n6vwmx.jpg"
+      },
+      {
+        "id": "53ee73780c",
+        "title": "גורמים ביטחוניים: תקיפה באיראן לפני הבחירות עשויה להיתפס כצעד פוליטי",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-10T18:36:45+00:00",
+        "image_url": null
+      },
+      {
+        "id": "a844a4e626",
+        "title": "לפחות 12 הרוגים, בהם אזרח אמריקאי, ו־309 פצועים בתקיפה של החותים על נמל התעופה בריאד",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-11/ty-article/.premium/000001a1-268c-d0ca-a7b7-beae0e740000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-10T21:21:00+00:00",
+        "image_url": null
       }
     ]
   },
   "security_war": {
-    "summary_he": "מערך הביטחון בישראל מול איראן נותר במצב של מתיחות: צה\"ל ביצע פעולה בעומק לבנון כנגד מחבל סורי המנוהל על ידי איראן, בעוד כוחות צבאיים מתכוננים לכל תגובה אפשרית של טהרן. נוסף על כך, התגלה איום ביטחוני בנוגע לטייס משנה בתעופה אזרחית שתכנן פיגוע בנתב\"ג, מה שהעלה את מפלס הדריכות בחזית הביטחון הביתית.",
-    "headlines": [
-      {
-        "id": "63d6a20aa3",
-        "title": "תקיפה חריגה בעומק לבנון: היעד - מחבל סורי שפעל בהכוונת איראן",
-        "url": "https://www.ynet.co.il/news/article/rys6hsisgl",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-10-09T18:37:29+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/11/12/BJGEyjolzke/BJGEyjolzke_0_0_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "77c302f33a",
-        "title": "ברקע הדיווחים על תוכנית הפנטגון: בצה\"ל נערכים לכל תגובה מאיראן",
-        "url": "https://13tv.co.il/item/news/politics/security/egxxg-905389270/?pid=62&refc=902992371",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "eb50152e3d",
-        "title": "צה\"ל: חוסל מחבל סורי בגבול סוריה-לבנון שפעל בהכוונת איראן",
-        "url": "https://www.i24news.tv/he/news/real-time-news/artc-80867",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "72f808e219",
-        "title": "טייס המשנה בטיסת פליי דובאי תכנן פיגוע התאבדות בנתב\"ג",
-        "url": "https://www.kan.org.il/content/kan-news/defense/1107758/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": null
-      }
-    ]
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "בחזית הפוליטית, ממשל טראמפ ממשיך בעיצוב מדיניותו כלפי גופים בינלאומיים, בעוד בבריטניה מנהיג מפלגה יהודית שטען כי ציונות היא גזענות ספג תבוסה בבחירות. בישראל, דמויות פוליטיות בכירות מעלות ביקורות על החלטות ממשלתיות במהלך המאבק.",
-      "headlines": [
-        {
-          "id": "33b2c32071",
-          "title": "טראמפ התייעץ עם מקורביו - ובחר בדוברת חדשה לבית הלבן",
-          "url": "https://www.mako.co.il/news-world/2026_q4/Article-2833d45b51221a1027.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-10-09T19:35:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/10/09/katytrump09101_autoOrient_i.jpg"
-        },
-        {
-          "id": "14d2658688",
-          "title": "מנהיג המפלגה היהודי שהכריזה כי \"ציונות היא גזענות\" - הפסיד בבחירות בבריטניה",
-          "url": "https://www.mako.co.il/news-world/2026_q3/Article-1688181d7de11a1027.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-10-09T04:08:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/10/05/FFFFF_re_autoOrient_i.jpg"
-        },
-        {
-          "id": "6f1c39fb5f",
-          "title": "בנט: \"אנחנו מממנים את החגיגה הזאת. זאת פשוט התאבדות בשידור חי\"",
-          "url": "https://www.themarker.com/news/elections/2026-10-09/ty-article/000001a1-1cb0-d90c-a7bd-9db4ebe70000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-09T03:19:38+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-1cc3-d3ad-a3b7-bdff79e70000/44/56/9bddc7994f249c65b783a50b6b9c/680073.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "שוק הנדל\"ן בישראל עובר תנודות משמעותיות עם עסקה ענקית של למעלה ממיליארד שקל במתחם הבורסה בתל אביב, בעוד מחירי הדיור משתנים בעיירות שונות. מדדים כלכליים בינלאומיים מראים שינויים חדים בעלויות הובלה ודלק בהשוואה להשקעות בטכנולוגיה.",
-      "headlines": [
-        {
-          "id": "be41677111",
-          "title": "עסקת ענק במתחם הבורסה: חברת הנדל\"ן שזכתה במכרז של מעל מיליארד שקל",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001559011",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-10-09T07:24:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1624179271/direct/%D7%90%D7%9C%D7%99%D7%90%D7%A1_%D7%98%D7%A0%D7%95%D7%A1_%D7%9E%D7%A0%D7%9B%D7%9C_%D7%95%D7%91%D7%A2%D7%9C%D7%99%D7%9D_%D7%A7%D7%91%D7%95%D7%A6%D7%AA_%D7%91%D7%A1%D7%98_%D7%A7%D7%A8%D7%93%D7%99%D7%98_%D7%A7%D7%91%D7%95%D7%A6%D7%AA_%D7%91%D7%A1%D7%98__2_kn8syn.jpg"
-        },
-        {
-          "id": "ca46e59a2f",
-          "title": "עמוס לוזון רוכש את השליטה בקוהאן תמורת 20 מיליון שקל",
-          "url": "https://www.themarker.com/markets/2026-10-09/ty-article/000001a1-211a-d10a-a5b1-a11e83f60000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-09T14:53:59+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-211f-d10a-a5b1-a11f5fe90000/ca/5a/a3ad87d44c468d28fff1b6341cb7/307655.jpg?width=108&height=81"
-        },
-        {
-          "id": "c4305a2f51",
-          "title": "כיכר המדינה בתל אביב עולה לגובה: המכירות תקועות, ומה עם המחירים?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001557840",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-10-09T07:00:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790753943/%D7%94%D7%93%D7%9E%D7%99%D7%99%D7%94-%D7%A7%D7%91%D7%95%D7%A6%D7%AA_%D7%97%D7%92%D7%92-_%D7%9E%D7%92%D7%93%D7%9C_INFINITY_gd7f6j.jpg"
-        },
-        {
-          "id": "262525c1c8",
-          "title": "כעת עולה יותר לשלוח מכלית נפט מארה\"ב לסין מאשר לשגר טיל לחלל",
-          "url": "https://www.themarker.com/wallstreet/2026-10-09/ty-article/000001a1-2158-de05-a9a9-39fca31f0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-09T19:27:04+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-215e-d90c-a7bd-a95e26800000/2c/46/7c2b94f84ffbab8f2e0785bfe2b1/449432.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "OpenAI ממשיכה בגדילה מתפרצת, כשהחברה צפויה להגיע לקצב הכנסות שנתי של 70 מיליארד דולר עד סוף השנה, מה שמעיד על התפתחות מהירה בתחום הבינה המלאכותית.",
-      "headlines": [
-        {
-          "id": "2ce9469a62",
-          "title": "חברת OpenAI תגיע לקצב הכנסות שנתי של 70 מיליארד דולר עד סוף השנה",
-          "url": "https://www.themarker.com/wallstreet/2026-10-09/ty-article/.premium/000001a1-1f07-d5a0-ade7-ff77b4a70000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-09T05:15:50+00:00",
-          "image_url": "https://img.haarets.co.il/bs/00000194-d704-d390-a1b6-f78756840000/eb/7d/7fb230d94ceb92111decaca47127/60351344.JPG?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "health",
-      "label_he": "בריאות ורפואה",
-      "summary_he": "חוקרים ישראלים פרסמו מחקר חדש על ההיבטים הגנטיים של התפתחות האנושית, תוך תרומה להבנה מדעית של האבולוציה הביולוגית.",
-      "headlines": [
-        {
-          "id": "2e65e103b9",
-          "title": "Weak knees, smart brains: Israeli study gets to the bottom of genetic evolution",
-          "url": "https://www.timesofisrael.com/weak-knees-smart-brains-israeli-study-gets-to-the-bottom-of-genetic-evolution/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-10-09T18:00:53+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/09/3-1024x640.png"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "עולם התרבות והבידור שוב מתגייס: פסטיבל אינדינגב חוזר לפעילות עם להקה מפתיעה, בעוד תעשיית הטלוויזיה משיקה סדרה חדשה המבוססת על אישיויות פופולריות מהמסך.",
-      "headlines": [
-        {
-          "id": "a54f7c1e5b",
-          "title": "המדינה התנערה, הקהילה הצילה: פסטיבל אינדינגב חוזר עם ליינאפ מפתיע והרבה מוזיקה טובה",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001558911",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-10-09T15:32:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791452177/%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%A0%D7%9E%D7%A8%D7%95%D7%93_%D7%A8%D7%92%D7%91_2_wphyuf.jpg"
-        },
-        {
-          "id": "186141bb83",
-          "title": "תכף מלי וליאל יהפכו לסדרה. שם כבר יש",
-          "url": "https://www.israelhayom.co.il/magazine/hashavua/article/21585078",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "שכונות בתל אביב עוברות שינוי מהותי כשגבעת הרצל משנה את אופייה מאזור תעשייה למתחם מגורים חדש. מדדי מחירי דיור בעיירות שונות משקפים תנודות משמעותיות בשוק בעקבות שינויים בביקוש ובהיצע.",
-      "headlines": [
-        {
-          "id": "23b828cdd9",
-          "title": "\"שכונת גבעת הרצל בתל אביב נהפכת מאזור תעשייה למתחם מגורים, יש משהו נחמד בכך שהיא 'בין לבין'\"",
-          "url": "https://www.themarker.com/realestate/neighborhood/2026-10-09/ty-article-magazine/.premium/000001a1-1a7e-dbc0-adfb-dbfefb6a0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-09T03:21:03+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-1a7e-dbc0-adfb-dbfef8c50000/9d/09/21c0f37d40c2b9a3b368987e5324/66964273.JPG?width=108&height=81"
-        },
-        {
-          "id": "24d4527372",
-          "title": "איפה שילמו יותר על דירת 4 חדרים עם מרפסת — בבאר שבע או באילת?",
-          "url": "https://www.themarker.com/realestate/2026-10-09/ty-article/.premium/000001a1-1b05-d316-adf1-df55a37b0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-09T03:21:28+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-1b2d-d3ad-a3b7-bf7d1ad20001/14/28/7d8f145c45448bc77a1b9d892d36/carmeli.PNG?width=108&height=81"
-        }
-      ]
-    }
-  ],
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -284,235 +110,82 @@
   "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israeli and Jewish communities face ongoing security threats and political divisions. A Flydubai co-pilot's alleged plan for a suicide attack on an Israeli airport highlights persistent regional security concerns. Within Israel and diaspora communities, diverse political perspectives persist, ranging from peace movement initiatives to debates over BDS activism and international relations. Jewish cultural recognition continues to expand in mainstream markets.",
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
       "headlines": [
         {
-          "id": "02814b85ab",
-          "title": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
-          "url": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-09T20:38:11+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/2a3d9c552bda55ade07a8cda78b34dc1ebbc1f15/66_0_2203_1763/master/2203.jpg?width=700&quality=85&auto=format&fit=max&s=feea8f7c660a26efd20b84b7a7e3d4ea"
+          "id": "2c1a1180e3",
+          "title": "Politiek LIVEBLOG De Wever houdt géén State of the Union en past voor noodbegroting: \"Hij zal dit niet aanvaarden\" 24 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-wever-houdt-geen-state-of-the-union-en-past-voor-noodbegrotin~1790599460224/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/11/610c21f3-e858-4451-a7d0-dd3dfbcb9f1e.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "965cef2b1e",
-          "title": "Israelis for Peace responds after being protested",
-          "url": "https://www.jta.org/2026/10/09/ny/israelis-for-peace-responds-after-being-protested",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-09T22:23:45+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/GettyImages-2298498582.jpg"
+          "id": "33e1411469",
+          "title": "Politiek \"We gaan recht naar de muur\": (hoe) kan De Wever het begrotingsoverleg nog rechttrekken? 26 minuten geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/11/begroting-11-oktober-stand-van-zaken-en-wat-nu/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/11/0d15d0d3-0c2d-4f8b-b67a-dd9109bcffdb.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "a068900d9a",
-          "title": "Mamdani faces growing pressure from left flank over Israel and NYPD Commissioner Tisch",
-          "url": "https://www.jta.org/2026/10/09/ny/mamdani-faces-growing-pressure-from-left-flank-over-israel-and-nypd-commissioner-tisch",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-09T21:56:36+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/GettyImages-2298676189.jpg"
+          "id": "aef2930d0f",
+          "title": "Regio Hooglede Kersverse moeder (18) die stierf bij ongeval in Hooglede was van materniteit naar huis onderweg 2 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/11/hooglede-bestuurder-negatief-verhoord/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/10/29211424-015c-47c4-bce8-577dc9d574b9.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "ea2c4c6139",
-          "title": "Samin Nosrat, celebrity chef who signed BDS pledge, shares stage with Israeli chefs",
-          "url": "https://www.jta.org/2026/10/09/united-states/samin-nosrat-celebrity-chef-who-signed-bds-pledge-shares-stage-with-israeli-chefs",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-09T16:07:06+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/10-09-2026-Samin-Nosrat.jpg"
+          "id": "aec3249c37",
+          "title": "Milieu & Klimaat Klimaatmars lokt dubbel zoveel deelnemers als vorig jaar: \"Beleid moet dringend tandje bijsteken\" 4 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/11/om-14-uur-start-de-klimaatmars-in-brussel-manneken-pis-kreeg-al/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/11/26ef70a5-803e-4991-936f-234b92d3f1ac.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "34cdcf92ed",
-          "title": "The Black-Jewish alliance isn't nostalgia. We need it to defend democracy.",
-          "url": "https://www.jta.org/2026/10/09/ideas/the-black-jewish-alliance-isnt-nostalgia-we-need-it-to-defend-democracy",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-09T15:06:32+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/Atlanta-Summit.jpeg"
+          "id": "08bbea14f5",
+          "title": "Oorlog Oekraïne-Rusland LIVEBLOG Trump claimt wapenstilstand voor energie-infrastructuur tussen Rusland en Oekraïne, Zelensky: \"Nieuws voor mij, maar wij zijn klaar\" 3 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/trump-claimt-wapenstilstand-voor-energieinfrastructuur-tussen-r~1789060001669/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/11/ce2cc7d4-1bb6-4f95-bf86-9263b3615337.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "7e18e59f14",
-          "title": "Hanukkah Barbie Is Here — And She Actually Got the Jewish Holiday Right",
-          "url": "https://www.jta.org/2026/10/09/ideas/hanukkah-barbie-is-here-and-she-actually-got-the-jewish-holiday-right",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-09T14:15:43+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/10-09-2026-Hanukkah-Barbie.jpg"
+          "id": "3ffad3dd68",
+          "title": "Oorlog Midden-Oosten Kan de oorlog in het Midden-Oosten verder escaleren door de Houthi-aanval op de luchthaven van Saudi-Arabië? 4 uur geleden",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/11/kan-de-oorlog-in-het-midden-oosten-verder-escaleren-door-de-hout/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/11/1c137b27-0615-422e-99ae-a032032d28a1.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium is navigating significant political and social pressures this week. Economic confidence improved as Moody's maintained the country's credit rating without a further downgrade. However, Brussels experienced a day of major civil unrest resulting in over 110 arrests, while authorities uncovered a substantial weapons arsenal during a large-scale police operation. Prime Minister De Wever convened with top ministers to address governance challenges amid broader institutional tensions.",
-      "headlines": [
-        {
-          "id": "e24788e3db",
-          "title": "Moody's does not downgrade Belgium's rating again",
-          "url": "https://www.demorgen.be/nieuws/moody-s-verlaagt-rating-belgie-niet-opnieuw~b6bd0e3a/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-10T04:23:00+00:00",
-          "image_url": "https://image.demorgen.be/278662787/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "bf0b79aca7",
-          "title": "De Wever and his top ministers meet today at 3 p.m. to discuss new framework",
-          "url": "https://www.hln.be/binnenland/de-wever-en-zijn-topministers-komen-vandaag-om-15u-samen-om-nieuwe-tabel-te-bespreken~a9cb0fe2/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-10-10T04:19:00+00:00",
-          "image_url": "https://images.hln.be/NTgyZjRlN2MxNWZkNzBkMjY4NzIvZGlvLzI3ODQ5ODcwOS9maXQtd2lkdGgvNDAw/prime-minister-bart-de-wever-and-his-cat-pictured-after-a-meeting-of-the-federal-government-on-the-budget-for-2027-saturday-3-october-2026-in-brussels-belga-photo-nicolas-maeterlinck"
-        },
-        {
-          "id": "401875290a",
-          "title": "Five kilos of explosives, machine gun and rocket launchers: police discover 'real arsenal of weapons' during large-scale operation, 7 people arrested",
-          "url": "https://www.demorgen.be/nieuws/vijf-kilo-explosieven-machinegeweer-en-raketwerpers-politie-vindt-heus-arsenaal-aan-wapens-tijdens-grootschalige-operatie-7-mensen-opgepakt~b7d70d8c/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-09T15:25:00+00:00",
-          "image_url": "https://image.demorgen.be/278700178/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "4f99add7c1",
-          "title": "Brussels quiet again after a day full of riots and violence, at least 110 people arrested",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/brussel-weer-rustig-na-een-dag-vol-rellen-en-geweld-minstens-11~1791516409671/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/09/1f0c9455-4297-434b-912c-6abaffe511d2.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "b4c58f5b42",
-          "title": "French-speaking Belgium experiences on a small scale the problems that neighboring France experiences on a large scale",
-          "url": "https://www.demorgen.be/meningen/franstalig-belgie-ondergaat-in-het-klein-de-kwalen-die-buurland-frankrijk-in-het-groot-heeft~b1a1fd30/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-10T01:00:00+00:00",
-          "image_url": "https://image.demorgen.be/278703255/feature-crop/320/320/afbeelding"
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
     "europe": {
-      "summary_en": "Europe is making progress on trade while confronting security threats. The EU and China reached a landmark agreement to halve hybrid car exports, easing trade tensions and securing access to rare earth metals. Meanwhile, European security services remain vigilant, with the arrest of a pro-Kremlin military blogger in Montenegro highlighting geopolitical concerns. The UK is advancing transitional justice efforts by bringing a doctor accused of 1994 Rwandan genocide crimes to trial.",
-      "headlines": [
-        {
-          "id": "e827ed8ae5",
-          "title": "China agrees to 'halve' hybrid car exports to EU in landmark deal",
-          "url": "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-09T15:05:57+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/6297f755754df151a9a6ac947225d5e8d5b926c7/0_0_3898_3122/master/3898.jpg?width=700&quality=85&auto=format&fit=max&s=f210376cec904c09a974a152a5f60f71"
-        },
-        {
-          "id": "2f9a2018db",
-          "title": "Rapprochement between China and EU with agreements on hybrid cars and rare earth metals",
-          "url": "https://www.demorgen.be/nieuws/toenadering-china-en-eu-met-afspraken-over-hybride-auto-s-en-zeldzame-aardmetalen~b68ccf6c/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-09T15:18:00+00:00",
-          "image_url": "https://image.demorgen.be/240031541/feature-crop/320/320/files-this-file-photo-taken-on-january-10-2024-shows-electric"
-        },
-        {
-          "id": "ffeac62e54",
-          "title": "Pro-Kremlin Russian military blogger Mikhail Zvinchuk arrested in Montenegro",
-          "url": "https://www.theguardian.com/world/2026/oct/09/russian-military-blogger-mikhail-zvinchuk-rybar-arrested-montenegro",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-09T16:10:25+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/1178b25416e933219a96bc2ac65390912f8e4256/696_187_2012_1610/master/2012.jpg?width=700&quality=85&auto=format&fit=max&s=0e1c161dd9c567484f595a2a20a7c830"
-        },
-        {
-          "id": "78ee2b9ada",
-          "title": "Tornado rips through Sicilian town and city",
-          "url": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-10-09T16:25:00+00:00",
-          "image_url": null
-        },
-        {
-          "id": "c11c37c4cc",
-          "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-10-09T11:44:49+00:00",
-          "image_url": null
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
     "world_top": {
-      "summary_en": "Global crises are escalating across multiple regions. The Middle East remains volatile, with Saudi Arabia launching a large-scale military operation against the Houthis in Yemen, while Ethiopia warns Eritrea to halt alleged border incursions. Natural disasters also pose immediate threats, with a powerful earthquake striking Panama's southern coast and triggering tsunami warnings across the eastern Pacific. The United States intensified global tensions by imposing sanctions on the International Criminal Court, citing obstruction of justice.",
-      "headlines": [
-        {
-          "id": "2f73e990bc",
-          "title": "Saudi Arabia launches 'large-scale operation' against Houthis in Yemen",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/saudiarabie-lanceert-grootschalige-operatie-tegen-houthis-in~1784611610051/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/10/89927004-d480-4a1b-adf3-80cc19a607ec.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "9d41208b84",
-          "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-          "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-10-09T15:24:43+00:00",
-          "image_url": null
-        },
-        {
-          "id": "004a437d25",
-          "title": "Powerful earthquake strikes southern coast of Panama, tsunami alarm in eastern Pacific",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/09/krachtige-aardbeving-treft-zuidkust-van-panama-tsunami-alarm-in/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/09/1d206539-9d00-46a5-b28a-a8aa9a717f2b.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "56e7778671",
-          "title": "US imposes sanctions on International Criminal Court itself: 'Attempt to hinder justice'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/09/sancties-internationaal-strafhof/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/09/e04b64d7-2325-4a6d-9b16-34fa121705e4.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "a7204fd821",
-          "title": "New spate of stabbings, overdoses and fires at Australian immigration detention centres run by ICE-linked US prison firm",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/09/australia-immigration-detention-centres-overdoses-fires-prison-ice-ntwnfb",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-09T14:00:34+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/88d5cd5d49b32ecb243f117dd5d6c9a233c5837a/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=4a568809ceceab728e71ba663436a943"
-        }
-      ]
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
     },
-    "degraded": false
+    "degraded": true
   }
 }
