@@ -1,0 +1,434 @@
+{
+  "generated_at": "2026-10-13T05:10:40.978586+00:00",
+  "date": "2026-10-13",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "אירוע פיצוץ קשה ברכס רמים שבצפון, בו נהרג נער בן 14 ו-13 נוספים נפצעו, מיוחס לפצצת מצרר של חיזבאללה לפי תחקיר ראשוני של צה\"ל. במקביל מדווח כי איראן אחראית כמעט בוודאות למזימה לפגיעה בבסיס ששימש את ארה\"ב, וכי חיזבאללה משקם את כוחותיו ומשדרג את מערך הרחפנים בלבנון. בוול סטריט נרשמה נעילה מעורבת לאחר ירידה במניות השבבים בעקבות מיקרון.",
+    "headlines": [
+      {
+        "id": "e3927fcbf1",
+        "title": "17:43 האסון ברמים: צה\"ל מאשר - מתחקיר ראשוני ככל הנראה מדובר בפצצת מצרר של חיזבאללה",
+        "url": "https://www.maariv.co.il/breaking-news/article-1376409",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "54afeb3e1d",
+        "title": "הפצצה שלא התפוצצה במלחמה: אלעזר יאיר וילנסקי שילם בחייו אלעזר יאיר וילנסקי ז\"ל, בן 14 בלבד במותו נהרג באסון במהלך הטיול ברכס רמים שבצפון הארץ. ממשפחתו נמסר כי יאיר, הצעיר מבין חמישה אחים, היה \"ילד של החיים. חכם ונבון, מלא שמחת חיים, חבר טוב ואהוב\"",
+        "url": "https://www.maariv.co.il/news/israel/article-1376523",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "7172759cd5",
+        "title": "ברנהאם: איראן אחראית \"כמעט בוודאות\" למזימה לפגוע בבסיס ששימש את ארה\"ב",
+        "url": "https://www.haaretz.co.il/news/world/europe/2026-10-12/ty-article/.premium/000001a1-30b1-defc-adf3-73f7f6c60000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-12T15:40:32+00:00",
+        "image_url": null
+      },
+      {
+        "id": "76ca8b1498",
+        "title": "חיזבאללה משקם את כוחותיו ומשדרג את מערך הרחפנים: הדיווחים בלבנון - והאיום הישראלי במצור",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-faefae600af21a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-13T02:58:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/04/14/AP24192628065060_autoOrient_i.jpg"
+      },
+      {
+        "id": "4e7eda7c89",
+        "title": "נעילה מעורבת בוול סטריט; מיקרון ירדה וגררה מטה את מניות השבבים",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001559138",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-12T20:10:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "צה\"ל מאשר כי האסון ברכס רמים נגרם ככל הנראה מפצצת מצרר של חיזבאללה, לאחר שנער בן 14 נהרג ו-13 נוספים נפצעו בטיול. בד בבד מדווח כי חיזבאללה משקם את כוחותיו ומשדרג את מערך הרחפנים, לצד דיווח כי איראן מתכוננת למלחמה ומגייסת חיילים נוספים. בנוסף נמסר כי ישראל אסרה על צוותי אוויר בעלי אזרחות כפולה מ-31 מדינות לטוס לנתב\"ג, וטייס קרב לשעבר עוכב בחשד לתקיפת רועה צאן באזור שכם.",
+    "headlines": [
+      {
+        "id": "fdc1f2daff",
+        "title": "17:41 אירוע פיצוץ הנפל בצפון: 13 פצועים פונו לבית החולים זיו, מתוכם שניים במצב קשה",
+        "url": "https://www.maariv.co.il/breaking-news/article-1376408",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "74d402fa2f",
+        "title": "Teen killed, 24 injured by unexploded Hezbollah munition on hike near Lebanon border",
+        "url": "https://www.timesofisrael.com/teen-killed-24-injured-by-unexploded-hezbollah-munition-on-hike-near-lebanon-border/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-10-12T16:40:32+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261012AMA02-1024x640.jpg"
+      },
+      {
+        "id": "fe08b6002d",
+        "title": "חיזבאללה משקם את כוחותיו ומשדרג את מערך הרחפנים: הדיווחים בלבנון - והאיום הישראלי במצור",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001559299",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-13T04:52:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1772447613/direct/AP25328527736577_vv8muv.jpg"
+      },
+      {
+        "id": "8b3dc1d941",
+        "title": "1 דקות חדשות בזמן אמת דיווח: איראן מתכוננת למלחמה - ומגייסת עוד חיילים לשורותיה עיריית מעלות תרשיחא הודיעה כי אלעזר יאיר וילנסקי ז\"ל, תלמיד כיתה ט' בישיבה התיכונית • טראמפ כתב ברשת Truth Social: \"אני לא מאמין שסין ורוסיה עוזרות לאיראן\" זמן קריאה: 1 דקות.",
+        "url": "https://www.i24news.tv/he/news/real-time-news/artc-62895916",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
+        "published_at": null,
+        "image_url": "https://cdn.i24news.tv/uploads/30/53/6f/18/44/40/2d/19/af/e2/c2/6f/0a/86/2e/9d/30536f1844402d19afe2c26f0a862e9d.jpg?width=350"
+      },
+      {
+        "id": "f1b131c6ea",
+        "title": "ישראל אוסרת על צוותי אוויר בעלי אזרחות כפולה מ-31 מדינות לטוס לנתב\"ג",
+        "url": "https://travel.walla.co.il/item/3871820",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-10-12T10:41:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/0/8/8/3088253-46.jpg"
+      },
+      {
+        "id": "b6e3a1affb",
+        "title": "טייס קרב לשעבר עוכב באזור שכם בחשד לתקיפת מתנחלים: \"הכה רועה צאן באלה\"",
+        "url": "https://www.ynet.co.il/news/article/hjbxvp9jml",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-12T21:09:49+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/S1zkWLTqjMx/S1zkWLTqjMx_370_235_351_198_0_medium.jpg"
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "בפודקאסט פוליטי התעמת העיתונאי רביב דרוקר עם שרון גל סביב ביקורת חריפה על נתניהו, בעוד שבפולין נטען כי ישראל קיבלה מידע שנאסף ברוגלת פגסוס על חברי אופוזיציה. בנוסף דווח כי יועץ ראש הממשלה השתמש בכלי בינה מלאכותית ליצירת קמפיין הסברה פרו-קטארי.",
+      "headlines": [
+        {
+          "id": "7ef822faed",
+          "title": "1 דקות פוליטי \"אני לא מתואם עם אף אחד\": שרון גל ורביב דרוקר ראש בראש העיתונאי התארח בפודקאסט \"בסלון של שרון\" ותקף את נתניהו: \"גועל נפש של ראש ממשלה שסייע בהרג חטופים\" • גל הטיח בדרוקר: \"איך יכול להיות שנתתם במה למניפולציות ולתעמולה של האויב בזמן מלחמה?\" זמן קריאה: 1 דקות.",
+          "url": "https://www.i24news.tv/he/news/news/politics/artc-431551d8",
+          "source": "i24",
+          "source_label": "i24NEWS",
+          "source_label_he": "i24NEWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "a074c6a812",
+          "title": "ראש ממשלת פולין: ישראל קיבלה מידע שנאסף ברוגלת פגסוס על חברי אופוזיציה",
+          "url": "https://www.haaretz.co.il/news/politics/2026-10-12/ty-article/.premium/000001a1-3074-d14d-adbb-38ff28a40000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-12T15:07:22+00:00",
+          "image_url": null
+        },
+        {
+          "id": "2b469c75ac",
+          "title": "PM’s aide Urich used ChatGPT to create pro-Qatar messaging campaign — report",
+          "url": "https://www.timesofisrael.com/pms-aide-urich-used-chatgpt-to-create-pro-qatar-messaging-campaign-report/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-10-12T20:36:35+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/01/F260114JS04-1024x640.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "פרסום חדש מתריע מפני מדיניות חוב ישראלית הנוטה לכיוון אמריקניזציה מסוכנת, לצד דיווח על 22 חברות ישראליות המתחרות על תקציב של טריליון וחצי דולר.",
+      "headlines": [
+        {
+          "id": "4a276d64fa",
+          "title": "מדיניות החוב הישראלית: אמריקניזציה מסוכנת",
+          "url": "https://www.ynet.co.il/news/article/yokra14924709",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-12T21:04:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/HJliB211Zjzx/HJliB211Zjzx_0_0_3000_2000_0_medium.jpg"
+        },
+        {
+          "id": "7bfa31a8f1",
+          "title": "22 חברות ישראליות במרדף אחרי תקציב של טריליון וחצי דולר",
+          "url": "https://www.themarker.com/news/security/2026-10-12/ty-article/.premium/000001a1-30b8-dd6b-aff3-fcffc90b0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-12T16:55:58+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-30fa-d3b2-a5a7-bdfb8f870000/c9/b3/d2ed574c4ea1b2feea83adaa1dc8/769066.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "מיקרוסופט מקצצת עשרות משרות במרכז הפיתוח שלה בישראל, בעוד שבצרפת האקרים גרמו להרס מזון בעשרות מיליוני אירו במתקפת סייבר על מערכות קירור.",
+      "headlines": [
+        {
+          "id": "41891527b8",
+          "title": "מיקרוסופט מקצצת עשרות משרות במרכז הפיתוח בישראל",
+          "url": "https://www.themarker.com/technation/2026-10-12/ty-article/.highlight/000001a1-303f-d96a-a1a1-38ffbaea0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-12T13:16:09+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-3041-d119-a5b3-f1c1034f0000/c7/5f/5c5be8fd459a98d42ea9eef98f13/135305.jpg?width=108&height=81"
+        },
+        {
+          "id": "030d754412",
+          "title": "מתקפת \"המקררים הלוהטים\" בצרפת: ההאקרים הרסו מזון בעשרות מיליוני אירו",
+          "url": "https://www.ynet.co.il/news/article/r15cdhcszx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-12T20:45:15+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/S1aCm35izg/S1aCm35izg_0_0_3000_1689_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "health",
+      "label_he": "בריאות ורפואה",
+      "summary_he": "מניית חברת התרופות טבע מקבלת העלאת מחיר יעד משמעותית מבית ההשקעות לידר, ובמקביל נחשף כי מיליארדר תורם 30 מיליון דולר לאוניברסיטה העברית לקידום לימודי רפואה.",
+      "headlines": [
+        {
+          "id": "0343c22047",
+          "title": "לידר מעלה את מחיר היעד של טבע ל-50 דולר: אפסייד של 22%",
+          "url": "https://www.themarker.com/markets/2026-10-12/ty-article/.premium/000001a1-3024-d96a-a1a1-38f601ed0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-12T13:27:43+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-3039-dfe3-a9bb-b5bf0f470000/99/a3/ee5f2c1f4a1d9a578252e04ba138/366310.jpg?width=108&height=81"
+        },
+        {
+          "id": "6944028441",
+          "title": "המיליארדר שחושף תרומה של 30 מיליון דולר לאוניברסיטה העברית כדי לקדם לימודי רפואה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001559235",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-13T02:58:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_for%20web%20with%20AI/t_800X392/v1791809602/Steve_Lavin_Credit_Lavin_vticam.png"
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israel continues military operations in Lebanon despite ceasefire agreements, with satellite imagery showing ongoing destruction in South Lebanon. An Israeli child was killed and hikers were injured after encountering a suspected Hezbollah cluster bomb. Antisemitic hate crimes in England and Wales have risen 10% year-on-year. Prime Minister Netanyahu has ordered the identification and prosecution of individuals interviewed for a critical documentary.",
+      "headlines": [
+        {
+          "id": "76f82c90a3",
+          "title": "Live - Satellite research NYT: 'Israel continues systematic destruction of South Lebanon, despite ceasefire'",
+          "url": "https://www.demorgen.be/snelnieuws/live-satellietonderzoek-nyt-israel-gaat-door-met-systematische-vernietiging-zuid-libanon-ondanks-bestand~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-12T20:01:00+00:00",
+          "image_url": "https://image.demorgen.be/278650065/roi/320/320/691.1999999999999/529.2/afbeelding"
+        },
+        {
+          "id": "f12ae7bb31",
+          "title": "Israel boy killed, hikers injured, after coming upon suspected Hezbollah cluster bomb",
+          "url": "https://www.jta.org/2026/10/12/israel/boy-killed-hikers-injured-after-suspected-hezbollah-cluster-bomb-detonates",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-12T19:45:56+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/Ramim-Ridge-261012.jpeg"
+        },
+        {
+          "id": "f21a65e6b0",
+          "title": "Recorded anti-Jewish hate crimes rise 10% in England and Wales",
+          "url": "https://www.jta.org/2026/10/12/global/recorded-anti-jewish-hate-crimes-rise-10-in-england-and-wales",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-12T18:48:27+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/UK-antisemitism.jpeg"
+        },
+        {
+          "id": "c99914ff60",
+          "title": "Netanyahu orders identification and prosecution of film's interviewees",
+          "url": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-12T12:59:56+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/193_87_2503_2002/master/2503.jpg?width=700&quality=85&auto=format&fit=max&s=739c54a3f018ae7b5f8cd53aba2bfc8a"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "A police officer was killed in an incident in Brussels's Jette district, with a separate fatal shooting also reported in Elsene. Belgium's housing market is cooling overall, yet young buyers continue purchasing homes, with the wealth transfer from baby boomers providing significant market support. The Prime Minister has reaffirmed his commitment to delivering a full budget by January 1, rejecting another emergency budget.",
+      "headlines": [
+        {
+          "id": "2bcbbc261e",
+          "title": "Police officer killed in incident in Jette, also death in shooting in Elsene",
+          "url": "https://www.hln.be/binnenland/politieagent-overleden-bij-incident-in-jette-ook-dode-bij-schietpartij-in-elsene~a11e331d/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-13T04:58:00+00:00",
+          "image_url": "https://images.hln.be/NmMzOTRhOTJlNzJmOWE5N2M4NGUvZGlvLzI3ODg0NTYyOC9maXQtd2lkdGgvNDAw/illustratiebeeld"
+        },
+        {
+          "id": "78334d9aa4",
+          "title": "Housing market cools, but young people continue buying: 'Baby boomers give oxygen to the market'",
+          "url": "https://www.demorgen.be/nieuws/huizenmarkt-koelt-af-maar-jongeren-blijven-kopen-babyboomers-geven-zuurstof-aan-de-markt~b6ecc185/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-13T01:00:00+00:00",
+          "image_url": "https://image.demorgen.be/242128702/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "8933157d51",
+          "title": "Premier wants full budget on January 1, no new emergency budget",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/10/12/video-bart-verhulst-state-o-t-union/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/12/2ba3e1f1-84da-4100-96f0-9977a2e23f21.png?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "Germany and Italy are seeking an \"emergency brake\" mechanism to gain veto power over new EU legislation. NATO's highest-ranking military official has outlined a \"victory strategy\" against Russia in the Ukraine conflict, signaling continued military commitment. In an incident in Cologne, Germany, a robot inappropriately touched a 16-year-old girl; two teenagers have been arrested. Trump has commented on ongoing Russia-Ukraine energy ceasefire negotiations, claiming his influence is driving the agreement.",
+      "headlines": [
+        {
+          "id": "5fef8d66c6",
+          "title": "Germany, Italy request 'emergency brake' power to stop new EU laws",
+          "url": "https://www.politico.eu/article/germany-italy-request-emergency-brake-power-to-stop-new-eu-laws/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-12T18:08:39+00:00",
+          "image_url": null
+        },
+        {
+          "id": "256924c87c",
+          "title": "Highest NATO military official unveils 'victory strategy' against Russia: 'We are ready to fight tonight'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/12/hoogste-navo-militair-licht-toe-hoe-de-alliantie-een-russische-a/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/12/bb84f29e-6f87-41e8-909f-ff9ff4c7793a.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "e8cc1fe9c5",
+          "title": "Germany: Robot touches 16-year-old girl in Cologne, 2 teenagers arrested",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/12/robot-betast-16-jarig-meisje-in-keulen-2-tieners-opgepakt/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/12/e578d7a5-ce58-46d0-838d-9747f88206a1.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "f56b968078",
+          "title": "Trump comments on uncertainty around energy ceasefire between Russia and Ukraine: 'They agree because I say so'",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/donald-trump-reageert-op-onduidelijkheid-rond-energiebestand-tus~1789060001669/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/11/639903f1-b97f-48ed-9a19-cf81b1d53eff.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Houthi forces claimed responsibility for ballistic missile attacks on Riyadh airport in Saudi Arabia, with multiple explosions reported. The escalating attacks have prompted major regional airlines to suspend flights to Saudi Arabian cities due to safety risks. U.S. Congresswoman Ilhan Omar, a Trump critic, had her home searched shortly before the election, prompting Democratic accusations of political abuse of power. International financial experts have warned that a potential AI stock market crash poses a significant threat to global economic stability.",
+      "headlines": [
+        {
+          "id": "635721fa26",
+          "title": "Live - Houthis claim new attack on Riyadh airport, multiple explosions heard",
+          "url": "https://www.demorgen.be/snelnieuws/live-houthi-s-claimen-nieuwe-aanval-op-luchthaven-riyad-meerdere-explosies-gehoord~be9c4f82/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-12T19:56:00+00:00",
+          "image_url": "https://image.demorgen.be/278765120/roi/320/320/2805/1918.28/afbeelding"
+        },
+        {
+          "id": "66af64641b",
+          "title": "Major regional airlines cancel flights to Saudi cities due to ongoing Houthi airport attacks",
+          "url": "https://www.hln.be/buitenland/grote-regionale-luchtvaartmaatschappijen-schrappen-vluchten-naar-saudische-steden-vanwege-aanhoudende-aanvallen-houthis-op-luchthavens~a99e0324/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-13T01:20:00+00:00",
+          "image_url": "https://images.hln.be/MzUzMWY3ZDY0NTM4MzBiNDUyM2MvZGlvLzI3ODg0MTc2Ni9maXQtd2lkdGgvNDAw/file-photo-smoke-and-flames-rise-from-king-khalid-airport-after-yemen-s-iran-backed-houthis-said-they-attacked-the-airport-in-riyadh-saudi-arabia-october-8-2026-in-this-screengrab-obtained-from-a-social-media-video-social-media-via-reuters-this-image-has-been-supplied-by-a-third-party-no-resales-no-archives-news-use-only-best-quality-available-verification-lines-the-location-was-verified-as-riyadh-saudi-arabia-from-the-airport-buildings-light-poles-and-painted-tarmac-markings-which-matched-satellite-imagery-coordinates-24-952651844496998-46-70783371105999-smoke-was-seen-rising-from-a-stationary-aircraft-at-riyadh-airport-on-thursday-according-to-a-witness-and-three-people-briefed-on-the-matter-there-was-no-immediate-official-confirmation-from-saudi-authorities-on-the-reported-incident-no-versions-of-the-video-were-found-posted-online-before-october-8-file-photo"
+        },
+        {
+          "id": "88adeccdbb",
+          "title": "Search at Trump-critic Ilhan Omar's home shortly before election: Democrats speak of abuse of power",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/12/huiszoeking-omar-verenigde-staten-trump/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2025/12/10/b4099796-3231-42c0-ad4b-5c251534b807.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "9e58dc3016",
+          "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+          "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-13T03:15:12+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/936_0_4064_3251/master/4064.jpg?width=700&quality=85&auto=format&fit=max&s=54cc0243baaf87c3509db8f8c1106bd3"
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
