@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-10-14T06:39:10.152560+00:00",
+  "date": "2026-10-14",
+  "degraded": true,
+  "top_general": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": [
+      {
+        "id": "4ad6792ff6",
+        "title": "המשוואה החדשה של החות'ים - והאיום על טראמפ: \"לא נתלבט אם להגיב\"",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-b7b327edbe431a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-13T13:54:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/13/n20-1310-HUTIIM-ibud-1-1_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "457cd1a759",
+        "title": "ניסים ואטורי הוא יו\"ר ועדת המשנה לעניין פינוי מוקשים ונפלים. זו לא בדיחה",
+        "url": "https://www.themarker.com/blogs/2026-10-13/ty-article/000001a1-365e-d610-a5bb-377f52850000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-10-13T18:01:37+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-3663-d1d8-a5a9-7f773f430000/e2/47/24196b4846349ef0562ee4d6650e/443776.jpg?width=108&height=81"
+      },
+      {
+        "id": "f69fbd763f",
+        "title": "נתניהו הודה: ראש המודיעין המצרי נחת בישראל לפני 7 באוקטובר",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-14/ty-article/000001a1-370c-d1d8-a5a9-7f5d6a210000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-13T21:12:19+00:00",
+        "image_url": null
+      },
+      {
+        "id": "24397db6aa",
+        "title": "נתניהו הודה שראש המודיעין המצרי נחת בארץ לפני 7/10. זו טענתו שהסרטון מפריך",
+        "url": "https://www.ynet.co.il/news/article/hyjltznomg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-13T21:32:08+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/13/Sy4hTW3sMg/Sy4hTW3sMg_0_0_1280_720_0_medium.jpg"
+      },
+      {
+        "id": "cd8f3c5cd0",
+        "title": "‘Have to be exterminated’: Series of violent plots take aim at AIPAC-linked targets in US",
+        "url": "https://www.timesofisrael.com/have-to-be-exterminated-series-of-violent-plots-takes-aim-at-aipac-linked-targets-in-us/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-10-13T21:51:41+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2019/03/000_1F34QF-e1553607597514-1024x640.jpg"
+      },
+      {
+        "id": "7b379b9e34",
+        "title": "חזרה לשגרה: 4 כללים לחדות ולפוקוס",
+        "url": "https://www.israelhayom.co.il/you-may-find-interesting/article/21400455",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "985896d623",
+        "title": "סקר בחירות 2026 סקר בחירות 2026",
+        "url": "https://www.kan.org.il/lobby/skarim/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "b8bde4e04e",
+        "title": "טראמפ על החות'ים: \"חשבתי שהם למדו את הלקח שהפצצנו אותם עד עפר לפני שנה\"",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-69653d4e50631a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-13T16:25:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/08/AP26278710415738_autoOrient_i.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
+  },
+  "subjects": [],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv"
+  ],
+  "sources_failed": [
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ]
+}
