@@ -1,97 +1,234 @@
 {
-  "generated_at": "2026-10-14T06:39:10.152560+00:00",
-  "date": "2026-10-14",
-  "degraded": true,
+  "generated_at": "2026-10-15T06:31:46.830508+00:00",
+  "date": "2026-10-15",
+  "degraded": false,
   "top_general": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "summary_he": "איראן מאיימת ומשנה את שיטת התקיפות במצר הורמוז לקראת הבחירות בארה\"ב, והמזרח התיכון נמצא בכוננות גבוהה. בישראל נקבע מותו של אחד הפצועים בפיצוץ במפעל אינטל בקרית גת. לקראת הבחירות בישראל פורסם מדריך לבוחר, ובאופוזיציה תוקפים את נתניהו בעקבות הגשת תביעה.",
     "headlines": [
       {
-        "id": "4ad6792ff6",
-        "title": "המשוואה החדשה של החות'ים - והאיום על טראמפ: \"לא נתלבט אם להגיב\"",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-b7b327edbe431a1026.htm",
+        "id": "84c006516e",
+        "title": "בכירים באיראן חושפים: טהראן משנה את שיטת התקיפות במצר הורמוז כדי להשפיע על הבחירות בארה\"ב",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-8b7e08ebb3931a1026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-10-13T13:54:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/10/13/n20-1310-HUTIIM-ibud-1-1_re_autoOrient_i.jpg"
+        "published_at": "2026-10-14T07:09:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/10/irannew101002_autoOrient_i.jpg"
       },
       {
-        "id": "457cd1a759",
-        "title": "ניסים ואטורי הוא יו\"ר ועדת המשנה לעניין פינוי מוקשים ונפלים. זו לא בדיחה",
-        "url": "https://www.themarker.com/blogs/2026-10-13/ty-article/000001a1-365e-d610-a5bb-377f52850000",
-        "source": "themarker",
-        "source_label": "TheMarker",
-        "source_label_he": "TheMarker",
-        "published_at": "2026-10-13T18:01:37+00:00",
-        "image_url": "https://img.haarets.co.il/bs/000001a1-3663-d1d8-a5a9-7f773f430000/e2/47/24196b4846349ef0562ee4d6650e/443776.jpg?width=108&height=81"
-      },
-      {
-        "id": "f69fbd763f",
-        "title": "נתניהו הודה: ראש המודיעין המצרי נחת בישראל לפני 7 באוקטובר",
-        "url": "https://www.haaretz.co.il/news/politics/2026-10-14/ty-article/000001a1-370c-d1d8-a5a9-7f5d6a210000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-10-13T21:12:19+00:00",
+        "id": "774429d03b",
+        "title": "לפני 51 דקות המזרח התיכון מבעבע ובאיראן מקשיבים לאיומים: \"נמצאים בכוננות שיא\"",
+        "url": "https://www.maariv.co.il/breaking-news/article-1377349",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
         "image_url": null
       },
       {
-        "id": "24397db6aa",
-        "title": "נתניהו הודה שראש המודיעין המצרי נחת בארץ לפני 7/10. זו טענתו שהסרטון מפריך",
-        "url": "https://www.ynet.co.il/news/article/hyjltznomg",
+        "id": "ca62a385aa",
+        "title": "נקבע מותו של אחד הפצועים בפיצוץ במפעל אינטל בקרית גת קרא עוד..",
+        "url": "https://www.i24news.tv/he/news/news/local/artc-44a6372d",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
+        "published_at": null,
+        "image_url": "https://cdn.i24news.tv/uploads/7e/82/a8/8e/1e/3f/db/b5/b5/04/63/aa/18/7d/30/97/7e82a88e1e3fdbb5b50463aa187d3097.jpeg?width=750"
+      },
+      {
+        "id": "247af83d1d",
+        "title": "מי יכול להצביע ואיפה, אילו עסקים יפעלו - ומה עם התחבורה הציבורית | המדריך לבוחר",
+        "url": "https://www.ynet.co.il/news/elections2026/article/yokra14927061",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-10-13T21:32:08+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/13/Sy4hTW3sMg/Sy4hTW3sMg_0_0_1280_720_0_medium.jpg"
+        "published_at": "2026-10-14T21:00:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/09/SkKmoc8sMl/SkKmoc8sMl_0_35_3000_1689_0_medium.jpg"
       },
       {
-        "id": "cd8f3c5cd0",
-        "title": "‘Have to be exterminated’: Series of violent plots take aim at AIPAC-linked targets in US",
-        "url": "https://www.timesofisrael.com/have-to-be-exterminated-series-of-violent-plots-takes-aim-at-aipac-linked-targets-in-us/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-10-13T21:51:41+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2019/03/000_1F34QF-e1553607597514-1024x640.jpg"
-      },
-      {
-        "id": "7b379b9e34",
-        "title": "חזרה לשגרה: 4 כללים לחדות ולפוקוס",
-        "url": "https://www.israelhayom.co.il/you-may-find-interesting/article/21400455",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
+        "id": "2de8c5041d",
+        "title": "באופוזיציה תקפו אחרי הגשת התביעה של בר: \"הכול היה על שולחנו של נתניהו\"",
+        "url": "https://www.haaretz.co.il/news/elections/2026-10-14/ty-article/000001a1-3a56-d0b4-adb7-be5743790000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-14T13:17:40+00:00",
         "image_url": null
-      },
-      {
-        "id": "985896d623",
-        "title": "סקר בחירות 2026 סקר בחירות 2026",
-        "url": "https://www.kan.org.il/lobby/skarim/",
-        "source": "kan",
-        "source_label": "כאן 11",
-        "source_label_he": "כאן 11",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "b8bde4e04e",
-        "title": "טראמפ על החות'ים: \"חשבתי שהם למדו את הלקח שהפצצנו אותם עד עפר לפני שנה\"",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-69653d4e50631a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-10-13T16:25:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/10/08/AP26278710415738_autoOrient_i.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
-    "headlines": []
+    "summary_he": "משרד הביטחון רכש 12 מסוקי אפאצ'י מארה\"ב בתקציב מיוחד, וישראל פועלת לבלימת הקמת בסיס צבאי של מועצת השלום ברצועת עזה. באו\"ם דוחפים ליציבות בלבנון, ובינתיים הוטל איסור חדש על טייסים עם אזרחות כפולה הטסים מעל ישראל.",
+    "headlines": [
+      {
+        "id": "21d558d1ce",
+        "title": "בתקציב מיוחד: משרד הביטחון רכש 12 מסוקי אפאצ'י מארה\"ב",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001559595",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-14T14:48:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791434721/shutterstock_2396101569_zuzw1v.jpg"
+      },
+      {
+        "id": "7b72005270",
+        "title": "ישראל בולמת את הקמתו של בסיס צבאי על ידי מועצת השלום ברצועת עזה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-15/ty-article/000001a1-3c24-da51-abf7-7cef090b0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-14T21:34:32+00:00",
+        "image_url": null
+      },
+      {
+        "id": "d71df464cc",
+        "title": "UN reaffirms push for Lebanon stability as Beirut asks to extend peacekeepers’ mandate",
+        "url": "https://www.timesofisrael.com/un-reaffirms-push-for-lebanon-stability-as-beirut-asks-to-extend-peacekeepers-mandate/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-10-14T18:47:00+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AFP__20261014__D39B8G3__v1__HighRes__LebanonIsraelUsIranWarUnifil-1024x640.jpg"
+      },
+      {
+        "id": "4299386b2b",
+        "title": "האיסור החדש לטייסים עם אזרחות כפולה וטיסות מעל ישראל",
+        "url": "https://travel.walla.co.il/item/3872083",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-10-14T06:09:00+00:00",
+        "image_url": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/9/4109386-46.jpg"
+      }
+    ]
   },
-  "subjects": [],
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "חוששים בסביבת נתניהו שחסידי גור לא יצביעו, בעוד בעלי ברית דוחקים במפלגות קטנות לפרוש לקראת הבחירות. בבת ים נבחנת תופעת האי-הצבעה בבחירות הקודמות.",
+      "headlines": [
+        {
+          "id": "5b627c5a3b",
+          "title": "Netanyahu said worried Gur Hasidim won’t vote as allies push small parties to drop out",
+          "url": "https://www.timesofisrael.com/netanyahu-said-worried-gur-hasidim-wont-vote-as-allies-push-small-parties-to-drop-out/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-10-14T21:40:16+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260714CG246-e1784112820713-1024x640.jpg"
+        },
+        {
+          "id": "61ed436ff5",
+          "title": "כמחצית מתושבי בת ים לא הצביעו בבחירות האחרונות. למה?",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-15/ty-article-magazine/.premium/000001a1-3a8d-d306-a7bf-3fcddc0f0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-15T05:32:23+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "קמטק צופה הכנסות של 161 מיליון דולר ברבעון השלישי, בעוד העליון קבע שגלובלנט גמל לא תחזיר בינתיים 11 מיליון שקל לחוסכים. גם תוספות שכר למורים עולות לדיון עוד לפני הבחירות.",
+      "headlines": [
+        {
+          "id": "cf5a1907f8",
+          "title": "קמטק צופה הכנסות של 161 מיליון דולר ברבעון השלישי של 2026",
+          "url": "https://www.themarker.com/markets/2026-10-14/ty-article/000001a1-3b1e-de23-a5fb-bf9fe9fd0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-14T16:29:41+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-3b28-d95b-a5ef-fba9e3fa0000/c9/80/a2e0506541778eddf908194b34f7/172672.jpg?width=108&height=81"
+        },
+        {
+          "id": "5cef4cf3c5",
+          "title": "העליון קבע: גלובלנט גמל לא תחזיר בינתיים לחוסכים 11 מיליון שקל",
+          "url": "https://www.themarker.com/markets/2026-10-14/ty-article/.premium/000001a1-3adf-d95b-a5ef-fbffadfc0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-14T15:52:07+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-3aef-d95b-a5ef-fbef973f0000/b6/6e/8d5759cb4edd914248a6880457d0/047198.jpg?width=108&height=81"
+        },
+        {
+          "id": "7ea8c8b9b0",
+          "title": "יפה בן דויד דורשת להתחיל במו\"מ על תוספות שכר למורים — עוד לפני הבחירות והרכבת הממשלה",
+          "url": "https://www.themarker.com/news/education/2026-10-15/ty-article/.premium/000001a1-3d93-de23-a5fb-bf9722f90000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-15T04:19:02+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-3dad-d5a5-a5b3-ffafdef60000/fa/41/1f943dd44600b3c94b472d4cacfd/883346.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "עולה קריאה להסדרת רגולציה בתעשיית הבינה המלאכותית, מתוך חשש כי פיקוח עצמי בלבד עלול להוביל לאסון.",
+      "headlines": [
+        {
+          "id": "e7fd076e00",
+          "title": "פיקוח עצמי או היעדר רגולציה על תעשיית ה–AI הם מתכון לאסון",
+          "url": "https://www.themarker.com/wallstreet/2026-10-15/ty-article/.premium/000001a1-2a4f-d695-abad-fadfc7770000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-15T03:12:32+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-39e3-d30d-a7ff-7df309e80000/d7/44/edcaf657479698b886fac266ddd7/781718.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "השר בן גביר מקדם תוכנית לשינוי ערכי צה\"ל, ונתונים חדשים חושפים כי הצבא אינו עוצר עריקים חרדים.",
+      "headlines": [
+        {
+          "id": "892639f70e",
+          "title": "\"צדקת הנשק\": התוכנית של השר בן גביר לשינוי ערכי צה\"ל",
+          "url": "https://www.kan.org.il/content/kan-news/politic/1109402/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": "https://www.kan.org.il/media/4m2bhwli/f240103obh17.jpg?width=490&height=272&v=1da9c7c56007800"
+        },
+        {
+          "id": "9e3b6a428e",
+          "title": "הנתונים חושפים: צה\"ל לא עוצר עריקים חרדים",
+          "url": "https://13tv.co.il/item/news/domestic/crime-and-justice/bagatz-905396748/?pid=62&refc=902992386",
+          "source": "reshet13",
+          "source_label": "חדשות 13",
+          "source_label_he": "חדשות 13",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "במסגרת תוכנית השיקום של גל נאור, מתוכננות 170 וילות חדשות בחמת גדר.",
+      "headlines": [
+        {
+          "id": "807590f697",
+          "title": "תוכנית השיקום של גל נאור: 170 וילות יוקמו בחמת גדר",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001559548",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-15T02:41:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/v1791995236/P-9-800_ed9wzg.png"
+        }
+      ]
+    }
+  ],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -102,11 +239,213 @@
     "globes",
     "themarker",
     "times_of_israel",
-    "maariv"
-  ],
-  "sources_failed": [
+    "maariv",
     "makor_rishon",
     "reshet13",
     "i24"
-  ]
+  ],
+  "sources_failed": [],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israeli politics and international responses dominate recent headlines. A former Israeli security chief sued Prime Minister Netanyahu for libel, highlighting internal political tensions. Internationally, Irish author Sally Rooney withdrew her books from UK shelves, citing legal concerns related to the Israeli-Palestinian conflict, while the UK introduced new sanctions powers to target supporters of illegal Israeli settlements. Israeli political leaders Bennett and Lapid pledged to strengthen ties with Jewish diaspora communities.",
+      "headlines": [
+        {
+          "id": "975931c92c",
+          "title": "Israel blocks construction of key Gaza base created by Trump peace board",
+          "url": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-14T19:19:52+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/b2a4ea1fb3b2cc584bb8c80be6d1f4d83881395a/625_0_6227_4985/master/6227.jpg?width=700&quality=85&auto=format&fit=max&s=3e6e30025f7caa20d8997f06f8aa6403"
+        },
+        {
+          "id": "10cd971668",
+          "title": "Former Israeli security chief sues Netanyahu for libel",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/extopman-veiligheidsdienst-israel-klaagt-netanyahu-aan-voor-las~1787143375321/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/14/60f66e08-a891-4810-9933-5712386d0225.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "77486d6011",
+          "title": "Irish author Sally Rooney withdraws books from UK shelves citing legal concerns over Israeli-Palestinian conflict",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/14/sally-rooney-boeken-vk-verbod/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/14/4c478258-73a7-4009-b618-b21f21dcdf59.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "f6897a7738",
+          "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
+          "url": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-14T16:51:25+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/80dd7b222e94052acb2e4d70e79fda18c8f91248/713_0_4870_3896/master/4870.jpg?width=700&quality=85&auto=format&fit=max&s=140fb40bc7a218091fbdffa14c46dbdd"
+        },
+        {
+          "id": "52e86ad72d",
+          "title": "Ahead of elections, Bennett and Lapid pledge to strengthen Israel-Diaspora ties",
+          "url": "https://www.jta.org/2026/10/14/israel/ahead-of-elections-bennett-and-lapid-pledge-to-strengthen-israel-diaspora-ties",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-14T15:44:03+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/10-14-2026-Bennett-Lapid-scaled.jpg"
+        },
+        {
+          "id": "88b4ad2d4d",
+          "title": "Trump antisemitism official to visit Michigan synagogue weeks before midterms, backed by ZOA",
+          "url": "https://www.jta.org/2026/10/14/politics/trump-antisemitism-official-to-visit-michigan-synagogue-weeks-before-midterms-backed-by-zoa",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-14T15:59:38+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2025/02/2-4-25-terrell.jpg"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgian budget and labor developments take center stage. Prime Minister De Wever proposed VAT cuts and 3-4 billion euros in savings to calm financial markets, though he deferred difficult decisions to 2027. A VRT investigation revealed severe overcrowding, drug problems, and staff shortages in Flanders' most overcrowded prison. More seniors are entering the workforce after retirement as employers offer lower hourly wages for flexible employment.",
+      "headlines": [
+        {
+          "id": "069abf50c9",
+          "title": "De Wever removes VAT in new budget proposal, focus on 2027 to avoid provisional budgets",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-wever-schrapt-btw-in-nieuw-begrotingsvoorstel-focus-ligt-op-~1790599460224/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/14/ad58befc-c6ff-4efb-a050-ab2be4a3c5e7.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "77267d4575",
+          "title": "De Wever wants to calm financial markets with 3-4 billion euro savings, but delays difficult budget work to next year",
+          "url": "https://www.hln.be/binnenland/de-wever-wil-financiele-markten-kalmeren-met-3-a-4-miljard-euro-besparingen-maar-schuift-moeilijkste-begrotingswerk-door-naar-volgend-jaar-waarom~ab70f1d5/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-15T04:00:00+00:00",
+          "image_url": "https://images.hln.be/ODM0ZGQ2MGFhN2E3ZTZkYmE0ZmQvZGlvLzI3OTAzMDM4Ni9maXQtd2lkdGgvNDAw/begroting"
+        },
+        {
+          "id": "601b84da45",
+          "title": "Employers offer lower hourly wages for flex jobs; more seniors work after retirement",
+          "url": "https://www.hln.be/werk-en-pensioenen/werkgevers-durven-een-lager-uurloon-aan-te-bieden-bij-een-flexi-job-steeds-meer-65-plussers-werken-na-hun-pensioen-maar-zo-haal-je-er-het-meest-uit~a9b3cb6f/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-15T05:00:00+00:00",
+          "image_url": "https://images.hln.be/ODViY2QyNmY2ODJlYTEwNWJjMmIvZGlvLzI3OTAxNTk1OS9maXQtd2lkdGgvNDAw/senior-male-worker-in-uniform-in-the-warehouse-with-pallet-truck"
+        },
+        {
+          "id": "ba97bfdd51",
+          "title": "Investigation reveals overcrowding, drugs, staff shortage in Flanders' most overcrowded prison",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/14/pano-gevangenis-mechelen-overbevolkt/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/14/6b61634d-2f60-440e-a3c9-bf4e86bff2ee.png?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "European budget disputes and political crises intensify across the continent. EU leaders clash over budget priorities as French politician Marine Le Pen demands downsizing the EU and cutting financial contributions. Albania faces escalating street protests in its capital amid political tensions. Poland continues its economic transformation since the Soviet era, positioning itself as a regional economic power.",
+      "headlines": [
+        {
+          "id": "17d422131c",
+          "title": "EU leaders face off over the budget",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/eu-leaders-face-off-over-the-budget/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-15T04:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "3d891ed4bd",
+          "title": "Le Pen vows to downsize EU as she brings contribution cut fight to Brussels",
+          "url": "https://www.politico.eu/article/le-pen-downsize-eu-contribution-cut-brussels/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-14T18:35:43+00:00",
+          "image_url": null
+        },
+        {
+          "id": "c4bcac00ff",
+          "title": "Albania's capital burns as protests escalate",
+          "url": "https://www.politico.eu/article/albania-protests-escalate-students-torch-businesses-government-buildings/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-14T17:57:14+00:00",
+          "image_url": null
+        },
+        {
+          "id": "746492d732",
+          "title": "Poland looks to economic heights in a country transformed since Soviet days",
+          "url": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-15T05:56:12+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/41b30e5b8646fd990ce24bbba4eb96ee2134837a/0_0_3336_2668/master/3336.jpg?width=700&quality=85&auto=format&fit=max&s=12d73401b161a193be3c59584ffb33d0"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Major geopolitical conflicts and diplomatic crises dominate the global agenda. Ukrainian President Zelensky expressed feeling betrayed by the Trump administration's approach to the war, while the United States reportedly considered deploying a \"mother of all bombs\" against Iran. In Ukraine, an unannounced Starlink limitation disrupted military operations, and a container ship sank in the Strait of Hormuz amid persistent Middle Eastern tensions.",
+      "headlines": [
+        {
+          "id": "17dce5dac6",
+          "title": "Zelensky feels betrayed by Trump over Ukraine war approach",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/zelensky-voelt-zich-verraden-door-trump-pijnlijk-wanneer-hij~1789060001669/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2025/12/28/ebaf52b0-9d94-414c-af74-c3f5b1790ab0.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "9ed49860dd",
+          "title": "United States considers using 'mother of all bombs' in Iran, reports CNN",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/15/vs-moeder-aller-bommen-gbu-43-cnn-oorlog-iran/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2017/04/14/5894fd22-20e8-11e7-a993-00163edf48dd.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "37da496482",
+          "title": "Unannounced Starlink limitation disrupts military operations in Ukraine",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/14/star-link-oorlog-rusland-oekraine-inlichtingen/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/14/31c66ac7-39e7-4832-a6d1-7ae2c80ac2b3.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "c26ed562ed",
+          "title": "Container ship sinks at Strait of Hormuz; Saudi Arabia moves tennis tournament",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/containerschip-zinkt-bij-straat-van-hormuz-saudiarabie-verplaa~1784611610051/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/14/27fe64b6-dba1-4ed7-a057-4cc717059f61.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "degraded": false
+  }
 }
