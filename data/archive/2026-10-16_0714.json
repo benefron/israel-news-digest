@@ -1,0 +1,522 @@
+{
+  "generated_at": "2026-10-16T07:10:37.606314+00:00",
+  "date": "2026-10-16",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "ערב הבחירות, נתניהו מתקשה לשלוט בסדר היום ומאותת שעשוי לפנות להסלמה, בעוד סקרים מצביעים על התחזקות גוש איזנקוט והיחלשות הליכוד. במקביל גוברים החששות מהתחדשות המלחמה באיראן, לנוכח מהלכים צבאיים שזוהו שם ושיח בין ישראל לארה\"ב. בזירה הכלכלית, האינפלציה הפתיעה לטובה עם קצב שנתי של 1.6% בספטמבר, וחברת הסייבר הישראלית ורוניס נמכרה ב-6.3 מיליארד דולר.",
+    "headlines": [
+      {
+        "id": "4ddfc6bbba",
+        "title": "ערב הבחירות, נתניהו מתקשה לשלוט בסדר היום ומאותת שהוא עשוי לפנות להסלמה",
+        "url": "https://www.haaretz.co.il/news/elections/2026-10-16/ty-article/.highlight/000001a1-40b1-de23-a5fb-deb59dc30000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-16T03:00:47+00:00",
+        "image_url": null
+      },
+      {
+        "id": "7fb528ec72",
+        "title": "לקראת תקיפה? המהלכים הצבאיים שזוהו באיראן, והשיח בין ישראל לאמריקאים",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001559821",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-16T06:16:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781534853/direct/2-3-800_hih9km.png"
+      },
+      {
+        "id": "e040732579",
+        "title": "האינפלציה מפתיעה לטובה: קצב שנתי של 1.6% בספטמבר; מחירי הדירות חזרו לרדת",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001559788",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-15T16:46:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1763056324/direct/%D7%90%D7%99%D7%A0%D7%A4%D7%9C%D7%A6%D7%99%D7%94-800_maf3cn.png"
+      },
+      {
+        "id": "f95e794b3f",
+        "title": "החברה הישראלית שנמכרה ב-6.3 מיליארד דולר",
+        "url": "https://finance.walla.co.il/item/3872427",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-10-16T05:23:00+00:00",
+        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/3/8/8/8/3888886-46.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "צה\"ל חיסל מפקד בכיר בחמאס שהשתתף בטבח ה-7 באוקטובר, וכן תקף בשני קצוות רצועת עזה וחיסל שני מחבלים נוספים. במקביל מתגברים הדיווחים על מהלכים צבאיים באיראן ועל שיח בין ישראל לארה\"ב סביב אפשרות לתקיפה, מה שמעורר חשש מהתחדשות העימות. בזירה המדינית, קולומביה הודיעה על פרישה מקבוצת האג האנטי-ישראלית, בסמוך לחנוכת שגרירותה בירושלים.",
+    "headlines": [
+      {
+        "id": "dffa72e32e",
+        "title": "צה\"ל: חיסלנו מפקד חמאס שהשתתף בטבח 7 באוקטובר",
+        "url": "https://www.kan.org.il/content/kan-news/defense/live-1109728/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": "https://www.kan.org.il/media/334htago/f250915om12.jpg?width=490&height=272&v=1dc5a36e5379070"
+      },
+      {
+        "id": "dd1007adc1",
+        "title": "לפני 54 דקות צה\"ל תקף בשני קצוות הרצועה - וחיסל שני מחבלים מחמאס ומהג'יהאד",
+        "url": "https://www.maariv.co.il/breaking-news/article-1377793",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "1697d568d7",
+        "title": "החשש מהתחדשות המלחמה באיראן, ומניות השבבים והנדל\"ן. מה יקרה הבוקר בבורסה בת\"א?",
+        "url": "https://www.themarker.com/markets/2026-10-16/ty-article/.premium/000001a1-4321-d1eb-abe1-773d2d8e0000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-10-16T05:36:32+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-4330-d9d6-a9b3-ef7878fe0001/08/93/2d1a7483462fb96461f4815249ff/394544.jpg?width=108&height=81"
+      },
+      {
+        "id": "b69508518e",
+        "title": "2 דקות מדיני אחרי פתיחת השגרירות בי-ם: קולומביה פורשת מהגוש האנטי-ישראלי השבוע נחנכה שגרירות קולומביה בירושלים, במעמד שרי החוץ של קולומביה וישראל • אמש הודיעה ממשלת קולומביה על פרישה מקבוצת האג, שנועדה כדי להטיל אחריות על ישראל בנוגע למצב ברצועת עזה זמן קריאה: 2 דקות.",
+        "url": "https://www.i24news.tv/he/news/news/diplomacy/artc-67ce4fae",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
+        "published_at": null,
+        "image_url": "https://cdn.i24news.tv/uploads/c7/d4/7f/70/01/f0/a0/79/0c/71/2b/bc/cd/6e/2e/b2/c7d47f7001f0a0790c712bbccd6e2eb2.jpg?width=350"
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "ערב הבחירות ממשיך להסעיר את הזירה הפוליטית: סקר מנדטים מצביע על התחזקות גוש איזנקוט ועל וינטר הנמצא מתחת לאחוז החסימה, בעוד הליכוד נחלש והגוש הערבי מזנק. במקביל הוגשה עתירה לבג\"ץ נגד החלטת ועדת הבחירות לאפשר העברת מידע מהקלפי על מספר המצביעים.",
+      "headlines": [
+        {
+          "id": "47feffaf32",
+          "title": "גוש איזנקוט מתחזק, וינטר מתחת לאחוז החסימה | סקר מנדטים",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21636491",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "c3063b0ba8",
+          "title": "נתניהו נחלש, הגוש הערבי מזנק - ומה עם וינטר והנדל?",
+          "url": "https://www.walla.co.il/news/politics/383957641",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-10-16T06:00:00+00:00",
+          "image_url": "https://image-resizer-walla.walla.cloud/image/2026/10/3/images/1792094035101_walla-media-picture_841x545.webp?width=500"
+        },
+        {
+          "id": "e6a155ab3d",
+          "title": "השיעמום ינצח? החידה הגדולה של גדי איזנקוט",
+          "url": "https://www.walla.co.il/news/politics/383957620",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-10-16T06:00:00+00:00",
+          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/0/9/8/4098152-46.jpeg"
+        },
+        {
+          "id": "c092dfb5dc",
+          "title": "עתירה לבג\"ץ: בטלו את החלטת ועדת הבחירות לאפשר העברת מידע מהקלפי על מספר המצביעים",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-15/ty-article/000001a1-4090-d1eb-abe1-74bc00490000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-15T18:05:20+00:00",
+          "image_url": null
+        },
+        {
+          "id": "636e4bf843",
+          "title": "מחשבות מעגליות רגע לפני בחירות / רענן שקד",
+          "url": "https://www.ynet.co.il/news/article/yokra14925560",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-15T21:00:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/17/HJNZH4TxC/HJNZH4TxC_0_0_1920_1080_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "האינפלציה הפתיעה לטובה בספטמבר עם קצב שנתי של 1.6%, ומחירי הדירות חזרו לרדת. בשוק ההון מצפים לפתיחת מסחר מעורבת לנוכח החשש מהתחדשות המלחמה באיראן.",
+      "headlines": [
+        {
+          "id": "e040732579",
+          "title": "האינפלציה מפתיעה לטובה: קצב שנתי של 1.6% בספטמבר; מחירי הדירות חזרו לרדת",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001559788",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-15T16:46:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1763056324/direct/%D7%90%D7%99%D7%A0%D7%A4%D7%9C%D7%A6%D7%99%D7%94-800_maf3cn.png"
+        },
+        {
+          "id": "a3f8deee11",
+          "title": "חמישה דברים שכדאי לדעת לקראת פתיחת המסחר בבורסה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001559720",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-16T06:45:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg4_epj1sj.jpg"
+        },
+        {
+          "id": "77ed20db87",
+          "title": "אסיה מתאוששת: סיאול טיפסה ב-2%; בורסת אינדונזיה קורסת בעקבות חשש להורדת דירוג",
+          "url": "https://www.themarker.com/wallstreet/2026-10-16/ty-article-live/000001a1-2e4d-d1b4-a5fb-aecd97b50000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-16T06:39:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-430c-d1eb-abe1-773c821f0000/4a/ce/2dafbbb44a2697e2b29d18969559/781836.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "חברת הסייבר הישראלית ורוניס סיסטמס תירכש על ידי פרופפוינט בעסקה של 6.3 מיליארד דולר. בארה\"ב ממשיכים הפיטורים הנרחבים בענף ההייטק, ואילון מאסק הציג מכונית מעופפת.",
+      "headlines": [
+        {
+          "id": "d0a6b8d13e",
+          "title": "Israeli cybersecurity firm Varonis Systems to be bought by Proofpoint in $6.3 billion deal",
+          "url": "https://www.timesofisrael.com/israeli-cybersecurity-firm-varonis-systems-to-be-bought-by-proofpoint-in-6-3-billion-deal/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-10-16T05:54:25+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP490734725677-e1792125819945-1024x640.jpg"
+        },
+        {
+          "id": "1f0385bcbb",
+          "title": "במייל קבוצתי, בשש בבוקר: למה הפיטורים בהייטק האמריקאי כל כך אכזריים",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001559698",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-15T18:00:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1757510776/direct/shutterstock_740183557_zzbswe.jpg"
+        },
+        {
+          "id": "ca040baf6a",
+          "title": "אילון מאסק מציג: מכונית מעופפת",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001559822",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-16T06:34:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1792131751/2026-10-16T014239Z_1011196447_RC214OAAWK2R_RTRMADP_3_TESLA-ROADSTER_tbwj6h.jpg"
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "בשוק הדיור מוצגות אפשרויות רכישה במגוון מחירים: שבע דירות בשלוש ערים במחיר של עד 1.1 מיליון שקל, לצד פנטהאוז בצפון תל אביב בפחות מ-2 מיליון שקל.",
+      "headlines": [
+        {
+          "id": "f15aa40a6e",
+          "title": "עד 1.1 מיליון שקל: שבע דירות בשלוש ערים",
+          "url": "https://www.themarker.com/realestate/2026-10-16/ty-article/.premium/000001a1-40e0-d1eb-abe1-74fca8f90000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-16T03:17:36+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-40f4-ddcc-a3fd-cbfcdb6e0001/be/4b/6cae2ed94aeba9ec6adb87925504/admonit.PNG?width=108&height=81"
+        },
+        {
+          "id": "3b2ffa05a9",
+          "title": "בני הזוג הגשימו את החלום — ועברו לפנטהאוז בצפון בפחות מ-2 מיליון שקל",
+          "url": "https://www.themarker.com/realestate/2026-10-16/ty-article/.highlight/000001a1-3f72-d1eb-abe1-7f7e5b9c0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-16T03:02:58+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-4146-d1eb-abe1-757e339e0001/98/a5/c95c7a1041aabec7451d2f57b367/kir2.PNG?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "נמצא פער גדול בין תלמידים בישראל: התלמידים המבוססים נמצאים ברמה של רומניה, בעוד המוחלשים ברמה של קמבודיה.",
+      "headlines": [
+        {
+          "id": "e1564caee0",
+          "title": "התלמידים המבוססים בישראל ברמה של רומניה, המוחלשים ברמה של קמבודיה",
+          "url": "https://www.haaretz.co.il/news/magazine/2026-10-16/ty-article-magazine/.premium/000001a1-34f6-dd7e-afbb-f7fe14580000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-16T03:00:39+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "מועמד מטעם יהדות התורה השווה את מצב מעצרי העריקים החרדים למצב בשואה, בהתבטאות שעוררה הדים.",
+      "headlines": [
+        {
+          "id": "f7c7d9d83f",
+          "title": "מועמד יהדות התורה על מעצרי העריקים: \"המצב שלנו כמו בשואה\"",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21637848",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "גשמים כבדים גרמו להצפות קשות באיסטנבול שבטורקיה, ולפחות שלושה בני אדם נהרגו כתוצאה מכך.",
+      "headlines": [
+        {
+          "id": "8cc2bc5187",
+          "title": "גשמים כבדים גרמו להצפות באיסטנבול, לפחות שלושה בני אדם נהרגו",
+          "url": "https://www.haaretz.co.il/news/world/europe/2026-10-15/ty-article-magazine/.premium/000001a1-4088-d1eb-abe1-74bc43bd0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-15T19:18:02+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "מכבי תל אביב חוותה לילה שמתואר כמשנה את מצב הרוח, הרבה מעבר לעוד ניצחון בלבד.",
+      "headlines": [
+        {
+          "id": "5c8730e242",
+          "title": "\"יותר מעוד ניצחון\": הלילה ששינה את מצב הרוח במכבי ת\"א",
+          "url": "https://sports.walla.co.il/item/3872418",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-10-16T04:40:00+00:00",
+          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/1/1/0/4110067-46.jpg"
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "China has publicly called on Israel to halt West Bank settlement expansion, while international commentary continues to debate accountability for the Gaza conflict. A major hotel in Ireland canceled over 70 room bookings for an antisemitism awareness conference, highlighting ongoing concerns about discrimination against Jewish events and organizations. Holocaust remembrance remains a focal point in discussions surrounding contemporary Middle East humanitarian crises.",
+      "headlines": [
+        {
+          "id": "ecb2733fab",
+          "title": "Live - China urges Israel to stop settlements on West Bank",
+          "url": "https://www.demorgen.be/snelnieuws/live-china-maant-israel-te-stoppen-met-nederzettingen-op-westelijke-jordaanoever~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-16T04:45:00+00:00",
+          "image_url": "https://image.demorgen.be/278181013/roi/320/320/691.1999999999999/529.2/afbeelding"
+        },
+        {
+          "id": "5365f0f878",
+          "title": "Talarico blames Netanyahu, not the Israeli people, for devastation in Gaza",
+          "url": "https://www.jta.org/2026/10/15/politics/talarico-blames-netanyahu-not-the-israeli-people-for-devastation-in-gaza",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-15T21:08:56+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/James-Talarico-10-15.jpg"
+        },
+        {
+          "id": "064915bc06",
+          "title": "Irish Jewish leader 'shocked' after hotel cancels over 70 rooms for antisemitism conference",
+          "url": "https://www.jta.org/2026/10/15/global/irish-jewish-leader-shocked-after-hotel-cancels-over-70-rooms-for-antisemitism-conference",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-15T18:32:53+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/IMG_2533-1.jpeg"
+        },
+        {
+          "id": "d617113bfc",
+          "title": "Holocaust memory compels us to reject false genocide claims — and face Gaza's agony",
+          "url": "https://www.jta.org/2026/10/15/ideas/holocaust-memory-compels-us-to-reject-false-genocide-claims-and-face-gazas-agony",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-15T17:51:42+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/GettyImages-2295108209.jpg"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgian Prime Minister De Wever has introduced a \"debt brake\" policy freezing pensions and adjusting tax brackets, shifting fiscal pressure onto coalition partners Vooruit and cd&v. On international matters, De Wever has articulated a clear position on financing Ukraine's war effort. Local news includes the arrest of a Kasterlee dentist following allegations of inappropriate conduct from seven women.",
+      "headlines": [
+        {
+          "id": "3dfb5c43ab",
+          "title": "Dentist from Kasterlee arrested following complaints from 7 women about inappropriate touching",
+          "url": "https://www.demorgen.be/nieuws/tandarts-uit-kasterlee-opgepakt-na-klachten-van-7-vrouwen-over-ongepaste-aanrakingen~b32a42a0/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-16T07:02:31+00:00",
+          "image_url": "https://image.demorgen.be/230538834/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "2d70fb4ecd",
+          "title": "Freezing of pensions and tax brackets: with his new 'debt brake' PM De Wever shifts pressure to Vooruit and cd&v",
+          "url": "https://www.demorgen.be/politiek/bevriezing-van-pensioenen-en-belastingschijven-met-zijn-nieuwe-schuldenrem-legt-premier-de-wever-de-druk-plotseling-bij-vooruit-en-cd-v~b1a90cad/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-15T17:06:00+00:00",
+          "image_url": "https://image.demorgen.be/279112018/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "3413b74663",
+          "title": "De Wever on Ukraine financing: 'I have a clear vision on how this should happen and I'm ready for the debate'",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/10/16/de-wever-je-kan-niet-zeggen-dat-oekraine-moet-vechten-voor-de/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/16/cd0018f0-e238-4d5c-abbb-9c0149c44198.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "European political tensions are escalating across multiple fronts: France's Marine Le Pen continues challenging Brussels over EU integration, while EU budget negotiations have slipped to November, with Portuguese PM Costa pushing for a quick resolution. Germany faces internal conservative friction as Merz navigates pressure from young radical factions. Albania is experiencing escalating street protests, with the prime minister refusing to resign, while Azerbaijan's school headscarf ban has triggered both domestic protests and diplomatic tensions with Turkey.",
+      "headlines": [
+        {
+          "id": "228e77323a",
+          "title": "Merz among the young radicals: the next showdown?",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-bei-den-jungen-wilden-der-nachste-showdown/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-16T03:15:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "ee02cd2b6e",
+          "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+          "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-15T16:15:06+00:00",
+          "image_url": null
+        },
+        {
+          "id": "c99aa76998",
+          "title": "For the third day in a row street protests in Albania, prime minister refuses to resign",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/geweld-bij-aanhoudende-protesten-tegen-regering-in-albanie/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/16/ddbf761b-66c2-4178-ba72-5762706ced8d.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "1540d9ef62",
+          "title": "Marine Le Pen's EU dream is a nightmare for Brussels",
+          "url": "https://www.politico.eu/article/marine-le-pen-eu-dream-nightmare-brussels/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-16T02:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "ce1900017d",
+          "title": "Budget showdown slips to November as Costa pushes for quick deal",
+          "url": "https://www.politico.eu/article/budget-showdown-november-antonio-costa-deal-european-council-summit/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-16T00:56:56+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "US-Ukraine tensions are intensifying as Trump criticizes Ukrainian strikes on Russian oil refineries while the White House restricts satellite system access for Ukrainian drones. The Black Sea conflict continues, with two additional ships attacked. In the Middle East, Yemen faces escalating violence, with five killed in a Houthi attack on a government palace. Within the US, an elementary school shooting claimed the lives of three children, a teacher, and the 16-year-old shooter.",
+      "headlines": [
+        {
+          "id": "dda21337a1",
+          "title": "Live - 'White House ordered restriction of Starshield satellite system for Ukrainian drones' • Trump calls Ukrainian attacks on Russian oil refineries 'disgrace'",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-witte-huis-gaf-opdracht-tot-beperking-starshield-satellietsysteem-voor-oekraiense-drones-trump-noemt-oekraiense-aanvallen-op-russische-raffinaderijen-schande~b38bed0a/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-16T06:02:00+00:00",
+          "image_url": "https://image.demorgen.be/279160111/roi/320/320/2416.74/1439.76/afbeelding"
+        },
+        {
+          "id": "5bd3eb65f8",
+          "title": "Three children and teacher killed in elementary school shooting in US, shooter (16) also dead",
+          "url": "https://www.demorgen.be/snelnieuws/drie-kinderen-en-leraar-omgekomen-bij-schietpartij-op-basisschool-vs-ook-schutter-16-gedood~b7519f64/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-16T04:35:00+00:00",
+          "image_url": "https://image.demorgen.be/279162977/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "4437a55b35",
+          "title": "Russia-Ukraine war: Two ships attacked again in Black Sea: 'Very concerning this happens in territorial waters'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/15/schip-aangevallen-in-zwarte-zee/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/05/b9cda3ee-9ee2-455f-a58a-e494f3144f4d.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "b366b3350c",
+          "title": "Middle East war: Five dead in Houthi attack on government palace in Yemen, PM and other officials unharmed",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/vijf-doden-bij-aanval-van-houthis-op-regeringspaleis-in-jemen-~1784611610051/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/07/c28d61ee-d939-4b07-9045-69c511ebfb4b.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
