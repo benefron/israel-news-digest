@@ -1,0 +1,485 @@
+{
+  "generated_at": "2026-10-17T06:34:56.088883+00:00",
+  "date": "2026-10-17",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "איטליה הרחיבה את חקירתה בפרשת המשט לעזה כך שתכלול גם את שר הביטחון כ\"ץ ואת הרמטכ\"ל, לצד בן גביר. בארה\"ב פוטרה דוברת הבית הלבן לאחר חמישה ימים בלבד בתפקיד, בעוד טראמפ מתייחס לתפקידה של ישראל בסיוע לסעודיה במלחמה נגד החות'ים ולחזרת הסכמי אברהם לשולחן. בשוקי ההון נרשמה נעילה אדומה בוול סטריט עם ירידות חדות במניות הטכנולוגיה, ובישראל ממשיכה הסערה סביב תקיפת צלמת עיתונות בת 64 בידי מתנחלים ביהודה ושומרון.",
+    "headlines": [
+      {
+        "id": "41b5e9c281",
+        "title": "הרשויות באיטליה: לצד בן גביר, גם שר הביטחון והרמטכ\"ל חשודים בחטיפת פעילי המשט לעזה ובעינוים",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-16/ty-article/000001a1-450a-d7d5-a9ab-45cb44ba0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-16T14:52:56+00:00",
+        "image_url": null
+      },
+      {
+        "id": "e0503071af",
+        "title": "דוברת הבית הלבן פוטרה לאחר חמישה ימים בתפקיד",
+        "url": "https://www.haaretz.co.il/news/world/america/2026-10-16/ty-article/000001a1-45dd-d91f-abef-ffffbd5a0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-16T18:06:53+00:00",
+        "image_url": null
+      },
+      {
+        "id": "d90aadfc1c",
+        "title": "טראמפ: ישראל סייעה במלחמה נגד החותים, הסכמי אברהם עם סעודיה שוב על השולחן",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-16/ty-article/000001a1-45ca-de23-a5fb-dfdf2b140000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-16T17:40:11+00:00",
+        "image_url": null
+      },
+      {
+        "id": "77ed20db87",
+        "title": "וול סטריט ננעלה בירידות בהובלת מניות הטכנולוגיה; נאסד\"ק איבד 4.5% השבוע",
+        "url": "https://www.themarker.com/wallstreet/2026-10-16/ty-article-live/000001a1-2e4d-d1b4-a5fb-aecd97b50000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-10-16T20:03:00+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-4460-d9d6-a9b3-ee78c6650000/9a/a3/286846334d22b62ec0d3279f2fa8/724282.jpg?width=108&height=81"
+      },
+      {
+        "id": "bbd16c9741",
+        "title": "צלמת המלחמות נפצעה בעימותים עם פורעים יהודים: \"בעטו בי שוב ושוב, 50 פעם. מפלצות\"",
+        "url": "https://www.ynet.co.il/news/article/rkntnd12ge",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-16T10:23:08+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/SykODtkhGl/SykODtkhGl_0_0_850_479_0_medium.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "מפקד סנטקום האמריקני מסר כי ארה\"ב מנעה מאיראן לייצא נפט בשווי 25 מיליארד דולר, וכי שלוחותיה מעבירות כסף בחזרה למשמרות המהפכה בשל מצוקת מזומנים. הצמרת הביטחונית בישראל קיימה דיון על אפשרות של עימות מחודש עם איראן, ובעיצומה של תקופת הבחירות גורמי ביטחון מתריעים מפני איומי טרור והתערבות זרה. במקביל, צה\"ל חיסל בנפרד שני מחבלי חמאס שהשתתפו בפשיטת 7 באוקטובר, ונבחן חשד להסתה בדברי הרב דוב ליאור.",
+    "headlines": [
+      {
+        "id": "bed44821dd",
+        "title": "מפקד סנטקום: מנענו מאיראן לייצא נפט בשווי 25 מיליארד דולר, מליציות מזרימות לשם כסף חזרה",
+        "url": "https://www.kan.org.il/content/kan-news/defense/live-1109728/liveid-1109949/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "bbdf3627f4",
+        "title": "הצמרת הביטחונית קיימה דיון על עימות עם איראן",
+        "url": "https://www.kan.org.il/content/kan-news/politic/1109893/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": "https://www.kan.org.il/media/05oh1kod/ap21144403934380.jpg?width=490&height=272&v=1da0d0dcf240070"
+      },
+      {
+        "id": "906aeac8ac",
+        "title": "1 דקות ביטחוני מטרור ועד השפעה זרה: ההיערכות לאיומים סביב הבחירות בישראל נערכים לשורת תרחישים לקראת יום הבחירות, החל ממתקפה ישירה מצד איראן או הפעלת שלוחות כמו חיזבאללה, ועד לניסיונות התערבות זרה והשפעה על התוצאות •גורמים ביטחוניים ל-i24NEWS: \"פועלים לסכל כל איום\" זמן קריאה: 1 דקות.",
+        "url": "https://www.i24news.tv/he/news/news/defense-news/artc-3d705561",
+        "source": "i24",
+        "source_label": "i24NEWS",
+        "source_label_he": "i24NEWS",
+        "published_at": null,
+        "image_url": "https://cdn.i24news.tv/uploads/dc/2d/8c/c7/e0/1b/1b/1c/8a/c7/7c/6a/10/d1/6e/23/dc2d8cc7e01b1b1c8ac77c6a10d16e23.jpg?width=350"
+      },
+      {
+        "id": "31090ae089",
+        "title": "IDF says 2 Hamas terrorists who invaded Israel on Oct. 7 killed in separate Gaza strikes",
+        "url": "https://www.timesofisrael.com/idf-says-hamas-terrorist-who-attacked-reim-base-on-oct-7-killed-in-airstrike/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-10-16T23:28:57+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26288335106950-e1792193309947-1024x640.jpg"
+      },
+      {
+        "id": "27408902ef",
+        "title": "צה\"ל: לבדוק אם יש חשד להסתה ולעידוד ליבוי השטח באמירות הרב דוב ליאור",
+        "url": "https://www.ynet.co.il/news/article/b1tpqex2zg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-16T19:42:49+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2012/08/26/4123551/4123551_0_67_984_554_0_medium.jpg"
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "ליברמן תוקף את איזנקוט ומשווה אותו לגנץ, בטענה שהוא מתכנן להקים ממשלה עם נתניהו. במקביל מתנהל ויכוח ציבורי סביב יחס הממשלה לפעילי משמאל ולביטחון תושבי הצפון, לצד ביקורת על סמוטריץ' ועל התנהלות ראשי המערכת הביטחונית.",
+      "headlines": [
+        {
+          "id": "612c18cb09",
+          "title": "ליברמן: איזנקוט הוא גנץ 2, הוא מתכנן להקים ממשלה עם נתניהו",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-16/ty-article/.premium/000001a1-43db-ddcc-a3fd-cbfb14160000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-16T08:37:01+00:00",
+          "image_url": null
+        },
+        {
+          "id": "bdb6f48ce1",
+          "title": "ראשי הרשויות בגבול הצפון לנתניהו: התחייבת לנו, אל תפגע בתקציבי השיקום",
+          "url": "https://www.ynet.co.il/news/article/b1ck002j3fx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-16T14:59:43+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/29/B11jtRLiWx/B11jtRLiWx_0_190_1029_579_0_medium.jpg"
+        },
+        {
+          "id": "fc80a08fe2",
+          "title": "אחרי שנכשל בשטחים, סמוטריץ' רוצה לייבא את הכישלון שלו לגליל",
+          "url": "https://www.themarker.com/weekend/2026-10-16/ty-article-magazine/.premium/000001a1-3e18-d5a5-a5b3-ffbe29d70000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-16T03:20:56+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-3e18-d5a5-a5b3-ffbe1e440000/f8/1f/c5e925bc417da286cc90534cedeb/67013454.JPG?width=108&height=81"
+        },
+        {
+          "id": "a16ab04481",
+          "title": "נתניהו רוצה שגורמי הביטחון יגידו לו את האמת? אז קדימה. זה הזמן",
+          "url": "https://www.themarker.com/weekend/2026-10-16/ty-article-magazine/.premium/000001a1-3eea-d1eb-abe1-7efe43060000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-16T03:20:22+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-3f3d-da29-abbd-7f7f52ea0000/5a/3f/a28ca9ee4967b04cd0a808534c4e/318507.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "שוק ההון הישראלי נסגר ביום חיובי עם עליות חדות במדדי ת\"א והנדל\"ן, בניגוד לירידות החדות שנרשמו בוול סטריט בהובלת מניות הטכנולוגיה. בד בבד מתפרסם כי ישראלים מחזיקים 129 מיליארד שקל במזומן, ומייסד ורוניס מסביר מדוע מכר את חברתו בעסקת ענק של 6.3 מיליארד דולר.",
+      "headlines": [
+        {
+          "id": "1cf49c32af",
+          "title": "המסחר ננעל בעליות: מדד ת\"א 125 עלה ב-1.9%; מדד הנדל\"ן הוסיף 2.6%",
+          "url": "https://www.themarker.com/markets/2026-10-16/ty-article-live/000001a1-433e-d9d6-a9b3-ef7e7e510000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-16T07:13:57+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-4340-da52-a3f1-4f5e785f0001/1d/e9/fb5e0fd1440099c165a325e3740e/547490.jpg?width=108&height=81"
+        },
+        {
+          "id": "d11ee764e2",
+          "title": "נעילה אדומה בוול סטריט; נאסד\"ק איבד 2.1%, מדד הפחד זינק",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001559824",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-16T20:01:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1650193069/direct/shutterstock_629368055_bxlyic.jpg"
+        },
+        {
+          "id": "bb5c255de4",
+          "title": "מיטל סער לא לבד: הישראלים שמחזיקים 129 מיליארד שקל במזומן",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001559676",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-16T10:26:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1791818913/%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%9E%D7%A1%D7%9A_2026-10-12_142359_z5qtpv.jpg"
+        },
+        {
+          "id": "fe25056463",
+          "title": "\"רכבת ה-AI יצאה מהתחנה, לא רוצים לפספס את ההזדמנות\": מייסד ורוניס מסביר למה מכר ב-6.3 מיליארד דולר",
+          "url": "https://www.themarker.com/technation/2026-10-16/ty-article/.premium/000001a1-4457-d7d5-a9ab-44dfcdec0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-16T11:33:08+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-4458-ddcc-a3fd-cf7831430001/88/be/c8e36e4b4be89626a384e3f43396/yaki.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "טסלה וספייס-אקס חשפו מכונית מעופפת חדשה, המעוררת שאלות לגבי מחירה וזמינותה לייצור המוני. בנוסף, מועלה דיון על הצעדים הנדרשים כדי למנוע סיכוני בינה מלאכותית בטרם יתממשו.",
+      "headlines": [
+        {
+          "id": "ed15046679",
+          "title": "טסלה וספייס־אקס חושפות מכונית מעופפת. כמה יעלה ומתי מתחיל ייצור המוני?",
+          "url": "https://www.themarker.com/wallstreet/2026-10-16/ty-article/.premium/000001a1-432e-ddcc-a3fd-cb2e56db0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-16T06:32:13+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-4354-de23-a5fb-dfd592a20000/0a/91/161dbc944cc4b4548366605e866d/808203.jpg?width=108&height=81"
+        },
+        {
+          "id": "aab0d5ae54",
+          "title": "\"מדלגת\" מעל מכוניות: מאסק חשף את \"הטסלה המעופפת\"",
+          "url": "https://www.mako.co.il/news-world/2026_q4/Article-79aba74720341a1026.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-10-16T04:39:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/10/16/bfbfbbs_autoOrient_i.jpg"
+        },
+        {
+          "id": "382adfbc4c",
+          "title": "לפני שהאזהרות יוכחו כנכונות: ארבעה שינויים שיכולים למנוע קטסטרופת AI",
+          "url": "https://www.themarker.com/wallstreet/2026-10-16/ty-article/.premium/000001a1-4051-ddcc-a3fd-cb7950600000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-16T07:52:14+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-40c6-d1eb-abe1-74fe219c0000/77/c8/6181bde94e1cb922efc481f305f5/667891.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "מחלוקת ציבורית נמשכת סביב הקמת מאחז חדש בעוטף עזה בידי תנועת נחלה, שזכתה לתמיכת השר קרעי, ולצד זאת ממשיכים הדיונים סביב הצהרות הרב דוב ליאור בעניין מסיק הזיתים הפלסטיני ובדיקת צה\"ל אם יש בכך הסתה.",
+      "headlines": [
+        {
+          "id": "fe8c4fad5b",
+          "title": "תנועת נחלה הקימה מאחז בעוטף עזה, השר קרעי הגיע לתמוך: \"צעד מבורך\"",
+          "url": "https://www.haaretz.co.il/news/politics/2026-10-16/ty-article/.premium/000001a1-4489-da52-a3f1-4edf48300000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-16T12:16:59+00:00",
+          "image_url": null
+        },
+        {
+          "id": "c69f98ef21",
+          "title": "בעקבות מכתב הרבנים מגוש עציון, הרב דב ליאור מבהיר: מותר למסוק זיתים של פלסטינים",
+          "url": "https://www.haaretz.co.il/news/politics/2026-10-16/ty-article/.premium/000001a1-43ff-de23-a5fb-dfff20200000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-16T10:46:56+00:00",
+          "image_url": null
+        },
+        {
+          "id": "3f51170ca2",
+          "title": "הרב המזוהה עם עוצמה יהודית: מותר למסוק זיתים של פלסטינים, זה לא גזל אלא מעלה יתרה",
+          "url": "https://www.ynet.co.il/news/article/bjrslsk3zl",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-16T14:00:06+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/ryJx3oy3Gl/ryJx3oy3Gl_0_0_850_479_0_medium.jpg"
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [
+    "maariv"
+  ],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israeli settlers attacked Palestinian olive farmers and a Washington Post journalist during the West Bank olive harvest season, injuring several people. In U.S. politics, both Republican and Democratic candidates are competing for the Jewish vote in a competitive New York congressional race.",
+      "headlines": [
+        {
+          "id": "2230e238fe",
+          "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+          "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-16T11:40:41+00:00",
+          "image_url": null
+        },
+        {
+          "id": "49ba48847a",
+          "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+          "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-16T16:34:58+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/eacefac392ed027227ecec0ab9c67d13ee077d57/560_0_4583_3668/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=5ba8be6cbb7dfcc6f6048d98d9145297"
+        },
+        {
+          "id": "8409c86db9",
+          "title": "GOP incumbent Lawler and Democratic challenger Conley compete for Jewish vote in NY-17",
+          "url": "https://www.jta.org/2026/10/16/ny/gop-incumbent-lawler-and-democratic-challenger-conley-compete-for-jewish-vote-in-ny-17",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-16T19:12:41+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/Lawler-261016.jpeg"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgian artist Angèle held a free concert in Brussels, where thousands of fans gathered in the rain to hear her new album premiere. Political leader De Wever discussed how his private insecurity contrasts with his public image as a strong leader. A person previously connected to football player Remco Evenepoel is now suspected of coordinating a deadly raid in Overasselt.",
+      "headlines": [
+        {
+          "id": "0e8c975fec",
+          "title": "Angèle presents new album during free concert in Brussels, thousands of fans brave the rain",
+          "url": "https://www.hln.be/brussel/kijk-angele-stelt-nieuwe-plaat-voor-tijdens-gratis-concert-in-brussel-duizenden-fans-trotseren-de-regen~a381c68e/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-17T05:14:00+00:00",
+          "image_url": "https://images.hln.be/Njk1ZjRiYWY5MzFhYWM4NGRjNzQvZGlvLzI3OTE5NTI2OS9maXQtd2lkdGgvNDAw/belgian-singer-angele-pictured-during-the-angele-instinct-release-party-a-surprise-party-organized-by-the-brussels-singer-to-celebrate-the-release-of-her-album-instinct-at-the-grote-markt-grand-place-in-brussels-friday-16-october-2026-belga-photo-emile-windal-inzet-na-lang-aanschuiven-mogen-de-fans-van-angele-de-grote-markt-betreden-voor-het-verrassingsoptreden-van-de-zangeres"
+        },
+        {
+          "id": "bf69c814b1",
+          "title": "Once played with Remco Evenepoel, now suspected as coordinator of deadly raid in Overasselt: the trail of Joas Simon N.",
+          "url": "https://www.demorgen.be/nieuws/ooit-op-het-veld-met-remco-evenepoel-nu-verdacht-als-coordinator-dodelijke-raid-in-overasselt-het-spoor-van-joas-simon-n~bf2e72d2/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-17T01:01:00+00:00",
+          "image_url": "https://image.demorgen.be/279189420/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "de19ba7958",
+          "title": "At table with De Wever: 'He is much less confident than his profile as a great leader suggests'",
+          "url": "https://www.demorgen.be/politiek/aan-tafel-met-de-wever-hij-is-veel-onzekerder-dan-zijn-profiel-van-grote-leider-doet-vermoeden~b29dfb7b6/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-17T01:01:00+00:00",
+          "image_url": "https://image.demorgen.be/279177428/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "6d1175db16",
+          "title": "Weatherman Frank Duboccage predicts variable and fresh weekend: 'It will feel cold'",
+          "url": "https://www.hln.be/weernieuws/weerbericht~ac484c3e/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-17T04:21:00+00:00",
+          "image_url": "https://images.hln.be/NGQzMWY2ODAwNTFkYmM2ODQ5NmMvZGlvLzI3OTIwMzcyOC9maXQtd2lkdGgvNDAw/amsterdam-nederland-08-10-2026-mensen-met-paraplu-s-opgestoken-banen-zich-een-weg-door-de-amsterdamse-binnenstad-terwijl-donkere-wolken-regen-zonnige-perioden-elkaar-afwisselen-aan-het-begin-van-het-najaar-na-een-lange-nazomer-foto-joris-van-gennip"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "EU leaders held a summit where migration policy sparked sharp disagreements, though officials described it as \"bad debate, good results.\" Denmark, Italy, and Poland advocated for stricter EU positions on irregular migration. Irish labor unions are experiencing significant growth amid AI-driven layoffs in Europe's technology sector.",
+      "headlines": [
+        {
+          "id": "6a45229d3f",
+          "title": "European Union: European leaders clash hard over migration: 'Bad debate, good results'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/debat-migratie-europese-top/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/16/1f032127-6b96-4fa3-afa4-d311fb24dd66.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "ec9604fadb",
+          "title": "21 things we learned at the EU leaders' summit",
+          "url": "https://www.politico.eu/article/21-things-we-learned-at-the-eu-leaders-summit/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-16T16:30:49+00:00",
+          "image_url": null
+        },
+        {
+          "id": "d3dd8b066a",
+          "title": "Denmark, Italy, Poland urge EU leaders to harden stance on irregular migration",
+          "url": "https://www.politico.eu/article/denmark-italy-poland-push-eu-tougher-irregular-migration-crackdown/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-16T12:50:30+00:00",
+          "image_url": null
+        },
+        {
+          "id": "5d945e418d",
+          "title": "In Europe's tech capital, Irish labor unions are booming amid AI-driven layoffs",
+          "url": "https://www.politico.eu/article/in-europe-tech-capital-ireland-irish-labor-unions-are-booming-amid-ai-layoffs/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-16T15:44:22+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "A tanker exploded in the Strait of Hormuz after striking a sea mine, with Iran providing intelligence to Houthi militants conducting attacks on Saudi Arabia. North Korea unveiled a new AI-powered torpedo while wildfires destroyed homes near Los Angeles. In Mexico, three men received 158-year sentences for murdering Australian and U.S. surfers, and French supermarket refrigeration systems were targeted by hackers.",
+      "headlines": [
+        {
+          "id": "35d9b9e16a",
+          "title": "Live - 'Tanker explodes after collision with sea mine in Strait of Hormuz' • Iran helps Houthis with intelligence on targets in attacks on Saudi Arabia",
+          "url": "https://www.demorgen.be/snelnieuws/live-iraanse-revolutionaire-garde-tanker-ontploft-na-aanvaring-met-zeemijn-straat-van-hormuz~be9c4f82/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-17T06:25:00+00:00",
+          "image_url": "https://image.demorgen.be/279170683/roi/320/320/2805/1918.28/afbeelding"
+        },
+        {
+          "id": "344f8b95cc",
+          "title": "North Korea unveils brand new AI-powered torpedo",
+          "url": "https://www.hln.be/buitenland/noord-korea-pakt-uit-met-gloednieuwe-torpedo-aangedreven-door-ai~a13b2728/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-17T05:16:00+00:00",
+          "image_url": "https://images.hln.be/ZThiZmE4MmI5OWE3NWQ2ZDYxNzMvZGlvLzI3OTIwNDE4Ny9maXQtd2lkdGgvNDAw/this-photo-provided-on-oct-15-2026-by-the-north-korean-government-shows-an-underwater-launched-missile-test-in-the-countrys-eastern-waters-wednesday-oct-14-2026-independent-journalists-were-not-given-access-to-cover-the-event-depicted-in-this-image-distributed-by-the-north-korean-government-the-content-of-this-image-is-as-provided-and-cannot-be-independently-verified-korean-central-news-agency-korea-news-service-via-ap-inzet-this-image-released-on-november-21-2017-by-the-north-korean-official-news-service-kcna-shows-north-korean-leader-kim-jong-un-visited-the-sungri-motor-complex-in-pyongyang-during-his-tour-of-the-facilities-kim-took-the-wheel-of-a-newly-manufactured-truck-to-experience-its-performance-and-technical-capabilities-accompanying-him-were-o-su-yong-and-pak-thae-song-vice-chairmen-of-the-c-c-workers-party-of-korea-wpk-and-jo-yong-won-vice-department-director-of-the-c-c-wpk-photo-by-kcna-upi-picture-not-included-in-the-contract-only-belgium"
+        },
+        {
+          "id": "4327cc6ecd",
+          "title": "Homes destroyed by wildfire near Los Angeles",
+          "url": "https://www.hln.be/buitenland/huizen-verwoest-door-natuurbrand-bij-los-angeles~a1abb95d/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-17T04:30:00+00:00",
+          "image_url": "https://images.hln.be/Y2EyZmM5NWQxYzUyYTcxM2M2YTAvZGlvLzI3OTE5ODU0NS9maXQtd2lkdGgvNDAw/the-sun-is-obscured-by-smoke-as-firefighters-work-to-save-structures-on-via-la-mirada-during-the-norte-fire-in-san-clemente-calif-on-friday-oct-16-2026-paul-bersebach-the-orange-county-register-via-ap"
+        },
+        {
+          "id": "fcafbe2620",
+          "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+          "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-17T03:11:10+00:00",
+          "image_url": null
+        },
+        {
+          "id": "a14bc391c5",
+          "title": "Not cool: who hacked France's supermarket fridges?",
+          "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-17T04:00:20+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/446c1773fea046f80e07ca9533f82b2eaa90e1e6/494_0_3540_2832/master/3540.jpg?width=700&quality=85&auto=format&fit=max&s=d7a194d7ded6659d0bc27a66ed0f48fb"
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
