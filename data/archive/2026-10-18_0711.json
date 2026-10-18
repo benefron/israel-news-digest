@@ -1,0 +1,459 @@
+{
+  "generated_at": "2026-10-18T17:45:21.327742+00:00",
+  "date": "2026-10-18",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "צרפת שרויה במהומות קשות עם כ-1,200 עצורים, שריפת בנייני עירייה וביזה בערים שונות. בישראל ממשיכים הפולמוסים סביב תקיפת דיפלומטים אירופים ואלימות מתנחלים ביו\"ש, כשנתניהו טוען שאין ראיות מכריעות למעורבות מתנחלים. ח\"כ יצחק קרויזר ייחקר בלהב 433 בחשד לתקיפת שוטר, על רקע הבחירות המתקרבות וויכוחים פוליטיים נמשכים.",
+    "headlines": [
+      {
+        "id": "9a539025a0",
+        "title": "צרפת בוערת: מאות עצורים, בנייני עירייה נשרפו וחנויות נבזזו",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-0769f43275b41a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-17T20:03:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/17/2026-10-DP_3_FRANCE_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "d9c640b075",
+        "title": "בניין העירייה המפואר קרס, קשישים נשדדו בתחתונים: 1,200 עצורים במהומות בצרפת | תיעודים",
+        "url": "https://www.ynet.co.il/news/article/rjtbabzhzg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-17T21:51:01+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/B1p5lLZ2fe/B1p5lLZ2fe_0_0_539_303_0_medium.gif"
+      },
+      {
+        "id": "416a9bd909",
+        "title": "Amid outrage, Netanyahu claims no ‘compelling evidence’ settlers attacked European diplomats",
+        "url": "https://www.timesofisrael.com/amid-outrage-netanyahu-claims-no-compelling-evidence-settlers-attacked-european-diplomats/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-10-17T19:26:52+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261014CG926-1024x640.jpg"
+      },
+      {
+        "id": "da651fc778",
+        "title": "חבר הכנסת יצחק קרויזר (עוצמה יהודית) ייחקר היום בלהב 433 בחשד לתקיפת שוטר",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001559839",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-18T06:21:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1689154269/direct/20230712115736_NOAM2363_evhsmw.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "צה\"ל בוחן מחדש את הטיפול בתקיפת הדיפלומטים, ולא ברור מדוע לא נשלחו כוחות למרות דיווחים מוקדמים. במקביל מצוינת שנה לפגיעת טיל איראני בבניין בבת ים, ושר החוץ האמריקני רוביו הביע דאגה מתמונות אלימות מתנחלים בגדה המערבית.",
+    "headlines": [
+      {
+        "id": "9c75434afd",
+        "title": "שעות אחרי תקיפת הדיפלומטים, בצה\"ל לא יודעים מה עשו בדיווחים שקדמו לה ומדוע לא נשלחו כוחות",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-17/ty-article/.premium/000001a1-4ab3-d358-a7b5-fabb14e40000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-17T17:49:17+00:00",
+        "image_url": null
+      },
+      {
+        "id": "9569bc3c48",
+        "title": "שנה לפגיעת הטיל האיראני בבניין בבת ים: \"לא נשאר כלום\"",
+        "url": "https://13tv.co.il/item/news/domestic/internal/bskse-905225406/?pid=62&refc=902992425",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "601d7b3667",
+        "title": "שר החוץ מרקו רוביו: מוטרד מהתמונות של אלימות מתנחלים בגדה המערבית",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-5e6143b2d2c41a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-18T00:30:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/04/14/AP26104570078733_autoOrient_i.jpg"
+      },
+      {
+        "id": "6f833b74c6",
+        "title": "בנה של הצלמת שהותקפה ביו\"ש: \"ג'ף בזוס הבטיח להתערב\"",
+        "url": "https://www.kan.org.il/content/kan-news/local/1110110/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "לקראת הבחירות, בנט וליברמן מתכננים חקיקה נגד נתניהו מיד לאחר הבחירות, ובן גביר דורש קיצוץ תקציבי לטובת נושא הנוחבות. במקביל נבחן מי מוביל בפועל את יהדות התורה תחת יו\"ר חדש.",
+      "headlines": [
+        {
+          "id": "76b54136a3",
+          "title": "Bennett, Liberman lay out plans to pass laws against Netanyahu immediately after election",
+          "url": "https://www.timesofisrael.com/bennett-liberman-lay-out-plans-to-pass-laws-against-netanyahu-immediately-after-election/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-10-17T22:40:29+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/montage-2up-20261017-5f3304-1024x640.jpg"
+        },
+        {
+          "id": "e424bc4f7e",
+          "title": "בן גביר דורש לקצץ מתקציבי ממשלה מאות מיליונים למען משפטי הנוחבות, שלא יחלו לפני 2028",
+          "url": "https://www.haaretz.co.il/news/politics/2026-10-17/ty-article/.premium/000001a1-49fc-d25a-a7ff-7ffcaa010000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-17T16:32:50+00:00",
+          "image_url": null
+        },
+        {
+          "id": "7958dc59d8",
+          "title": "מקצועי, כוחני, פרגמטי: מי מושך בחוטים של יו\"ר יהדות התורה החדש?",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-18/ty-article-magazine/.premium/000001a1-3f6e-d846-a9eb-bffe27000000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-18T03:00:43+00:00",
+          "image_url": null
+        },
+        {
+          "id": "636e4bf843",
+          "title": "מחשבות מעגליות רגע לפני בחירות / רענן שקד",
+          "url": "https://www.ynet.co.il/news/article/yokra14925560",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-18T04:15:11+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/17/HJNZH4TxC/HJNZH4TxC_0_0_1920_1080_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "שוק הגז הטבעי העולמי צפוי לעבור ממחסור להצפה, ובישראל נבחנת כניסת רפפורט לענף הקמעונות דרך מקדונלד'ס.",
+      "headlines": [
+        {
+          "id": "a62325681b",
+          "title": "העולם עומד בפני מחסור חריף בגז טבעי. בהמשך השוק צפוי להיות מוצף",
+          "url": "https://www.themarker.com/wallstreet/2026-10-17/ty-article/.premium/000001a1-2ac5-d5ac-ada7-abd5cf060000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-17T11:55:32+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-2adf-d275-afe5-2fdf41330000/23/b5/5e4403ab40129c97e951aabf623b/821889.jpg?width=108&height=81"
+        },
+        {
+          "id": "d68c932729",
+          "title": "\"זה לא בשביל הכסף\": בענף הקמעונות מנסים להבין למה רפפורט צריך את מקדונלד'ס — ומה הסיכוי שיצליח",
+          "url": "https://www.themarker.com/consumer/2026-10-18/ty-article/.highlight/000001a1-490d-d54e-adef-d9fd80440000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-18T03:02:17+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-495f-da52-a3f1-4f5f8bb50000/5a/5c/3f678b55493497cf5c1e1ba25ab1/167123.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "בית המשפט נתן הגנה לרוכשי דירות, אך הדבר עלול לייקר את העסקאות. בשוק הדיור נמשך קיפאון, כשיזמים ורוכשים ממתינים להתפתחויות עד סוף השנה.",
+      "headlines": [
+        {
+          "id": "8d50479b63",
+          "title": "רוכשי הדירות קיבלו הגנה מבית המשפט — שעלולה לעלות להם ביוקר",
+          "url": "https://www.themarker.com/realestate/2026-10-18/ty-article/.highlight/000001a1-49b4-da52-a3f1-4ffe53350000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-18T03:05:36+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-4a02-d358-a7b5-fa3ba90a0000/82/03/2217dc694ed68f62f4a60027a4a6/820870-2.jpg?width=108&height=81"
+        },
+        {
+          "id": "34b69a8cfd",
+          "title": "הקיפאון בשוק הדיור: מי מנצל את ההזדמנות, מי ממתין לסוף השנה — ומדוע השינוי אינו מעבר לפינה?",
+          "url": "https://www.themarker.com/realestate/2026-10-18/ty-article/.highlight/000001a1-497b-ddef-a5b7-dd7f32720000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-18T03:16:21+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-49aa-da52-a3f1-4ffe56650000/d1/fa/990fde384fada567aa3f6f5df581/723081.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "סקר מראה ששליש מהסטודנטים שקלו לפרוש מלימודיהם, ו-70% מדווחים על מתח כלכלי משמעותי.",
+      "headlines": [
+        {
+          "id": "dea3e6933e",
+          "title": "שליש מהסטודנטים שקלו לפרוש, 70% במתח כלכלי: תמונת המצב העגומה",
+          "url": "https://www.ynet.co.il/news/article/yokra14929038",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-18T03:00:05+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/03/26/9146013/9146013_0_0_1300_741_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "מזג האוויר ממשיך להיות גשום עם טמפרטורות נמוכות מהרגיל, לפי התחזית העדכנית.",
+      "headlines": [
+        {
+          "id": "7ac61a0693",
+          "title": "הגשם עדיין כאן, הטמפרטורות נמוכות מהרגיל: התחזית המלאה - והמכ\"ם",
+          "url": "https://www.ynet.co.il/news/article/euq8bbodw",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-18T03:07:58+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/01/17/HkGxlWMyO/HkGxlWMyO_204_0_1077_607_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "אילון מאסק מציג את חזונו לרכבי העתיד, כולל טענות על מכוניות מעופפות.",
+      "headlines": [
+        {
+          "id": "f63e137324",
+          "title": "\"מכוניות מעופפות הן אמיתיות\": רכבי העתיד של אילון מאסק",
+          "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s1/1109909/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": "https://www.kan.org.il/media/xfvh0k52/s0491017_item0600_00_25_00still001.jpg?width=490&height=272&v=1dd5db9297d66c0"
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [
+    "israel_hayom"
+  ],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "West Bank settler attacks targeted international figures, drawing strong diplomatic condemnation. A Belgian consul was targeted in an attack by settlers in the West Bank, and the US ambassador to Israel condemned a separate attack on an American photojournalist as an act of terror. France also issued a formal statement demanding that Israel stop these attacks following assaults on EU diplomats. Meanwhile, US President Trump publicly endorsed Prime Minister Netanyahu's re-election bid, citing security concerns including the Iranian threat. An analysis piece examines AIPAC's historical role as one of America's most influential lobbying organizations.",
+      "headlines": [
+        {
+          "id": "7fa3affa14",
+          "title": "Israeli-Palestinian conflict: Belgian consul also targeted in attack by settlers on West Bank and tells her story",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/belgische-consul-geweld-israelische-aanval-westelijke-jordaanoev/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/18/7d2241a9-08e5-4efe-95ce-ff50c92d1003.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "483726046d",
+          "title": "US ambassador to Israel calls West Bank settler attack on American photojournalist 'terror'",
+          "url": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-18T17:02:13+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/b9d822eea77ce4604c690c4a52244f9602ac7b1f/195_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=77e9b4074e8518732936fdfa6343d7b9"
+        },
+        {
+          "id": "d24f974272",
+          "title": "Live - Donald Trump expresses support for re-election of Prime Minister Netanyahu",
+          "url": "https://www.demorgen.be/snelnieuws/live-belgische-franse-en-poolse-diplomaten-aangevallen-door-gemaskerde-kolonisten-op-bezette-westelijke-jordaanoever~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-18T15:35:00+00:00",
+          "image_url": "https://image.demorgen.be/279261529/roi/320/320/691.1999999999999/529.2/afbeelding"
+        },
+        {
+          "id": "055ba7f25c",
+          "title": "Trump endorses Netanyahu ahead of Israeli elections, citing Iranian threat",
+          "url": "https://www.jta.org/2026/10/18/global/trump-endorses-netanyahu-ahead-of-israeli-elections-citing-iranian-threat",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-18T15:19:03+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/Trump-Netanyahu-2-261018.jpeg"
+        },
+        {
+          "id": "89c004022d",
+          "title": "France says Israel must 'stop these acts of terror' following attack on EU diplomats",
+          "url": "https://www.politico.eu/article/france-calls-on-israel-to-arrest-perpetrators-of-attack-on-eu-diplomats/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-18T13:20:49+00:00",
+          "image_url": null
+        },
+        {
+          "id": "cd591bd4bb",
+          "title": "Analysis by Björn Soenens: AIPAC—until recently approximately America's most powerful lobbying machine",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/11/aipac-de-machtigste-lobbymachine-van-amerika/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/14/f87205d2-a411-4fbb-9242-f2d43f0b11bb.png?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium's federal government is focused on securing a multi-year budget agreement as senior ministers met to discuss spending plans. Former Prime Minister Leterme warned of risks if the budget accord is delayed, cautioning that financial speculators could target Belgium. Six suspects in the murder of police officer Nordine El Talbi are being prosecuted across multiple countries, with two arrested in Belgium. On a positive note, Belgium concluded its track cycling world championship campaign with five medals, including bronze medals on the final day.",
+      "headlines": [
+        {
+          "id": "15be8c8df9",
+          "title": "Justice: 6 suspects arrested for murder of police officer Nordine El Talbi—1 in France, 3 in Spain, and 2 in Belgium",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/persconferetie-moinil/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/18/d7679e06-1466-4103-b222-de77c15ddd2d.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "2153adfe62",
+          "title": "Politics Live Blog: Federal top ministers meet again to discuss a multi-year budget",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/federale-topministers-zitten-opnieuw-bijeen-om-het-te-hebben-ove~1790599460224/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/18/01203ed5-b3ad-43f6-9afe-cc9bed7e363f.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "df9fe40775",
+          "title": "Politics: Former Prime Minister Leterme warns of budget agreement delay—'Watch out that speculators don't target Belgium'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/oud-premier-leterme-waarschuwt-oppassen-dat-speculanten-belgie/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/18/4cc4c1dc-900c-4413-997a-91548b03e638.png?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "0318e66fc8",
+          "title": "Track cycling world championships: Final day yields two more bronzes; Belgium leaves China with 5 medals",
+          "url": "https://sporza.be/nl/2026/10/12/wk-baanwielrennen-slotdag-vol-lichtpuntjes-levert-nog-twee-keer-brons-op-belgie-verlaat-china-met-5-medailles~1791801015906/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/18/03c748c4-3e65-489c-927f-9876a7a2a716.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "The Ukraine-Russia conflict continues as Ukraine apologized for a possible violation of Lithuanian airspace caused by drones, while tensions over sanctions escalate amid a public dispute between Trump and President Zelensky and the US waiving several Russia sanctions. The European Union is growing increasingly nervous about upcoming elections scheduled in four important member states. The US has significantly shifted its Russia policy, signaling a major change in approach toward Moscow.",
+      "headlines": [
+        {
+          "id": "e275f5bee1",
+          "title": "Ukraine-Russia War Live Blog: Ukraine apologizes for possible violation of Lithuanian airspace by drones",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/oekraine-biedt-excuses-aan-voor-mogelijke-schending-litouws-luch~1789060001669/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/04/22/e69bf4c5-32bd-48a8-8d69-535af18ef8d4.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "b6bb1637df",
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-18T01:10:25+00:00",
+          "image_url": null
+        },
+        {
+          "id": "0fcefe3921",
+          "title": "European Union: Why the EU is already nervous about elections in 4 important member states",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/eu-europese-unie-verkiezingen-frankrijk-spanje-polen-italie-span/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/18/eb607c0d-62a3-4fa6-a4a5-9c5d68e2f7fa.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "5b6a657c29",
+          "title": "With a stroke of his black marker, Trump completely turned American Russia policy on its head",
+          "url": "https://www.demorgen.be/niet-te-missen/met-een-veeg-van-zijn-zwarte-viltstift-zette-trump-het-amerikaanse-rusland-beleid-volledig-op-zijn-kop~bcfe0eeb/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-18T11:24:00+00:00",
+          "image_url": "https://image.demorgen.be/279250503/feature-crop/320/320/afbeelding"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "A deadly fire struck a Canadian military base in Alberta as authorities worked to contain the blaze, with multiple fatalities reported. In the United States, a mother who survived a school shooting decades ago now faces the tragedy of her son experiencing a school shooting. Russian oil facilities came under attack in an overnight strike on St Petersburg, resulting in casualties.",
+      "headlines": [
+        {
+          "id": "e55e7fdfe8",
+          "title": "Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
+          "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-18T17:34:53+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=700&quality=85&auto=format&fit=max&s=ad299182fce6293218713ed25ec8eb43"
+        },
+        {
+          "id": "ad0309182f",
+          "title": "'How can lightning strike twice?' Mother survived a school shooting; now her son experiences the same",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/school-shooting-bassischool-oregon-moeder-zoon/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/18/7f99a4a4-1e1c-42e2-b88d-5d484faacc9a.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "13481defb8",
+          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+          "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-18T15:46:10+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
