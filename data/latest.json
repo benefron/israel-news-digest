@@ -1,341 +1,97 @@
 {
-  "generated_at": "2026-10-19T05:44:06.335211+00:00",
-  "date": "2026-10-19",
-  "degraded": false,
+  "generated_at": "2026-10-20T06:16:20.940194+00:00",
+  "date": "2026-10-20",
+  "degraded": true,
   "top_general": {
-    "summary_he": "טראמפ הודיע על תמיכה מלאה בנתניהו לקראת הבחירות, מה שעורר דיונים על השפעתה ועל עצמאות ישראל. בן גביר מצדו טען שנתניהו התחייב שלא לשבת איתו בקואליציה, בעוד נתניהו הכחיש. בנוסף, דיווח אנונימי על פצצה בטיסה מתל אביב לווינה גרם לנחיתת חירום בסופיה.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "01dabc13ac",
-        "title": "טראמפ הודיע על תמיכתו בנתניהו בבחירות: \"הוא לעולם לא יאכזב אתכם\"",
-        "url": "https://www.haaretz.co.il/news/elections/2026-10-18/ty-article/000001a1-4f7e-da52-a3f1-4f7e30310000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-10-18T14:50:33+00:00",
-        "image_url": null
+        "id": "d194de266f",
+        "title": "היזם מיקי בודאי פרש מתפקיד מנכ\"ל טרנסמיט סקיוריטי",
+        "url": "https://www.themarker.com/technation/2026-10-19/ty-article/.highlight/000001a1-54ef-ddea-abb5-d5ffb3fb0000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-10-19T16:20:13+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-54f4-dcd4-afa3-55ff14370000/a1/53/95e7c7b24e66b92bee34e213e7cf/703792.jpg?width=108&height=81"
       },
       {
-        "id": "f11d221650",
-        "title": "טראמפ לחדשות 12: \"תמיד התכוונתי להביע תמיכה בביבי. לא רציתי לעשות את זה מוקדם מדי\"",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-d585201dbcf41a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-10-18T16:55:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/09/06/GettyImages-2223419751_autoOrient_i.jpg"
-      },
-      {
-        "id": "0ef2ce5748",
-        "title": "Trump offers ‘warrior’ Netanyahu ‘complete and total endorsement’ for reelection",
-        "url": "https://www.timesofisrael.com/trump-offers-warrior-netanyahu-complete-and-total-endorsement-for-reelection/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-10-18T18:25:24+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/07/1-1024x640.jpeg"
-      },
-      {
-        "id": "d68959d046",
-        "title": "בן גביר: נתניהו התחייב שלא לשבת איתי בממשלה; רה\"מ: אקים איתו קואליציה",
-        "url": "https://www.haaretz.co.il/news/elections/2026-10-18/ty-article/000001a1-4f9e-da52-a3f1-4fde6c660000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-10-18T15:48:53+00:00",
-        "image_url": null
-      },
-      {
-        "id": "0b19cf575a",
-        "title": "הנוסעים מת\"א לווינה עודכנו: \"דיווח אנונימי על פצצה במטוס\"; הטיסה נחתה בסופיה",
-        "url": "https://www.ynet.co.il/news/article/sjycecz3mx",
+        "id": "c274452a10",
+        "title": "באירופה מבינים עכשיו: הם רצו אינתיפאדה",
+        "url": "https://www.ynet.co.il/news/article/yokra14932142",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-10-18T19:06:05+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/B1KyOqzhzx/B1KyOqzhzx_0_0_1000_563_0_medium.jpg"
+        "published_at": "2026-10-19T21:04:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/BJJ00y1Enfx/BJJ00y1Enfx_0_824_2250_1267_0_medium.jpg"
+      },
+      {
+        "id": "16786aa3ce",
+        "title": "France announces curfews in Paris and other cities as country grapples with unrest",
+        "url": "https://www.timesofisrael.com/france-announces-curfews-in-paris-and-other-cities-as-country-grapples-with-unrest/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-10-19T23:04:12+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AFP__20261019__D3QA3CR__v1__HighRes__FranceSocialDemo-1024x640.jpg"
+      },
+      {
+        "id": "50c09bf090",
+        "title": "מספר 2 של גנץ: \"לפעמים צריך לדעת לעצור\"",
+        "url": "https://www.ynet.co.il/news/elections2026/article/s1kqjjn2zl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-19T21:16:38+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/14/Bk1zhdM8xg/Bk1zhdM8xg_206_76_1017_573_0_medium.jpg"
+      },
+      {
+        "id": "bfccb003f7",
+        "title": "שעון חורף 2026: מתי מזיזים את השעון? | כל מה שצריך לדעת",
+        "url": "https://www.ynet.co.il/news/article/g6v9at2rh",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-20T05:07:52+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/09/18/B1lqff5S1a/B1lqff5S1a_0_0_850_479_0_cid_62_medium.jpg"
+      },
+      {
+        "id": "e3a78d2ace",
+        "title": "בן 13 נהרג בפארק שעשועים בלבנון – ההנהלה טוענת שקפץ מהמתקן",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-701828850d251a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-19T06:22:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/19/AutoCms_05BEF96E3_autoOrient_i.jpg"
+      },
+      {
+        "id": "0cf0fd456b",
+        "title": "שר ההגנה האמריקני ביקר בחשאי בישראל ונפגש עם נתניהו, על הפרק: חידוש המלחמה באיראן",
+        "url": "https://www.ynet.co.il/news/article/hk5naze3fe",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-19T22:47:35+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/09/HJTe4113rxx/HJTe4113rxx_303_75_1933_1088_0_medium.jpg"
+      },
+      {
+        "id": "5207f1d415",
+        "title": "המשטרה עצרה 21 חשודים במעורבות בהונאה כלכלית בזמן עבודות בעזה",
+        "url": "https://www.haaretz.co.il/news/law/2026-10-20/ty-article/000001a1-57ba-d7ce-a9a1-d7ffc2820000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-20T05:16:36+00:00",
+        "image_url": null
       }
     ]
   },
   "security_war": {
-    "summary_he": "תחקיר מגזין \"טיים\" חשף כי ישראל ביקשה להמשיך ולהזרים כספים מקטר לעזה, לצד ביקורת בינלאומית על התנהלות המלחמה, כולל דברי מאמן הכדורגל גווארדיולה. בנוסף דווח על חשד להשלכת רימון רסס בבת ים ועל איום של שר החוץ האיראני לשעבר בנוגע להמשך הסלמה אזורית.",
-    "headlines": [
-      {
-        "id": "6069cd47ee",
-        "title": "תחקיר \"טיים\": ישראל הודתה לקטאר וביקשה להמשיך להזרים כספים לעזה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-10-18/ty-article/000001a1-5010-d9e4-a1bd-55183a360000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-10-18T18:50:00+00:00",
-        "image_url": null
-      },
-      {
-        "id": "5fb3a34ed3",
-        "title": "תחקיר \"טיים\": כך ניהלה ישראל את הזרמת המיליארדים מקטר לעזה",
-        "url": "https://13tv.co.il/item/news/politics/security/efc6v-905404458/?pid=62&refc=902992383",
-        "source": "reshet13",
-        "source_label": "חדשות 13",
-        "source_label_he": "חדשות 13",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "7cda6a6eb1",
-        "title": "גווארדיולה שוב תוקף: \"ישראל רצחה עשרות אלפי בני אדם בעזה\"",
-        "url": "https://sports.walla.co.il/item/3872772",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-10-18T21:13:00+00:00",
-        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/0/1/0/4010546-46.jpg"
-      },
-      {
-        "id": "08daca4a9d",
-        "title": "לפני 29 דקות חשד להשלכת רימון רסס בבת ים: נזק נגרם במקום, אין נפגעים",
-        "url": "https://www.maariv.co.il/breaking-news/article-1378723",
-        "source": "maariv",
-        "source_label": "מעריב",
-        "source_label_he": "מעריב",
-        "published_at": null,
-        "image_url": null
-      },
-      {
-        "id": "a758672e3c",
-        "title": "עראקצ'י: \"נתניהו גורר למלחמה נוספת כדי להישאר מחוץ לכלא, יהיו ההשלכות על ישראל אשר יהיו\" קרא עוד..",
-        "url": "https://www.i24news.tv/he/news/real-time-news/artc-1cef1393-3",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": "https://cdn.i24news.tv/uploads/0c/a7/53/1b/61/20/eb/3e/7c/7a/0c/07/e7/29/1a/96/0ca7531b6120eb3e7c7a0c07e7291a96.jpg?width=750"
-      },
-      {
-        "id": "7861c77707",
-        "title": "Getting prosthetic limbs from Jordan, Gazan teen amputees cling to their hopes",
-        "url": "https://www.timesofisrael.com/getting-prosthetic-limbs-from-jordan-gazan-teen-amputees-cling-to-their-hopes/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-10-19T03:02:00+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AFP__20261013__D36J8EW__v10__HighRes__TopshotJordanPalestinianIsraelConflictGazaAmpu-1024x640.jpg"
-      }
-    ]
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "לצד תמיכת טראמפ בנתניהו, נחשף כי טענת פילבר על חציית אחוז החסימה של גנץ לא נתמכת בסקר שהוגש לוועדת הבחירות. בעולם, מפלגת השמאל הקיצוני בספרד מתפצלת ומסכנת את שלטון סאנצ'ס, וצרפת נקלעה לאלימות לקראת בחירות גורליות.",
-      "headlines": [
-        {
-          "id": "2b138dc5cd",
-          "title": "פילבר טען שגנץ עבר את אחוז החסימה, לוועדת הבחירות לא הוגש סקר כזה",
-          "url": "https://www.haaretz.co.il/news/elections/2026-10-18/ty-article/.premium/000001a1-4ee6-d71b-a5bf-7ef738d20000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-10-18T16:32:31+00:00",
-          "image_url": null
-        },
-        {
-          "id": "3d4f34a4b5",
-          "title": "מכה פוליטית לסאנצ'ס: השמאל הקיצוני בספרד מתפצל לקראת הבחירות ומסכן את המשך שלטונו",
-          "url": "https://www.mako.co.il/news-world/2026_q4/Article-cba479a572e41a1026.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-10-18T08:45:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/10/05/PEDROSANCHEZ_re_autoOrient_i.jpg"
-        },
-        {
-          "id": "5228c19458",
-          "title": "עם בחירות גורליות באופק, צרפת נקלעה ליום שבו איבדה שליטה לזעם ולאלימות",
-          "url": "https://www.haaretz.co.il/news/world/europe/2026-10-19/ty-article/.premium/000001a1-4fee-d71b-a5bf-7fffe90b0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-10-19T02:51:16+00:00",
-          "image_url": null
-        },
-        {
-          "id": "9377ef291e",
-          "title": "\"ישראל מדינה עצמאית\": כשנשיא ארה\"ב התערב נגד נתניהו",
-          "url": "https://www.ynet.co.il/news/elections2026/article/sktwbtm3zx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-10-18T20:25:42+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/SJ8s9jfhzx/SJ8s9jfhzx_0_0_1672_941_0_medium.jpg"
-        },
-        {
-          "id": "72f6e60c6d",
-          "title": "Will Trump’s endorsement boost Netanyahu’s chances of winning the election?",
-          "url": "https://www.timesofisrael.com/will-trumps-endorsement-boost-netanyahus-chances-of-winning-the-election/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-10-18T22:32:05+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/01/AFP__20251229__899A8MG__v1__HighRes__IsraeliPmBenjaminNetanyahuVisits-1024x640.jpg"
-        },
-        {
-          "id": "a38f375e63",
-          "title": "מאחורי תמיכת טראמפ בנתניהו: הלחצים וההתנגדות",
-          "url": "https://www.walla.co.il/news/politics/383957976",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-10-19T02:45:00+00:00",
-          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/3/9/9/3/3993482-46.jpg"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "מפולת בשוק השבבים מחקה כ-2 טריליון דולר בוול סטריט תוך שבוע, בעוד ענקיות הבינה המלאכותית נהנות מהטבות מס שמאיימות על קופות הממשלות. באסיה דווח על עלייה וצמיחה חדה בסין, לצד מגמה מעורבת בשווקים ערב שבוע דוחות.",
-      "headlines": [
-        {
-          "id": "bc49e4df37",
-          "title": "מפולת השבבים בוול סטריט: 2 טריליון דולר נמחקו בשבוע, והפארמה הפכה לאי של יציבות",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001559932",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-10-19T02:45:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1792330282/AP26205755228408_td7tro.jpg"
-        },
-        {
-          "id": "9a4ec8e351",
-          "title": "חברות הבינה המלאכותית מקבלות הטבות מס ומעלימות משרות. לממשלות לא יישאר כך מספיק כסף",
-          "url": "https://www.themarker.com/news/macroeconomics/2026-10-19/ty-article/.highlight/000001a1-495d-da52-a3f1-4f5f720f0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-19T02:58:27+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-4aca-d358-a7b5-fafb4dbc0000/29/b0/88f5515641e88daeff23f234b7a5/620706.jpg?width=108&height=81"
-        },
-        {
-          "id": "c0b630fa52",
-          "title": "עליות באסיה; סין דיווחה על צמיחה חדה מהצפוי ברבעון השלישי",
-          "url": "https://www.themarker.com/wallstreet/2026-10-19/ty-article-live/000001a1-525b-d9e4-a1bd-575b1cd10000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-19T04:22:26+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-525e-d71b-a5bf-765fd7d20000/75/69/b00d8c7c41b6adcf9a0fc2334b31/852753.jpg?width=108&height=81"
-        },
-        {
-          "id": "4f37124658",
-          "title": "מגמה מעורבת באסיה, וול סטריט מתאוששת לקראת שבוע של דוחות",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001559964",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-10-19T04:48:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1783424919/direct/2026-07-03T000000Z_1953503890_MT1NURPHO000NDVEX6_RTRMADP_3_SOUTH-KOREA-STOCKS-REBOUND_zomlpx.jpg"
-        },
-        {
-          "id": "bd214241c0",
-          "title": "המדינה שופכת מיליארדים על AI - ואתם משלמים את המחיר",
-          "url": "https://finance.walla.co.il/item/3872765",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-10-18T03:50:00+00:00",
-          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/3/8/0/8/3808430-46.png"
-        }
-      ]
-    },
-    {
-      "key": "health",
-      "label_he": "בריאות ורפואה",
-      "summary_he": "מחקר רחב היקף זיהה שישה מאכלים המסייעים להארכת תוחלת החיים.",
-      "headlines": [
-        {
-          "id": "ca8527a2a7",
-          "title": "מחקר ענק מצא: 6 מאכלים שמאריכים חיים",
-          "url": "https://healthy.walla.co.il/item/3872534",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-10-19T04:26:00+00:00",
-          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/2/5/3/2/2532418-46.jpg"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "ענף הסייבר הישראלי מושך גל סטארט-אפים חדש בתחום שוויז נטשה, בעוד השקעות הענק בבינה מלאכותית ממשיכות לעורר דיון על עלותן הציבורית.",
-      "headlines": [
-        {
-          "id": "68223f82e6",
-          "title": "התחום שוויז נטשה מושך גל חדש של סטארט־אפים בסייבר הישראלי",
-          "url": "https://www.themarker.com/technation/2026-10-19/ty-article/.highlight/000001a1-4eb2-d25a-a7ff-7ffadd740000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-19T03:15:42+00:00",
-          "image_url": "https://img.haarets.co.il/bs/00000195-aa92-d123-a1df-ae9f61ef0000/cf/e7/78bdea004fe8934148f55341cd42/169993-5.jpg?width=108&height=81"
-        },
-        {
-          "id": "bd214241c0",
-          "title": "המדינה שופכת מיליארדים על AI - ואתם משלמים את המחיר",
-          "url": "https://finance.walla.co.il/item/3872765",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-10-18T03:50:00+00:00",
-          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/3/8/0/8/3808430-46.png"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "כוכבת \"מאסטר שף\" חשפה כי היא בהריון ראשון, בעוד דווח כי נטפליקס נקלעה לירידה כלכלית למרות השקעות עתק בתוכן.",
-      "headlines": [
-        {
-          "id": "75256883e3",
-          "title": "כוכבת \"מאסטר שף\" בהיריון ראשון",
-          "url": "https://www.israelhayom.co.il/forreal/localy/article/21653374",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "5b9b3ed212",
-          "title": "20 מיליארד דולר, מעט מדי להיטים: הנפילה של מלכת נטפליקס",
-          "url": "https://www.israelhayom.co.il/culture/tv/article/21648022",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        }
-      ]
-    },
-    {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "קולנוע אוריון ההיסטורי בירושלים ייהרס ויוקם מחדש במסגרת פרויקט הכולל שני מגדלי מגורים ובית מלון.",
-      "headlines": [
-        {
-          "id": "c39a0e3011",
-          "title": "לצד שני מגדלי מגורים ובית מלון: קולנוע אוריון המיתולוגי בירושלים ייהרס ויוקם מחדש",
-          "url": "https://www.themarker.com/realestate/2026-10-18/ty-article/.premium/000001a1-4ee1-d25a-a7ff-7ff98fe20000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-18T12:28:24+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-4ef5-d71b-a5bf-7ef72b120000/5a/a6/0832bda04fdfaa8462226449f0a0/835069.jpg?width=108&height=81"
-        }
-      ]
-    }
-  ],
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -347,182 +103,10 @@
     "themarker",
     "times_of_israel",
     "maariv",
-    "makor_rishon",
     "reshet13",
     "i24"
   ],
-  "sources_failed": [],
-  "world": {
-    "israel_jewish": {
-      "summary_en": "Recent incidents highlight mounting security and antisemitic concerns affecting Israel and Jewish communities. A synagogue and Jewish-owned businesses were damaged during riots in France, underscoring ongoing antisemitic tensions across Europe. Israel faces international scrutiny over settler violence in the West Bank, with European diplomats recently attacked by settlers. Additionally, a Tel Aviv–Vienna flight was forced to make an emergency landing in Bulgaria following a bomb threat.",
-      "headlines": [
-        {
-          "id": "df202463fe",
-          "title": "A synagogue and Jewish-owned shops damaged in French riots",
-          "url": "https://www.jta.org/2026/10/18/global/a-synagogue-and-jewish-owned-shops-damaged-in-french-riots",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-18T22:10:11+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/Paris-1919.jpeg"
-        },
-        {
-          "id": "52169be5c7",
-          "title": "How much will Trump's endorsement help Netanyahu?",
-          "url": "https://www.jta.org/2026/10/18/israel/how-much-will-trumps-endorsement-help-netanyahu",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-18T18:16:51+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/Trump-Netanyahu-A.jpg"
-        },
-        {
-          "id": "46647e0022",
-          "title": "European diplomats attacked by Israeli settlers in West Bank",
-          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-10-18T12:16:14+00:00",
-          "image_url": null
-        },
-        {
-          "id": "919d7d5208",
-          "title": "Flight from Tel Aviv to Vienna makes emergency landing in Bulgaria following bomb threat",
-          "url": "https://www.hln.be/buitenland/vlucht-van-tel-aviv-naar-wenen-maakt-noodlanding-in-bulgarije-na-bommelding~ad8787fa/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-10-18T22:51:00+00:00",
-          "image_url": "https://images.hln.be/MmU4ODA3ZWQzOWQzYWM5NzRkYWEvZGlvLzI3NDM2OTM2MC9maXQtd2lkdGgvNDAw/an-airplane-of-austrian-airlines-carrying-onboard-members-of-austria-s-national-football-team-takes-off-from-the-schwechat-airport-near-vienna-austria-on-june-4-2026-ahead-of-the-fifa-2026-world-cup-photo-by-max-slovencik-apa-afp-austria-out"
-        }
-      ]
-    },
-    "belgium": {
-      "summary_en": "Belgian politics and security planning dominate the agenda as the government pursues significant institutional reforms. Defense officials, including Theo Francken, are advancing plans for a \"national guard 2.0\" to strengthen the military response to urban crises. Health insurance figures are sharpening budget negotiations, with projections showing a decline in long-term illness cases by 2029. The country continues to address serious crime, including a high-profile case involving a top criminal suspect.",
-      "headlines": [
-        {
-          "id": "dda37a7ffa",
-          "title": "Theo Francken (N-VA) considers establishing 'national guard 2.0' • Premier De Wever starts bilateral talks for federal budget",
-          "url": "https://www.demorgen.be/snelnieuws/live-defensie-en-binnenlandse-zaken-denken-aan-oprichting-rijkswacht-2-0-premier-de-wever-start-bilaterales-op-voor-federale-begroting~bf7e76f4/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-18T19:31:00+00:00",
-          "image_url": "https://image.demorgen.be/278423716/roi/320/320/834.0200000000001/882.9000000000001/afbeelding"
-        },
-        {
-          "id": "74eada5f7b",
-          "title": "New health insurance figures sharpen budget talks: long-term illness numbers expected to decline by 2029",
-          "url": "https://www.demorgen.be/nieuws/nieuwe-riziv-cijfers-zetten-begrotingsgesprekken-op-scherp-aantal-langdurig-zieken-zou-dalen-tegen-2029~bc331ff7/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-19T01:01:00+00:00",
-          "image_url": "https://image.demorgen.be/278585897/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "f912ba6416",
-          "title": "Child murder in Belgium: 'Child abuse can occur behind every door'",
-          "url": "https://www.demorgen.be/nieuws/kindermoord-in-belgie-kindermishandeling-kan-achter-iedere-gevel-voorkomen~bd480550/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-19T01:01:00+00:00",
-          "image_url": "https://image.demorgen.be/279189986/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "8fd0b7ec44",
-          "title": "Flor Bressers returns to court: top criminal allegedly had prison guard shadowed for weeks",
-          "url": "https://www.demorgen.be/nieuws/flor-bressers-opnieuw-voor-de-rechter-topcrimineel-zou-cipier-wekenlang-hebben-laten-schaduwen~b3c14a59/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-19T01:00:00+00:00",
-          "image_url": "https://image.demorgen.be/278425077/feature-crop/320/320/afbeelding"
-        }
-      ]
-    },
-    "europe": {
-      "summary_en": "France's government faces severe pressure following weekend riots and internal political turmoil over the Interior Ministry. President Macron rejected the Interior Minister's resignation despite mounting public frustration from the \"yellow vest\" movement and student protests. The European Union is monitoring upcoming elections in four key member states amid rising political uncertainty. Albania continues to experience violent civil unrest as the Prime Minister refuses to resign amid ongoing demonstrations.",
-      "headlines": [
-        {
-          "id": "5d423c20e0",
-          "title": "French Interior Minister resigns, Macron rejects it • 'Yellow vests' demand reception at Élysée after Macron's 'empty speech'",
-          "url": "https://www.demorgen.be/nieuws/live-franse-minister-van-binnenlandse-zaken-biedt-ontslag-aan-macron-wijst-dat-af-gele-hesjes-willen-ontvangst-in-elysee-na-lege-toespraak-van-macron~b34ff624/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-19T05:16:00+00:00",
-          "image_url": "https://image.demorgen.be/277615836/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "0fcefe3921",
-          "title": "Why the European Union is already nervous about elections in 4 important member states",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/eu-europese-unie-verkiezingen-frankrijk-spanje-polen-italie-span/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/18/eb607c0d-62a3-4fa6-a4a5-9c5d68e2f7fa.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "8bb01908f8",
-          "title": "Albanian Prime Minister refuses to step down as violent protests continue",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/albanese-premier-stapt-niet-op-gewelddadige-protesten-houden-aa/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/18/247e3370-bb2b-48c3-afb2-aa45e0fa85c6.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "8ec001383b",
-          "title": "France's government under pressure after weekend of widespread violence",
-          "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-10-19T04:16:46+00:00",
-          "image_url": null
-        }
-      ]
-    },
-    "world_top": {
-      "summary_en": "The Ukraine-Russia conflict is intensifying as Ukraine launches thousands of drone strikes against Russian military targets, including refineries, despite international pressure. Geopolitical tensions, particularly involving Iran's conflicts, are driving up costs for global businesses and destabilizing economic outlooks. International diplomacy remains strained as major powers, including the United States, navigate military escalation and its economic consequences.",
-      "headlines": [
-        {
-          "id": "eece097555",
-          "title": "Ukraine-Russia War Live Blog: 'Putin wants talks with Trump and Xi Jinping,' according to American media; new Russian attack on Kyiv",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/poetin-wil-overleg-met-trump-en-xi-jinping-zeggen-amerikaanse~1789060001669/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/09/02/9be5973b-2c89-471e-ada8-0598c742b4b1.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "3287768655",
-          "title": "Profit warnings from UK-listed firms at highest level in two years as Iran war drives up costs",
-          "url": "https://www.theguardian.com/business/2026/oct/19/profit-warnings-from-uk-listed-firms-at-highest-level-in-two-years-as-iran-war-drives-up-costs",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-19T05:00:19+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/40c091015eaa8e1f71e5d9977665ddc1e08e01e9/121_77_3608_2889/master/3608.jpg?width=700&quality=85&auto=format&fit=max&s=369981ca5ab461cc2687372974f09882"
-        },
-        {
-          "id": "1b6f0fddae",
-          "title": "Ukraine ignores Trump and fires thousands of drones at Russia, with refinery also targeted",
-          "url": "https://www.demorgen.be/nieuws/oekraine-negeert-trump-en-vuurt-duizendtal-drones-af-op-rusland-ook-raffinaderij-getroffen~b4f8fa4d/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-19T04:30:27+00:00",
-          "image_url": "https://image.demorgen.be/279270609/feature-crop/320/320/afbeelding"
-        }
-      ]
-    },
-    "degraded": false
-  }
+  "sources_failed": [
+    "makor_rishon"
+  ]
 }

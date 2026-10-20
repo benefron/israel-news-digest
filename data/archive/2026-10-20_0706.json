@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-10-20T06:16:20.940194+00:00",
+  "date": "2026-10-20",
+  "degraded": true,
+  "top_general": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": [
+      {
+        "id": "d194de266f",
+        "title": "היזם מיקי בודאי פרש מתפקיד מנכ\"ל טרנסמיט סקיוריטי",
+        "url": "https://www.themarker.com/technation/2026-10-19/ty-article/.highlight/000001a1-54ef-ddea-abb5-d5ffb3fb0000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-10-19T16:20:13+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-54f4-dcd4-afa3-55ff14370000/a1/53/95e7c7b24e66b92bee34e213e7cf/703792.jpg?width=108&height=81"
+      },
+      {
+        "id": "c274452a10",
+        "title": "באירופה מבינים עכשיו: הם רצו אינתיפאדה",
+        "url": "https://www.ynet.co.il/news/article/yokra14932142",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-19T21:04:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/BJJ00y1Enfx/BJJ00y1Enfx_0_824_2250_1267_0_medium.jpg"
+      },
+      {
+        "id": "16786aa3ce",
+        "title": "France announces curfews in Paris and other cities as country grapples with unrest",
+        "url": "https://www.timesofisrael.com/france-announces-curfews-in-paris-and-other-cities-as-country-grapples-with-unrest/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-10-19T23:04:12+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AFP__20261019__D3QA3CR__v1__HighRes__FranceSocialDemo-1024x640.jpg"
+      },
+      {
+        "id": "50c09bf090",
+        "title": "מספר 2 של גנץ: \"לפעמים צריך לדעת לעצור\"",
+        "url": "https://www.ynet.co.il/news/elections2026/article/s1kqjjn2zl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-19T21:16:38+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/14/Bk1zhdM8xg/Bk1zhdM8xg_206_76_1017_573_0_medium.jpg"
+      },
+      {
+        "id": "bfccb003f7",
+        "title": "שעון חורף 2026: מתי מזיזים את השעון? | כל מה שצריך לדעת",
+        "url": "https://www.ynet.co.il/news/article/g6v9at2rh",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-20T05:07:52+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/09/18/B1lqff5S1a/B1lqff5S1a_0_0_850_479_0_cid_62_medium.jpg"
+      },
+      {
+        "id": "e3a78d2ace",
+        "title": "בן 13 נהרג בפארק שעשועים בלבנון – ההנהלה טוענת שקפץ מהמתקן",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-701828850d251a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-19T06:22:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/19/AutoCms_05BEF96E3_autoOrient_i.jpg"
+      },
+      {
+        "id": "0cf0fd456b",
+        "title": "שר ההגנה האמריקני ביקר בחשאי בישראל ונפגש עם נתניהו, על הפרק: חידוש המלחמה באיראן",
+        "url": "https://www.ynet.co.il/news/article/hk5naze3fe",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-19T22:47:35+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/09/HJTe4113rxx/HJTe4113rxx_303_75_1933_1088_0_medium.jpg"
+      },
+      {
+        "id": "5207f1d415",
+        "title": "המשטרה עצרה 21 חשודים במעורבות בהונאה כלכלית בזמן עבודות בעזה",
+        "url": "https://www.haaretz.co.il/news/law/2026-10-20/ty-article/000001a1-57ba-d7ce-a9a1-d7ffc2820000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-20T05:16:36+00:00",
+        "image_url": null
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
+  },
+  "subjects": [],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [
+    "makor_rishon"
+  ]
+}
