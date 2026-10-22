@@ -1,97 +1,354 @@
 {
-  "generated_at": "2026-10-21T06:20:27.153456+00:00",
-  "date": "2026-10-21",
-  "degraded": true,
+  "generated_at": "2026-10-22T08:37:58.099323+00:00",
+  "date": "2026-10-22",
+  "degraded": false,
   "top_general": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "summary_he": "ישראל וארה\"ב גיבשו תוכניות לחידוש תקיפות באיראן, ככל הנראה לאחר בחירות האמצע בארה\"ב, על רקע חשש מהסלמה אזורית וטראמפ שמותיר את האפשרות פתוחה. במקביל, הקמפיין לבחירות בישראל מתחמם עם האשמות הדדיות בין כ\"ץ לאופוזיציה, וסקרים מצביעים על מירוץ צמוד בין איזנקוט להנדל. בעולם, ארה\"ב מפנה עובדי שגרירויות במפרץ בשל איום החות'ים, וטורקיה מרחיבה אחיזתה בים התיכון בהסכם עם לוב שמדאיג את ישראל ושכנותיה.",
     "headlines": [
       {
-        "id": "b6f8ffb07b",
-        "title": "מועמד המפלגה הדמוקרטית לסנאט: \"הגיע הזמן שנבין שישראל היא למעשה לא חברה שלנו\"",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-f082d9406a651a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-10-20T08:25:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/25/abdul25081_re_autoOrient_i.jpg"
-      },
-      {
-        "id": "b1df292ac8",
-        "title": "סוכנים הוזעקו להתרסקות חפץ ענק מהחלל: \"לא מקבלים הרבה מידע\"",
-        "url": "https://www.walla.co.il/news/donotmiss/383958188",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-10-20T10:08:45+00:00",
-        "image_url": "https://image-resizer-walla.walla.cloud/image/2026/10/3/images/1792490499456_walla-media-picture_1268x736.webp?width=500"
-      },
-      {
-        "id": "313380bd04",
-        "title": "אנשי רפואה בעזה: חמישה נהרגו היום בהפצצות צה\"ל ברצועה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-10-20/ty-article/000001a1-591a-d9b6-a9b1-79bafd570000",
+        "id": "73bd134de8",
+        "title": "מקורות: ישראל וארה\"ב גיבשו תוכניות לחידוש התקיפות באיראן אחרי בחירות האמצע",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-22/ty-article/.premium/000001a1-60e4-d64b-a1ff-7ffe686a0000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-10-20T12:42:12+00:00",
+        "published_at": "2026-10-22T00:39:19+00:00",
         "image_url": null
       },
       {
-        "id": "ae9f230603",
-        "title": "מיליארדים לאיראן: הצעת הפשרה שהעבירו קטאר ופקיסטן כדי לסיים את המלחמה",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-c0c1bb8309951a1026.htm",
+        "id": "ca818109bd",
+        "title": "טראמפ על תקיפה באיראן: \"הרוב חושבים שזה יקרה בחירות האמצע, נראה\"; דיווח: תוכניות הפעולה והתאריכים האפשריים",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-851af43c8e061a1027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-10-20T15:10:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/07/22/n20-2207-trump-moojtaba-ibud-1-3_autoOrient_i.jpg"
+        "published_at": "2026-10-22T04:45:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/10/irannew101004_autoOrient_i.jpg"
       },
       {
-        "id": "1d7b8740a2",
-        "title": "אלה החשודים בעוקץ המיליונים מצה\"ל בעזה: כך פעלה ההונאה",
-        "url": "https://www.ynet.co.il/news/article/byfaossnfe",
+        "id": "1603e4fb68",
+        "title": "כ\"ץ: כל התקפה וכל פיגוע יירשמו על שמם של לפיד, בנט, גולן וחבריהם לאופוזיציה",
+        "url": "https://www.ynet.co.il/news/elections2026/article/hjyr17v2ze",
         "source": "ynet",
         "source_label": "Ynet",
         "source_label_he": "Ynet",
-        "published_at": "2026-10-20T21:35:19+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/27/HkaQY02Agg/HkaQY02Agg_0_168_3000_1689_0_medium.jpg"
+        "published_at": "2026-10-22T05:41:57+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/rkdQhU6yqzg/rkdQhU6yqzg_0_78_2560_1442_0_medium.jpg"
       },
       {
-        "id": "98348c7e80",
-        "title": "רקטות, חדירות ותקיפת מוצבים: צה\"ל נערך להפתעה מעזה",
-        "url": "https://www.walla.co.il/news/military/383958257",
+        "id": "1201e10a07",
+        "title": "סקר בחירות: איזנקוט מוביל במנדטים - והנדל נשאר בחוץ",
+        "url": "https://www.walla.co.il/news/politics/383958398",
         "source": "walla",
         "source_label": "וואלה",
         "source_label_he": "וואלה",
-        "published_at": "2026-10-21T03:00:00+00:00",
-        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/3/9/7/4/3974812-46.jpeg"
+        "published_at": "2026-10-21T18:20:12+00:00",
+        "image_url": "https://image-resizer-walla.walla.cloud/image/2026/10/2/images/1791790042284_walla-media-picture_2200x1443.webp?width=500"
       },
       {
-        "id": "96cfd5fdf1",
-        "title": "דיווח: חיזבאללה העלה את רמת הכוננות שלו בימים האחרונים",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001560257",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-10-21T03:55:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1792401603/AP26270388433715_brqqyc.jpg"
+        "id": "4c69bd7441",
+        "title": "החשש להסלמה באזור: ארה\"ב נערכת לפינוי עובדי שגרירויות במדינות המפרץ",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-5f45087e0df51a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-21T19:08:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/13/n20-1310-HUTIIM-ibud-1-1_re_autoOrient_i.jpg"
       },
       {
-        "id": "6a1c8e769a",
-        "title": "נתניהו דחף לתקוף באיראן - טראמפ בלם",
-        "url": "https://www.israelhayom.co.il/news/geopolitics/article/21673178",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
+        "id": "d2813a4b49",
+        "title": "טורקיה מרחיבה את אחיזתה בים התיכון: ההסכם עם לוב שמדאיג את יוון, קפריסין וישראל",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-a0659718a2d51a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-21T06:46:00+00:00",
+        "image_url": "https://img.mako.co.il/2025/11/05/AP25176562786425_autoOrient_i.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
-    "headlines": []
+    "summary_he": "צה\"ל מעריך כי חמאס מתעצם ונערך לחידוש הלחימה בעזה, ובמקביל גובר החשש מהסלמה בטרור יהודי בתגובה לתוצאות הבחירות. חיל האוויר ערך תרגיל עד גבול איראן מתוך חשש מ\"מיסקלקולציה\", וחמאס איים באופן חריג על אפשרות מתקפה נוספת בסגנון 7 באוקטובר. בסודאן דווח על 300 הרוגים בגל תקיפות כטב\"ם.",
+    "headlines": [
+      {
+        "id": "653fdb1e55",
+        "title": "צה\"ל: חמאס מתעצם, לא יוותר על נשקו ונערך לחידוש הלחימה ברצועת עזה, החמולות נחלשו",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-22/ty-article/.premium/000001a1-5fe2-dc69-a1ff-7feed7a40000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-22T03:01:14+00:00",
+        "image_url": null
+      },
+      {
+        "id": "926c855152",
+        "title": "במערכת הביטחון חוששים מפני הסלמה בטרור היהודי בתגובה על תוצאות הבחירות",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-21/ty-article/.premium/000001a1-5ed2-dc69-a1ff-7fdea3c00000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-21T19:03:05+00:00",
+        "image_url": null
+      },
+      {
+        "id": "34d9a4b539",
+        "title": "עשרות מטוסי קרב, עד גבול איראן: התרגיל של חיל האוויר והחשש מ\"מיסקלקולציה\"",
+        "url": "https://www.ynet.co.il/news/article/r1pex9u3me",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-21T21:28:18+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/26/rJ11sFSNqNex/rJ11sFSNqNex_0_0_1600_901_0_medium.jpg"
+      },
+      {
+        "id": "52cb64b31a",
+        "title": "האיום החריג והישיר של חמאס על ישראל: \"ערוכים לבצע עוד מתקפה כמו 7/10\"",
+        "url": "https://www.ynet.co.il/news/article/yokra14934079",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-21T22:03:56+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/SJfWiMK7sfg/SJfWiMK7sfg_0_0_3000_1688_0_medium.jpg"
+      },
+      {
+        "id": "563a2e272f",
+        "title": "שוק שהושמד ואוהל אבלים שהותקף: 300 הרוגים בגל תקיפות כטב\"מים בסודאן",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-3695b68c1dd51a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-21T09:55:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/21/shuk_autoOrient_i.jpg"
+      },
+      {
+        "id": "c900f74d1a",
+        "title": "8 ק\"מ בעומק הרצועה, בנקודה האסטרטגית של צה\"ל נערכים לעוד חורף בעזה",
+        "url": "https://www.ynet.co.il/news/article/yokra14934099",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-21T23:52:49+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/SJdOiw8Lnzx/SJdOiw8Lnzx_342_63_939_528_0_medium.jpg"
+      }
+    ]
   },
-  "subjects": [],
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "קמפיין הבחירות מתלהט: כ\"ץ מאשים את לפיד, בנט וגולן בכך שהפיגועים הבאים \"יירשמו על שמם\", ואילו ליברמן תוקף את ממשלת המיעוט. סקרים מראים תמונה סותרת לגבי מעבר אחוז החסימה של וינטר והנדל-זליכה, והיועמ\"שית מותחת ביקורת על אכיפת חוק הגיוס.",
+      "headlines": [
+        {
+          "id": "1d7f196b88",
+          "title": "כץ: כל התקפה על ישראל וכל הפיגועים הבאים יירשמו על שם לפיד, בנט, גולן והאופוזיציה",
+          "url": "https://www.haaretz.co.il/news/politics/2026-10-22/ty-article/.premium/000001a1-6219-dc69-a1ff-779d8d810000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-22T05:36:08+00:00",
+          "image_url": null
+        },
+        {
+          "id": "954d79860d",
+          "title": "אביגדור ליברמן: \"ממשלת מיעוט פסולה מוסרית ופרקטית. נמצא דרך להיפטר מנתניהו\"",
+          "url": "https://www.ynet.co.il/news/120andone/article/hjiqofm2fl",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-22T03:00:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/H1ggDveHnzl/H1ggDveHnzl_1112_305_1674_943_0_medium.jpg"
+        },
+        {
+          "id": "231c9151bb",
+          "title": "סקר 12: וינטר עובר את אחוז החסימה, הנדל־זליכה לא; סקר 13 חוזה את ההפך",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-21/ty-article/.premium/000001a1-5fb3-d686-a7a9-dfb37b630000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-21T19:32:57+00:00",
+          "image_url": null
+        },
+        {
+          "id": "b99710ee85",
+          "title": "היועמ\"שית לבג\"ץ: מספר המשתמטים עלה ל־110 אלף, המדינה לא ממצה את האכיפה",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-21/ty-article/.premium/000001a1-5f6c-d64b-a1ff-7f7e36ff0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-21T17:04:50+00:00",
+          "image_url": null
+        },
+        {
+          "id": "09bbf8dae8",
+          "title": "וינטר הודיע כי לא יפרוש: \"לא באנו בשביל ג'וב, נילחם עד הסוף\"",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-21/ty-article/.premium/000001a1-5f79-da49-abe9-5ff9d1af0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-21T17:19:42+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "בורסות אסיה צוללות על רקע חשש גובר, והנפט מזנק בעוד החוזים בוול סטריט אדומים. בישראל, זוגלובק משקיעה 120 מיליון שקל במפעל חדש בשלומי למרות המלחמה, ועסקאות נדל\"ן בהיקף ממוצע של 2.7 מיליון שקל לדירה מזיזות שוק קפוא.",
+      "headlines": [
+        {
+          "id": "4ea092f2c5",
+          "title": "האופטימיות התחלפה בחשש: בורסות אסיה צוללות, החוזים בוול סטריט אדומים והנפט מזנק",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001560400",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-22T03:58:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1622707389/direct/shutterstock_297414167_ytihtg.jpg"
+        },
+        {
+          "id": "6555f8ac33",
+          "title": "ירידות חדות באסיה; המדד המרכזי של בורסות סין נכנס לטריטוריה דובית",
+          "url": "https://www.themarker.com/wallstreet/2026-10-22/ty-article-live/000001a1-525b-d9e4-a1bd-575b1cd10000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-22T06:04:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-61dd-dc69-a1ff-75ddf74a0000/93/5c/a16c69da469299d18ad46e37791f/768868.jpg?width=108&height=81"
+        },
+        {
+          "id": "d1357eec70",
+          "title": "למרות המלחמה: זוגלובק הקימה מפעל בשלומי ב-120 מיליון שקל",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001560397",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-22T02:42:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1792605943/%D7%9E%D7%A4%D7%A2%D7%9C_%D7%96%D7%95%D7%92%D7%9C%D7%95%D7%91%D7%A7_%D7%91%D7%A9%D7%9C%D7%95%D7%9E%D7%99_%D7%A6%D7%99%D7%9C%D7%95%D7%9D-_Studio_T_nrx0up.png"
+        },
+        {
+          "id": "c97df69a3e",
+          "title": "במחיר ממוצע של 2.7 מיליון שקל לדירה: העסקאות שמזיזות את השוק הקפוא",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001560376",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-22T02:33:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1776085911/one%20time%20use%20only/%D7%90%D7%99%D7%A9%D7%95%D7%A8%D7%99%20%D7%A9%D7%99%D7%9E%D7%95%D7%A9%20%D7%91%D7%AA%D7%9E%D7%95%D7%A0%D7%95%D7%AA/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98_%D7%A9%D7%93_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D_%D7%99%D7%A4%D7%95_-_%D7%9E%D7%92%D7%95%D7%A8%D7%99%D7%98_-_%D7%A7%D7%A8%D7%93%D7%99%D7%98_%D7%A0%D7%99%D7%91_%D7%9E%D7%93%D7%99%D7%93%D7%95%D7%AA_d0ktec.jpg"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "כלי בינה מלאכותית חשפו פרצת אבטחה קריטית המאיימת על כ-70% מהאתרים בעולם. בחזית העסקית, מטא ספגה קנס ענק של 25 מיליארד דולר בפרשת קיימברידג' אנליטיקה, אך הכנסותיה עקפו את התחזיות והמניה קפצה.",
+      "headlines": [
+        {
+          "id": "86b52e3b5a",
+          "title": "מיניבוס התהפך סמוך לשריגים: 9 פצועים, אחד מהם קשה",
+          "url": "https://www.israelhayom.co.il/news/local/article/21682479",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "993c9bcf01",
+          "title": "קנס של 25 מיליארד דולר למטא בפרשת קיימברידג' אנליטיקה",
+          "url": "https://www.themarker.com/wallstreet/2026-10-21/ty-article/.premium/000001a1-5fa9-d05a-abe9-7fb94da40000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-21T18:29:38+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-5fd8-da49-abe9-5ff8988a0001/38/dc/8f0864ea4e8eb48ac819737f2725/849818.jpg?width=108&height=81"
+        },
+        {
+          "id": "2304da68e3",
+          "title": "הכנסות מטא עקפו את התחזיות; המניה קופצת אחרי הסגירה בוול סטריט",
+          "url": "https://www.themarker.com/wallstreet/2026-10-21/ty-article/000001a1-601f-d686-a7a9-e5bfc40b0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-21T20:38:03+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-602c-d05a-abe9-673df2cc0001/0f/cf/1193b9ee4b8bbe770e72030001f7/430310.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "מחאת חרדים קיצוניים חסמה כביש במרכז הארץ לאחר עימותים בכניסה לתחנת משטרה, ומנהיג דגל התורה הורה להוציא את חמשת הילדים מאם שיצאה בשאלה. בד בבד, דווח כי מספר המשתמטים משירות עלה ל-110 אלף.",
+      "headlines": [
+        {
+          "id": "26f712ac54",
+          "title": "אחרי עימותים בכניסה לתחנת משטרה: כביש במרכז נחסם במחאת חרדים קיצוניים",
+          "url": "https://www.ynet.co.il/news/article/bklxxrlngx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-21T21:16:06+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/Bk118fp4IhMg/Bk118fp4IhMg_1_175_720_406_0_medium.jpg"
+        },
+        {
+          "id": "bb6aab5fc6",
+          "title": "האם יצאה בשאלה, מנהיג דגל התורה הורה לקחת ממנה את חמשת ילדיה",
+          "url": "https://www.haaretz.co.il/news/magazine/2026-10-22/ty-article-magazine/.premium/000001a1-4f24-d25a-a7ff-7f7c85970000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-22T03:01:10+00:00",
+          "image_url": null
+        },
+        {
+          "id": "b99710ee85",
+          "title": "היועמ\"שית לבג\"ץ: מספר המשתמטים עלה ל־110 אלף, המדינה לא ממצה את האכיפה",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-21/ty-article/.premium/000001a1-5f6c-d64b-a1ff-7f7e36ff0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-21T17:04:50+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "למרות התנגדות משרד האוצר אושרו 6,000 דירות ראשונות בעיר החרדית כסיף, ובמקביל דווח על עסקאות ממוצעות של 2.7 מיליון שקל לדירה בשוק הקפוא ועל פינוי תושבים ותיקים מחוף מציצים תמורת 2.2 מיליון שקל.",
+      "headlines": [
+        {
+          "id": "4bc29f91b6",
+          "title": "למרות התנגדות האוצר: אושרו 6,000 דירות ראשונות בעיר החרדית כסיף",
+          "url": "https://www.themarker.com/realestate/2026-10-21/ty-article/.premium/000001a1-5f6c-d686-a7a9-dfef57b00000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-21T17:44:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-5f75-d64b-a1ff-7f7f15600001/43/a1/57a4100545739acd46bb59dd2405/431022.jpg?width=108&height=81"
+        },
+        {
+          "id": "c97df69a3e",
+          "title": "במחיר ממוצע של 2.7 מיליון שקל לדירה: העסקאות שמזיזות את השוק הקפוא",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001560376",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-22T02:33:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1776085911/one%20time%20use%20only/%D7%90%D7%99%D7%A9%D7%95%D7%A8%D7%99%20%D7%A9%D7%99%D7%9E%D7%95%D7%A9%20%D7%91%D7%AA%D7%9E%D7%95%D7%A0%D7%95%D7%AA/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98_%D7%A9%D7%93_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D_%D7%99%D7%A4%D7%95_-_%D7%9E%D7%92%D7%95%D7%A8%D7%99%D7%98_-_%D7%A7%D7%A8%D7%93%D7%99%D7%98_%D7%A0%D7%99%D7%91_%D7%9E%D7%93%D7%99%D7%93%D7%95%D7%AA_d0ktec.jpg"
+        },
+        {
+          "id": "83096b5840",
+          "title": "גרו עשרות שנים על חוף מציצים — ויתפנו תמורת 2.2 מיליון שקל",
+          "url": "https://www.themarker.com/realestate/2026-10-22/ty-article/.highlight/000001a1-5e42-d05a-abe9-7f5b49470000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-22T03:03:36+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-5e5a-d05a-abe9-7f5b132c0000/7d/57/4db00c3245e7b66e1a0c639d0a3f/867165.jpg?width=108&height=81"
+        }
+      ]
+    }
+  ],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -107,5 +364,148 @@
     "reshet13",
     "i24"
   ],
-  "sources_failed": []
+  "sources_failed": [],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "The United States and Israel are planning new military operations against Iran following the U.S. midterms, with reports of an attack on an airport in Saudi Arabia resulting in casualties. The Iranian Revolutionary Guard has reported burning oil tankers in the Strait of Hormuz in apparent response. In Israeli politics, Arab parties are positioned to hold critical influence as potential kingmakers in the upcoming elections. Additionally, Jewish students at the University of Pittsburgh were interviewed for a campus antisemitism report, reflecting ongoing concerns about antisemitic activity in academic settings.",
+      "headlines": [
+        {
+          "id": "042448ec46",
+          "title": "Live - US and Israel aim to push Iran 'over the edge' with new attacks after midterms • One dead and eight wounded in attack on airport in Saudi city of Dammam",
+          "url": "https://www.demorgen.be/snelnieuws/live-vs-en-israel-willen-iran-na-midterms-definitief-over-de-rand-duwen-met-nieuwe-aanvallen-vs-roepen-ambassadepersoneel-op-saudi-arabie-te-verlaten~be9c4f82/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-22T05:17:00+00:00",
+          "image_url": "https://image.demorgen.be/279370761/roi/320/320/2805/1918.28/afbeelding"
+        },
+        {
+          "id": "4e47d28155",
+          "title": "US and Israel plan new attacks on Iran after midterms – Iranian Revolutionary Guard reports burning oil tankers at Strait of Hormuz",
+          "url": "https://www.hln.be/buitenland/vs-en-israel-plannen-nieuwe-aanvallen-op-iran-na-midterms-iraanse-revolutionaire-garde-meldt-brandende-olietankers-bij-straat-van-hormuz~a99e0324/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-22T06:19:00+00:00",
+          "image_url": "https://images.hln.be/NGQyNjNiNzZkMzU2MWRmY2RjMWIvZGlvLzI3ODQ4OTgxMC9maXQtd2lkdGgvNDAw/flames-burn-at-a-facility-belonging-to-saudi-oil-giant-aramco-south-of-riyadh-on-october-3-2026-the-circumstances-remained-unclear-but-in-recent-weeks-aramco-majority-owned-by-the-saudi-state-has-come-under-attack-from-the-houthi-authorities-targeting-the-kingdom-as-part-of-the-war-in-yemen-where-riyadh-is-backing-the-internationally-recognised-government-an-afp-journalist-reported-seeing-fire-engines-attempting-to-extinguish-a-blaze-at-the-energy-giant-s-riyadh-refinery-located-south-of-the-capital-while-ambulances-and-police-vehicles-were-stationed-near-the-facility-photo-by-afp"
+        },
+        {
+          "id": "c71dec0cc1",
+          "title": "How Arab parties could hold critical balance of power in Israeli election",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-22T05:30:22+00:00",
+          "image_url": null
+        },
+        {
+          "id": "c3b781512d",
+          "title": "Pitt officials say some Jewish students were interviewed for campus antisemitism report",
+          "url": "https://www.jta.org/2026/10/21/united-states/pitt-officials-say-some-jewish-students-were-interviewed-for-campus-antisemitism-report",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-10-22T00:32:49+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/10.21-Pitt.jpg"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium's coalition government faces a political crisis after the core cabinet disbanded without reaching a budget agreement. King Filip became the first person to officially cross the new Scheldetunnel as part of the Oosterweel infrastructure project. Housing policy is under scrutiny, with warnings that Flanders' spatial planning significantly underestimates demand, calling for 600,000 additional homes by 2050. Additionally, more Belgians are working reduced hours in their main jobs while taking on flexible work, with some earning up to 200 euros in additional monthly income.",
+      "headlines": [
+        {
+          "id": "6ae1d9c3cb",
+          "title": "Politics LIVEBLOG: Core cabinet breaks apart without budget agreement: 'Vooruit will sell their skin dearly'",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/kernkabinet-uiteen-zonder-begrotingsakkoord-vooruit-zal-huid-d~1790599460224/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/22/1556ad23-f15d-480c-8df2-c4e73ff40f68.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "fba55bbb31",
+          "title": "Oosterweel: King Filip becomes first to drive and walk through new Scheldetunnel",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/10/21/video-koning-filip-door-oosterweeltunnel/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/21/5bc16e8f-f8ed-4d55-b856-7613cfafb774.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "1abe3bb430",
+          "title": "Flanders' spatial planning policy underestimates housing demand, warns Embuild: '600,000 additional homes needed by 2050'",
+          "url": "https://www.hln.be/binnenland/beleidsplan-ruimte-vlaanderen-onderschat-woonopgave-waarschuwt-embuild-600-000-extra-woningen-nodig-tegen-2050~a3fee023/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-22T08:15:00+00:00",
+          "image_url": "https://images.hln.be/ZDU1MzU0MGNkNDdjOWU3YzU4NDYvZGlvLzI3OTM5MTk3OC9maXQtd2lkdGgvNDAw/leuven-flemish-brabant-belgium-december-19-2023-urban-densification-demolition-of-old-house-with-garden-and-building-new-apartment-complex-on-this-same-surface-ground-area-inzet-caroline-deiteren-embuild-vlaanderen"
+        },
+        {
+          "id": "c8c3de8f50",
+          "title": "Up to 200 euros net more per month: more people work less in main job to flex-job; we calculate what you could earn",
+          "url": "https://www.hln.be/mijn-geld/tot-200-euro-netto-meer-per-maand-steeds-meer-mensen-werken-minder-in-hoofdberoep-om-te-flexi-jobben-wij-rekenen-uit-wat-dat-jou-kan-opleveren~acfd2de1/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-22T05:00:00+00:00",
+          "image_url": "https://images.hln.be/YzI2ODdiNGMwZTM3OWQxZmJmMWIvZGlvLzI3OTM2MTk4Ny9maXQtd2lkdGgvNDAw/flexijobben"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "The Ukraine-Russia war continues with reported casualties, as both countries express readiness for peace negotiations with each other and the United States. European representation and voice in these peace talks remain a critical question. In southern Italy, a truckers' protest has disrupted commerce, causing empty store shelves and fuel shortages throughout the region.",
+      "headlines": [
+        {
+          "id": "07a8c7ee2e",
+          "title": "Ukraine-Russia War LIVEBLOG: 15 wounded and 7 dead in Ukraine; both countries say ready for talks with each other and US",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/15-gewonden-en-7-doden-in-oekraine-beide-landen-zeggen-wel-klaa~1789060001669/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/22/9710d36f-6b52-4420-a2c0-70df5db1a3aa.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "d0a0eff893",
+          "title": "Who speaks for Europe in the Ukraine peace talks?",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/who-speaks-for-europe-in-the-ukraine-peace-talks/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-22T04:05:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "a4cf331cfb",
+          "title": "Empty store shelves and fuel shortages in Southern Italy due to truckers' protest",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/10/22/lege-winkelrekken-en-brandstoftekorten-in-zuid-italie-door-truck/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/22/82ae6d28-a989-4ae2-bddb-92b193c4ef27.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "The United States is withdrawing embassy staff from Saudi Arabia amid escalating Middle East tensions, with an attack on Dammam airport resulting in casualties and highlighting the volatile regional security environment.",
+      "headlines": [
+        {
+          "id": "e90d037418",
+          "title": "Middle East War LIVEBLOG: US withdraws embassy staff from Saudi Arabia; death in attack on Dammam airport",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/vs-haalt-ambassadepersoneel-weg-uit-saudiarabie-dode-bij-aanva~1784611610051/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/22/fddf993b-eaf6-42ac-b064-69902d411d97.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "degraded": false
+  }
 }
