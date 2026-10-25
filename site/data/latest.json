@@ -1,241 +1,97 @@
 {
-  "generated_at": "2026-10-24T06:03:30.919574+00:00",
-  "date": "2026-10-24",
-  "degraded": false,
+  "generated_at": "2026-10-25T09:02:32.744925+00:00",
+  "date": "2026-10-25",
+  "degraded": true,
   "top_general": {
-    "summary_he": "בחירות 2026 בישראל משפיעות על הדיון הציבורי, כשהימין והשמאל מדגישים סוגיות נבדלות — הימין מתמקד בחוץ (חמאס, חזבאללה, איראן) והשמאל בפנים (חרדים, התיישבות, 7 באוקטובר). ביום זה התרחש פיגוע בחברון שהרג שני חיילים וגרם לשלושה פצועים. בנוסף, ירדן חוותה אירוע ירי בכנסייה שהרג לפחות שישה אנשים.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "6589625036",
-        "title": "1 דקות מגזין בחירות 2026 האויב שבחוץ מול האויב שבבית: כך נראו הקמפיינים בדרך לקלפי בימין מיקדו את הקמפיין באיומים מחמאס, חזבאללה ואיראן; בשמאל הדגישו את החרדים, ההתיישבות ביו\"ש ומחדלי 7 באוקטובר • אושי דרמן מסכם את הקרב על סדר היום זמן קריאה: 1 דקות.",
-        "url": "https://www.i24news.tv/he/news/israel-elections-2026/election-magazine/artc-1e34452b",
+        "id": "07bb85dfb4",
+        "title": "הגוש והמלחמה הבאה",
+        "url": "https://www.ynet.co.il/news/article/yokra14936432",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-24T21:03:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/SkrkWcV3fg/SkrkWcV3fg_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "bb98b96708",
+        "title": "בריטניה נערכת למלחמה: “נותרו מעט יותר מאלף ימים”",
+        "url": "https://www.walla.co.il/news/world/383958769",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-10-25T07:02:51+00:00",
+        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/1/6/1/0/1610692-46.jpg"
+      },
+      {
+        "id": "2ebc713c83",
+        "title": "1 דקות בארץ אירוע חריג: חשוד חטף נשק ממאבטח בי\"ס במרכז ונמלט כוחות משטרת מסובים הגיעו למקום במיידי ופתחו בבדיקת נסיבות האירוע שטרם ידועות • אין נפגעים • המשטרה החלה בסריקות באזור זמן קריאה: 1 דקות.",
+        "url": "https://www.i24news.tv/he/news/news/local/artc-8998504b",
         "source": "i24",
         "source_label": "i24NEWS",
         "source_label_he": "i24NEWS",
         "published_at": null,
-        "image_url": null
+        "image_url": "https://cdn.i24news.tv/uploads/20/7f/79/ad/11/05/9b/c3/49/58/e4/59/77/37/ce/fb/207f79ad11059bc34958e4597737cefb.jpg?width=350"
       },
       {
-        "id": "00a4d675d9",
-        "title": "שני הרוגים ושלושה פצועים מירי ליד חברון; שני המחבלים נורו למוות",
-        "url": "https://www.haaretz.co.il/news/politics/2026-10-23/ty-article/000001a1-670f-d29a-a1a5-e7af1f210000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-10-23T04:43:23+00:00",
-        "image_url": null
+        "id": "b02b4be938",
+        "title": "More than 400,000 protest across France, challenging Macron as clashes erupt in Paris",
+        "url": "https://www.timesofisrael.com/more-than-400000-protest-across-france-challenging-macron-as-clashes-erupt-in-paris/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-10-24T19:00:42+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26297559777844-1024x640.jpg"
       },
       {
-        "id": "6703592624",
-        "title": "ירדן: לפחות 6 הרוגים באירוע ירי בכנסייה בדרום המדינה",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-f273f6f3fb861a1027.htm",
+        "id": "c1edcf64ce",
+        "title": "באיו\"ש ייחרץ  גורל ישראל",
+        "url": "https://www.ynet.co.il/news/article/yokra14936876",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-24T21:00:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/HJHVJs19Gl/HJHVJs19Gl_0_312_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "e00b4348dd",
+        "title": "‘In three days, we can start writing a different story’: Masses at anti-gov’t rally demand Oct. 7 inquiry",
+        "url": "https://www.timesofisrael.com/we-can-start-a-different-story-masses-in-tel-aviv-demand-oct-7-inquiry-days-before-election/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-10-24T20:54:40+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/WhatsApp-Image-2026-10-24-at-21.13.48-1024x640.jpeg"
+      },
+      {
+        "id": "0e8305c329",
+        "title": "דיווח: המהלך החדש שנועד לחנוק כלכלית את איראן",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-d89430b36bd61a1026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-10-23T13:27:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/10/23/162507_autoOrient_i.jpg"
+        "published_at": "2026-10-24T13:30:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/03/18/AP25010430817631_autoOrient_i.jpg"
+      },
+      {
+        "id": "73a00dce5b",
+        "title": "מקורות באיראן מאשרים: יעדי התקיפה שלנו כוללים גם דיפלומטים אמריקאים",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-25/ty-article/000001a1-7182-d27e-abf7-f5cfc7880000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-25T05:30:43+00:00",
+        "image_url": null
       }
     ]
   },
   "security_war": {
-    "summary_he": "הפיגוע החמור בחברון הרג את סמ\"ר רון רויטמן וסמל יובל סוילם. אפשרות לתקיפה ישראלית עומדת בסימן שאלה בעקבות דברי טראמפ. דיווחים מציינים תוכנית של איראן להתנקש בבכירים אמריקנים בחו\"ל.",
-    "headlines": [
-      {
-        "id": "96cf5802e3",
-        "title": "סמ״ר רון רויטמן וסמל יובל סוילם נפלו בפיגוע סמוך לחברון",
-        "url": "https://www.walla.co.il/news/military/383958625",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-10-23T12:18:04+00:00",
-        "image_url": "https://image-resizer-walla.walla.cloud/image/2026/10/4/images/1792758243600_walla-media-picture_1600x900.webp?width=500"
-      },
-      {
-        "id": "0a46482a1d",
-        "title": "\"תיתכן תקיפה בסופ\"ש\": המסרים מכיוון טראמפ - והאיום על טהרן בעימות ממושך",
-        "url": "https://www.ynet.co.il/news/article/hylsjfknfx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-10-23T17:24:11+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/B1dYhOEnzg/B1dYhOEnzg_0_36_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "e049c659a9",
-        "title": "דיווח: איראן מתכננת להתנקש בבכירים אמריקניים בעולם",
-        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21694799",
-        "source": "israel_hayom",
-        "source_label": "ישראל היום",
-        "source_label_he": "ישראל היום",
-        "published_at": null,
-        "image_url": null
-      }
-    ]
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "סקר סקרים חדש בוחן את ההשוואה בין נתניהו לאייזנקוט להרכבת ממשלה. המערכת הפוליטית נמצאת בעיצומם של קמפיינים אינטנסיביים, שלושה שבועות לפני הקלפי.",
-      "headlines": [
-        {
-          "id": "966d50bf3f",
-          "title": "סקר הסקרים: נתניהו או אייזנקוט? למי יש סיכוי גדול יותר להרכיב ממשלה",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001560613",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-10-23T18:41:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/v1777299400/COT_Pic/800_ak1wdk.jpg"
-        },
-        {
-          "id": "201b44d603",
-          "title": "דרושים לנו עוד מנהיגים כמו גנץ",
-          "url": "https://www.ynet.co.il/news/article/sk5sijthgx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-10-23T14:05:04+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/Hk600k0XnGl/Hk600k0XnGl_0_0_882_489_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "נתניהו הציע שימוש בקריפטו כאמצעי נוסף לעמידה בסנקציות אפשריות, בדומה לאיראן וקוריאה הצפונית. מניות השבבים הישראליות ירדו בוול סטריט בעקבות חששות בדבר בינה מלאכותית.",
-      "headlines": [
-        {
-          "id": "af668ef9e7",
-          "title": "נתניהו ירד מהפסים: מציע להתמודד עם סנקציות באמצעות קריפטו כמו איראן",
-          "url": "https://www.themarker.com/news/politics/2026-10-23/ty-article/000001a1-69a2-d29a-a1a5-eba3bb1f0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-23T17:04:36+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-69bf-d34e-a1b9-ffff2c190000/64/4e/9726235e46cc8db2e9746abe1580/876706.jpg?width=108&height=81"
-        },
-        {
-          "id": "bb6336f267",
-          "title": "מאיראן ועד קוריאה הצפונית: הכלכלות שנשענות על שוק הקריפטו",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001560612",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-10-23T18:31:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1686119806/G/AP23155347068385-Ronen_Zvulun_wmnsxf.jpg"
-        },
-        {
-          "id": "f735f9e157",
-          "title": "מניות השבבים הישראליות נפלו בוול סטריט — איך זה ישפיע על המסחר בתל אביב?",
-          "url": "https://www.themarker.com/markets/2026-10-23/ty-article/.premium/000001a1-670c-db3a-a9fb-f7af0bcb0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-23T05:41:21+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-6741-d34e-a1b9-ff4faf900001/bf/1e/0009c06343ffa59507bdc4ffeee3/223011.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "החשש הגלובלי מבינה מלאכותית הפיל את מניות הטכנולוגיה באמריקה והזניק את שוקי האג\"ח. תל אביב חוותה תנודות כלכליות משמעותיות בעקבות השינויים העולמיים.",
-      "headlines": [
-        {
-          "id": "16cd840f29",
-          "title": "החשש העולמי מבינה מלאכותית הפיל את מניות הטכנולוגיה — והזניק את שוק האג\"ח האמריקאי",
-          "url": "https://www.themarker.com/wallstreet/2026-10-23/ty-article/.premium/000001a1-674e-db3a-a9fb-f7ef40d70000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-23T06:51:09+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-676e-d46d-a1fd-e76feead0001/82/7a/202198074591896c20337b1bae58/847477.jpg?width=108&height=81"
-        },
-        {
-          "id": "9a8b8410ea",
-          "title": "\"מרגיש כמו ניו יורק אחרי הקורונה\": המכה החדשה שמשתלטת על מרכז תל אביב",
-          "url": "https://www.ynet.co.il/news/article/r1mwjsl3fl",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-10-23T18:03:53+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/rkS8srv3Gg/rkS8srv3Gg_0_0_850_479_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "כוכבים חדשים מערוצי טלוויזיה וכוכבות מתוכנית \"האח הגדול\" מובילים את טבלת הפופולריות. חברות תיירות פונות לחוויות חדשות כמו \"תיירות אפלה\" המדמה אסון טבע.",
-      "headlines": [
-        {
-          "id": "93110403b6",
-          "title": "כוכב ערוץ 14, יוצאי \"האח הגדול\" ומיליון שקלים על אי בודד: מה חדש בטלוויזיה",
-          "url": "https://www.israelhayom.co.il/culture/tv/article/21687022",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "1454ac5082",
-          "title": "\"תיירות אפלה\": הייתם שורדים אסון טבע? מתקנים חדשים מציעים חוויה אמיתית",
-          "url": "https://www.themarker.com/wallstreet/2026-10-23/ty-article/.premium/000001a1-4e89-d9e4-a1bd-5f89e2970000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-23T05:20:10+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-4f18-d9e4-a1bd-5f18a9800000/5a/ab/db65344b484083985aeeadd9a1bf/835469.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "environment",
-      "label_he": "סביבה ואקלים",
-      "summary_he": "המשרד להגנת הסביבה הפסיק את העבודות במפעל בזן בשל חששות סביבתיים, והעבודות הוקפאו מחדש השבוע.",
-      "headlines": [
-        {
-          "id": "2010a99fc6",
-          "title": "המשרד להגנת הסביבה שוב עצר את העבודות בבזן - אף שהן חודשו השבוע",
-          "url": "https://www.themarker.com/news/energy/2026-10-23/ty-article/000001a1-6851-d29a-a1a5-eaf3c63a0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-23T10:40:07+00:00",
-          "image_url": "https://img.haarets.co.il/bs/00000197-7dbd-d717-a1df-fffd9c380000/54/46/0fcf74a04981a15315086f8aa2c5/815285-2.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "שוק הנדל\"ן חווה תנודות משמעותיות, עם אנשי עסקים בולטים המוותרים על דירות יוקרתיות. חברות השקעות גדולות מבצעות עסקאות משמעותיות בתחום הנדל\"ן.",
-      "headlines": [
-        {
-          "id": "548ec2a0d0",
-          "title": "למה נתן חץ ודנה עזריאלי ויתרו על דירות במגדלים הכי נוצצים?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001560506",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-10-23T10:28:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1768490344/COT_Pic/shutterstock_2323191991-_1_zqd0lf.jpg"
-        },
-        {
-          "id": "304020956d",
-          "title": "פימי מציעה לרכוש 50% ממיטרוניקס ב-200 מיליון שקל בלבד, ולהגדיל השקעה בהמשך",
-          "url": "https://www.themarker.com/markets/2026-10-23/ty-article/.premium/000001a1-6758-d6e1-abb7-77ded4230000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-23T06:13:39+00:00",
-          "image_url": "https://img.haarets.co.il/bs/0000017f-ea30-d639-af7f-ebf7b62f0000/de/cc/c85e9290b50e7cb31348f7f7d7ec/2201650294.jpg?width=108&height=81"
-        }
-      ]
-    }
-  ],
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -254,192 +110,182 @@
   "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israel is facing intensified military operations and political tensions. The Israeli military has entered West Bank cities and is demolishing Palestinian buildings in Hebron in response to the deaths of two soldiers—operations described as unprecedented since the Six-Day War—while Prime Minister Netanyahu has demanded a complete blockade of the region. Domestically, Israel is preparing for national elections amid political division. In addition, international powers are warning against further military strikes on Iran, and antisemitic violence targeting Jewish communities worldwide, including a stabbing incident in New York, underscores ongoing security concerns for the diaspora.",
+      "summary_en": "Israel is preparing for elections with heightened security measures, including the closure of West Bank crossings on election day. The military is conducting operations in Hebron that have displaced families from their homes. The election campaign has also highlighted deep political divisions over military service obligations, a contentious issue that could significantly influence the outcome.",
       "headlines": [
         {
-          "id": "4eac8a5207",
-          "title": "Israeli-Palestinian conflict LIVEBLOG: Netanyahu demands 'complete blockade' of occupied West Bank following deadly shooting in Hebron",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/netanyahu-eist-volledige-blokkade-van-de-bezette-westelijke-jo~1787143375321/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/23/5cb3449b-ca7a-49c2-9e32-131463a69f08.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "a4be803b24",
-          "title": "Live - Israeli military enters cities on West Bank: 'Not seen since Six-Day War'",
-          "url": "https://www.demorgen.be/snelnieuws/live-israelisch-leger-valt-steden-op-westelijke-jordaanoever-binnen-niet-meer-gezien-sinds-zesdaagse-oorlog~ba7f8873/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-23T23:30:00+00:00",
-          "image_url": "https://image.demorgen.be/279437010/roi/320/320/691.1999999999999/529.2/afbeelding"
-        },
-        {
-          "id": "37a7894265",
-          "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
-          "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+          "id": "77413990db",
+          "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+          "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-10-24T05:00:24+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/27cc759533b8f9f2e3ae4c0fb41773150fc0ecaa/0_900_4000_3200/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=ef253f6da733ce1d5ba0d2472f70b744"
+          "published_at": "2026-10-25T06:24:46+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/070c0491a86f1916db6f7b08a147bb7b4fa7f848/458_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=8d181b09b713f6179e6102ffce648ec9"
         },
         {
-          "id": "7718246191",
-          "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+          "id": "267b41a819",
+          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-10-23T15:37:07+00:00",
+          "published_at": "2026-10-25T05:15:52+00:00",
           "image_url": null
         },
         {
-          "id": "034c3ab091",
-          "title": "A Chabad Jew was stabbed in NYC. He returned the next day to continue wrapping tefillin.",
-          "url": "https://www.jta.org/2026/10/23/ny/a-chabad-jew-was-stabbed-in-nyc-he-returned-the-next-day-to-continue-wrapping-tefillin",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-23T22:31:34+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/Shmuel-Cohen-Diamond-District.jpg"
+          "id": "911f8718a9",
+          "title": "Israel closes West Bank on election day Tuesday",
+          "url": "https://www.demorgen.be/snelnieuws/live-israel-sluit-dinsdag-alle-grensovergangen-van-en-naar-westelijke-jordaanoever~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-25T04:07:00+00:00",
+          "image_url": "https://image.demorgen.be/279494810/roi/320/320/691.1999999999999/529.2/afbeelding"
         },
         {
-          "id": "29b110fe8d",
-          "title": "US and Israel are warned against launching fresh strikes on Iran",
-          "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-23T17:18:34+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/6ac9cf9fbfcf811f0a3f36368ba9e219fcb7b7de/367_0_2560_2048/master/2560.jpg?width=700&quality=85&auto=format&fit=max&s=ef126ef3d7f3ce9ea66064383a8a8751"
+          "id": "7b01f4c967",
+          "title": "The bitter row over military service that could shape Israel's future",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-24T23:03:21+00:00",
+          "image_url": null
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium's economic stability has been maintained, as the credit rating agency S&P kept the country's credit score steady, though the government faces expected delays in budget negotiations. Flanders continues its housing expansion, with over 1 million apartments now registered and the number still growing. The region is currently grappling with severe weather as Storm Austen brings heavy rain and wind gusts of up to 85 km/h, causing widespread damage across Flanders. Meanwhile, Flemish citizens face mounting pressure from expensive nursing home care costs that strain family finances.",
+      "summary_en": "Belgium is experiencing severe weather from Storm Boelo, which has triggered yellow-code warnings for powerful winds along the coast throughout the day. Global oil prices have reached their highest level since April, significantly affecting both fuel prices at the pump and grocery costs for Belgian consumers.",
       "headlines": [
         {
-          "id": "20c439a2b0",
-          "title": "Politics LIVEBLOG: Rating agency S&P maintains Belgium's credit score, but expects another budget delay",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/ratingbureau-sp-behoudt-kredietscore-van-belgie-maar-verwacht-~1790599460224/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/04/24/355c2563-1bc8-4eb3-b992-b95297bbc590.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "310548130f",
-          "title": "Flanders now has more than 1 million apartments and there are still more coming: discover here how many have been added in your municipality",
-          "url": "https://www.hln.be/vastgoed/vlaanderen-telt-nu-meer-dan-1-miljoen-appartementen-en-het-worden-er-nog-meer-ontdek-hier-hoeveel-er-in-jouw-gemeente-zijn-bijgekomen~ab12c556/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-10-24T05:00:00+00:00",
-          "image_url": "https://images.hln.be/NmVhMWI5MzgxZTZkYTllNWI0M2UvZGlvLzI3OTM5NDcwNi9maXQtd2lkdGgvNDAw/woningtypes"
+          "id": "9f5410997f",
+          "title": "Live - Storm Boelo: yellow code warning for strong wind at coast throughout the day",
+          "url": "https://www.demorgen.be/nieuws/live-storm-boelo-nog-hele-dag-code-geel-voor-krachtige-wind-aan-de-kust~b081cc46/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-25T06:36:00+00:00",
+          "image_url": "https://image.demorgen.be/279473194/feature-crop/320/320/afbeelding"
         },
         {
           "id": "6d1175db16",
-          "title": "Again fierce rain and wind gusts up to 85 km/h this evening - Storm Austen causes damage across all of Flanders",
+          "title": "Winter time begins particularly turbulent due to storm Boelo: yellow code warning for strong wind at coast throughout the day",
           "url": "https://www.hln.be/weernieuws/weerbericht~ac484c3e/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-10-24T04:13:00+00:00",
-          "image_url": "https://images.hln.be/YWE3NjU1ZmM4ODVhNDM5M2U1NjIvZGlvLzI3OTQ1NDc2OS9maXQtd2lkdGgvNDAw/sonja-en-patrick-zien-dak-en-stellingen-in-voortuin-belanden-het-had-ook-anders-kunnen-aflopen"
+          "published_at": "2026-10-25T05:49:00+00:00",
+          "image_url": "https://images.hln.be/OTYzZWI2ZDJjNDgxOGRhM2U2NDIvZGlvLzI3OTUxMzYzMS9maXQtd2lkdGgvNDAw/storm-op-de-belgische-kust-nieuwpoort-tempete-sur-la-cote-belge-nieuport-13-1-2017-pict-by-philip-reynaers-photo-news"
         },
         {
-          "id": "1eae1ef7bb",
-          "title": "Four Flemish people on how difficult it is to pay expensive nursing home bills: 'I'll have myself disinherited. Then the public welfare board can't claim costs from me'",
-          "url": "https://www.hln.be/binnenland/vier-vlamingen-over-hoe-zwaar-het-is-om-peperdure-rusthuisfactuur-te-betalen-ik-ga-me-laten-onterven-dan-kan-het-ocmw-de-kosten-niet-meer-op-mij-verhalen~af46a8bd/",
+          "id": "d6b6cffa9a",
+          "title": "Not only bad for your gas tank, but also your groceries: oil price at highest level since April",
+          "url": "https://www.hln.be/binnenland/niet-alleen-slecht-voor-je-tankbeurt-maar-ook-je-boodschappen-olieprijs-op-hoogste-niveau-sinds-april~a5b328fa/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-10-24T04:00:00+00:00",
-          "image_url": "https://images.hln.be/ZTJiODJjODg4MTUzZGU2YTg2ZjMvZGlvLzI3OTQ0NTY1MC9maXQtd2lkdGgvNDAw/rusthuis"
+          "published_at": "2026-10-25T06:00:00+00:00",
+          "image_url": "https://images.hln.be/ZTA1NjZlNmUxMjRkNDkxM2ExMDAvZGlvLzI3OTQ4MTEyMy9maXQtd2lkdGgvNDAw/kopfoto-tanken"
         }
       ]
     },
     "europe": {
-      "summary_en": "Europe is experiencing heightened security concerns, as France deploys 70,000 police officers to prevent civil unrest following a shooting incident in Trappes that authorities are investigating as a racist terror attack. In Germany, a major fire has occurred at Hitler's Eagle's Nest historical site, and a suspect has been arrested. Britain is also preparing for potential crisis by advising citizens to build emergency supply stockpiles amid broader European tensions.",
+      "summary_en": "Europe is facing multiple concurrent crises: Storm Boelo has disrupted travel and led to cancelled events in the UK, while France has seen major mass protests, with nearly 1,000 arrests reported following clashes over schools and policing. In Eastern Europe, Ukraine continues military operations against Russian targets, including strikes on Belgorod, intensifying the conflict, while tensions escalate over Ukraine's reliance on Starlink, which Elon Musk alleges has been misused for military purposes. In Portugal, Lisbon police have evacuated a tent encampment set up as part of a housing rights protest movement.",
       "headlines": [
         {
-          "id": "0c47cd46d5",
-          "title": "Germany: Major fire at Hitler's Eagle's Nest, police arrest suspect",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/grote-brand-in-voormalig-theehuis-van-hitler-politie-pakt-verda/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/24/fd439b16-7fb8-45d5-82b0-40b34f42d2b6.png?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "94a6e531ea",
-          "title": "France: Police investigate shooting in Trappes as racist terror attack: 'Turning point for France'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/schietpartij-in-trappes-bij-parijs-een-dode-en-vier-gewonden0/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/23/c01ae658-c525-44df-88d0-7792253f564d.jpg?width=200&height=125&q=80&blur=90"
-        },
-        {
-          "id": "9436a73cec",
-          "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
-          "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
+          "id": "65d78514c7",
+          "title": "Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-10-24T05:46:58+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/b6ac2b9c5241141a833ecef0b1e0772c1adb957a/458_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=0ea63c5c6b3fc4dc2728e755b1e0235e"
+          "published_at": "2026-10-24T22:40:08+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/e74a18fb3f5eb4f9cbf2c1d5fd48da3858c91d1b/376_0_4877_3903/master/4877.jpg?width=700&quality=85&auto=format&fit=max&s=ca81a68ead7a0f595ae3d7e477c72cae"
         },
         {
-          "id": "5d48a687e1",
-          "title": "Build emergency supplies, the British government tells citizens – wine is not necessary",
-          "url": "https://www.demorgen.be/nieuws/leg-een-noodvoorraad-aan-krijgen-britten-te-horen-van-hun-regering-wijn-is-niet-noodzakelijk~bf95e40e/",
+          "id": "0a5bd0ce69",
+          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-25T04:16:52+00:00",
+          "image_url": null
+        },
+        {
+          "id": "bdfb2f60d9",
+          "title": "Live - Ukraine hits Russian Belgorod: 1 dead and 14 wounded • Musk: Kyiv 'used Starlink for deadly attacks on people and violated conditions'",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-oekraine-treft-russische-belgorod-1-dode-en-14-gewonden-musk-kiev-gebruikte-starlink-voor-dodelijke-aanvallen-op-mensen-en-schond-voorwaarden~b38bed0a/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-10-24T05:00:49+00:00",
-          "image_url": "https://image.demorgen.be/278305543/feature-crop/320/320/afbeelding"
+          "published_at": "2026-10-25T08:20:00+00:00",
+          "image_url": "https://image.demorgen.be/279433638/roi/320/320/2416.74/1439.76/afbeelding"
+        },
+        {
+          "id": "0727109e51",
+          "title": "Lisbon police evacuates housing protest tent camp",
+          "url": "https://www.demorgen.be/snelnieuws/politie-lissabon-ontruimt-tentenkamp-woonprotest~b5cd9272/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-25T04:49:00+00:00",
+          "image_url": "https://image.demorgen.be/279512001/feature-crop/320/320/afbeelding"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Global tensions continue across multiple regions. The United States is experiencing political turmoil as former President Trump files lawsuits challenging election results, particularly in Alaska during mid-term voting. In Eastern Europe, the Ukraine-Russia war persists, with reports indicating that Melania Trump is helping negotiate a temporary ceasefire in a heavily affected Ukrainian village. The Middle East remains unstable, with drone and rocket fire from Yemen being intercepted over Saudi Arabia's capital.",
+      "summary_en": "Major global developments include explosions at Riyadh airport in Saudi Arabia coinciding with its reopening, and Iran conducting drone attacks in Iraqi Kurdistan. Brazil is holding a presidential runoff election between leftist incumbent Lula and far-right former president Bolsonaro. In the United States, midterm elections are underway, with former president Trump voting early while facing criticism from Barack Obama over the rising cost of living. Additionally, gunmen have attacked villages in northeastern Nigeria, killing at least 10 people and looting shops, and an unusually large multi-state storm is affecting Australia's east coast.",
       "headlines": [
         {
-          "id": "8d6aeb3e8b",
-          "title": "Middle East War LIVEBLOG: Drone and rocket from Yemen intercepted above Saudi Arabia's capital",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/drone-en-raket-uit-jemen-onderschept-boven-hoofdstad-van-saudia~1784611610051/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/24/ace25c9b-ef5b-47d5-99ef-eedd8486b4f1.jpg?width=200&height=125&q=80&blur=90"
+          "id": "e53e9064cc",
+          "title": "Live - Explosions at Riyadh airport just before reopening • Iran conducts drone attack in Iraqi Kurdistan",
+          "url": "https://www.demorgen.be/snelnieuws/live-explosies-op-vliegveld-riyad-vlak-voor-heropening-iran-voert-droneaanval-uit-in-iraaks-koerdistan~be9c4f82/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-25T08:34:00+00:00",
+          "image_url": "https://image.demorgen.be/279436793/roi/320/320/2805/1918.28/afbeelding"
         },
         {
-          "id": "17966cf776",
-          "title": "US mid-term elections LIVEBLOG: Trump already filing lawsuit to block election result in Alaska if Republican loses",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/trump-spant-nu-al-rechtszaak-aan-om-verkiezingsuitslag-in-alaska~1792770744209/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/23/973e0bc4-da45-40ca-b51d-c8b39b09e2e0.jpg?width=200&height=125&q=80&blur=90"
+          "id": "170a772b9f",
+          "title": "'Unusually large' multi-state storm causing severe weather for Australia's east – with more on the way",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-25T05:30:30+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/bd77552df3d7c33d1c98eae539477a7f6e2cb755/527_0_5343_4273/master/5343.jpg?width=700&quality=85&auto=format&fit=max&s=dc9afab519c94eeb0c8675a00ad4bd17"
         },
         {
-          "id": "440a8fab52",
-          "title": "Ukraine-Russia War LIVEBLOG: Melania Trump helps negotiate temporary ceasefire in heavily affected village in Ukraine, claims White House",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/melania-trump-helpt-tijdelijk-bestand-in-zwaargetroffen-dorpje-i~1789060001669/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/23/5d89c834-8984-4ec5-8f6f-1e9457bc028b.jpg?width=200&height=125&q=80&blur=90"
+          "id": "17bbb9e07e",
+          "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+          "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-25T08:00:58+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/d1353a7e5254aa2f3a8330bdb3468e28a934e47d/391_195_3258_2605/master/3258.jpg?width=700&quality=85&auto=format&fit=max&s=d21fb23ff0b950bc3800398d0c0f6ec6"
+        },
+        {
+          "id": "736d30c6ea",
+          "title": "Live - Trump casts early vote for midterms • Obama blames Trump for rising cost of living",
+          "url": "https://www.demorgen.be/snelnieuws/live-trump-brengt-vervroegd-stem-uit-voor-midterms~b13cc951/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-25T06:05:00+00:00",
+          "image_url": "https://image.demorgen.be/279501759/roi/320/320/3180/1640.4099999999999/afbeelding"
+        },
+        {
+          "id": "d3e62867a4",
+          "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-25T03:20:16+00:00",
+          "image_url": null
         }
       ]
     },
