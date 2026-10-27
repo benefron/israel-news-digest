@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-10-25T09:02:32.744925+00:00",
-  "date": "2026-10-25",
+  "generated_at": "2026-10-27T17:58:08.071628+00:00",
+  "date": "2026-10-27",
   "degraded": true,
   "top_general": {
     "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "07bb85dfb4",
-        "title": "הגוש והמלחמה הבאה",
-        "url": "https://www.ynet.co.il/news/article/yokra14936432",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-10-24T21:03:00+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/SkrkWcV3fg/SkrkWcV3fg_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "bb98b96708",
-        "title": "בריטניה נערכת למלחמה: “נותרו מעט יותר מאלף ימים”",
-        "url": "https://www.walla.co.il/news/world/383958769",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-10-25T07:02:51+00:00",
-        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/1/6/1/0/1610692-46.jpg"
-      },
-      {
-        "id": "2ebc713c83",
-        "title": "1 דקות בארץ אירוע חריג: חשוד חטף נשק ממאבטח בי\"ס במרכז ונמלט כוחות משטרת מסובים הגיעו למקום במיידי ופתחו בבדיקת נסיבות האירוע שטרם ידועות • אין נפגעים • המשטרה החלה בסריקות באזור זמן קריאה: 1 דקות.",
-        "url": "https://www.i24news.tv/he/news/news/local/artc-8998504b",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": "https://cdn.i24news.tv/uploads/20/7f/79/ad/11/05/9b/c3/49/58/e4/59/77/37/ce/fb/207f79ad11059bc34958e4597737cefb.jpg?width=350"
-      },
-      {
-        "id": "b02b4be938",
-        "title": "More than 400,000 protest across France, challenging Macron as clashes erupt in Paris",
-        "url": "https://www.timesofisrael.com/more-than-400000-protest-across-france-challenging-macron-as-clashes-erupt-in-paris/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-10-24T19:00:42+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26297559777844-1024x640.jpg"
-      },
-      {
-        "id": "c1edcf64ce",
-        "title": "באיו\"ש ייחרץ  גורל ישראל",
-        "url": "https://www.ynet.co.il/news/article/yokra14936876",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-10-24T21:00:00+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/HJHVJs19Gl/HJHVJs19Gl_0_312_3000_1689_0_medium.jpg"
-      },
-      {
-        "id": "e00b4348dd",
-        "title": "‘In three days, we can start writing a different story’: Masses at anti-gov’t rally demand Oct. 7 inquiry",
-        "url": "https://www.timesofisrael.com/we-can-start-a-different-story-masses-in-tel-aviv-demand-oct-7-inquiry-days-before-election/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-10-24T20:54:40+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/WhatsApp-Image-2026-10-24-at-21.13.48-1024x640.jpeg"
-      },
-      {
-        "id": "0e8305c329",
-        "title": "דיווח: המהלך החדש שנועד לחנוק כלכלית את איראן",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-d89430b36bd61a1026.htm",
+        "id": "279e59b959",
+        "title": "דיווח: ארה\"ב ערוכה לתקוף באיראן בתוך 96 שעות, ביחד עם ישראל",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-26c816ca53771a1027.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-10-24T13:30:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/03/18/AP25010430817631_autoOrient_i.jpg"
+        "published_at": "2026-10-26T07:57:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/01/n20-0108-ibud-ibud-1-1_autoOrient_i.jpg"
       },
       {
-        "id": "73a00dce5b",
-        "title": "מקורות באיראן מאשרים: יעדי התקיפה שלנו כוללים גם דיפלומטים אמריקאים",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-25/ty-article/000001a1-7182-d27e-abf7-f5cfc7880000",
+        "id": "4aecc065e0",
+        "title": "פגישה מרובעת בטהראן: בכירים מסעודיה, טורקיה ופקיסטן ייפגשו עם הנהגת איראן בניסיון לבלום את ההסלמה",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-66315efeb1871a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-26T12:17:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/19/riad19091_autoOrient_i.jpg"
+      },
+      {
+        "id": "0307cb4d82",
+        "title": "דיווח: חיזבאללה קיבל עשרות מיליוני דולרים מאיראן ונערך לחידוש הלחימה מול ישראל",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-cac4f22c5b871a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-26T15:04:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/04/15/AP23141466669919_autoOrient_i.jpg"
+      },
+      {
+        "id": "83c5ec0390",
+        "title": "צבא ירדן תקף בדרום סוריה בתגובה לפיגוע בכנסייה; לפי דיווח סורי, חמישה אזרחים נהרגו",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-26/ty-article/.premium/000001a1-79ae-db0e-a7e7-ffef6dd30000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-10-25T05:30:43+00:00",
+        "published_at": "2026-10-26T19:27:17+00:00",
         "image_url": null
+      },
+      {
+        "id": "044a433b0c",
+        "title": "סוד ההצלחה של נתניהו הוא המלחמה על החיים. כעת גם בגוש השינוי מבינים זאת",
+        "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/.premium/000001a1-79ce-db0e-a7e7-ffcf03120000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-27T04:02:17+00:00",
+        "image_url": null
+      },
+      {
+        "id": "6090d18f64",
+        "title": "כדי להשתלט על הכלכלה — איזנקוט יצטרך להתחיל מהביטחון",
+        "url": "https://www.themarker.com/news/elections/2026-10-27/ty-article-magazine/.premium/000001a1-7806-d682-a7af-78265e180000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-10-27T04:12:33+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-7832-dfb9-a5a9-fa3795260001/fd/21/1798a83a412090af9e7f35bd293a/931567.jpg?width=108&height=81"
+      },
+      {
+        "id": "60690ec95a",
+        "title": "נפגעי 7.10 בכיכר החטופים: יקירינו לא יצביעו היום, תזכרו אותם בקלפי",
+        "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/000001a1-7b9f-d3e6-a9ff-7bffe87c0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-27T04:35:43+00:00",
+        "image_url": null
+      },
+      {
+        "id": "3ede5fd4e0",
+        "title": "וינטר קורא להגירה מעזה ולגיוס חרדים. הוא גם עשוי לסלול את הדרך למהפך פוליטי",
+        "url": "https://www.themarker.com/news/elections/2026-10-27/ty-article/.premium/000001a1-7860-d222-a3e3-7f68ba170000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-10-27T05:15:11+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-78bd-dfb9-a5a9-fabdaae60000/c3/70/c5460b54431091bf272c06ab033c/ofer-pnimi.jpg?width=108&height=81"
       }
     ]
   },
@@ -110,181 +110,221 @@
   "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israel is preparing for elections with heightened security measures, including the closure of West Bank crossings on election day. The military is conducting operations in Hebron that have displaced families from their homes. The election campaign has also highlighted deep political divisions over military service obligations, a contentious issue that could significantly influence the outcome.",
+      "summary_en": "Israelis went to the polls in a pivotal election characterized as existential for the country's democratic future. The election drew record-breaking turnout, the highest since 1973, reflecting deep engagement with the ballot. Prime Minister Netanyahu's political fate and broader implications for the Gaza conflict and regional stability remain central concerns. The vote represents a consequential moment for Israel's direction and democratic institutions.",
       "headlines": [
         {
-          "id": "77413990db",
-          "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-          "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-25T06:24:46+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/070c0491a86f1916db6f7b08a147bb7b4fa7f848/458_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=8d181b09b713f6179e6102ffce648ec9"
+          "id": "65499fc6f3",
+          "title": "Israel Elections: Netanyahu's party requests extended voting station hours amid record voter turnout",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/partij-van-premier-netanyahu-vraagt-om-stembureaus-langer-open-t~1793076564841/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/27/6208d695-8c2c-48b5-a7d1-e0956bf223f3.jpg?width=200&height=125&q=80&blur=90"
         },
         {
-          "id": "267b41a819",
-          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-10-25T05:15:52+00:00",
-          "image_url": null
-        },
-        {
-          "id": "911f8718a9",
-          "title": "Israel closes West Bank on election day Tuesday",
-          "url": "https://www.demorgen.be/snelnieuws/live-israel-sluit-dinsdag-alle-grensovergangen-van-en-naar-westelijke-jordaanoever~ba7f8873/",
+          "id": "420d529c56",
+          "title": "Israel's voter turnout reaches highest level since 1973; Israeli media: Likud will contest results if Netanyahu loses",
+          "url": "https://www.demorgen.be/snelnieuws/live-opkomst-israel-tot-nu-toe-op-hoogste-niveau-sinds-1973-netanyahu-arabische-partijen-proberen-de-verkiezingen-te-stelen~ba7f8873/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-10-25T04:07:00+00:00",
-          "image_url": "https://image.demorgen.be/279494810/roi/320/320/691.1999999999999/529.2/afbeelding"
+          "published_at": "2026-10-27T14:33:00+00:00",
+          "image_url": "https://image.demorgen.be/279599727/roi/320/320/691.1999999999999/529.2/afbeelding"
         },
         {
-          "id": "7b01f4c967",
-          "title": "The bitter row over military service that could shape Israel's future",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+          "id": "bd5f97a209",
+          "title": "What does Israel's election mean for Gaza and the wider world?",
+          "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-10-24T23:03:21+00:00",
+          "published_at": "2026-10-27T10:17:36+00:00",
+          "image_url": null
+        },
+        {
+          "id": "8f7d6d58c6",
+          "title": "Israel's soul at stake in election: concerns over democracy and Netanyahu's political future",
+          "url": "https://www.demorgen.be/nieuws/de-ziel-van-israel-staat-op-het-spel-tijdens-deze-verkiezingen-zolang-netanyahu-maar-niet-wint-dan-is-het-gedaan-met-onze-democratie~bfa5a15c/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-27T07:09:00+00:00",
+          "image_url": "https://image.demorgen.be/279562980/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "53b3e79491",
+          "title": "Why it could take time for a new Israeli government to form",
+          "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-27T08:37:30+00:00",
           "image_url": null
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium is experiencing severe weather from Storm Boelo, which has triggered yellow-code warnings for powerful winds along the coast throughout the day. Global oil prices have reached their highest level since April, significantly affecting both fuel prices at the pump and grocery costs for Belgian consumers.",
+      "summary_en": "Belgium faces multiple serious institutional and justice challenges. A dentist in Wilrijk has been sentenced to seven years in prison for sexually abusing dozens of patients over an extended period. A government intelligence case continues, with the i-Police unit under investigation and spokespersons suspected of leaking confidential information. The media sector faces significant pressure, with Mediahuis Belgium announcing collective dismissals affecting 35 positions due to rising operational costs and declining advertising revenue. Budget negotiations remain ongoing as the government addresses mounting fiscal pressures.",
       "headlines": [
         {
-          "id": "9f5410997f",
-          "title": "Live - Storm Boelo: yellow code warning for strong wind at coast throughout the day",
-          "url": "https://www.demorgen.be/nieuws/live-storm-boelo-nog-hele-dag-code-geel-voor-krachtige-wind-aan-de-kust~b081cc46/",
+          "id": "2f2db1ecd9",
+          "title": "Dentist (72) sentenced to seven years for systematic abuse of dozens of patients",
+          "url": "https://www.demorgen.be/nieuws/tandarts-72-met-keelfetisj-veroordeeld-tot-zeven-jaar-cel-voor-misbruik-van-tientallen-patienten~bf67b3d8/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-10-25T06:36:00+00:00",
-          "image_url": "https://image.demorgen.be/279473194/feature-crop/320/320/afbeelding"
+          "published_at": "2026-10-27T11:00:00+00:00",
+          "image_url": "https://image.demorgen.be/279596402/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "6d1175db16",
-          "title": "Winter time begins particularly turbulent due to storm Boelo: yellow code warning for strong wind at coast throughout the day",
-          "url": "https://www.hln.be/weernieuws/weerbericht~ac484c3e/",
+          "id": "929fefc451",
+          "title": "Spokespersons of minister Verlinden and prosecutor's office suspected after leaks in i-Police case",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/27/woordvoerder-verlinden-in-verdenking-gesteld-na-lekken-in-zaak-r/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/03/19/c13d09c0-1de4-4fca-a076-f6066eb770b5.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "6390b6f862",
+          "title": "Collective dismissals at Mediahuis Belgium: 35 jobs threatened amid rising costs and lower advertising revenue",
+          "url": "https://www.demorgen.be/nieuws/collectief-ontslag-bij-mediahuis-uitgever-van-onder-meer-nieuwsblad-en-de-standaard-35-jobs-bedreigd~be921958/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-27T11:19:00+00:00",
+          "image_url": "https://image.demorgen.be/256172625/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "c617c7124b",
+          "title": "Prime Minister De Wever and vice-premiers address budget challenges again Wednesday",
+          "url": "https://www.hln.be/binnenland/premier-de-wever-en-vicepremiers-buigen-zich-woensdag-opnieuw-over-begroting~a9cb0fe2/",
           "source": "hln",
           "source_label": "HLN",
           "source_label_en": "HLN",
-          "published_at": "2026-10-25T05:49:00+00:00",
-          "image_url": "https://images.hln.be/OTYzZWI2ZDJjNDgxOGRhM2U2NDIvZGlvLzI3OTUxMzYzMS9maXQtd2lkdGgvNDAw/storm-op-de-belgische-kust-nieuwpoort-tempete-sur-la-cote-belge-nieuport-13-1-2017-pict-by-philip-reynaers-photo-news"
+          "published_at": "2026-10-27T15:51:00+00:00",
+          "image_url": "https://images.hln.be/MDk0OGZkZjIxN2RhYWUyNDg5MjMvZGlvLzI3OTM1ODU5OS9maXQtd2lkdGgvNDAw/brussels-belgium-october-21-bart-de-wever-n-va-prime-minister-of-federal-government-pictured-during-question-time-on-his-postponed-state-of-the-union-addresson-october-21-2026-in-brussels-belgium-21-10-2026-photo-by-philip-reynaers-photonews"
         },
         {
-          "id": "d6b6cffa9a",
-          "title": "Not only bad for your gas tank, but also your groceries: oil price at highest level since April",
-          "url": "https://www.hln.be/binnenland/niet-alleen-slecht-voor-je-tankbeurt-maar-ook-je-boodschappen-olieprijs-op-hoogste-niveau-sinds-april~a5b328fa/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-10-25T06:00:00+00:00",
-          "image_url": "https://images.hln.be/ZTA1NjZlNmUxMjRkNDkxM2ExMDAvZGlvLzI3OTQ4MTEyMy9maXQtd2lkdGgvNDAw/kopfoto-tanken"
+          "id": "833f0d486f",
+          "title": "Belgian richest 0.1% emit 22 times more CO₂ than poorest half of population",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/27/oxfam-rijk-arm-uitstoot/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/27/734b302a-2208-46a6-a1b8-0dab2b2935ad.jpg?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "europe": {
-      "summary_en": "Europe is facing multiple concurrent crises: Storm Boelo has disrupted travel and led to cancelled events in the UK, while France has seen major mass protests, with nearly 1,000 arrests reported following clashes over schools and policing. In Eastern Europe, Ukraine continues military operations against Russian targets, including strikes on Belgorod, intensifying the conflict, while tensions escalate over Ukraine's reliance on Starlink, which Elon Musk alleges has been misused for military purposes. In Portugal, Lisbon police have evacuated a tent encampment set up as part of a housing rights protest movement.",
+      "summary_en": "The war in Ukraine continues, with Russia striking critical infrastructure, including an important bridge in Kyiv, while diplomatic tensions rise over peace negotiation efforts by Finnish and Norwegian leaders meeting with Vladimir Putin. The European Union is expanding Frontex's enforcement powers to increase deportation operations across borders and monitor migration-related social media activity. The Netherlands is withdrawing from the Eurovision Song Contest, while the EU advances new climate-resilience legislation designed to protect against mounting environmental threats. Serbia's public broadcaster has apologized for institutional bias in its news coverage.",
       "headlines": [
         {
-          "id": "65d78514c7",
-          "title": "Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-24T22:40:08+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/e74a18fb3f5eb4f9cbf2c1d5fd48da3858c91d1b/376_0_4877_3903/master/4877.jpg?width=700&quality=85&auto=format&fit=max&s=ca81a68ead7a0f595ae3d7e477c72cae"
+          "id": "a8fa097ebf",
+          "title": "Important bridge in Kyiv hit by Russian strike, university building damaged; Denmark expresses concern over Finnish-Norwegian peace talks with Putin",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-belangrijke-brug-in-kiev-getroffen-door-russische-aanval-ook-universiteitsgebouw-geraakt-poetin-plant-telefoongesprek-met-noorse-premier-en-finse-president~b38bed0a/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-27T13:41:00+00:00",
+          "image_url": "https://image.demorgen.be/279588865/roi/320/320/2416.74/1439.76/afbeelding"
         },
         {
-          "id": "0a5bd0ce69",
-          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-10-25T04:16:52+00:00",
+          "id": "759de9d41e",
+          "title": "EU wants to give Frontex larger role in return policy: 'Carry out operations from third country to another'",
+          "url": "https://www.hln.be/binnenland/eu-wil-frontex-grotere-rol-geven-in-terugkeerbeleid-terugkeeroperaties-uitvoeren-van-derde-land-naar-ander-derde-land~aefe6554/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-27T16:07:26+00:00",
+          "image_url": "https://images.hln.be/YTkxZDhkODY3MDhhYmUxYTgxNTIvZGlvLzI0MTE3NDMyMC9maXQtd2lkdGgvNDAw/european-border-and-coast-guard-agency-frontex-director-hans-leijtens-c-speaks-to-members-of-european-border-and-coast-guard-agency-frontex-from-germany-and-greece-along-the-border-fence-at-the-bulgaria-turkey-border-near-the-village-of-kapitan-andreevo-on-february-29-2024-frontex-will-increase-its-employees-at-the-bulgarian-border-with-turkey-from-150-to-500-600-people-according-to-the-interior-minister-stoyanov-photo-by-nikolay-doychinov-afp"
+        },
+        {
+          "id": "6c787ca08b",
+          "title": "Netherlands ultimately will not participate in Eurovision Song Contest",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/27/nederland-doet-uiteindelijk-dan-toch-niet-mee-aan-het-eurovisies/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/27/19d39c3a-13e6-4f99-a9cf-8f959c88e665.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "9f15affea7",
+          "title": "EU prepares for a grim future with new climate-proofing law",
+          "url": "https://www.politico.eu/article/eu-prepare-future-new-climate-proofing-law/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-27T14:30:45+00:00",
           "image_url": null
         },
         {
-          "id": "bdfb2f60d9",
-          "title": "Live - Ukraine hits Russian Belgorod: 1 dead and 14 wounded • Musk: Kyiv 'used Starlink for deadly attacks on people and violated conditions'",
-          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-oekraine-treft-russische-belgorod-1-dode-en-14-gewonden-musk-kiev-gebruikte-starlink-voor-dodelijke-aanvallen-op-mensen-en-schond-voorwaarden~b38bed0a/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-25T08:20:00+00:00",
-          "image_url": "https://image.demorgen.be/279433638/roi/320/320/2416.74/1439.76/afbeelding"
-        },
-        {
-          "id": "0727109e51",
-          "title": "Lisbon police evacuates housing protest tent camp",
-          "url": "https://www.demorgen.be/snelnieuws/politie-lissabon-ontruimt-tentenkamp-woonprotest~b5cd9272/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-10-25T04:49:00+00:00",
-          "image_url": "https://image.demorgen.be/279512001/feature-crop/320/320/afbeelding"
+          "id": "d23f6bfe88",
+          "title": "Serbia's public broadcaster apologizes for bias: 'We covered up problems'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/27/servische-openbare-omroep-excuses-partijdigheid/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/27/27c9a8fc-6d16-43be-a2da-2ef13b8bbe0b.png?width=200&height=125&q=80&blur=90"
         }
       ]
     },
     "world_top": {
-      "summary_en": "Major global developments include explosions at Riyadh airport in Saudi Arabia coinciding with its reopening, and Iran conducting drone attacks in Iraqi Kurdistan. Brazil is holding a presidential runoff election between leftist incumbent Lula and far-right former president Bolsonaro. In the United States, midterm elections are underway, with former president Trump voting early while facing criticism from Barack Obama over the rising cost of living. Additionally, gunmen have attacked villages in northeastern Nigeria, killing at least 10 people and looting shops, and an unusually large multi-state storm is affecting Australia's east coast.",
+      "summary_en": "An oil tanker caught fire following mine explosions in the Strait of Hormuz, with Houthi rebels claiming responsibility for attacks on Saudi Arabian defense infrastructure, raising tensions over crucial global shipping routes. Brazil's election cycle concluded with Bolsonaro's party acknowledging Lula's electoral victory, with Bolsonaro required to surrender his passport. Humanitarian concerns intensify in South Sudan, where coordinated cattle raids killed at least 72 people in a major security incident. Internationally, human rights groups express growing fears for Iranian athletes facing execution on death row, while former FBI director James Comey faces federal charges for a third time.",
       "headlines": [
         {
-          "id": "e53e9064cc",
-          "title": "Live - Explosions at Riyadh airport just before reopening • Iran conducts drone attack in Iraqi Kurdistan",
-          "url": "https://www.demorgen.be/snelnieuws/live-explosies-op-vliegveld-riyad-vlak-voor-heropening-iran-voert-droneaanval-uit-in-iraaks-koerdistan~be9c4f82/",
+          "id": "3e50805a0a",
+          "title": "Oil tanker catches fire after mine explosions in Strait of Hormuz; Houthi rebels claim attack on Saudi Defense Ministry",
+          "url": "https://www.demorgen.be/snelnieuws/live-olietanker-vat-vuur-na-mijnontploffingen-in-straat-van-hormuz-saudi-arabie-onderschept-opnieuw-drones-en-raketten~be9c4f82/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-10-25T08:34:00+00:00",
-          "image_url": "https://image.demorgen.be/279436793/roi/320/320/2805/1918.28/afbeelding"
+          "published_at": "2026-10-27T14:52:00+00:00",
+          "image_url": "https://image.demorgen.be/278703659/roi/320/320/2805/1918.28/afbeelding"
         },
         {
-          "id": "170a772b9f",
-          "title": "'Unusually large' multi-state storm causing severe weather for Australia's east – with more on the way",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-25T05:30:30+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/bd77552df3d7c33d1c98eae539477a7f6e2cb755/527_0_5343_4273/master/5343.jpg?width=700&quality=85&auto=format&fit=max&s=dc9afab519c94eeb0c8675a00ad4bd17"
-        },
-        {
-          "id": "17bbb9e07e",
-          "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-          "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-          "source": "guardian_world",
-          "source_label": "The Guardian",
-          "source_label_en": "The Guardian",
-          "published_at": "2026-10-25T08:00:58+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/d1353a7e5254aa2f3a8330bdb3468e28a934e47d/391_195_3258_2605/master/3258.jpg?width=700&quality=85&auto=format&fit=max&s=d21fb23ff0b950bc3800398d0c0f6ec6"
-        },
-        {
-          "id": "736d30c6ea",
-          "title": "Live - Trump casts early vote for midterms • Obama blames Trump for rising cost of living",
-          "url": "https://www.demorgen.be/snelnieuws/live-trump-brengt-vervroegd-stem-uit-voor-midterms~b13cc951/",
+          "id": "1857579c9d",
+          "title": "Bolsonaro's party acknowledges Lula's victory in Brazilian election; Bolsonaro must surrender passport",
+          "url": "https://www.demorgen.be/nieuws/partij-van-bolsonaro-erkent-winst-lula-bij-braziliaanse-verkiezingen-bolsonaro-moet-paspoort-inleveren~b2e9a00d/",
           "source": "de_morgen",
           "source_label": "De Morgen",
           "source_label_en": "De Morgen",
-          "published_at": "2026-10-25T06:05:00+00:00",
-          "image_url": "https://image.demorgen.be/279501759/roi/320/320/3180/1640.4099999999999/afbeelding"
+          "published_at": "2026-10-27T06:35:00+00:00",
+          "image_url": "https://image.demorgen.be/279583055/feature-crop/320/320/afbeelding"
         },
         {
-          "id": "d3e62867a4",
-          "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-          "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+          "id": "41a2aeb234",
+          "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
+          "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
           "source": "bbc_world",
           "source_label": "BBC World",
           "source_label_en": "BBC World",
-          "published_at": "2026-10-25T03:20:16+00:00",
+          "published_at": "2026-10-27T12:25:14+00:00",
+          "image_url": null
+        },
+        {
+          "id": "c3071901a6",
+          "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
+          "url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-27T09:30:30+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/e7cb7c4339700b476c36022a3cac8d2451a2f017/0_71_1320_1056/master/1320.jpg?width=700&quality=85&auto=format&fit=max&s=1985ac2594da0c25ae68c216e618136b"
+        },
+        {
+          "id": "1ab5871f34",
+          "title": "Ex-FBI chief James Comey faces federal charges for third time",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-27T11:44:54+00:00",
           "image_url": null
         }
       ]
