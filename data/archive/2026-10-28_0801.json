@@ -1,0 +1,414 @@
+{
+  "generated_at": "2026-10-28T06:47:02.458557+00:00",
+  "date": "2026-10-28",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "בחירות הכנסת החזירו תוצאות דרמטיות: הליכוד קיבל 27 מנדטים וגוש נתניהו הורד לסך 55 מנדטים, בעוד איזנקוט הוצג כמנהיג פוטנציאלי ממשלתי. בחו״ל, קראה ארה״ב למדינות במפרץ להתכונן לעימות אפשרי עם איראן.",
+    "headlines": [
+      {
+        "id": "7ed0d77820",
+        "title": "לאחר ספירת 51.8% מהקולות: 27 מנדטים לליכוד, גוש נתניהו עם 55 מנדטים",
+        "url": "https://www.themarker.com/news/elections/2026-10-28/ty-article-live/.premium/000001a1-8039-d9a9-a3ed-9bfd4ef00000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-10-28T03:51:54+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-808e-d6da-a7eb-e7dfd9c40000/70/1b/bc9ba7394240b0c6b9a4cf3a0378/948652.jpg?width=108&height=81"
+      },
+      {
+        "id": "58d227d784",
+        "title": "איזנקוט הוצג כרה\"מ הבא, והזהיר: \"נתניהו, אל תעז להשתמש בביטחון ישראל לצרכיך\"",
+        "url": "https://www.ynet.co.il/news/elections2026/article/h1xfujrngl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-27T23:09:19+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/28/BJvornCnGe/BJvornCnGe_0_0_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "3d352519c2",
+        "title": "דיווח: ארה\"ב קראה למדינות במפרץ להיערך למלחמה קצרה ואינטנסיבית מול איראן",
+        "url": "https://www.haaretz.co.il/news/politics/2026-10-28/ty-article/000001a1-802a-d6da-a7eb-e7ffe8370000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-28T01:45:36+00:00",
+        "image_url": null
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "בנושא הביטחון, הזהירה ארה״ב את מדינות המפרץ להתכונן לעימות אפשרי עם איראן, בעוד דיווחים מעידים על עלויות צבאיות גדולות. בנוסף, התרחש פיגוע בקרבת שגרירות ישראל בסרביה.",
+    "headlines": [
+      {
+        "id": "77c8ec7643",
+        "title": "דיווח: ארה\"ב למדינות המפרץ - \"תיערכו למערכה קצרה ועצימה באיראן\"",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001561053",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-28T05:19:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790694251/AP26271691559211_dns7lq.jpg"
+      },
+      {
+        "id": "add9021c55",
+        "title": "פיגוע ליד שגרירות ישראל בסרביה: צעק \"אללהו אכבר\", תקף בסכינים – וחוסל",
+        "url": "https://www.ynet.co.il/news/article/rk4jegj6fl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-28T06:22:05+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/29/S1t63K6UR/S1t63K6UR_0_0_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "18aa99d841",
+        "title": "לפני 18 דקות חשבון פתוח בטהראן: המלחמה באיראן עלתה לארה\"ב כבר מעל 47 מיליארד דולר",
+        "url": "https://www.maariv.co.il/breaking-news/article-1382150",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
+        "image_url": null
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "בדיוני הממשלה, בנט הצהיר כי בלוק הימין מתואם וממשיך ליצירת ממשלה ציונית. במקביל, צפויים תרחישים דרמטיים כולל אפשרות בחירות חוזרות, בעוד בציונות הדתית מתקיימים דיונים מעורבים.",
+      "headlines": [
+        {
+          "id": "51640dfa1e",
+          "title": "בדרך לבחירות חוזרות? התרחישים בלילה הדרמטי",
+          "url": "https://www.ynet.co.il/news/elections2026/article/rjz4rja3gg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-10-28T01:34:24+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/28/SJXZGRR3ze/SJXZGRR3ze_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "8d43d79bd4",
+          "title": "בנט: ראשי גוש התיקון מתואמים, נעשה הכל כדי להקים ממשלת משרתים ציונית",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/000001a1-7f66-d343-adef-7f7ff0790000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-27T22:45:18+00:00",
+          "image_url": null
+        },
+        {
+          "id": "2a6b7dd805",
+          "title": "בציונות הדתית היו שהתאכזבו מתוצאות המדגמים; אחרים שמחו שנכנסו לכנסת",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/.premium/000001a1-7fa6-d01e-a9ad-7fef0c6c0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-27T23:29:37+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "בעקבות הבחירות, התחזק הדולר מול השקל, ובעקבות כך צפויה השפעה על הבורסה. בין החברות הגדולות, הודיעה חברת סאנפלאוור על דיבידנד משמעותי.",
+      "headlines": [
+        {
+          "id": "2b2feb6482",
+          "title": "הדולר התחזק מול השקל אחרי המדגמים — ואיך תגיב הבורסה?",
+          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-7f4e-d343-adef-7f7f0e380000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-27T22:04:05+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-7f56-d848-afe1-7f5f6eb10000/12/fe/5b674bff44a39c0f2e627d1ba74b/946131-2.jpg?width=108&height=81"
+        },
+        {
+          "id": "1679cd42c3",
+          "title": "חמישה דברים שכדאי לדעת לקראת פתיחת המסחר בבורסה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001560957",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-10-28T06:10:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg5_nep3u6.jpg"
+        },
+        {
+          "id": "6bd7935951",
+          "title": "דיווידנד ענק, ושסטוביץ מצטרפת: מה קורה במכונת הרווחים של סאנפלאוור?",
+          "url": "https://www.themarker.com/markets/2026-10-28/ty-article/.premium/000001a1-7cfa-dd27-a1ef-fffb94c40000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-28T03:44:50+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-7d89-dfb9-a5a9-ffadbcb40001/41/f1/7a23628c456db13b3b6295ae29be/sagigame.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "בתחום הטכנולוגיה, עורך דין השתמש בבינה מלאכותית והשלים עבודה בשעה בלבד, מה שהעלה שאלות בנוגע לתמחור שעות עבודה בעידן ה-AI.",
+      "headlines": [
+        {
+          "id": "2572a7767a",
+          "title": "בזכות AI עורך הדין עבד רק שעה. על כמה שעות צריך לשלם לו?",
+          "url": "https://www.themarker.com/law/2026-10-28/ty-article/.premium/000001a1-7758-dc3f-a3f3-ff5df9ea0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-10-28T04:00:33+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-7cde-d5cb-a9ab-7ffedad50000/6b/56/dfa646bc4451baf28bedf0a9e26f/370619.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "בקרב הגזרה החרדית, קרא ש״ס להמתין לתוצאות סופיות, בעוד יהדות התורה טוענת להישג משמעותי. דיווחים חושפים מהפך אפשרי בהשפעה הפוליטית של יהדות התורה.",
+      "headlines": [
+        {
+          "id": "a08f58d652",
+          "title": "המהפך המסתמן במגזר החרדי: יהדות התורה בדרך לעקוף את ש\"ס",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21723423",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "664ea8cd52",
+          "title": "בש\"ס קוראים להמתין לתוצאות הסופיות, ביהדות התורה טוענים להישג",
+          "url": "https://www.haaretz.co.il/news/elections/2026-10-28/ty-article/.premium/000001a1-7f43-d031-a3e1-ff6771de0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-10-27T22:26:35+00:00",
+          "image_url": null
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israeli voters held elections on October 28, with preliminary results showing an extremely tight contest between Prime Minister Netanyahu's right-wing bloc and centrist challenger Gadi Eisenkot's opposition bloc. Early counts and exit polls suggested the two sides were virtually tied, with Netanyahu's bloc narrowly leading in provisional seat counts, around 55 to 49 for the opposition. Government formation could prove extremely difficult, potentially requiring coalition partners to accept controversial compromises, or new elections if talks fail within the required timeframe.",
+      "headlines": [
+        {
+          "id": "0f45bf9ce4",
+          "title": "Israeli elections liveblog: Netanyahu bloc provisionally leading with more than half votes counted",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/blok-rond-huidige-premier-netanyahu-voorlopig-op-kop-in-israel-~1793076564841/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/28/2364b589-31a0-40f9-8cfe-1a297481295f.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "64494e6a88",
+          "title": "Israel election results live: vote count underway as exit polls point to tie between Netanyahu and Eisenkot blocs",
+          "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-28T06:24:28+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/b327b608d8b9c67d152fa006b1df8f13666c0a21/0_0_5160_4128/master/5160.jpg?width=700&quality=85&auto=format&fit=max&s=af098e57fb3bd73dd8c3b406e4d96f2a"
+        },
+        {
+          "id": "c5530136ab",
+          "title": "Preliminary Israeli election results leave everyone empty-handed",
+          "url": "https://www.demorgen.be/nieuws/voorlopige-uitslag-van-de-verkiezingen-in-israel-laat-iedereen-met-lege-handen-achter~b0b1c6b8/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-28T06:00:00+00:00",
+          "image_url": "https://image.demorgen.be/279608593/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "86b6cf2ac3",
+          "title": "How the neck-and-neck race between Netanyahu and Eisenkot gives Israel only two options: 'A monster coalition or new elections'",
+          "url": "https://www.hln.be/buitenland/hoe-de-nek-aan-nekrace-tussen-netanyahu-en-eisenkot-israel-maar-twee-opties-geeft-een-monstercoalitie-of-nieuwe-verkiezingen~ae8692d7/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-28T05:00:24+00:00",
+          "image_url": "https://images.hln.be/YTkwMzZhNTRhZTU0NzBkMmM2MjMvZGlvLzI3OTYxMzI5Ni9maXQtd2lkdGgvNDAw/kopfoto-eisenkot"
+        },
+        {
+          "id": "619a75f4db",
+          "title": "Who is Gadi Eisenkot, Benjamin Netanyahu's biggest rival in Israel?",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/15/wie-is-gadi-eisenkot-de-belangrijkste-uitdager-van-premier-benj/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/27/e4448605-f7b1-44ee-a691-c5177a5bc413.jpg?width=200&height=125&q=80&blur=90"
+        },
+        {
+          "id": "adecb6590d",
+          "title": "Why it often takes a long time for Israel to actually form a new prime minister and government",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/27/waarom-het-nog-lang-kan-duren-voor-israel-een-nieuwe-regering-he/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": "https://images.vrt.be/vrtnws_web/2026/10/27/360d42c6-1d9e-409d-9b77-54bcf3fbce66.jpg?width=200&height=125&q=80&blur=90"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium's industrial sector faces ongoing challenges, with nearly three out of ten machines in factories remaining idle, signaling continued economic pressure on manufacturing. Weather forecasts indicate a sunny Wednesday marking the start of an extended dry period, with temperatures reaching approximately 15 degrees and promising favorable conditions for the fall school break. On a more positive note, a Belgian company has expanded its stock exchange listings to include the Paris bourse, following earlier debuts in Brussels and Amsterdam.",
+      "headlines": [
+        {
+          "id": "517aaab024",
+          "title": "Nearly three out of ten machines in Belgian factories are idle",
+          "url": "https://www.hln.be/economie/bijna-drie-op-tien-machines-in-belgische-fabrieken-staan-stil~a7cf030a/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-28T04:53:00+00:00",
+          "image_url": "https://images.hln.be/MTJkOGUxZGEzOGUwMTBhMjdhMmEvZGlvLzIyMjU0NDE2MC9maXQtd2lkdGgvNDAw/zoutman-in-de-haven-van-gent"
+        },
+        {
+          "id": "6d1175db16",
+          "title": "Sunny Wednesday marks the start of a long dry period: up to 15 degrees and fall break also looks promising",
+          "url": "https://www.hln.be/weernieuws/weerbericht~ac484c3e/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-28T05:19:00+00:00",
+          "image_url": "https://images.hln.be/ZDAwM2Q0Y2I5MWZkNDU3ZmZlOGIvZGlvLzI3OTYyMTQ5MS9maXQtd2lkdGgvNDAw/ermelo-dagjesmensen-in-het-speulderbos-het-zachte-najaarsweer-lokt-wandelaars-tijdens-de-herfstvakantie-naar-buiten-anp-sem-van-der-wal"
+        },
+        {
+          "id": "384c4e9bf4",
+          "title": "After Brussels and Amsterdam, this Belgian company now also lists on Paris stock exchange: 'Also offers an advantage for Belgian shareholders'",
+          "url": "https://www.hln.be/mijn-geld/na-brussel-en-amsterdam-noteert-dit-belgische-bedrijf-nu-ook-op-beurs-van-parijs-biedt-ook-een-troef-voor-belgische-aandeelhouders~a44fa065/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-28T06:01:00+00:00",
+          "image_url": "https://images.hln.be/MTcwMTI3NTI5NmUzYzk0YzUyYWQvZGlvLzI3OTYwMzE1MS9maXQtd2lkdGgvNDAw/kopfoto-wdp"
+        },
+        {
+          "id": "7185abd4eb",
+          "title": "Why Zutendaal is the cleanest in Flanders: 'Nobody wants waste, but handing out fines doesn't solve the problem'",
+          "url": "https://www.hln.be/regio/waarom-zutendaal-de-properste-van-vlaanderen-is-niemand-wil-afval-maar-met-boetes-uitdelen-los-je-het-probleem-niet-op~a5615362/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-28T06:01:39+00:00",
+          "image_url": "https://images.hln.be/ZWQxMDFhMWNkOTliZmIzOTMyOTEvZGlvLzI3OTYwNTE1NS9maXQtd2lkdGgvNDAw/beste-gemeente-netheid"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "European Union prosecutors are continuing their investigation into Commission President von der Leyen regarding the Pfizergate scandal, while the EU Public Prosecutor's Office faces institutional pressure and criticism over its investigative work. EU leaders remain divided following calls between Nordic leaders and Russian President Putin concerning ceasefire arrangements and potential diplomatic solutions in Eastern Europe. Multiple European capitals are pursuing independent social media bans and stricter tech regulation rather than waiting for unified EU-wide legislation, highlighting fragmentation in digital policy across the bloc.",
+      "headlines": [
+        {
+          "id": "cc171625ba",
+          "title": "EU prosecutors still have questions for von der Leyen over Pfizergate",
+          "url": "https://www.politico.eu/article/ursula-von-der-leyen-eppo-european-public-prosectors-office-pfizergate-vaccine-coronavirus/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-28T03:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "0af58a63aa",
+          "title": "The Putin call dividing EU leaders",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-putin-call-dividing-eu-leaders/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-28T05:05:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "bbcf7b2c06",
+          "title": "Oleshky truce appears to hold as two European leaders have 'frank' call with Putin",
+          "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-27T17:43:02+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/4a7e69582a0f73261c44fb0b1afe74d2f9175797/1163_0_7097_5681/master/7097.jpg?width=700&quality=85&auto=format&fit=max&s=f614c7666d4e571b2497b80f5bf48700"
+        },
+        {
+          "id": "d09cf3e1fa",
+          "title": "EU Public Prosecutor's Office will be 'killed softly for doing its job' says outgoing chief",
+          "url": "https://www.politico.eu/article/eppo-european-public-prosecutors-office-laura-codruta-kovesi-interview/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-10-28T03:00:00+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Gulf states are reportedly working on a comprehensive, multipart peace deal aimed at preventing renewed military conflict between the United States and Iran amid escalating regional tensions. Brazil's political upheaval continues following its recent presidential election, with Flávio Bolsonaro fleeing the country after his brother's electoral loss, while separately, high-profile international legal proceedings have resulted in the Alexander brothers receiving 30-year prison sentences for sex trafficking. King Charles is set to discuss the Commonwealth's colonial legacy of slavery with fellow leaders at an upcoming summit.",
+      "headlines": [
+        {
+          "id": "93600541ed",
+          "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+          "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-28T05:00:55+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/7696200dce7254abdadd923a886adbbcc098804a/11_17_4694_3755/master/4694.jpg?width=700&quality=85&auto=format&fit=max&s=1f6dfb0e51d7c971cc831a2865c0e4a3"
+        },
+        {
+          "id": "ec9d4f8ce3",
+          "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+          "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-27T22:03:00+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/3ef222ab0dad82e1fda7dafb6d9e2ec911a85e26/945_122_2901_2320/master/2901.jpg?width=700&quality=85&auto=format&fit=max&s=52f2da863a3db293ac4b82b5ac862c10"
+        },
+        {
+          "id": "7a64b6f22b",
+          "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+          "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-10-28T02:20:25+00:00",
+          "image_url": null
+        },
+        {
+          "id": "a9093683d3",
+          "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+          "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-28T00:07:22+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/f25209cc53130959b013089a2e2c4956336fd11d/1440_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=832f107edd280bace87674104c223d13"
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
