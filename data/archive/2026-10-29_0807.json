@@ -1,0 +1,192 @@
+{
+  "generated_at": "2026-10-30T16:52:01.440421+00:00",
+  "date": "2026-10-29",
+  "degraded": true,
+  "top_general": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": [
+      {
+        "id": "f6aa557414",
+        "title": "ניסיון פיגוע מחוץ לשגרירות ישראל בסרביה: חשוד ניסה לדקור את המאבטח - ונורה למוות",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-f2055d8182181a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-28T06:35:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/28/ziraserbia28101_autoOrient_i.jpg"
+      },
+      {
+        "id": "86dd921170",
+        "title": "במקום לדון בסיום המלחמה: פוטין \"חפר\" למנהיגי אירופה והרצה להם על היסטוריה",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-9d3ab5696b181a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-28T08:54:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/28/PUTINVLADF_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "9635841e8c",
+        "title": "הפלגת החלומות נקטעה: ספינת התענוגות היוקרתית נתקעה בקמבודיה בגלל המלחמה באיראן",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-dafc30c2ee181a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-28T09:56:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/28/ship28101_autoOrient_i.jpg"
+      },
+      {
+        "id": "bdee621b0a",
+        "title": "האיבה בין צפון ודרום קוריאה מעלה שוב בעיה ישנה: איפה בדיוק עובר הגבול ביניהן?",
+        "url": "https://www.haaretz.co.il/news/world/asia/2026-10-28/ty-article-magazine/.premium/000001a1-8382-de48-aba1-c7d3138c0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-28T17:48:12+00:00",
+        "image_url": null
+      },
+      {
+        "id": "e98926f7bb",
+        "title": "אחרי התוצאות, איזנקוט מצהיר: \"ממוקדים בהקמת ממשלת גיוס ציונית\" | תמונת מצב מגוש השינוי",
+        "url": "https://www.ynet.co.il/news/elections2026/article/h1hxt2jtgg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-10-28T19:51:59+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/ryYx11F6OGx/ryYx11F6OGx_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "b771bd8277",
+        "title": "400 מיליארד שקל זו רק ההתחלה: תקציב הביטחון הוא ההכרעה הכלכלית המרכזית של הממשלה הבאה",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001560991",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-29T03:41:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1730647038/direct/64cebf09-4b4b-43e3-a107-5912c21023fd_brtlnv.jpg"
+      },
+      {
+        "id": "05737037a8",
+        "title": "אפשר לנסות להטיל את המטבע שוב, אבל תוצאות הבחירות משקפות את החברה שבה אנו חיים",
+        "url": "https://www.haaretz.co.il/news/elections/2026-10-29/ty-article/.premium/000001a1-8225-de48-aba1-c6f7a2420000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-10-29T03:51:38+00:00",
+        "image_url": null
+      },
+      {
+        "id": "b64eabc09e",
+        "title": "אחרי שלוש שנות מלחמה, נציגי קו העימות נשארו מחוץ לכנסת",
+        "url": "https://www.walla.co.il/news/israel/383959291",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-10-29T04:00:00+00:00",
+        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/3/6/1/8/3618243-46.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
+  },
+  "subjects": [],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [
+    "maariv"
+  ],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": [
+        {
+          "id": "504788c106",
+          "title": "Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86",
+          "url": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-10-29T20:25:28+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/9aa4e1ddebae2518b26025974c624af6d3aa638e/1_0_2815_2253/master/2815.jpg?width=700&quality=85&auto=format&fit=max&s=698009ee450b30acf60f781392245982"
+        },
+        {
+          "id": "924176916d",
+          "title": "Live - Zo goed als alle stemmen geteld: patstelling dreigt na verkiezingen in Israël",
+          "url": "https://www.demorgen.be/snelnieuws/live-geen-bewijs-dat-arabische-partijen-verkiezingen-israel-hebben-gestolen-zegt-directeur-kiescommissie-ook-president-roept-op-arabische-stem-niet-te-stigmatiseren~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-29T20:00:00+00:00",
+          "image_url": "https://image.demorgen.be/279627172/roi/320/320/691.1999999999999/529.2/afbeelding"
+        },
+        {
+          "id": "3148c970ae",
+          "title": "Patstelling dreigt na volledige verkiezingsuitslag in Israël: Netanyahu haalt geen meerderheid",
+          "url": "https://www.hln.be/buitenland/patstelling-dreigt-na-volledige-verkiezingsuitslag-in-israel-netanyahu-haalt-geen-meerderheid~ae334d6d/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-29T19:37:00+00:00",
+          "image_url": "https://images.hln.be/MDEwZjExZjFlMTg2MGNjZjRkMDMvZGlvLzI3OTY2NTk3OS9maXQtd2lkdGgvNDAw/file-photo-an-aide-speaks-to-israeli-prime-minister-and-likud-party-leader-benjamin-netanyahu-as-he-gives-a-statement-following-exit-polls-for-israel-s-national-election-at-likud-s-election-headquarters-in-jerusalem-october-28-2026-reuters-ammar-awad-file-photo"
+        },
+        {
+          "id": "c31bd2ef01",
+          "title": "Live - Vergadering van kernkabinet afgelopen, begrotingsgesprekken gaan vrijdagmiddag verder",
+          "url": "https://www.demorgen.be/snelnieuws/live-vergadering-van-kernkabinet-afgelopen-gesprekken-gaan-vrijdagmiddag-verder~bf7e76f4/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-29T19:23:00+00:00",
+          "image_url": "https://image.demorgen.be/279444426/roi/320/320/834.0200000000001/882.9000000000001/afbeelding"
+        },
+        {
+          "id": "0a76dbcfde",
+          "title": "Vergadering van kernkabinet afgelopen, gesprekken gaan vrijdagmiddag verder",
+          "url": "https://www.hln.be/binnenland/vergadering-van-kernkabinet-afgelopen-gesprekken-gaan-vrijdagmiddag-verder~a9cb0fe2/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-10-29T19:08:00+00:00",
+          "image_url": "https://images.hln.be/NjZhZmM4ODU4N2ZlMjg4ZWUwOWMvZGlvLzI3OTQzODQ3OS9maXQtd2lkdGgvNDAw/prime-minister-bart-de-wever-pictured-before-a-diplomatic-meeting-with-the-vietnamese-president-in-brussels-on-friday-23-october-2026-the-president-of-vietnam-and-his-wife-visit-belgium-from-21-to-24-october-belga-photo-pool-philip-reynaers"
+        },
+        {
+          "id": "e2608754b8",
+          "title": "Live - Autoriteiten stellen dodentol van treinongeval Spanje opnieuw bij naar 69 • Nog vijftigtal gewonden in het ziekenhuis",
+          "url": "https://www.demorgen.be/nieuws/live-autoriteiten-stellen-dodentol-van-treinongeval-spanje-opnieuw-bij-naar-69-nog-vijftigtal-gewonden-in-het-ziekenhuis~b40a608a/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-10-29T18:25:00+00:00",
+          "image_url": "https://image.demorgen.be/279641486/feature-crop/320/320/afbeelding"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
+    },
+    "europe": {
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
+    },
+    "world_top": {
+      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "headlines": []
+    },
+    "degraded": true
+  }
+}
