@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-11-01T13:19:06.532384+00:00",
+  "date": "2026-11-01",
+  "degraded": true,
+  "top_general": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": [
+      {
+        "id": "4a5156297a",
+        "title": "גוש השינוי משתמט מאחריות ומצפה שצה\"ל ירסן למענו את תוכניותיו של נתניהו",
+        "url": "https://www.haaretz.co.il/opinions/2026-11-01/ty-article-opinion/.premium/000001a1-9309-d03f-aded-dbfff8350000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-01T04:00:00+00:00",
+        "image_url": null
+      },
+      {
+        "id": "7f27dcdb58",
+        "title": "נתניהו היטה את הבחירות. המשטרה ושב\"כ עבדו בשביל יונתן אוריך",
+        "url": "https://www.themarker.com/news/politics/2026-10-31/ty-article/.premium/000001a1-925d-d03f-aded-daffebc00000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-10-31T17:40:51+00:00",
+        "image_url": "https://img.haarets.co.il/bs/00000198-0796-db31-a79a-47bf290c0001/85/01/8cd0a2e8496a999425645c512538/860134-2.jpg?width=108&height=81"
+      },
+      {
+        "id": "b6a793bd8c",
+        "title": "החוב תופח, יוקר המחיה מכריע והפוליטיקה האמריקאית נערכת למלחמת הישרדות",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001561319",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-31T19:00:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/c_auto,g_north,h_392,w_800/v1793286189/MT1NURPHO000HWYA0R_RTRMADP_3_UTAH-PROTEST_1_qy1ioc.jpg"
+      },
+      {
+        "id": "bc92e41de7",
+        "title": "Senior Arab MK says Joint List ready to back anti-Netanyahu government from outside",
+        "url": "https://www.timesofisrael.com/tibi-says-joint-list-ready-to-back-anti-netanyahu-government-from-the-outside/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-10-31T22:51:10+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/montage-2up-20261101-fc7e4f-1024x640.jpg"
+      },
+      {
+        "id": "2d97930c40",
+        "title": "אופציית הצ'יקן שיכולה להוביל את איזנקוט ללשכת רה״מ",
+        "url": "https://www.ynet.co.il/news/article/syra69q6mx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-01T03:10:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/28/Byyb112Ahfl/Byyb112Ahfl_0_0_1125_634_0_medium.jpg"
+      },
+      {
+        "id": "782bd3aef4",
+        "title": "קודם כנסת, אחר כך ממשלה - ובלי נתניהו",
+        "url": "https://www.walla.co.il/news/politics/383959585",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-11-01T03:53:46+00:00",
+        "image_url": "https://image-resizer-walla.walla.cloud/image/2026/10/4/images/1793167958504_walla-media-picture_1600x900.webp?width=500"
+      },
+      {
+        "id": "4ebd511c10",
+        "title": "התוכנית של גוש השינוי - ומאמצי הבלימה של נתניהו",
+        "url": "https://www.israelhayom.co.il/news/politics/article/21747256",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "4423cac3b6",
+        "title": "ארה\"ב אישרה עסקת נשק של 2.1 מיליארד דולר לאוקראינה – אבל הטילים יגיעו רק בעוד שנים",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-7a9896eb5af81a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-31T05:57:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/11/ukraineibuddd1101010101_re_autoOrient_i.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
+  },
+  "subjects": [],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "i24"
+  ],
+  "sources_failed": [
+    "reshet13"
+  ]
+}

@@ -1,59 +1,74 @@
 {
-  "generated_at": "2026-10-31T20:27:19.271579+00:00",
-  "date": "2026-10-31",
-  "degraded": false,
+  "generated_at": "2026-11-01T13:19:06.532384+00:00",
+  "date": "2026-11-01",
+  "degraded": true,
   "top_general": {
-    "summary_he": "דיפלומטיה בין ארה״ב לאיראן נמצאת במוקד תשומת הדעת הבינלאומית, כאשר שתי המדינות מסמנות רצון לשיחות בעוד איום המלחמה הופך לכלי מיקוח פוליטי. טראמפ הבהיר כי איראן רוצה לדבר, ולשני הצדדים יש זמן לכך. בסקטור הטכנולוגיה, ירידה חדה של אינטל בכמעט 30% משפיעה על השווקים הגלובליים, עם סיכון למחיקה של למעלה מ-110 מיליארד דולר.",
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
     "headlines": [
       {
-        "id": "44f03edf23",
-        "title": "ארה\"ב ואיראן רוצות משא ומתן ואיום המלחמה הופך לקלף מיקוח",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-10-30/ty-article/.premium/000001a1-8988-dbb9-a7ef-fbfc00290000",
+        "id": "4a5156297a",
+        "title": "גוש השינוי משתמט מאחריות ומצפה שצה\"ל ירסן למענו את תוכניותיו של נתניהו",
+        "url": "https://www.haaretz.co.il/opinions/2026-11-01/ty-article-opinion/.premium/000001a1-9309-d03f-aded-dbfff8350000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-10-30T05:12:28+00:00",
+        "published_at": "2026-11-01T04:00:00+00:00",
         "image_url": null
       },
       {
-        "id": "9745a1fc9f",
-        "title": "טראמפ על המו\"מ עם איראן: \"הם רוצים לדבר - ולנו יש זמן\"",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001561450",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-10-31T06:18:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1769571543/direct/AP26027621547341_xwsnxi.jpg"
-      },
-      {
-        "id": "6f9f049a23",
-        "title": "אינטל צנחה בכמעט 30% לאחר הדו\"ח המאכזב — וצפויה למחוק יותר מ-110 מיליארד דולר",
-        "url": "https://www.themarker.com/wallstreet/2026-10-30/ty-article/.premium/000001a1-8d35-dbb9-a7ef-ff75cce60000",
+        "id": "7f27dcdb58",
+        "title": "נתניהו היטה את הבחירות. המשטרה ושב\"כ עבדו בשביל יונתן אוריך",
+        "url": "https://www.themarker.com/news/politics/2026-10-31/ty-article/.premium/000001a1-925d-d03f-aded-daffebc00000",
         "source": "themarker",
         "source_label": "TheMarker",
         "source_label_he": "TheMarker",
-        "published_at": "2026-10-30T15:35:43+00:00",
-        "image_url": "https://img.haarets.co.il/bs/000001a1-8d69-dd01-a9ed-afeb43900000/2a/bb/a56c9af7477bb267249d231de082/275126.jpg?width=108&height=81"
-      }
-    ]
-  },
-  "security_war": {
-    "summary_he": "במישור הביטחוני, איראן מגבירה לחצים צבאיים במצר הורמוז ובמפרץ הפרסי, בעוד דיווחים בתקשורת מצביעים על תוכניות אפשריות של טראמפ לתקיפות צבאיות עתידיות. תיעודים נדירים של מנהיגות חמאס חשפו הכנות לפעילות הארגון ביום ה-7 באוקטובר. ממשלת ישראל, על רקע קיפאון פוליטי, ממשיכה להפעיל דיכוי כלכלי על הרשות הפלסטינית.",
-    "headlines": [
-      {
-        "id": "6ad0a2655b",
-        "title": "איראן מגבירה את הלחץ במצר הורמוז, טראמפ: \"המלחמה תסתיים בקרוב\"",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-6bed9480fbc81a1026.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-10-30T17:00:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/07/22/n20-2207-trump-moojtaba-ibud-1-2_autoOrient_i.jpg"
+        "published_at": "2026-10-31T17:40:51+00:00",
+        "image_url": "https://img.haarets.co.il/bs/00000198-0796-db31-a79a-47bf290c0001/85/01/8cd0a2e8496a999425645c512538/860134-2.jpg?width=108&height=81"
       },
       {
-        "id": "648c247f66",
-        "title": "דיווח בארה\"ב: הרגע בו טראמפ יחדש את התקיפות באיראן",
-        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21743550",
+        "id": "b6a793bd8c",
+        "title": "החוב תופח, יוקר המחיה מכריע והפוליטיקה האמריקאית נערכת למלחמת הישרדות",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001561319",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-10-31T19:00:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/c_auto,g_north,h_392,w_800/v1793286189/MT1NURPHO000HWYA0R_RTRMADP_3_UTAH-PROTEST_1_qy1ioc.jpg"
+      },
+      {
+        "id": "bc92e41de7",
+        "title": "Senior Arab MK says Joint List ready to back anti-Netanyahu government from outside",
+        "url": "https://www.timesofisrael.com/tibi-says-joint-list-ready-to-back-anti-netanyahu-government-from-the-outside/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-10-31T22:51:10+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/montage-2up-20261101-fc7e4f-1024x640.jpg"
+      },
+      {
+        "id": "2d97930c40",
+        "title": "אופציית הצ'יקן שיכולה להוביל את איזנקוט ללשכת רה״מ",
+        "url": "https://www.ynet.co.il/news/article/syra69q6mx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-01T03:10:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/28/Byyb112Ahfl/Byyb112Ahfl_0_0_1125_634_0_medium.jpg"
+      },
+      {
+        "id": "782bd3aef4",
+        "title": "קודם כנסת, אחר כך ממשלה - ובלי נתניהו",
+        "url": "https://www.walla.co.il/news/politics/383959585",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-11-01T03:53:46+00:00",
+        "image_url": "https://image-resizer-walla.walla.cloud/image/2026/10/4/images/1793167958504_walla-media-picture_1600x900.webp?width=500"
+      },
+      {
+        "id": "4ebd511c10",
+        "title": "התוכנית של גוש השינוי - ומאמצי הבלימה של נתניהו",
+        "url": "https://www.israelhayom.co.il/news/politics/article/21747256",
         "source": "israel_hayom",
         "source_label": "ישראל היום",
         "source_label_he": "ישראל היום",
@@ -61,184 +76,22 @@
         "image_url": null
       },
       {
-        "id": "606b47a714",
-        "title": "תיעודים נדירים של מוחמד דף נחשפו: כך נערך חמאס ל-7 באוקטובר",
-        "url": "https://www.walla.co.il/news/world/383959520",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-10-30T21:29:04+00:00",
-        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/3/9/4/3/3943353-46.jpeg"
-      },
-      {
-        "id": "5ecea9bb61",
-        "title": "Political deadlock in Israel prolongs financial suffocation of Palestinian Authority",
-        "url": "https://www.timesofisrael.com/political-deadlock-in-israel-prolongs-financial-suffocation-of-palestinian-authority/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-10-30T20:23:04+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26297276254932-1024x640.jpg"
+        "id": "4423cac3b6",
+        "title": "ארה\"ב אישרה עסקת נשק של 2.1 מיליארד דולר לאוקראינה – אבל הטילים יגיעו רק בעוד שנים",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-7a9896eb5af81a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-10-31T05:57:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/10/11/ukraineibuddd1101010101_re_autoOrient_i.jpg"
       }
     ]
   },
-  "subjects": [
-    {
-      "key": "politics",
-      "label_he": "פוליטיקה וממשל",
-      "summary_he": "הדמוקרטים בישראל הרחיבו את כוחם בכנסת אך נכשלו בשכנוע מצביעים ערבים. על הבמה הבינלאומית, מועמדת יהודית משתדלת בתחרות על משרת מזכ״ל ארגון האומות המאוחדות, וקשרים בין ישראל לטורקיה מחריפים.",
-      "headlines": [
-        {
-          "id": "ca001052b6",
-          "title": "הדמוקרטים הכפילו את כוחם בכנסת, אך נכשלו בשכנוע המצביעים הערבים",
-          "url": "https://www.haaretz.co.il/news/elections/2026-10-30/ty-article/.premium/000001a1-8804-def7-adad-8afc37ec0000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-10-30T05:42:01+00:00",
-          "image_url": null
-        },
-        {
-          "id": "45611a833a",
-          "title": "המרוץ למזכ\"ל האו\"ם: המועמדת היהודייה מתחזקת",
-          "url": "https://www.israelhayom.co.il/news/world-news/other/article/21743644",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "a0ca1e1962",
-          "title": "בגלל ישראל? מחריף הקרע בין טורקיה לשותפה האסטרטגית שלה",
-          "url": "https://www.ynet.co.il/news/article/rj0cfqzafx",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-10-30T15:31:10+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/30/rJRJCmMpMx/rJRJCmMpMx_0_0_850_479_0_medium.jpg"
-        }
-      ]
-    },
-    {
-      "key": "cost_of_living",
-      "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "מחיר הדלק לחודש נובמבר הוכרז על 7.85 שקלים לליטר בנזין, בעוד הלגונה הכחולה בדרכה להנפקה בבורסה בהליך לא שגרתי. הבורסה הישראלית צפויה להיתקל בבעיות בעקבות ירידות בשוקי ה-AI בחו״ל.",
-      "headlines": [
-        {
-          "id": "fc1ac8fb62",
-          "title": "סמוטריץ' פירסם את הצו להפחתת הבלו: מחיר הדלק בנובמבר יהיה 7.85 שקלים לליטר בנזין",
-          "url": "https://www.themarker.com/news/energy/2026-10-30/ty-article/000001a1-8b51-def7-adad-8bf911da0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-30T05:43:43+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-8b53-dd01-a9ed-abfb5c0f0001/fd/aa/64f113c04717afbdd55c408ca647/630635.jpg?width=108&height=81"
-        },
-        {
-          "id": "89d5fbd991",
-          "title": "הלגונה הכחולה בדרך לבורסה, וזו הולכת להיות הנפקה לא שגרתית",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001561451",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-10-31T06:41:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1793428734/2024-12-06T155613Z_567172601_MT1SIPA000LN6I42_RTRMADP_3_SIPA-USA_j1eot9.jpg"
-        },
-        {
-          "id": "48281a416b",
-          "title": "בזמן שהבורסה ממתינה להתפזרות הערפל הפוליטי, ירידות ה–AI מחו\"ל יגיעו היום",
-          "url": "https://www.themarker.com/markets/2026-10-30/ty-article/.premium/000001a1-8b87-def7-adad-8bff81d40000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-30T06:54:35+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-8b8d-def7-adad-8bfda6380001/cb/ec/2abccdd14e418a3f32dcf53be633/547490-3.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "תחום הטכנולוגיה עומד בעיצומו של משבר אפשרי, כאשר מניות AI נופלות ואינטל מגיעה לשפל היסטורי. מניות הטכנולוגיה הפילו את מדד נאסד״ק בכמעט 3 אחוזים, קרוב לתיקון השלישי מתחילת השנה.",
-      "headlines": [
-        {
-          "id": "934339bd5e",
-          "title": "הבועה מתפוצצת? מניות ה-AI בקריסה ואינטל בשפל היסטורי",
-          "url": "https://www.israelhayom.co.il/business/article/21743542",
-          "source": "israel_hayom",
-          "source_label": "ישראל היום",
-          "source_label_he": "ישראל היום",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "5f1736cfb0",
-          "title": "מניות הטכנולוגיה הפילו את נאסד\"ק בכמעט 3%, אל סף תיקון שלישי מתחילת השנה",
-          "url": "https://www.themarker.com/wallstreet/2026-10-30/ty-article-live/000001a1-7688-d432-afbd-77fc593d0000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-10-30T20:10:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-8d96-d125-a3b1-edd661610000/02/e6/f9baf7e04477b1b6e11395b656c6/980243.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "בתחום התרבות, השחקנית ג׳ניפר לורנס חוזרת לתפקיד האייקוני שלה. חודש נובמבר צפוי להביא סדרות טלוויזיה שאסור לפספס, בעוד אנשים בישראל משנים את בחירתם ובוחרים להשתתף בהופעות ענק בחו״ל.",
-      "headlines": [
-        {
-          "id": "769228a542",
-          "title": "התגעגענו: ג'ניפר לורנס חוזרת לתפקיד האייקוני",
-          "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1114245/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/nazhfprl/1920x1080_4800_hp00_00_00_21.jpg?rxy=0.4625744115435809,0.3991148171111195&width=490&height=272&v=1dd67ee4265d430"
-        },
-        {
-          "id": "bb75ec4217",
-          "title": "עדיף שתשארו בבית: הסדרות שאסור לפספס בחודש נובמבר",
-          "url": "https://www.kan.org.il/content/kan-news/culture/1114430/",
-          "source": "kan",
-          "source_label": "כאן 11",
-          "source_label_he": "כאן 11",
-          "published_at": null,
-          "image_url": "https://www.kan.org.il/media/ugzbcsy2/עותק-של-עותק-של-עיצוב-ללא-כותרת-3.jpg?width=490&height=272&v=1dd689d2724f2f0"
-        },
-        {
-          "id": "40ddfc4f00",
-          "title": "מחשבים מסלול מחדש: במקום פארק הירקון - הישראלים טסים להופעות ענק בחו\"ל",
-          "url": "https://www.mako.co.il/news-world/2026_q4/Article-1bb214fa9e681a1027.htm",
-          "source": "mako",
-          "source_label": "N12",
-          "source_label_he": "N12",
-          "published_at": "2026-10-30T05:37:00+00:00",
-          "image_url": "https://img.mako.co.il/2026/10/29/shutterstock_1577103922_re_autoOrient_i.jpg"
-        }
-      ]
-    },
-    {
-      "key": "real_estate",
-      "label_he": "נדל\"ן ודיור",
-      "summary_he": "שוק הנדל״ן בעיר דרומית חווה שינויי בעלות, כשקונים מחוץ לעיר מחליפים מוכרים מקומיים בעסקאות דירות בעלות ארבע חדרים.",
-      "headlines": [
-        {
-          "id": "9cfbd04e98",
-          "title": "המוכרים עזבו את העיר, הקונים באו מבחוץ: בכמה נמכרה דירת 4 חדרים בעיר הדרומית?",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001561087",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-10-31T07:00:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/v1673779128/COT_Pic/%D7%A2%D7%A1%D7%A7%D7%90%D7%95%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2800_sueckz.jpg"
-        }
-      ]
-    }
-  ],
+  "security_war": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
+  },
+  "subjects": [],
   "sources_fetched": [
     "haaretz",
     "ynet",
@@ -251,88 +104,9 @@
     "times_of_israel",
     "maariv",
     "makor_rishon",
-    "reshet13",
     "i24"
   ],
-  "sources_failed": [],
-  "world": {
-    "israel_jewish": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": [
-        {
-          "id": "06c10c292e",
-          "title": "Ossoff vs. Collins: The choices facing Jewish voters in the Georgia Senate race",
-          "url": "https://www.jta.org/2026/10/30/politics/ossoff-vs-collins-the-choices-facing-jewish-voters-in-the-georgia-senate-race",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-30T20:59:50+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/Ossoff_Collins.jpg"
-        },
-        {
-          "id": "cde058b5a6",
-          "title": "Pelosi slams Mamdani’s position on Israel: ‘It’s wrong.’",
-          "url": "https://www.jta.org/2026/10/30/ny/pelosi-slams-mamdanis-position-on-israel-its-wrong",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-30T20:35:51+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/GettyImages-2270161109.jpg"
-        },
-        {
-          "id": "79044268f4",
-          "title": "A Jewish guide to the MLB offseason",
-          "url": "https://www.jta.org/2026/10/30/sports/a-jewish-guide-to-the-mlb-offseason",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-10-30T15:12:45+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/10-30-2026-Pederson-scaled.jpg"
-        },
-        {
-          "id": "515ba645cb",
-          "title": "Binnenland Nieuw vanaf 1 november: extra taks van 2 euro op pakjes van buiten de EU en wie rijverbod negeert, verliest zijn auto 2 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/nieuw-op-1-november-2026/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "d79c4b6f46",
-          "title": "E40 in Nevele richting Gent versperd door brandende vrachtwagen",
-          "url": "https://www.hln.be/deinze/e40-in-nevele-richting-gent-versperd-door-brandende-vrachtwagen~aaf747b9/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-10-31T06:37:00+00:00",
-          "image_url": "https://images.hln.be/YzM3M2I0YWVjMzVjYmE0NjZlOTIvZGlvLzI3OTcyMzY1MS9maXQtd2lkdGgvNDAw/de-e40-is-versperd-ter-hoogte-van-nevele"
-        },
-        {
-          "id": "10f4f20c15",
-          "title": "EXCLUSIEF. Wie erft jouw woning, spaargeld en digitale leven? Daar praten ruim 1 op de 3 Vlamingen niet over, “en dat kan tot drama’s leiden”",
-          "url": "https://www.hln.be/mijn-geld/exclusief-wie-erft-jouw-woning-spaargeld-en-digitale-leven-daar-praten-ruim-1-op-de-3-vlamingen-niet-over-en-dat-kan-tot-dramas-leiden~a8b0c084b/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-10-31T06:01:00+00:00",
-          "image_url": "https://images.hln.be/Y2VkZTI5OTVkOTdmNjUxMGFjODMvZGlvLzI3OTY5NDA1NC9maXQtd2lkdGgvNDAw/stem-van-vlaanderen"
-        }
-      ]
-    },
-    "belgium": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
-    },
-    "europe": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
-    },
-    "world_top": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
-    },
-    "degraded": true
-  }
+  "sources_failed": [
+    "reshet13"
+  ]
 }
