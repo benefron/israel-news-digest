@@ -1,0 +1,496 @@
+{
+  "generated_at": "2026-11-02T07:35:59.124012+00:00",
+  "date": "2026-11-02",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "מתח ישראלי-אמריקי-איראני מתגבר כאשר טראמפ שוקל תקיפה צבאית בעוד נתניהו דוחק לפעולה מיידית. בישראל מתקיים תהליך הקואליציה לאחר הבחירות, כשאייזנקוט צץ כמועמד מוביל לתפקיד ראש הממשלה. בשווקים חוזים ירידות משמעותיות בשל דאגות כלכליות מהבחירות בעולם.",
+    "headlines": [
+      {
+        "id": "1fa9259123",
+        "title": "נובמבר על סף פיצוץ: איראן, ארה\"ב וישראל בדרך לעימות",
+        "url": "https://www.maariv.co.il/news/military/article-1383699",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "3f1c7b0893",
+        "title": "בנט הודיע שסיעתו תמליץ לנשיא על איזנקוט כמועמד להרכבת הממשלה",
+        "url": "https://www.haaretz.co.il/news/elections/2026-11-01/ty-article/000001a1-975f-db9a-a1b3-9f7ff04f0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-01T13:50:43+00:00",
+        "image_url": null
+      },
+      {
+        "id": "8b223e17b6",
+        "title": "יותר מ–3 מיליארד שקל בסכנה: מה מאיים על גל ההנפקות שבדרך לבורסה",
+        "url": "https://www.themarker.com/markets/2026-11-02/ty-article/.highlight/000001a1-97b7-df63-ade5-f7f748b30000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-11-02T04:10:37+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-980b-d125-a3b1-fdcf1d540001/35/b5/e87a3d974c8bbb015e1d503793ed/mefuzelet-homepage.jpg?width=108&height=81"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "ההתגרות בין ישראל לאיראן גוברת עם איומים הדדיים וחיזוקי חימוש איראני. צה״ל ממשיך בפעולות נגד חמאס בעזה עם דיווחים על חיסול מחבלים. כוחות הביטחון נתקלים בעומס כבד בכוח אדם, עם מעל 450 ימי מילואים הנדרשים מחיילים בודדים.",
+    "headlines": [
+      {
+        "id": "6ecb746a35",
+        "title": "דיווח: נתניהו לוחץ על טראמפ לתקוף באיראן, השיחה בין השניים הייתה \"קשה\"",
+        "url": "https://www.haaretz.co.il/news/politics/2026-11-02/ty-article/000001a1-9ae8-db9a-a1b3-9afa94970000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-02T07:04:44+00:00",
+        "image_url": null
+      },
+      {
+        "id": "216b4e6622",
+        "title": "צה\"ל מזהיר שחמאס משקם יכולות ייצור נשק, ודורש לסיים את המבצע בחברון",
+        "url": "https://www.haaretz.co.il/news/politics/2026-11-02/ty-article/.premium/000001a1-9707-d03f-aded-dfffd8e60000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-02T04:01:15+00:00",
+        "image_url": null
+      },
+      {
+        "id": "0879eb92c0",
+        "title": "עבודות שחורות, יין לחג ואבטחת טקס: הסחר בימי מילואים יצא משליטה",
+        "url": "https://www.themarker.com/news/security/2026-11-02/ty-article/.highlight/000001a1-92a1-d8a4-a7b5-bebf71400000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-11-02T03:58:09+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-9696-df63-ade5-f6d705d30000/0f/30/4f43a44d4acd8a48ed25a058b43d/385393.jpg?width=108&height=81"
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "בנט וגולן מבטיחים תמיכה באייזנקוט כמועמד ראש ממשלה בקואליציה החדשה. תהליך הבחירות עמד בביקורת עם מאות תלונות מהליכוד, אם כי הוכחות רשמיות אישרו התנהלות תקנית. בארה״ב, חברת קונגרס דמוקרטית תמכה במועמד רפובליקני בשל חילוקי דעות על ישראל.",
+      "headlines": [
+        {
+          "id": "e3a6666f31",
+          "title": "Bennett, Golan pledge to back Eisenkot as PM, as bloc mulls which coalition to seek",
+          "url": "https://www.timesofisrael.com/bennett-golan-pledge-to-back-eisenkot-as-pm-as-bloc-mulls-which-coalition-to-seek/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-02T04:18:05+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/montage-4up-20261028-473ff5-1024x640.jpg"
+        },
+        {
+          "id": "6dae160357",
+          "title": "הליכוד הגיש מאות תלונות על \"גנבת בחירות\", רובן לא קשורות להשפעה על הצבעה",
+          "url": "https://www.haaretz.co.il/news/magazine/2026-11-02/ty-article-magazine/.premium/000001a1-967b-d10d-ada5-9f7f1f370000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-02T04:01:11+00:00",
+          "image_url": null
+        },
+        {
+          "id": "27129acae7",
+          "title": "קרע יוצא דופן במפלגה הדמוקרטית. ישראל שוב במוקד: חברת הקונגרס תצביע למועמד הרפובליקני",
+          "url": "https://www.ynet.co.il/news/article/hyycmjrtmx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-02T05:58:29+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/04/H1TUPT1Lze/H1TUPT1Lze_0_0_850_479_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "משרד האוצר מתכונן לתקציב משכי כאשר ביטחון מובטח אך תקציבים אזרחיים יוקטנו. בשווקים חוזים תנודות קשות עם עלויות לאובדן שליטה בקונגרס האמריקאי. מחיר הנפט ירד בעקבות תקוות להימנעות מהתגברות קונפליקט במזרח התיכון.",
+      "headlines": [
+        {
+          "id": "c3ce69ddf8",
+          "title": "האוצר נערך לתקציב המשכי: הביטחון לא צפוי להיפגע, המשרדים האזרחיים כן",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001561538",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-01T17:30:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1770025956/direct/_OAM4554_tbotdh.jpg"
+        },
+        {
+          "id": "4da31b9628",
+          "title": "טראמפ יאבד את השליטה בקונגרס? התרחיש שמפחיד את השווקים",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001561527",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-02T03:49:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1793541792/%D7%98%D7%A8%D7%90%D7%9E%D7%A4_i2jkqf.jpg"
+        },
+        {
+          "id": "fbb6793c7b",
+          "title": "עליות בבורסות אסיה; הנפט צונח ב–3% על רקע תקוות להימנעות מחידוש המלחמה",
+          "url": "https://www.themarker.com/wallstreet/2026-11-02/ty-article-live/000001a1-9606-df63-ade5-f6579a5e0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-02T05:14:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-9aaf-dc07-a3f5-dabfcd150000/d8/c3/bbe7c1114729939540b486fb5c57/970744.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "אינטל ספגה יום קשה עם ירידות ענקיות בערך והשפעה משמעותית על עובדים בישראל. בינה מלאכותית זקוקה לוויסות מיידי לדעת קהילת המשקיעים הגלובלית. בקריפטו, בעקבות פריצה בבינאנס, נמשכו אלפי מיליארדים מהפלטפורמה בשעות אחדות.",
+      "headlines": [
+        {
+          "id": "47da86807f",
+          "title": "היום הגרוע של אינטל: מיליארדי דולרים נמחקו, ועובדים רבים בישראל נפגעו",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001561546",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-01T16:00:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1793538448/AP26153308764721_dayusq.jpg"
+        },
+        {
+          "id": "f715fac850",
+          "title": "בכירי קרן גידור מהגדולות בעולם נגד הספקנים: AI זקוקה לריסון מיידי",
+          "url": "https://www.themarker.com/wallstreet/2026-11-01/ty-article/.premium/000001a1-972e-d125-a3b1-f7ee0ed50000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-01T14:58:40+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000017f-f83c-d044-adff-fbfdb8c10000/00/0d/937f224b7193efc0a7ff6ecdcc3c/8332101.jpeg?width=108&height=81"
+        },
+        {
+          "id": "dcaae589a9",
+          "title": "לאחר פריצת הקריפטו הגדולה: בתוך שעות נמשכו מיליארדי דולרים מבייננס",
+          "url": "https://www.themarker.com/wallstreet/2026-11-02/ty-article/.premium/000001a1-9aed-d125-a3b1-ffef04850000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-02T06:59:21+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-9af9-de48-abb1-dff951350000/94/77/954a5f264d94980982e9abe364f7/870778.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "המחאה בספרד נגד תיירות קלעה לתקרית אלימה. כוכב הכדורגל הגלובלי נתן כבוד לנבחרת הישראלית במשחק בינלאומי.",
+      "headlines": [
+        {
+          "id": "7fc7215d6b",
+          "title": "\"הרוג תייר זר\": המחאה נגד תיירים בספרד עולה שלב",
+          "url": "https://www.mako.co.il/news-world/2026_q4/Article-7edec4d41c591a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-11-01T06:15:00+00:00",
+          "image_url": "https://img.mako.co.il/2025/06/16/I_grid_barcelonapro.jpg"
+        },
+        {
+          "id": "3cf6a8b10e",
+          "title": "זהב משובח: הכבוד הנדיר של מסי הלילה למגן הישראלי",
+          "url": "https://sports.walla.co.il/item/3874577",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-02T05:34:00+00:00",
+          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/1/1/5/4115521-46.jpg"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "רצח משפחתי בפתח תקווה, שבו הבעל הכה את אשתו למוות בעוד ילדיהם עדים לכך. בית תפילה לחללים בנהריה נפגע בוונדליזם שהרס סמלים דתיים. ילדים של מהגרים מבקשים להתגייס לצה״ל כחלק מתהליך ההשתלבות בחברה.",
+      "headlines": [
+        {
+          "id": "5d3d4a9193",
+          "title": "חשד לרצח בפתח תקווה: הבעל הכה למוות את אשתו עם גרזן לעיני הילדים - והתאבד",
+          "url": "https://www.ynet.co.il/news/article/hyh2wsspmx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-01T22:51:13+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/02/rygIrLSaMg/rygIrLSaMg_0_0_1280_719_0_medium.jpg"
+        },
+        {
+          "id": "487474af36",
+          "title": "פסלים נותצו בכנסייה בנהריה - ואז התגלה פתק על המזבח",
+          "url": "https://www.walla.co.il/news/israel/383959735",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-02T03:54:00+00:00",
+          "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/1/images/1793567123389_walla-media-picture_2048x1536.webp?width=500"
+        },
+        {
+          "id": "1f555eb67a",
+          "title": "43 ילדי מהגרים מתחננים להתגייס לצה\"ל, המדינה מושכת זמן: \"רק בממשלה הבאה\"",
+          "url": "https://www.ynet.co.il/news/article/yokra14943387",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-02T04:33:31+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/08/SJAJwlpVWe/SJAJwlpVWe_0_133_1280_721_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "מרכז תל אביב עובר התחדשות עם אלפי דירות חדשות והתייעצות של העירייה על מס שבח. תוכנית תחבורה ציבורית בהיקף 28 מיליארד שקלים בדרך לשדרוג התשתיות.",
+      "headlines": [
+        {
+          "id": "c5164c7a19",
+          "title": "מרכז ת\"א מתחדש באלפי דירות, והפעם העירייה דאגה להיטל השבחה שמן",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001561579",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-02T03:51:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1669128061/direct/shutterstock_756398464_mxg1uo.jpg"
+        },
+        {
+          "id": "dfbfd22185",
+          "title": "בהיקף של 28 מיליארד שקל: האם זה המהלך שישדרג את התחבורה הציבורית בישראל?",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001561637",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-02T07:21:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1648631182/direct/shutterstock_1646406484_llpu0i.jpg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "מחיר המים בשנת 2027 יקבע על ידי חיידקים מיקרוסקופיים ותנודות פוליטיות. פסיפס עתיק בן 1500 שנה הוחזר למצבו המקורי בהשקעה קהילתית בצפון.",
+      "headlines": [
+        {
+          "id": "90be18273a",
+          "title": "אצה מיקרוסקופית ופופוליזם יקבעו מה יהיה מחיר המים ב–2027",
+          "url": "https://www.themarker.com/news/energy/2026-11-02/ty-article/.highlight/000001a1-969e-db9a-a1b3-9ebe4e510000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-02T04:01:28+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-96ea-dc07-a3f5-defb56e80000/8c/56/5e31521c4316b83aa845be599fbd/689042.jpg?width=108&height=81"
+        },
+        {
+          "id": "ef4d3f0090",
+          "title": "אחרי 1,500 שנה: כך הצילו 20 אנשים את הפסיפס הנדיר בצפון",
+          "url": "https://travel.walla.co.il/item/3874482",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-02T04:32:00+00:00",
+          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/1/1/5/4115198-46.jpeg"
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [
+    "kan"
+  ],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israeli public opinion is shifting on settlements, with recent polling showing that most Israelis support changing policy to avoid international sanctions. Gaza continues to experience violence, with Israeli military strikes killing eight people, including a child. Arab coalition leaders see a historic opportunity for Israel to change direction politically. Israel's President convened 150 community leaders to address national challenges, while Prime Minister Netanyahu held a frank discussion with incoming US President Trump regarding the ongoing regional conflict.",
+      "headlines": [
+        {
+          "id": "96a242f04e",
+          "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+          "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-01T17:06:32+00:00",
+          "image_url": null
+        },
+        {
+          "id": "e8945d7d03",
+          "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+          "url": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-02T06:00:33+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/356f8ba94400f97b2971aeef725d39e33aee313e/427_0_7919_6336/master/7919.jpg?width=700&quality=85&auto=format&fit=max&s=69a9d25cc36cbeac8a787a9bf5c42d94"
+        },
+        {
+          "id": "451a04e84b",
+          "title": "Israel has 'historic' opportunity to change direction, says leader of Arab coalition",
+          "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-02T06:00:32+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/5888e5a85d6810888d4cc569048e3bb38106b5fd/364_0_5163_4133/master/5163.jpg?width=700&quality=85&auto=format&fit=max&s=e84b839aca81bc4580ed10f5eaf92f40"
+        },
+        {
+          "id": "81db3e896b",
+          "title": "What happened when the president of Israel asked 150 Jews to solve their people's problems",
+          "url": "https://www.jta.org/2026/11/01/global/what-happened-when-isaac-herzog-asked-150-jews-to-solve-their-peoples-problems",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-01T11:11:58+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/10/10-31-2026-Voice-of-the-People.jpg"
+        },
+        {
+          "id": "c8ff766238",
+          "title": "Trump and Netanyahu had frank telephone conversation about the continuation of the war in Iran",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/trump-en-netanyahu-hadden-openhartig-telefoongesprek-over-verv~1784611610051/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgian Prime Minister Bart De Wever is meeting with the King to offer his government's resignation following a budgetary impasse that prevented the cabinet from agreeing on the national budget. The political crisis represents a significant moment in Belgian governance. On the economic front, wage earners will see a modest increase of 8.47 euros in net monthly wages beginning November 2nd. Rising interest rates are meanwhile creating concerns in the real estate market, with experts warning potential homebuyers against postponing property purchases.",
+      "headlines": [
+        {
+          "id": "b57f000572",
+          "title": "Live - De Wever goes to the king at 9:30 to offer the government's resignation • Core cabinet finds no agreement on budget",
+          "url": "https://www.demorgen.be/snelnieuws/live-om-9-30-uur-trekt-de-wever-naar-de-koning-om-het-ontslag-van-de-regering-aan-te-bieden-kernkabinet-vindt-geen-akkoord-over-begroting~bf7e76f4/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-02T06:49:00+00:00",
+          "image_url": "https://image.demorgen.be/279442735/roi/320/320/834.0200000000001/882.9000000000001/afbeelding"
+        },
+        {
+          "id": "292938fcdd",
+          "title": "Work must pay: from today you get 8.47 euros more in net wages as of November 1st",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/meer-loon-vanaf-november-aanpassing-bedrijfsvoorheffing/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "e49a1968bc",
+          "title": "Experts warn that high interest rates are causing delay in the real estate market: Don't postpone the purchase of a house",
+          "url": "https://www.hln.be/mijn-geld/experten-waarschuwen-nu-hoge-rente-leidt-tot-getreuzel-op-de-vastgoedmarkt-stel-de-aankoop-van-een-woning-niet-uit~ab698145/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-02T06:00:00+00:00",
+          "image_url": "https://images.hln.be/YjkxNzczZGNjNzgxNjhkZWE4ZjcvZGlvLzI3OTcwMDU1Mi9maXQtd2lkdGgvNDAw/kopfoto-woonlening"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "Bulgaria has elected its first female president, Iliana Yotova, marking a historic political moment. The European Union and Canada have begun a six-month period testing their renewed commitment to cooperation. In the ongoing Ukraine conflict, President Zelensky is conditioning the continuation of Patriot missile deliveries on Russia halting attacks against Ukrainian refineries, as evacuated Ukrainian civilians recount harrowing experiences of hunger and landmines during their escape from occupied territory.",
+      "headlines": [
+        {
+          "id": "6c528d73c0",
+          "title": "Bulgaria's first female president: Iliana Yotova wins elections",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/bulgaarse-president-iliana-jotova-herkozen/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "2add48166f",
+          "title": "EU and Canada's 6-month test of commitment",
+          "url": "https://www.politico.eu/article/canada-eu-partnership-6-month-test/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-01T16:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "bbe031b544",
+          "title": "Live - Zelensky links delivery of Patriot missiles to stopping attacks on Russian refineries • Russia hits target in Odessa and cargo ship at sea",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-zelensky-linkt-levering-patriot-raketten-aan-stoppen-aanvallen-op-russische-raffinaderijen-rusland-treft-doelwit-in-odessa-en-vrachtschip-op-zee~b38bed0a/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-02T07:27:00+00:00",
+          "image_url": "https://image.demorgen.be/279641510/roi/320/320/2416.74/1439.76/afbeelding"
+        },
+        {
+          "id": "98a8781322",
+          "title": "Russia-Ukraine War: It felt like escaping hell: evacuated civilians from Olesjky testify about hunger and mines",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/getuigenissen-van-burgers-uit-olesjky-oekraine-rusland-oorlog/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "A train collision in Toledo has killed at least twelve foreign victims, with thirteen additional bodies awaiting identification, in one of Europe's major transportation disasters. In the United States, a private plane crash near a residential area in Florida has resulted in nine deaths. International concerns continue regarding press freedom, with prominent figures being included on lists of enemies of free media.",
+      "headlines": [
+        {
+          "id": "04b3c1cab4",
+          "title": "Live - Train collision in Toledo: At least twelve foreign victims died and identified • 13 more bodies awaiting identification",
+          "url": "https://www.demorgen.be/nieuws/live-treinbotsing-toledo-zeker-twaalf-buitenlandse-slachtoffers-overleden-en-geidentificeerd-nog-13-lichamen-wachten-op-identificatie~b40a608a/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-02T06:05:00+00:00",
+          "image_url": "https://image.demorgen.be/279696421/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "369cf903cd",
+          "title": "United States: 9 dead after private plane crash near residential area in Florida, pilot realized what would happen: We're going to crash",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/negen-doden-bij-crash-vliegtuigje-in-florida/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "48f9fa96e7",
+          "title": "Live - Donald Trump on list of enemies of press freedom • Democratic Congresswoman Haley Stevens turns her back on her own party and supports Republican in Senate race",
+          "url": "https://www.demorgen.be/snelnieuws/live-donald-trump-op-lijst-met-vijanden-van-persvrijheid-democratisch-congreslid-haley-stevens-keert-eigen-partij-de-rug-toe-en-steunt-republikein-in-senaatsrace~b13cc951/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-02T06:10:00+00:00",
+          "image_url": "https://image.demorgen.be/279794472/roi/320/320/3180/1640.4099999999999/afbeelding"
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
