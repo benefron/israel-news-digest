@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-11-04T07:44:40.520066+00:00",
+  "date": "2026-11-04",
+  "degraded": true,
+  "top_general": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": [
+      {
+        "id": "1120796697",
+        "title": "UK’s Supreme Court set to hear appeal against ban on Palestine Action group",
+        "url": "https://www.timesofisrael.com/uks-supreme-court-set-to-hear-appeal-against-ban-on-palestine-action-group/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-04T04:10:33+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26304553251490-1024x640.jpg"
+      },
+      {
+        "id": "92522f7452",
+        "title": "תבוסה משפילה לטראמפ: הדמוקרטים כבשו את בית הנבחרים – וגם את הסנאט",
+        "url": "https://www.ynet.co.il/news/article/bjtzcmdazl",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-04T04:41:12+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/01/r1vfdTNaGe/r1vfdTNaGe_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "e32caf0978",
+        "title": "המפלה של טראמפ: למה בוול סטריט חוששים ומה המשמעות עבור ישראל?",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001561961",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-11-04T05:32:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1629367390/direct/shutterstock_407995261_t3rrzd.jpg"
+      },
+      {
+        "id": "3e08545801",
+        "title": "הדמוקרטים כבשו את בית הנבחרים והסנאט | כל העדכונים",
+        "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21774186",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "985896d623",
+        "title": "סקר בחירות 2026 סקר בחירות 2026",
+        "url": "https://www.kan.org.il/lobby/skarim/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "d2a0441afb",
+        "title": "הוועדה הודיעה רשמית: \"אין ממצאים על פגיעה בטוהר הבחירות או שינוי התוצאות\"",
+        "url": "https://www.ynet.co.il/news/article/r1bxeboamx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-04T05:45:54+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/29/Skx3jn9eTGl/Skx3jn9eTGl_136_312_1986_1118_0_medium.jpg"
+      },
+      {
+        "id": "1778de0e28",
+        "title": "טראמפ מתנער מתוצאות הבחירות: \"אני לא עמדתי לבחירה\"",
+        "url": "https://www.kan.org.il/content/kan-news/global/live-1115846/liveid-1115865/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "e0c98534de",
+        "title": "ועדת הבחירות המרכזית: אין סימנים לפגיעה בטוהר הבחירות",
+        "url": "https://www.kan.org.il/content/kan-news/politic/live-1115826/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": "https://www.kan.org.il/media/0z5pnmdk/f261027ys07.jpg?width=490&height=272&v=1dd660017929b20"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
+  },
+  "subjects": [],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "makor_rishon"
+  ],
+  "sources_failed": [
+    "maariv",
+    "reshet13",
+    "i24"
+  ]
+}
