@@ -1,0 +1,474 @@
+{
+  "generated_at": "2026-11-05T07:59:46.432912+00:00",
+  "date": "2026-11-05",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "תוצאות בחירות האמצע בארה\"ב ממשיכות להדהד: הדמוקרטים רשמו ניצחון סוחף, וואנס טען כי המפלגה הפסידה בגלל מלחמת איראן והביע רצון לשינוי ביחסי ישראל-ארה\"ב, בעוד טראמפ הגן על ההחלטה. בישראל ממשיכות ההתייעצויות אצל הנשיא הרצוג להרכבת הממשלה, לאחר שיהדות התורה הודיעה כי לא תמליץ על אף מועמד. במקביל מתרחב משבר סביב ח\"כ זיני וחקירת היועמ\"שית, ונמשכת תסיסה סביב מתנחלים שנכנסו לבתים בפאתי יריחו.",
+    "headlines": [
+      {
+        "id": "804c107ee8",
+        "title": "שבעה מושבים חדשים בסנאט, חמישה מושלים חדשים: סיכום הישגי הדמוקרטים",
+        "url": "https://www.haaretz.co.il/news/world/america/2026-11-04/ty-article/.premium/000001a1-a6e0-db8d-a9f7-a7ecb7f70000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-04T14:25:05+00:00",
+        "image_url": null
+      },
+      {
+        "id": "da0d1ed2e9",
+        "title": "ואנס: הפסדנו בגלל המלחמה באיראן; טראמפ: זה היה שווה את זה",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-09e459ebb37a1a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-04T16:05:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/09/18/1809VANCE_autoOrient_i.jpg"
+      },
+      {
+        "id": "6665f6bdc6",
+        "title": "As Herzog consults party heads, Haredi faction says it won’t recommend Netanyahu as PM",
+        "url": "https://www.timesofisrael.com/as-herzog-consults-party-heads-haredi-faction-says-it-wont-recommend-netanyahu-as-pm/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-04T21:47:58+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261104OFPOOL05-1024x640.jpg"
+      },
+      {
+        "id": "1a7d3f549f",
+        "title": "זיני בשיחות עם היועמ\"שית: עיקר החשד להשפעה זרה הגיע לשב\"כ רק ביום הבחירות",
+        "url": "https://www.haaretz.co.il/news/elections/2026-11-05/ty-article/.highlight/000001a1-a841-d041-a5f9-ed615c2d0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-05T04:00:00+00:00",
+        "image_url": null
+      },
+      {
+        "id": "497dfa70b6",
+        "title": "צה\"ל הסיט כוחות כדי להגן על מתנחלים שנכנסו לבתים באזור יריחו: \"ללא אישור\"",
+        "url": "https://www.ynet.co.il/news/article/sk6kfwkaml",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-04T22:35:52+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/04/rJfKBTi00TGg/rJfKBTi00TGg_119_206_1125_633_0_medium.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "המתיחות מול איראן ממשיכה לעלות, עם דיווחים על מכליות נפט שעלו באש במצר הורמוז וחששות במדינות המפרץ מהסלמה. בישראל מדווח כי שב\"כ וצה\"ל זיהו עוד לפני טבח 7 באוקטובר שמוחמד דף ירד למנהרה בעזה, וצה\"ל תקף בדרום לבנון ובעזה וחיסל מפקד חמאס שהחזיק בן ערובה. בד בבד, דווח כי הפיילוט הביטחוני בדרום לבנון מאכזב, וכי מימון הרכש הצבאי של ישראל מארה\"ב נמצא בסכנה בעקבות הזמנות נשק של 10 מיליארד דולר.",
+    "headlines": [
+      {
+        "id": "cb0d95ef25",
+        "title": "איראן טוענת: שתי מכליות נפט עלו באש במצר הורמוז",
+        "url": "https://www.kan.org.il/content/kan-news/defense/live-1116171/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": "https://www.kan.org.il/media/urkpeerk/2025-06-22t125332z_2140699323_rc2n7fammvq7_rtrmadp_3_iran-nuclear-oil-disruption.jpg?rxy=0.5228162406248714,0.4191725939424222&width=490&height=272&v=1dc07aad400cfd0"
+      },
+      {
+        "id": "220d0b2c4b",
+        "title": "שב\"כ וצה\"ל הבחינו בלילה שלפני טבח 7 באוקטובר כי מוחמד דף ירד למנהרה בעזה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-11-04/ty-article/.premium/000001a1-a731-d5ab-a1a9-e7f171fb0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-04T16:02:50+00:00",
+        "image_url": null
+      },
+      {
+        "id": "53b2451f91",
+        "title": "IDF: Gaza strikes kill 7 terrorists, including Hamas commander who held hostage",
+        "url": "https://www.timesofisrael.com/idf-gaza-strikes-kill-7-terrorists-including-hamas-commander-who-held-hostage/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-05T06:02:10+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26306522921458-1024x640.jpg"
+      },
+      {
+        "id": "ba86d58752",
+        "title": "הצבא הלבנוני לא סיפק את הסחורה: התוצאות המאכזבות של הפיילוט בדרום לבנון",
+        "url": "https://www.ynet.co.il/news/article/yokra14948635",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-04T23:08:45+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/04/yk14949246/yk14949246_0_81_1044_588_0_medium.jpg"
+      },
+      {
+        "id": "bb87f4136c",
+        "title": "מטוסי F-35 ונשק במיליארדים: מימון הרכש הצבאי של ישראל בסכנה",
+        "url": "https://www.walla.co.il/news/politics/383960168",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-11-05T06:13:37+00:00",
+        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/3/5/6/6/3566397-46.jpg"
+      },
+      {
+        "id": "9cb715d346",
+        "title": "החשש במדינות המפרץ מהסלמה עם איראן: \"יהיו השלכות כבדות, נמצאים בהיערכות\"",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-32d106f3c36a1a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-04T11:18:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/04/28/UAE_trump_re_autoOrient_i.jpg"
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "המערכה הפוליטית בישראל מתחממת: ראש השב\"כ עימת את היועמ\"שית בנושא חקירת זיני, ונתניהו פרסם הצהרה ראשונה מאז הבחירות. בארה\"ב, הדמוקרטים ממשיכים לחגוג ניצחונות היסטוריים, ובהם האקים ג'פריס בדרכו להיות יו\"ר שחור ראשון של בית הנבחרים.",
+      "headlines": [
+        {
+          "id": "d4c78623a7",
+          "title": "ראש השב\"כ מסכים שאין פגיעה בבחירות בכללותן: \"לא אזוז סנטימטר מהוראת היועמ\"שית - ולא אתן לשרוף את המדינה\"",
+          "url": "https://www.mako.co.il/news-world/2026_q4/Article-9d09281c3b5a1a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-11-04T09:20:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/11/03/galidavid_031126_i_re_autoOrient_i.jpg"
+        },
+        {
+          "id": "ac96a25540",
+          "title": "ראש השב\"כ הטיח ביועמ\"שית: \"תני לחקור ואז יהיה חשד סביר\"",
+          "url": "https://www.ynet.co.il/news/article/syu0011ff6ze",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-04T22:14:46+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/04/SJdwHnd6Ml/SJdwHnd6Ml_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "e52379748c",
+          "title": "אחרי ש\"נעלם\": נתניהו פרסם הצהרה מצולמת ראשונה מאז הבחירות",
+          "url": "https://www.ynet.co.il/news/article/skuixwttze",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-04T22:16:31+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/04/B1e9XZF6ze/B1e9XZF6ze_0_0_825_464_0_medium.jpg"
+        },
+        {
+          "id": "cd0b3520d5",
+          "title": "האקים ג'פריס בדרך לעשות היסטוריה ולהתמנות ליו\"ר השחור הראשון של בית הנבחרים",
+          "url": "https://www.haaretz.co.il/news/world/america/2026-11-04/ty-article/.premium/000001a1-a62c-d587-a1e3-a6ec123c0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-04T13:21:40+00:00",
+          "image_url": null
+        },
+        {
+          "id": "262f163043",
+          "title": "משתתפי הדיון אצל סולברג היו בהלם: \"זיני לא מבין את היחסים בינו לבין החוק\"",
+          "url": "https://www.ynet.co.il/news/article/syzki3opfe",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-04T19:50:29+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/SJArQHQTGl/SJArQHQTGl_106_109_626_353_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "יהדות התורה הודיעה רשמית לנשיא כי לא תמליץ על אף מועמד להרכבת הממשלה, במה שמתואר כאסטרטגיה למריחת זמן סביב סוגיית הגיוס. בצד זה, עשרות ראשי רשויות מקומיות קראו לשיתוף פעולה יהודי-ערבי.",
+      "headlines": [
+        {
+          "id": "d9325b5bd3",
+          "title": "יהדות התורה הודיעה לנשיא כי לא תמליץ על שום מועמד להרכבת הממשלה",
+          "url": "https://www.haaretz.co.il/news/elections/2026-11-05/ty-article/.premium/000001a1-a829-d041-a5f9-ed2907f80000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-05T04:01:05+00:00",
+          "image_url": null
+        },
+        {
+          "id": "dd37df1819",
+          "title": "\"ההוראה היא למרוח זמן\": בלוף הגיוס - והאסטרטגיה החרדית",
+          "url": "https://13tv.co.il/item/news/opinions/zd77t-905394287/?pid=62&refc=902992437",
+          "source": "reshet13",
+          "source_label": "חדשות 13",
+          "source_label_he": "חדשות 13",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "fdaa6f3614",
+          "title": "יהדות התורה לא המליצה על אף מועמד לראשות הממשלה: \"חוק גיוס ללא יעדים וללא מכסות\"",
+          "url": "https://www.maariv.co.il/news/elections-2026/article-1384980",
+          "source": "maariv",
+          "source_label": "מעריב",
+          "source_label_he": "מעריב",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "686646e63b",
+          "title": "עשרות ראשי רשויות מקומיות, ובהם מהליכוד, קראו לשיתוף פעולה יהודי־ערבי",
+          "url": "https://www.haaretz.co.il/news/elections/2026-11-04/ty-article/.premium/000001a1-a6e3-d2e9-a5ad-befb28ce0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-04T15:20:58+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "בשוקי ההון נרשם ראלי בוול סטריט בעקבות תוצאות הבחירות, בעוד שבישראל אל על מדווחת על ירידה ברווח הרבעוני לצד חלוקת דיבידנד גדולה. בנוסף, מדווח כי פאלו אלטו האמריקנית במגעים לרכישת חברת הסייבר הישראלית קלאץ' בחצי מיליארד דולר.",
+      "headlines": [
+        {
+          "id": "c0981514b9",
+          "title": "הסיבה מאחורי הראלי האדיר שנרשם אמש בוול סטריט",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001562145",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-05T05:26:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1708619124/direct/shutterstock_629368055_bxlyic_wefga1.jpg"
+        },
+        {
+          "id": "252f067ae6",
+          "title": "הרווח של אל על ירד ב-14% ברבעון; תחלק דיבידנד ענק",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001562149",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-05T06:38:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1754909650/direct/%D7%9C%D7%95%D7%99_%D7%94%D7%9C%D7%95%D7%99_%D7%A6%D7%99%D7%9C%D7%95%D7%9D_%D7%A2%D7%A0%D7%91%D7%9C_%D7%9E%D7%A8%D7%9E%D7%A8%D7%99_dvzxsn.jpg"
+        },
+        {
+          "id": "ace174fa9e",
+          "title": "דיווח: פאלו אלטו במו\"מ לרכישת קלאץ' הישראלית בחצי מיליארד דולר",
+          "url": "https://www.themarker.com/technation/2026-11-05/ty-article/.premium/000001a1-aa43-defa-a7f7-ae7ff6f00000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-05T05:53:58+00:00",
+          "image_url": "https://img.haarets.co.il/bs/0000019c-75d8-d4f9-abff-fdfe7a7c0000/d2/a1/b8403c294dc8906d5ca6772ba311/139689-2.jpg?width=108&height=81"
+        },
+        {
+          "id": "a0ed878a2e",
+          "title": "מצב השווקים: מניות השבבים מפילות את סיאול, החוזים על הנאסד\"ק אדומים",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001562117",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-05T05:00:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1715662144/direct/shutterstock_1712512246_u2d5v9.jpg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "תושבי עמק חפר וחדרה דיווחו על עשן כבד וריחות רעילים באזור, על רקע גל שריפות מעבר לקו התפר. בנוסף, צפוי סופ\"ש חורפי עם גשמים וחשש משיטפונות.",
+      "headlines": [
+        {
+          "id": "e81dd0efb6",
+          "title": "עשן כבד ו\"ריחות רעילים\" באזור עמק חפר וחדרה: \"גל שריפות מעבר לקו התפר\" | תיעוד",
+          "url": "https://www.ynet.co.il/news/article/bkz4r5ypmg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-05T06:18:34+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/05/SkIyh5K6fe/SkIyh5K6fe_0_381_720_405_0_medium.jpg"
+        },
+        {
+          "id": "4be1434448",
+          "title": "סופ\"ש חורפי בפתח: הגשם בדרך - וגם השיטפונות | התחזית המלאה, והמכ\"ם",
+          "url": "https://www.ynet.co.il/news/article/a39fs59y2",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-05T03:19:39+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/15/HJWKQbZAIfe/HJWKQbZAIfe_0_53_1280_720_0_medium.jpg"
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israel's political system faces challenges following recent elections, with the country's president beginning consultations with parties amid an apparent deadlock. The election commission dismissed fraud allegations raised by Netanyahu, affirming the integrity of the electoral process. Among the diaspora, tensions persist as Jewish political figures in the United States make polarizing statements about voting behavior and party allegiance.",
+      "headlines": [
+        {
+          "id": "812f6529ab",
+          "title": "Israel's president begins consultations with parties after election deadlock",
+          "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-04T16:18:21+00:00",
+          "image_url": null
+        },
+        {
+          "id": "5c520a90cf",
+          "title": "Israel's election commission rejects Netanyahu claims of voting fraud",
+          "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-04T12:19:18+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/288a15e92c7bafcb3600eb1b2d8e20cc71573794/291_0_3027_2421/master/3027.jpg?width=700&quality=85&auto=format&fit=max&s=d503b3b5db741025bafb03e3ec797890"
+        },
+        {
+          "id": "c0f29e435f",
+          "title": "Jewish NYC Council member says real Jews don't vote for Democrats",
+          "url": "https://www.jta.org/2026/11/04/ny/jewish-nyc-council-member-says-real-jews-dont-vote-for-democrats",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-04T23:11:09+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2023/05/5-2-2023-End-Jew-Hatred.jpg"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium is navigating policy shifts across multiple regions and sectors. Brussels is ending free shuttle bus services for civil servants due to budget constraints, while Ghent is implementing energy conservation measures by reducing heating in public buildings. Social services in Ghent equipped staff with emergency buttons following a workplace incident, and the children's rights commissioner is urging greater attention and resources for young caregivers.",
+      "headlines": [
+        {
+          "id": "45df52e0ec",
+          "title": "Brussels ends free shuttle bus for civil servants amid budget pressures",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/gratis-pendelbus-brussel-vlaamse-overheid-ambtenaren-niet-meer-g/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "09594c7030",
+          "title": "Children's rights commissioner calls current statute an 'empty box', urges more support for young caregivers",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/kinderrechtencommissaris-over-jonge-mantelzorgers/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "47b9464522",
+          "title": "Gent social services staff receive emergency alert buttons following Erik Boone's murder",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/stad-gent-ocmw-noodknop-bureau-smartphone/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "fae49c2f68",
+          "title": "Gent saves energy by lowering heating from 20 to 19 degrees in offices and schools",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/gent-verwarming-besparing-energie-energieprijzen-winter-stoken-s/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "European governance is confronting challenges spanning security, history, and economics. Hungary released secret police files from its communist era, advancing historical accountability efforts. The EU faces questions about balancing security needs with fundamental rights as officials consider expanding the border agency's authority, while the Dutch airline KLM announced significant layoffs affecting 5,000 employees.",
+      "headlines": [
+        {
+          "id": "85a67ec074",
+          "title": "Hungary releases secret police files from communist era",
+          "url": "https://www.politico.eu/article/hungary-releases-secret-police-files-from-communist-era/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-04T18:43:55+00:00",
+          "image_url": null
+        },
+        {
+          "id": "bbbc4dce18",
+          "title": "MEPs fear fundamental rights will take a hit under plans to expand EU border agency",
+          "url": "https://www.politico.eu/article/meps-fear-fundamental-rights-will-take-hit-plans-expand-eu-border-agency/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-04T18:31:17+00:00",
+          "image_url": null
+        },
+        {
+          "id": "e5c4b2ed0b",
+          "title": "Dutch airline KLM cuts 5,000 jobs, 15 percent of workforce",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/nederlandse-luchtvaartmaatschappij-klm-schrapt-5-000-banen-geli/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Major international developments span Asia, North America, and Middle Eastern geopolitics. Hong Kong activist Joshua Wong, a prominent figure in the pro-democracy movement, was sentenced to 10 years in prison, potentially delaying his expected release. The United States held midterm elections, with Democrats achieving notable gains and competitive Senate races continuing, while South Korea announced expanded naval operations in waters near the Strait of Hormuz.",
+      "headlines": [
+        {
+          "id": "79e2afd271",
+          "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-05T06:35:25+00:00",
+          "image_url": null
+        },
+        {
+          "id": "b2d385c02a",
+          "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-05T07:24:03+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=700&quality=85&auto=format&fit=max&s=3b0907d9bc1ae0fe12d5a9138864d629"
+        },
+        {
+          "id": "444853f1d6",
+          "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+          "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-05T04:22:49+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/93931aed9b2c9de66c5e7d47a1df4c3d0c323131/535_0_1928_1542/master/1928.jpg?width=700&quality=85&auto=format&fit=max&s=daf07ebaee28574508ad369bdbafb7bf"
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
