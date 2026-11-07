@@ -1,0 +1,501 @@
+{
+  "generated_at": "2026-11-07T08:43:12.109939+00:00",
+  "date": "2026-11-07",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "ישראל נמצאת בעיצומו של משבר קואליציוני סביב חוק הגיוס, כאשר ליברמן מאותת על נכונות להתפשרות שעשויה לאפשר הקמת ממשלה חדשה. בוושינגטון מינה טראמפ את סטיבן מילר לראש הסגל החדש בעקבות עזיבת סוזי וויילס, בצל התבוסה במערכת הבחירות לקונגרס. במקביל, גל גשמים וסערות חורפיות פוקד את הארץ עם חשש ממשי להצפות, ובזירה הכלכלית נרשמה התאוששות בשווקים אחרי ירידות חדות.",
+    "headlines": [
+      {
+        "id": "b2ba268329",
+        "title": "ליברמן בהצהרה דרמטית: \"זה כואב לי, אבל צריך להתפשר בחוק הגיוס\"",
+        "url": "https://13tv.co.il/item/news/politics/politics/ywabj-905444832/?pid=62&refc=902992386",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "261a69dad3",
+        "title": "After midterm defeat, Trump replaces Susie Wiles with Stephen Miller as chief of staff",
+        "url": "https://www.timesofisrael.com/after-midterm-defeat-trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-06T20:02:19+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP25167576884405-1024x640.jpg"
+      },
+      {
+        "id": "6457d94941",
+        "title": "גשמים וסופות רעמים ברחבי הארץ, חשש להצפות באזור החוף",
+        "url": "https://www.haaretz.co.il/news/weather/2026-11-07/ty-article/000001a1-b48e-d041-a5f9-f5af03fe0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-07T07:03:55+00:00",
+        "image_url": null
+      },
+      {
+        "id": "adbb41f057",
+        "title": "היום שאחרי המפולת: נאסד\"ק התאושש וננעל בעליות של יותר מ-1%",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001562355",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-11-06T21:03:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1650193069/direct/shutterstock_629368055_bxlyic.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "המתיחות מול איראן נמשכת: טראמפ מדבר על \"תקיפות קטנות\" בעוד ואנס פועל מאחורי הקלעים להשגת הסכם, ודיווחים מצביעים על פריצת דרך אפשרית במשא ומתן. במקביל נחשף כי רוסיה עשויה לספק לאיראן מערכות הגנה אווירית מתקדמות, וארה\"ב הציעה פרס כספי גבוה על מידע בנוגע לתוכנית הגרעין האיראנית. בנוסף נחשף כי מפקד פיקוד המרכז הנחה מתנחלים שלא לעדכן קצינים אחרים לפני כניסה ליריחו.",
+    "headlines": [
+      {
+        "id": "bcf816bcb6",
+        "title": "Trump says US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’",
+        "url": "https://www.timesofisrael.com/liveblog-november-07-2026/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-07T02:19:58+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26311039654303-e1794018240668-1024x640.jpg"
+      },
+      {
+        "id": "ec3d764e70",
+        "title": "מאחורי הקלעים: ואנס פועל להשגת הסכם עם איראן",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001562363",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-11-07T06:44:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1776346827/direct/shutterstock_2654660927_t5gg21.jpg"
+      },
+      {
+        "id": "da0fa253de",
+        "title": "דיווח: רוסיה עשויה לספק לאיראן מערכות הגנה אווירית מתקדמות",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-11-06/ty-article/.premium/000001a1-b1cf-d041-a5f9-f5ef9ee80000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-06T17:51:11+00:00",
+        "image_url": null
+      },
+      {
+        "id": "b9e67b8d90",
+        "title": "ארה\"ב הכריזה על פרס של עד 20 מיליון דולר למידע על תוכנית הגרעין של איראן",
+        "url": "https://www.kan.org.il/content/kan-news/defense/live-1116790/liveid-1116814/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "c2ee3bc210",
+        "title": "IDF Central Command chief reportedly told settlers not to alert other officers before Jericho entry",
+        "url": "https://www.timesofisrael.com/idf-central-command-chief-reportedly-told-settlers-not-to-alert-other-officers-before-jericho-entry/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-07T04:37:19+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260220CG118-1024x640.jpg"
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "המו\"מ הקואליציוני סביב חוק הגיוס ממשיך להסעיר: ליברמן מצהיר שהוא מוכן להתפשר, איזנקוט עומד על גיוס חובה, והחרדים מתוארים כמי שמנסים \"למרוח זמן\". בד בבד מדווח כי ההסכמות עשויות להשפיע על זהות ראש הממשלה הבא.",
+      "headlines": [
+        {
+          "id": "47dac8948f",
+          "title": "ליברמן משנה כיוון: מוכן להתפשר על חוק הגיוס",
+          "url": "https://www.makorrishon.co.il/news/politcal/article/389987",
+          "source": "makor_rishon",
+          "source_label": "מקור ראשון",
+          "source_label_he": "מקור ראשון",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "58ee6184e1",
+          "title": "Eisenkot stands by mandatory service after Liberman opens door to ultra-Orthodox parties",
+          "url": "https://www.timesofisrael.com/eisenkot-stands-by-mandatory-service-after-liberman-opens-door-to-ultra-orthodox-parties/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-06T21:14:58+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261027MA816-e1794035066629-1024x640.jpg"
+        },
+        {
+          "id": "dd37df1819",
+          "title": "\"ההוראה היא למרוח זמן\": בלוף הגיוס - והאסטרטגיה החרדית",
+          "url": "https://13tv.co.il/item/news/opinions/zd77t-905394287/?pid=62&refc=902992437",
+          "source": "reshet13",
+          "source_label": "חדשות 13",
+          "source_label_he": "חדשות 13",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "9d571886d8",
+          "title": "המשחק של החרדים עשוי לשנות את זהות ראש הממשלה",
+          "url": "https://www.walla.co.il/news/opinions/383960307",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-07T06:35:00+00:00",
+          "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/1/images/1793864927528_walla-media-picture_1599x975.webp?width=500"
+        },
+        {
+          "id": "a3d4e32c7b",
+          "title": "איזנקוט: נתבסס על מתווה הגיוס של ישר! במו\"מ עם החרדים",
+          "url": "https://www.kan.org.il/content/kan-news/politic/1116754/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": "https://www.kan.org.il/media/mupb4mia/אביגדור-ליברמן-וגדי-איזנקוט.png?width=490&height=272&v=1dd6e2c196c5790"
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "בשוק הנדל\"ן מתעוררות התראות מפני עסקאות רכישה ללא הון עצמי, במקביל לדילמה של בעלי דירות בנווה שאנן בין המתנה לפינוי-בינוי לבין מכירה בהפסד.",
+      "headlines": [
+        {
+          "id": "e84b5f4abd",
+          "title": "פתאום כולם מציעים נדל\"ן בחינם: הסכנות הגדולות ברכישה עם 0% הון עצמי",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001562263",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-06T10:30:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1793873649/800_wtezo5.jpg"
+        },
+        {
+          "id": "b9e16fba0a",
+          "title": "לחכות לפינוי־בינוי או למכור בהפסד? הדילמה של בעלי הדירות בנווה שאנן בתל אביב",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001561096",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-07T05:49:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1793178432/shutterstock_2814414723_rpesop.jpg"
+        },
+        {
+          "id": "6fabb7298b",
+          "title": "הורידו 130 אלף שקל מהמחיר, והדירה בת\"א נמכרה בשבועיים",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001561845",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-07T07:00:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/v1673779128/COT_Pic/%D7%A2%D7%A1%D7%A7%D7%90%D7%95%D7%AA-%D7%94%D7%A9%D7%91%D7%95%D7%A2800_sueckz.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "השווקים הפיננסיים מתאוששים לאחר ירידות חדות, עם עליות בבורסה המקומית ובנאסד\"ק, בעוד שמאסק מודיע על צמצום ייצור הסייברטראק של טסלה, ובפרגוואי קריסת בנק הובילה להדחת הנשיא.",
+      "headlines": [
+        {
+          "id": "d4ea9a0bd7",
+          "title": "נפגעי הטלטלה בשווקים: ההפסדים, הפיטורים והחשש שהגרוע עוד לפנינו",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001562364",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-07T06:27:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1744793576/COT_Pic/shutterstock_2352131181_djx0yf.jpg"
+        },
+        {
+          "id": "a7c7ee8f12",
+          "title": "דאו ג'ונס איבד 0.5%; נאסד\"ק עלה ב-1% אך נסוג ב-3% השבוע",
+          "url": "https://www.themarker.com/wallstreet/2026-11-06/ty-article-live/000001a1-9606-df63-ade5-f6579a5e0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-06T21:00:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000199-e294-d8a7-afdd-f7bd4d600000/ee/7d/e0bf49d241708ddf049d9b75fded/723893.jpg?width=108&height=81"
+        },
+        {
+          "id": "398fadf3c4",
+          "title": "מאסק: טסלה תצמצם את ייצור הסייברטראק בשנה הבאה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001562362",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-06T17:57:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1769089555/direct/WhatsApp_Image_2026-01-22_at_10.02.03_th11mz.jpg"
+        },
+        {
+          "id": "d96cf94d57",
+          "title": "הבנק הממשלתי קרס, הנשיא הפרו-ישראלי הודח ונעצר",
+          "url": "https://www.ynet.co.il/news/article/rkh7a113pge",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-07T06:45:38+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/11/BJn3OJwN1x/BJn3OJwN1x_0_61_913_514_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "גל קור וגשמים עזים פוקד את הארץ, עם סופות רעמים וחשש ממשי להצפות במרכז ובחוף, וכביש 90 נחסם באזור ים המלח.",
+      "headlines": [
+        {
+          "id": "26b2ef5691",
+          "title": "גשמים עזים בצפון ובמרכז - עם חשש ממשי להצפות: צפו במכ\"ם",
+          "url": "https://www.ynet.co.il/news/article/sych8djpfg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-07T04:48:30+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/06/S14Arai6zx/S14Arai6zx_0_1052_1530_862_0_medium.jpg"
+        },
+        {
+          "id": "77b16e4056",
+          "title": "משקעים גבוהים והצפות ברחבי הארץ | צפו בתיעודים",
+          "url": "https://www.walla.co.il/news/israel/383960375",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-07T06:45:00+00:00",
+          "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/1/images/1794031852998_walla-media-picture_1337x829.webp?width=500"
+        },
+        {
+          "id": "ecea514087",
+          "title": "06:30 בשל חשש להצפות: כביש 90 נחסם לתנועה באזור ים המלח",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385751",
+          "source": "maariv",
+          "source_label": "מעריב",
+          "source_label_he": "מעריב",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "עשר שנים למותו של לאונרד כהן מצוינות בהתייחסות לשיריו המתמודדים עם אמונה, בעוד שבארה\"ב נעצר אביה של מייגן מארקל בחשד לעבירות מין בקטינים.",
+      "headlines": [
+        {
+          "id": "3b4bc027a6",
+          "title": "10 years after Leonard Cohen’s death, his songs grappling with faith live on",
+          "url": "https://www.timesofisrael.com/10-years-after-leonard-cohens-passing-his-songs-grappling-with-faith-live-on/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-07T06:59:55+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP080606039156-1024x640.jpg"
+        },
+        {
+          "id": "480cdbd94d",
+          "title": "Meghan Markle’s father arrested in US over child sex abuse images",
+          "url": "https://www.timesofisrael.com/meghan-markles-father-arrested-in-us-over-child-sex-abuse-images/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-06T16:56:34+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/Screenshot-2026-11-07-at-1.32.59-e1794008041833-1024x640.jpg"
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "US midterm election results are shaping Israeli politics, potentially helping unify opposition to Prime Minister Netanyahu while raising concerns about the future of US-Israel relations. Conservative pro-Israel advocates are criticizing JD Vance for attributing GOP midterm losses to Israel. Jewish communities are engaging with contemporary cultural issues related to antisemitism.",
+      "headlines": [
+        {
+          "id": "fd4da6fc09",
+          "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+          "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-07T06:00:04+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/26ca01f978ce01c4b69b4f2cf325f6776851a3c5/750_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=0860f305045364af4c39a8fba0fb923b"
+        },
+        {
+          "id": "bd251553ea",
+          "title": "US midterm results spark fears in Israel over future of two countries' ties",
+          "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-06T13:23:44+00:00",
+          "image_url": null
+        },
+        {
+          "id": "d952ea28da",
+          "title": "Pro-Israel conservatives blast JD Vance for blaming Israel after GOP midterm losses",
+          "url": "https://www.jta.org/2026/11/06/politics/pro-israel-conservatives-blast-jd-vance-for-blaming-israel-after-gop-midterm-losses",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-06T22:02:33+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/GettyImages-2293366738.jpg"
+        },
+        {
+          "id": "8a37c07101",
+          "title": "I'm a Jewish teen DJ. Should I play Kanye West at a party?",
+          "url": "https://www.jta.org/2026/11/06/ideas/im-a-jewish-teen-dj-should-i-play-kanye-west-at-a-party",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-06T15:00:00+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/04/ye.jpg"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium's government shows signs of instability, with opposition politicians seeking advantage amid uncertainty about government stability. A prominent Bozar cultural director faces criticism from former employees over aggressive workplace behavior. Young Belgians are increasingly taking out 30-year mortgages as housing market dynamics shift, while Antwerp authorities are cracking down on fraudulent businesses at record levels.",
+      "headlines": [
+        {
+          "id": "59d8b1f653",
+          "title": "'He shouted. I don't mean just shouting. He screamed until he lost his voice': acclaimed Bozar director Karen Torosyan under fire from former employees",
+          "url": "https://www.demorgen.be/nieuws/hij-riep-ik-bedoel-niet-zomaar-roepen-hij-schreeuwde-echt-tot-hij-zijn-stem-kwijt-was-gelauwerde-bozar-chef-karen-torosyan-ligt-onder-vuur-bij-ex-werknemers~b2f74d72/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-07T02:00:00+00:00",
+          "image_url": "https://image.demorgen.be/272421296/roi/320/320/1093/707/afbeelding"
+        },
+        {
+          "id": "d0a30a3272",
+          "title": "'Any prime minister would try that. But De Wever ruled it out in advance': Paul Magnette sees his chance as the government wavers",
+          "url": "https://www.demorgen.be/politiek/eender-welke-premier-zou-dat-proberen-maar-de-wever-trok-er-op-voorhand-een-streep-door-paul-magnette-ps-ruikt-zijn-kans-nu-de-regering-wankelt~ba2feac2/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-07T02:00:00+00:00",
+          "image_url": "https://image.demorgen.be/280032622/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "e54eca5ad1",
+          "title": "30-year mortgages increasingly popular among young people",
+          "url": "https://www.hln.be/binnenland/hypotheeklening-op-30-jaar-steeds-populairder-bij-jongeren~a4a1a259/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-07T06:44:00+00:00",
+          "image_url": "https://images.hln.be/ZDM4YTAxNDNhYTRlMjRjZWU2MjcvZGlvLzE2MzcwODYyOC9maXQtd2lkdGgvNDAw/real-estate-agent-giving-a-young-couple-the-key-to-their-new-house-close-up-of-key-and-hand-of-the-agent-house-can-be-seen-in-the-background-all-are-happy-and-smiling-the-couple-are-casually-dressed-copy-space"
+        },
+        {
+          "id": "28c0c743ce",
+          "title": "Antwerp mayor closes record number of fraudulent businesses: 'But we actually want to go even further'",
+          "url": "https://www.hln.be/antwerpen/nog-nooit-sloot-een-antwerpse-burgemeester-zoveel-malafide-handelszaken-maar-eigenlijk-willen-we-nog-stapje-verder-gaan~ae82c60a/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-07T04:35:22+00:00",
+          "image_url": "https://images.hln.be/ZDA2MGMxMGYxMjdkOGZhNTZhMGMvZGlvLzI4MDA0MzMxOC9maXQtd2lkdGgvNDAw/sluiting-winkels"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "Russia continues military operations against Ukraine, including ballistic missile attacks on Kyiv, while diplomatic reports suggest Putin seeks territorial concessions beyond the Donbas region. Climate negotiators remain skeptical about the effectiveness of global climate talks a decade after the Paris Agreement. European policymakers warn against blaming China for Europe's economic problems, urging a focus on domestic causes instead. The Pope has begun a Latin America tour and is reportedly in good health.",
+      "headlines": [
+        {
+          "id": "cebc533ed5",
+          "title": "Live - Five injured in Russian ballistic missile attack on Kyiv • 'Putin wants more Ukrainian territory than just Donbas in exchange for peace'",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/live-twee-gewonden-bij-russische-aanval-met-ballistische-raketten-op-kiev-poetin-wil-nog-meer-oekraiens-grondgebied-dan-enkel-donbas-in-ruil-voor-vrede~b38bed0a/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-07T05:54:00+00:00",
+          "image_url": "https://image.demorgen.be/280062272/roi/320/320/2416.74/1439.76/afbeelding"
+        },
+        {
+          "id": "43435b5663",
+          "title": "What's the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+          "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-07T05:00:02+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/ab150660e1c0941c2982524b3f3d02283867ef5d/350_0_2943_2354/master/2943.jpg?width=700&quality=85&auto=format&fit=max&s=b0d8485c7d24caaf1ad9e354961a6495"
+        },
+        {
+          "id": "11f52302d5",
+          "title": "By pointing to China as a scapegoat, we risk overlooking the real causes of our economic problems",
+          "url": "https://www.demorgen.be/meningen/door-china-als-zondebok-aan-te-duiden-dreigen-we-de-werkelijke-oorzaken-van-onze-economische-problemen-over-het-hoofd-te-zien~bdaefe09/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-07T02:00:25+00:00",
+          "image_url": "https://image.demorgen.be/280044512/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "d022c40745",
+          "title": "Pope in 'pretty good health' as he starts Latin America tour",
+          "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-07T06:59:48+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "President-elect Trump has named Stephen Miller as his new chief of staff, drawing strong criticism from Democrats who view him as controversial. The appointment has sparked debate about the direction of the incoming administration and broader questions about the Republican Party's future. Political observers are analyzing what this move signals about the evolution of the MAGA movement.",
+      "headlines": [
+        {
+          "id": "82cf8e26bd",
+          "title": "Trump names Stephen Miller new chief of staff",
+          "url": "https://www.jta.org/2026/11/06/politics/trump-names-stephen-miller-new-chief-of-staff",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-06T20:12:14+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2024/11/Stephen-Miller.jpg"
+        },
+        {
+          "id": "5c1a467688",
+          "title": "Democrats blast Trump's decision to make Stephen Miller his chief of staff as president defends picking loyal 'MVP' - as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-07T03:02:26+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/f9722987baf4b5522f5f6efd1409295823e842e7/1157_0_6660_5331/master/6660.jpg?width=700&quality=85&auto=format&fit=max&s=fe5ab6c051f3dd9b8609b3670fedd19b"
+        },
+        {
+          "id": "d29e41e562",
+          "title": "The end of Maga as we know it",
+          "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-07T06:00:05+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/0312d200602b299fe774847a5f06b6f25056098c/1238_380_2087_1670/master/2087.jpg?width=700&quality=85&auto=format&fit=max&s=572a85d615e904a2cfa136a04022c754"
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
