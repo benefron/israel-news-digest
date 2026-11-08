@@ -1,0 +1,111 @@
+{
+  "generated_at": "2026-11-08T11:48:45.747494+00:00",
+  "date": "2026-11-08",
+  "degraded": true,
+  "top_general": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": [
+      {
+        "id": "b795e18ec9",
+        "title": "בצל האיום בחידוש התקיפות: ואנס פועל מאחורי הקלעים להשגת הסכם עם איראן",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-d20207ed763b1a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-07T05:37:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/11/07/GettyImages-2301178745_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "4f54ae4a1f",
+        "title": "בעקבות המלחמה עם איראן: בחרין יוצאת למאבק נגד אנשי דת שיעים",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-89cf57e4be2b1a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-07T07:12:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/11/07/GettyImages-2263711923_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "b37f34860b",
+        "title": "האם איראן וחיזבאללה יכולות להפתיע את ישראל במתקפת \"קורי עכביש\" מרוממה?",
+        "url": "https://www.haaretz.co.il/news/security/2026-11-07/ty-article-magazine/000001a1-9c6e-df63-ade5-fe7feb330000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-07T10:02:00+00:00",
+        "image_url": null
+      },
+      {
+        "id": "9988412100",
+        "title": "המתווה החדש לסיום המלחמה עם איראן: פתיחת מצר הורמוז תמורת פיקוח על הגרעין | דיווח",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-c2bf049d9d5b1a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-07T12:14:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/08/16/TRUMP1608111_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "246976c5e2",
+        "title": "ארה\"ב מגבירה את הלחץ על איראן - ומקימה כוח משימה שיסכל העברות נשק וטכנולוגיות",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-ad8dad2c636b1a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-07T13:48:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/07/14/n20-1407-TRUMP_IRAN-ibud-1-1_V1_autoOrient_i.jpg"
+      },
+      {
+        "id": "5450edc2f5",
+        "title": "קטאר הציעה שפקחים יבקרו באתרי גרעין שהופצצו באיראן בתמורה להסרת המצור הימי",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-11-07/ty-article/.premium/000001a1-b632-defa-a7f7-be7f5d200000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-07T14:46:54+00:00",
+        "image_url": null
+      },
+      {
+        "id": "d76c614bdb",
+        "title": "אדם פתח באש במרכז קרקוב והרג שישה אנשים; עוד שלושה הרוגים אותרו בביתו",
+        "url": "https://www.haaretz.co.il/news/world/europe/2026-11-07/ty-article/.premium/000001a1-b683-defa-a7f7-beff24610000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-07T15:03:53+00:00",
+        "image_url": null
+      },
+      {
+        "id": "618d856ed0",
+        "title": "עמי אילון אישר שנפגש עם זיני: \"שירות ביטחון שפועל בדרך המערערת את אמון הציבור נכשל בתפקידו\"",
+        "url": "https://www.haaretz.co.il/news/elections/2026-11-07/ty-article/.premium/000001a1-b727-d1cd-aded-bfa717d10000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-07T18:53:10+00:00",
+        "image_url": null
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
+  },
+  "subjects": [],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": []
+}
