@@ -1,0 +1,538 @@
+{
+  "generated_at": "2026-11-09T07:50:02.875183+00:00",
+  "date": "2026-11-09",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "איזנקוט קיבל מהרצוג את המנדט להרכבת ממשלה ומתכוון לנסות מהלך חירום לא שגרתי, בעוד השותפים הפוטנציאליים חלוקים על תרחישי הקמתה. נשיא ארה\"ב דונלד טראמפ טען כי התבוסה הרפובליקנית בבחירות האמצע נבעה בין היתר מ\"סלידה גדולה\" מישראל. המשטרה עצרה כ-50 חשודים במבצע ארצי נגד גביית פרוטקשן, ובפולין התבררה זהות היורה בפיגוע הירי ההמוני בקרקוב שמת מפצעיו.",
+    "headlines": [
+      {
+        "id": "63ad95bd4c",
+        "title": "איזנקוט קיבל מהרצוג את המנדט להרכבת הממשלה: \"כולנו נידרש לפשרות\"",
+        "url": "https://www.haaretz.co.il/news/elections/2026-11-08/ty-article/.premium/000001a1-bbaa-d2e9-a5f5-bbff694d0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-08T15:03:01+00:00",
+        "image_url": null
+      },
+      {
+        "id": "8f76559b09",
+        "title": "טראמפ מאשים את ישראל בהפסד: \"יש סלידה גדולה מהם, לא אהבו את המלחמה עם איראן\"",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-b7517d9327db1a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-09T00:13:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/11/09/vbhajbvhabhjvbjhavbjhavbjh_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "6ba00da4e2",
+        "title": "המשטרה: 50 נעצרו בחשד למעורבות בגביית פרוטקשן מקבלנים, בהם ראש מועצה בצפון",
+        "url": "https://www.haaretz.co.il/news/law/2026-11-09/ty-article/.premium/000001a1-bed4-d903-a3b3-bfdf20cc0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-09T05:46:24+00:00",
+        "image_url": null
+      },
+      {
+        "id": "d692b5fbe2",
+        "title": "היורה מהטבח בפולין מת מפצעיו: החשד שרצח גם את הוריו ואחותו",
+        "url": "https://www.walla.co.il/news/world/383960635",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-11-09T06:35:27+00:00",
+        "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/1/images/1794065815518_walla-media-picture_4000x2667.webp?width=500"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "טראמפ העריך כי סביר שלא יידרש חידוש הלחימה מול איראן כל עוד השיחות מתקדמות, אך בישראל ממשיכים לבחון את ההיערכות האיראנית לתרחיש הפוך. במקביל מתגבשת היערכות לכניסת כוח זר לעזה, וצה\"ל חשף פרטים חדשים על מבצעי החיפוש אחר הדר גולדין ועל תיעוד מהחמ\"ל של חמאס בו תוכננה מתקפת 7 באוקטובר.",
+    "headlines": [
+      {
+        "id": "13ce994566",
+        "title": "טראמפ: מעריך בסבירות גבוהה שלא נידרש לחדש את הלחימה באיראן כל עוד השיחות מתקדמות",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-11-08/ty-article/000001a1-bc1b-d146-ada9-fc3fded30000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-08T18:01:27+00:00",
+        "image_url": null
+      },
+      {
+        "id": "1c407f158e",
+        "title": "ההיערכות לכניסת הכוח הזר לעזה - והחשש מהמהלך האמריקני",
+        "url": "https://www.walla.co.il/news/military/383960472",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-11-09T04:00:00+00:00",
+        "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/2/images/1794115442740_walla-media-picture_1600x1200.webp?width=500"
+      },
+      {
+        "id": "96c222a6b3",
+        "title": "צה\"ל חשף את המבצעים החשאיים לאיתור הדר גולדין",
+        "url": "https://www.walla.co.il/news/military/383960615",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-11-09T04:00:00+00:00",
+        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/3/6/1/6/3616633-46.jpg"
+      },
+      {
+        "id": "f9418699b4",
+        "title": "תיעוד מיוחד: החמ\"ל של חמאס שבו תוכננה מתקפת 7 באוקטובר",
+        "url": "https://13tv.co.il/item/news/politics/security/gad7a-904986145/?pid=62&refc=902992425",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "380632b334",
+        "title": "החשש במפרץ: גם אם מצר הורמוז ייפתח, האיום מאיראן לא יוסר",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-11-09/ty-article/.premium/000001a1-bce6-d146-ada9-fcffff4f0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-09T04:01:03+00:00",
+        "image_url": null
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "איזנקוט קיבל את המנדט להרכבת ממשלה ומתמודד עם חילוקי דעות בין השותפים הפוטנציאליים, בהם ליברמן, סביב תרחישי הקמת הקואליציה וחוק הגיוס. דרעי פרש מרשימת ש\"ס ולא יכהן כחבר כנסת, ובמפלגה חוששים מאי-עמידה באחוז החסימה.",
+      "headlines": [
+        {
+          "id": "72f098d1a4",
+          "title": "לשותפים בגוש איזנקוט יש כמה תרחישים להקמת ממשלה. לא ברור אם יצליחו להסכים על אחד",
+          "url": "https://www.haaretz.co.il/news/elections/2026-11-08/ty-article-magazine/.premium/000001a1-bad5-d2e9-a5f5-bbfd8b3f0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-08T17:05:44+00:00",
+          "image_url": null
+        },
+        {
+          "id": "dfc15313e9",
+          "title": "מי ימצמץ ראשון: איזנקוט יצטרך לשחק צ'יקן עם השותפים בגוש",
+          "url": "https://www.ynet.co.il/news/article/hyagsvcpzl",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-08T20:18:50+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/08/SJu5qM06Mg/SJu5qM06Mg_819_697_1548_872_0_medium.jpg"
+        },
+        {
+          "id": "09ed6a3e7a",
+          "title": "האם הצעתו של ליברמן היא תרגיל סחיטה שנועד לאלץ את איזנקוט להציע לו רוטציה?",
+          "url": "https://www.themarker.com/news/politics/2026-11-08/ty-article/.premium/000001a1-bae3-d1cd-aded-bae33eb60000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-08T15:48:03+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-bb0c-d903-a3b3-bb0f5ddb0000/89/29/5da2d2b04cc1a8a55f2688f8b2cd/955064.jpg?width=108&height=81"
+        },
+        {
+          "id": "63366a106a",
+          "title": "דרעי פרש מרשימת ש\"ס ולא יכהן כחבר כנסת",
+          "url": "https://www.haaretz.co.il/news/elections/2026-11-08/ty-article/000001a1-bb97-d146-ada9-fbbf0a4e0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-08T14:39:14+00:00",
+          "image_url": null
+        },
+        {
+          "id": "f9d29bff63",
+          "title": "בניזרי נגד דרעי: חושש שש\"ס לא תעבור את אחוז החסימה",
+          "url": "https://www.kan.org.il/content/kan-news/politic/live-1117375/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": "https://www.kan.org.il/media/wsod2eum/דרעי.jfif?width=490&height=272&v=1dc9101ac57c3e0"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "בשוקי ההון נרשמות תנודות משמעותיות: אנבידיה צונחת במסחר הלילי בעקבות פרשת המנכ\"ל, שוק המניות באסיה מזנק, והדולר נחלש מול השקל. בנוסף, עסקת ארקיע-ישראייר נתקלת במכשולים רגולטוריים.",
+      "headlines": [
+        {
+          "id": "b7b0f62b20",
+          "title": "עליות באסיה בהובלת בורסת טייוואן; אנבידיה צונחת ב-4% במסחר הלילי",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001562500",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-09T04:56:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1658986251/direct/shutterstock_1115944073_avuzq6.jpg"
+        },
+        {
+          "id": "a3c6ead654",
+          "title": "עליות באסיה; הבורסה בטייוואן מזנקת ב–5% הודות להתאוששות השבבים",
+          "url": "https://www.themarker.com/wallstreet/2026-11-09/ty-article-live/.premium/000001a1-b4b2-d041-a5f9-f5b36bdf0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-09T05:10:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-beb7-dda4-adb7-bfffc36b0000/a3/01/e0a76a0242aa9022285c1324321d/907648.jpg?width=108&height=81"
+        },
+        {
+          "id": "85a256f5a7",
+          "title": "הדולר נחלש ב-0.7% ונסחר תמורת 3.17 שקלים",
+          "url": "https://www.themarker.com/markets/2026-11-09/ty-article-live/000001a1-bee9-dda4-adb7-bfed6f080000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-09T06:08:34+00:00",
+          "image_url": "https://img.haarets.co.il/bs/00000199-0e63-d487-a3d9-ae7f69ab0000/5b/8a/ad174121443a99a43aa169e6f876/436067.jpg?width=108&height=81"
+        },
+        {
+          "id": "ba1b2edc93",
+          "title": "מסלול עוקף רגולטור? המכשול הצפוי בעסקת ארקיע־ישראייר",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001562449",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-09T03:38:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1793801396/800_twwjzk.jpg"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "מנכ\"ל אנבידיה ג'נסן הואנג הודה ברומן עם אישה שהתבררה כמרגלת סינית שהעבירה מידע לבייג'ינג, והחברה פתחה בחקירה פנימית סביב החשד שהיה יעד למבצע מודיעיני.",
+      "headlines": [
+        {
+          "id": "b4e38485fc",
+          "title": "\"העבירה מידע ישירות לבייג'ינג\": מנכ\"ל אנבידיה הודה ברומן עם אישה שנחשפה כמרגלת סינית",
+          "url": "https://www.mako.co.il/news-world/2026_q4/Article-5054b031dbcb1a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-11-08T20:30:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/11/08/AP26288329066065_autoOrient_i.jpg"
+        },
+        {
+          "id": "045a38f6ca",
+          "title": "Nvidia probing if CEO was target in intel operation after affair with Chinese asset",
+          "url": "https://www.timesofisrael.com/nvidia-probing-if-ceo-was-target-in-intel-operation-after-affair-with-chinese-asset/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-09T05:44:55+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26294363453530-e1794201752508-1024x640.jpg"
+        },
+        {
+          "id": "d93bb5d2a1",
+          "title": "\"בגדתי באשתי. אין לי שום תירוץ\": קראו את המכתב המלא של מנכ\"ל אנבידיה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001562507",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-09T05:16:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1793800840/AP26294359032955_xarkap.jpg"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "ברשת עולה השאלה מי יככב כג'יימס בונד הבא, ובכדורגל הפועל תל אביב חוגגת ניצחון בטרנר בעוד אוסקר גלוך מככב נגד נבחרת הולנד.",
+      "headlines": [
+        {
+          "id": "333b2aaaa5",
+          "title": "ראש בראש: אלה השחקנים שעשויים להיות ג'יימס בונד הבא",
+          "url": "https://www.walla.co.il/entertainment/cinema/383960491",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-09T05:01:23+00:00",
+          "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/2/images/1794126294775_walla-media-picture_1600x900.webp?width=500"
+        },
+        {
+          "id": "f2a716b11e",
+          "title": "והטירוף לרגע לא נרגע: הניצחון המושלם של הפועל ת\"א בטרנר",
+          "url": "https://sports.walla.co.il/item/3875498",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-09T05:05:00+00:00",
+          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/1/1/7/4117652-46.jpg"
+        },
+        {
+          "id": "d517a8fb88",
+          "title": "\"הכי טוב בליגה\": אוסקר גלוך סותם להולנדים את הפה",
+          "url": "https://sports.walla.co.il/item/3875487",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-09T05:03:00+00:00",
+          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/1/1/7/4117628-46.jpg"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "בלוד פרצו עימותים בין עשרות נערים לתושבים ערבים בעקבות צעדת ריבונות, ו-11 נעצרו. בירושלים ובכנסת נמשך הוויכוח סביב חוק הגיוס לחרדים, כשבגוש השינוי טוענים כי העידן של פטור גורף הסתיים.",
+      "headlines": [
+        {
+          "id": "b86da9676b",
+          "title": "מרדכי דוד שלהב בלוד, עשרות נערים קראו נגד ערבים והתקוטטו: 11 נעצרו",
+          "url": "https://www.ynet.co.il/news/article/sy786wcpfl",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-08T23:07:45+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/08/H111rCP0pMe/H111rCP0pMe_1_439_538_303_0_medium.jpg"
+        },
+        {
+          "id": "53bb28caa3",
+          "title": "11 arrested in Lod brawl after far-right ‘sovereignty march’ in Arab neighborhood",
+          "url": "https://www.timesofisrael.com/11-arrested-in-lod-brawl-after-far-right-sovereignty-march-in-arab-neighborhood/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-09T04:47:46+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/F260212YA03-1024x640.jpg"
+        },
+        {
+          "id": "a172e6e789",
+          "title": "גוש השינוי לא יכול להציע לחרדים חוקי פטור מגיוס. העידן הזה הסתיים ב–7 באוקטובר",
+          "url": "https://www.themarker.com/news/politics/2026-11-09/ty-article/.premium/000001a1-bb2e-d1cd-aded-bbafb2ae0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-09T05:21:03+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-bb6a-d1cd-aded-bbeb7ce90000/8f/88/de3893c34820a82e3ac846f301f0/973489.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "עשרות אלפי דירות בפרויקטים של פינוי בינוי נמצאות בשלבי תכנון שונים, כשחלקן קרובות יותר לבנייה בפועל, במקביל לדיווח על מכירת דירה בנתניה במחיר נמוך משמעותית מהממוצע באזור.",
+      "headlines": [
+        {
+          "id": "eea3d60f5e",
+          "title": "עשרות אלפי דירות בפינוי בינוי נמצאות בקנה. כמה מהן קרובות לבנייה?",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001561835",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-09T03:42:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1761114731/direct/shutterstock_2651518473-1_dcogle.jpg"
+        },
+        {
+          "id": "4380010d5c",
+          "title": "דירה בנתניה נמכרה ב־15% פחות מהמחיר הממוצע בסביבה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001561833",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-09T03:43:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1793781726/%D7%A0%D7%AA%D7%A0%D7%99%D7%94-%D7%A7%D7%A8%D7%99%D7%AA-%D7%94%D7%A9%D7%A8%D7%95%D7%9F1_s5ls1l.jpg"
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israel's President Herzog has tasked Gadi Eisenkot, leader of the Yashar party, with forming the next government following recent elections. The assignment reflects ongoing political negotiations as regional tensions persist, with U.S. Secretary of State Marco Rubio dismissing Iran's demands regarding Middle East peace negotiations as excessive and unreasonable. Political debates over Zionism continue in Europe, including divisions within Germany's Green Party over the contentious issue.",
+      "headlines": [
+        {
+          "id": "3276b5aa62",
+          "title": "President Herzog tasks Gadi Eisenkot with forming Israel's next government",
+          "url": "https://www.jta.org/2026/11/08/israel/president-herzog-tasks-gadi-eisenkot-with-forming-israels-next-government",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-08T19:07:22+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/GettyImages-2303710286-scaled.jpg"
+        },
+        {
+          "id": "e147dbfc04",
+          "title": "Israeli Elections LIVEBLOG Eisenkot calls Netanyahu bloc to support his government",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/formateur-eisenkot-roept-blok-van-netanyahu-op-om-zijn-regering-~1793076564841/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "27c725747b",
+          "title": "Marco Rubio dismisses Iran's Middle East demands as excessive and ridiculous",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/marco-rubio-fnuikt-optimisme-over-einde-conflict-middenoosten-~1784611610051/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "7cb1f0a80b",
+          "title": "Polanski will struggle to end the Greens' bitter Zionism fight",
+          "url": "https://www.politico.eu/article/uk-green-party-zack-polanski-internal-democracy-crisis/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-09T03:00:00+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgian Prime Minister De Wever has resumed budget negotiations with what he describes as his ultimate political trump card, warning that any party failing to make concessions will have betrayed its commitments to the King. A wanted Antwerp money launderer was apprehended at Moscow airport, but his extradition to Belgium remains blocked due to the ongoing war in Ukraine. New Flemish soil regulations threaten to substantially increase construction costs for new buildings, ultimately shifting expenses onto homebuyers, while economists warn that pension obligations may exceed budgeted projections.",
+      "headlines": [
+        {
+          "id": "3d48e168d6",
+          "title": "De Wever restarts budget talks with ultimate trump card: 'Whoever makes no concessions has lied to the king'",
+          "url": "https://www.hln.be/nieuws/de-wever-herstart-begrotingsoverleg-met-ultieme-troefkaart-wie-geen-toegevingen-doet-heeft-gelogen-tegen-de-koning~af10f9d63/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-09T06:00:30+00:00",
+          "image_url": "https://images.hln.be/ZWUxMzQ2YzdhYzMxOTdhZjAzNDgvZGlvLzI4MDE1MDk3My9maXQtd2lkdGgvNDAw/brussels-belgium-november-05-bart-de-wever-n-va-prime-minister-is-pictured-during-a-plenary-session-of-the-chamber-at-the-federal-parliament-on-november-05-2026-in-brussels-belgium-05-11-2026-photo-by-bert-van-den-broucke-photonews"
+        },
+        {
+          "id": "57bd5a08cb",
+          "title": "Wanted Antwerp money launderer caught at Moscow airport, but Ukraine war blocks his extradition to Belgium",
+          "url": "https://www.demorgen.be/nieuws/gezochte-antwerpse-witwasser-gevat-op-luchthaven-van-moskou-maar-oorlog-in-oekraine-blokkeert-zijn-uitlevering-aan-belgie~b873a457/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-08T15:00:00+00:00",
+          "image_url": "https://image.demorgen.be/280078962/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "2f3c2e3cd8",
+          "title": "New Flemish soil rules threaten to make new construction significantly more expensive: 'Ultimately the buyer pays the bill'",
+          "url": "https://www.hln.be/home/nieuwe-vlaamse-bodemregels-dreigen-nieuwbouw-fors-duurder-te-maken-uiteindelijk-betaalt-de-koper-de-rekening~va6590f0c/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-09T05:00:00+00:00",
+          "image_url": "https://images.hln.be/ODQwYThhZGFmMmZlZmNjNjI5NmUvZGlvLzI4MDA3Nzk3Ny9maXQtd2lkdGgvNDAw/kopfoto-bouwgrond"
+        },
+        {
+          "id": "c2747c6af6",
+          "title": "Economist warns: 'Pension obligations may be higher than budgeted'",
+          "url": "https://www.demorgen.be/ons-geld/econoom-waarschuwt-pensioenverplichtingen-kunnen-hoger-zijn-dan-begroot~b6ea30f0/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-09T07:00:00+00:00",
+          "image_url": "https://image.demorgen.be/280151515/feature-crop/320/320/afbeelding"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "A shooting in Kraków left six people dead before the gunman died in hospital; police officers responded heroically, and a surgeon nearby provided critical medical intervention. The war between Ukraine and Russia continues, with reports indicating 400,000 Russian casualties, while diplomatic efforts to end the conflict have exposed deep divisions across Europe over how to approach negotiations with Putin. A Norwegian leader who recently spoke directly with Putin warned that the Russian president may not genuinely seek peace.",
+      "headlines": [
+        {
+          "id": "4816767c4a",
+          "title": "Krakow shooting: Perpetrator of attack in which 6 people were killed dies in hospital",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/dader-van-aanslag-in-krakau-waarbij-6-mensen-om-het-leven-kwamen~1794081032103/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "68e1df8d56",
+          "title": "Hackers after statistics bureau breach: '400,000 Russian deaths counted in Ukraine'",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/hackers-na-inbraak-bij-statistiekbureau-400000-russische-dode~1793644191149/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "55dfad88be",
+          "title": "The Kremlin call: How talking to Putin exposed Europe's deepest rift over Ukraine",
+          "url": "https://www.politico.eu/article/vladimir-putin-europe-rift-russia-ukraine-war/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-09T03:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "32c98d75e8",
+          "title": "Putin may not want peace, warns Norwegian leader who spoke to him",
+          "url": "https://www.politico.eu/article/vladimir-putin-peace-norway-jonas-gahr-store-russia-ukraine-war/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-09T03:00:00+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Egypt experienced a major train collision that killed seven people and injured over 100 others. Pope Francis delivered a sharp critique of President Javier Milei's austerity measures during a visit to Argentina, challenging the severity of the government's economic policies. U.S. President Trump suggested that America's recent immigration enforcement policy may have been overly strict.",
+      "headlines": [
+        {
+          "id": "1e26fc8370",
+          "title": "7 dead and more than 100 wounded after collision between passenger trains in Egypt",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/egypte-treinen-botsen/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "27ba2ac4c5",
+          "title": "Pope Leo delivers stinging rebuke of Milei's austerity measures during Argentina visit",
+          "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-09T02:11:25+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=700&quality=85&auto=format&fit=max&s=10ec074df5e4211e9bc79bc521c9f23c"
+        },
+        {
+          "id": "5e7ca5a03b",
+          "title": "Trump: 'American government immigration policy may have been too hard'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/trump-immigratiebeleid-van-amerikaanse-regering-was-te-hard/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
