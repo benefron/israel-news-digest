@@ -1,0 +1,325 @@
+{
+  "generated_at": "2026-11-10T09:21:47.625779+00:00",
+  "date": "2026-11-10",
+  "degraded": true,
+  "top_general": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": [
+      {
+        "id": "6c2e208c66",
+        "title": "200 אלף מפגינים נגד ישראל באמסטרדם: שלטי תמיכה בחמאס, קריאות נגד הציונות ודרישה לסנקציות",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-9d83aa05c3fb1a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-09T07:47:00+00:00",
+        "image_url": "https://img.mako.co.il/2024/08/07/replacement_autoOrient_i.jpg"
+      },
+      {
+        "id": "fa2676ab6d",
+        "title": "טראמפ: נראה שפעולה צבאית באיראן אינה נחוצה, יש הזדמנות לסיום העימות",
+        "url": "https://www.haaretz.co.il/news/politics/2026-11-09/ty-article/000001a1-c24e-df80-a9e3-e6fe47620000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-09T21:57:33+00:00",
+        "image_url": null
+      },
+      {
+        "id": "1d1fd07a63",
+        "title": "\"השיחות התכופות\" בין נתניהו לטראמפ - והצהרת הנשיא: \"פעולה באיראן? זה לא הכרחי\"",
+        "url": "https://www.ynet.co.il/news/article/hktq3310mx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-09T22:25:12+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/23/SkKAT7koZx/SkKAT7koZx_0_0_850_479_0_medium.jpg"
+      },
+      {
+        "id": "87316362d1",
+        "title": "טראמפ: מבחינה צבאית, המלחמה עם איראן \"למעשה הסתיימה\"",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001562685",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-11-10T07:32:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781697046/direct/AP26168422564376_kt31aq.jpg"
+      },
+      {
+        "id": "ba4d4338eb",
+        "title": "דיווח: ארה\"ב הסכימה להעשרת אורניום באיראן תמורת הסכם",
+        "url": "https://www.makorrishon.co.il/defence/article/391004",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "8cfb7bd148",
+        "title": "טראמפ: \"נראה שפעולה צבאית באיראן אינה נחוצה במיוחד כרגע\"",
+        "url": "https://13tv.co.il/item/news/politics/security/usa-4-905452008/?pid=62&refc=902992383",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "d8747c83d3",
+        "title": "Merz says Germany faces historic test as antisemitism becomes ‘omnipresent’",
+        "url": "https://www.timesofisrael.com/merz-says-germany-faces-historic-test-as-antisemitism-becomes-omnipresent/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-10T04:09:41+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26313605491809-1024x640.jpg"
+      },
+      {
+        "id": "d23ce2b19b",
+        "title": "\"הספקים מפסידים שוק משמעותי\": גם בהנחות בחשמל החברה הערבית בחוץ",
+        "url": "https://www.themarker.com/news/energy/2026-11-10/ty-article/.premium/000001a1-c02b-d085-a5b1-deab98450000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-11-10T05:20:32+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a1-c03d-d085-a5b1-debd58270000/fc/3a/8a781a294220bc7a754460c055ca/280142.jpg?width=108&height=81"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
+  },
+  "subjects": [],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [
+    "israel_hayom"
+  ],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israeli politics faces potential leadership change as a new Knesset speaker plays a key role in efforts to oust Prime Minister Netanyahu. Jewish communities across North America are responding to antisemitic incidents, with Philadelphia leaders mobilizing against a boycott-themed bike ride and a New York rabbi warning of declining security amid what he describes as the end of the American Jewish 'Golden Age.' A Palestinian-American is positioning for a 2028 Senate challenge against John Fetterman, adding another layer to Israeli-Palestinian political discourse in the United States.",
+      "headlines": [
+        {
+          "id": "d301c20d98",
+          "title": "New Knesset speaker could be key to ousting Netanyahu as Israel's PM",
+          "url": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-10T06:00:31+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/3fe596f228dd31c620c353de960e5ee320d60061/1797_368_3116_2494/master/3116.jpg?width=700&quality=85&auto=format&fit=max&s=7517a230e2fa79d5c47c21adbe7c3702"
+        },
+        {
+          "id": "059e6a8b2b",
+          "title": "Philadelphia Jewish leaders encouraged by counter-response to 'boycott bike ride'",
+          "url": "https://www.jta.org/2026/11/09/united-states/philadelphia-jewish-leaders-encouraged-by-counter-response-to-boycott-bike-ride",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-09T23:44:40+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/Philly-3.jpg"
+        },
+        {
+          "id": "e642ebc2ff",
+          "title": "Leading NYC rabbi: The American Jewish 'Golden Age' is over",
+          "url": "https://www.jta.org/2026/11/09/ny/leading-nyc-rabbi-the-american-jewish-golden-age-is-over",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-09T22:39:14+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2025/10/hirsch.png"
+        },
+        {
+          "id": "b3f178d862",
+          "title": "Palestinian-American to challenge John Fetterman for Senate seat in 2028",
+          "url": "https://www.jta.org/2026/11/09/politics/palestinian-american-to-challenge-john-fetterman-for-senate-seat-in-2028",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-09T21:29:06+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/GettyImages-2295642800.jpg"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium confronts mounting economic pressures as singles spend 55% of their income on housing and student accommodation averages €600 monthly. Political tensions surface within the N-VA party over national governance strategy. In criminal news, a mother in Deerlijk faces charges of manslaughter of two children and attempted killing of a third. An ambitious CO2 transport pipeline from Zeebrugge to Norway has been postponed indefinitely, affecting regional climate and infrastructure initiatives.",
+      "headlines": [
+        {
+          "id": "f4b2d0a63f",
+          "title": "Will N-VA deliberately try to prove our country is a failure? 'A large part of the Flemish population is susceptible to this narrative'",
+          "url": "https://www.demorgen.be/nieuws/wil-n-va-doelbewust-een-mislukking-van-ons-land-bewijzen-een-groot-deel-van-de-vlaming-is-vatbaar-voor-dit-verhaal~b87cd621/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-10T05:30:00+00:00",
+          "image_url": "https://image.demorgen.be/258002857/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "36459debbf",
+          "title": "Justice: Mother (35) from Deerlijk suspected of manslaughter of 2 children, also attempted manslaughter of 3rd child",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/vrouw-35-deerlijk-verdacht-van-doodslag-op-haar-2-eigen-kinderen/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "7e4cd1b970",
+          "title": "Singles spend on average 55% of their salary on housing costs. Can your landlord raise your rent at any time?",
+          "url": "https://www.hln.be/mijn-geld/alleenstaanden-geven-gemiddeld-55-van-hun-loon-uit-aan-woonlasten-kan-je-huisbaas-je-huur-op-elk-moment-verhogen~a08b4d22/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-10T06:10:00+00:00",
+          "image_url": "https://images.hln.be/NWQ2ZTI2MDczNDFlMmQ1MWVlMjIvZGlvLzI4MDE2Mjk4OC9maXQtd2lkdGgvNDAw/close-up-shot-of-a-real-estate-agent-giving-a-young-asian-woman-the-keys-to-her-new-home-home-ownerships-concepts"
+        },
+        {
+          "id": "fad0f22b45",
+          "title": "Pipeline to transport CO2 from Zeebrugge to Norway will not happen for now",
+          "url": "https://www.demorgen.be/nieuws/pijpleiding-om-co2-van-zeebrugge-naar-noorwegen-af-te-voeren-komt-er-voorlopig-niet~ba406097/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-10T06:06:17+00:00",
+          "image_url": "https://image.demorgen.be/276558682/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "4afa0e0f79",
+          "title": "Student housing costs an average of €600 per month, but price increase slows",
+          "url": "https://www.demorgen.be/nieuws/studentenkot-kost-gemiddeld-600-euro-per-maand-maar-prijsstijging-vertraagt~b68e8541/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-10T06:04:00+00:00",
+          "image_url": "https://image.demorgen.be/271312606/feature-crop/320/320/beelden-die-studenten-rond-hun-kot-tonen-wandelende-met-vali"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "The European Union faces economic and political headwinds as manufacturers risk abandoning competition with China by 2030 and climate strategies face pressure from election-season politics. Spain's resurgent right-wing movement threatens to reignite Catalan separatism, while thousands gathered in Krakow for a silent march honoring shooting victims. Russia's financial strain is manifesting in reduced compensation for families of fallen soldiers, reflecting the ongoing costs of regional conflict.",
+      "headlines": [
+        {
+          "id": "573d8c836a",
+          "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
+          "url": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-10T06:00:30+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/e1035f797cd03f2b0cc1d628d816df8072bbfa03/329_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=628e47aeb64f0fddf4cb1210bbf158cf"
+        },
+        {
+          "id": "e267d0c822",
+          "title": "Can the EU's climate strategy survive election season?",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-the-eus-climate-strategy-survive-election-season/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-10T05:05:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "52628b76b1",
+          "title": "Return of Spanish right risks reigniting Catalan separatist flame",
+          "url": "https://www.politico.eu/article/elections-return-of-spanish-right-risks-reigniting-catalan-separatist-flame/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-10T03:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "14c807a2c7",
+          "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+          "url": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-10T05:38:53+00:00",
+          "image_url": null
+        },
+        {
+          "id": "571662bab9",
+          "title": "Russia pays increasingly less compensation for fallen soldiers: 'The money is running out'",
+          "url": "https://www.demorgen.be/oorlog-in-oekraine/rusland-betaalt-almaar-minder-compensatie-voor-gesneuvelde-soldaten-het-geld-raakt-op~bdeb736c/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-10T02:00:16+00:00",
+          "image_url": "https://image.demorgen.be/232427780/feature-crop/320/320/afbeelding"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Australia's One Nation party removed a Victorian candidate who praised Adolf Hitler, exposing ongoing risks of extremist infiltration in mainstream politics. California voters rejected a proposed billionaire wealth tax, while the US defense establishment faces scrutiny amid moves toward a potential impeachment of the Defense Secretary. The Trump administration reports FBI investigations into an Nvidia CEO's alleged affair with a Chinese national, and the US is withdrawing aircraft from British bases amid Iranian threats, reflecting mounting Middle East tensions.",
+      "headlines": [
+        {
+          "id": "4748655380",
+          "title": "One Nation dumps Victorian election candidate who praised Adolf Hitler as 'GOAT'",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-10T04:44:32+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/ffd2084856240a692fa1884c87559b8ff08d3986/329_0_3288_2631/master/3288.jpg?width=700&quality=85&auto=format&fit=max&s=707740266c1179e2358f5ecc6777a754"
+        },
+        {
+          "id": "a8ac22e9bb",
+          "title": "California voters fail to pass proposed one-time tax on billionaires' wealth",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-10T02:54:54+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/026aa3fdbb690df527b92e025e1f71eeafb7876b/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=03385b66fd148ee3dc4499fa2a18d335"
+        },
+        {
+          "id": "db38cd4026",
+          "title": "United States withdraws aircraft from second British base due to Iranian threat",
+          "url": "https://www.hln.be/buitenland/verenigde-staten-halen-vliegtuigen-weg-van-tweede-britse-basis-door-dreiging-iran~a7412ceb/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-10T08:27:00+00:00",
+          "image_url": "https://images.hln.be/MzRhZDYxN2QxNTUwYjZlN2ZhMGYvZGlvLzI4MDE4MTgxOS9maXQtd2lkdGgvNDAw/file-photo-signage-at-the-entrance-road-to-raf-mildenhall-which-hosts-us-air-force-usaf-personnel-and-units-near-mildenhall-suffolk-britain-september-27-2026-reuters-chris-radburn-file-photo"
+        },
+        {
+          "id": "2eeebfe27c",
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-10T08:23:21+00:00",
+          "image_url": null
+        },
+        {
+          "id": "dfdd7bb2e5",
+          "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-10T01:38:49+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
