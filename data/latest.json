@@ -1,100 +1,338 @@
 {
-  "generated_at": "2026-11-15T13:23:39.098207+00:00",
-  "date": "2026-11-14",
-  "degraded": true,
+  "generated_at": "2026-11-16T11:37:21.081836+00:00",
+  "date": "2026-11-16",
+  "degraded": false,
   "top_general": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "summary_he": "נושאת מטוסים אמריקאית שלישית הגיעה למזרח התיכון על רקע המתיחות המחריפה מול איראן, וטראמפ נערך לפגישות עם מנהיגי רוסיה וסין. בישראל ממשיכים מגעי הקמת ממשלת אחדות בין יש״ר, הליכוד וגוש איזנקוט. בתאילנד נספו 11 בני אדם בשרפה באי פוקט, ואסטוניה הודיעה על סגירת מעברי הגבול עם רוסיה בעקבות ניסיון תקיפה על מפעל כטב\"מים.",
     "headlines": [
       {
-        "id": "aab111822d",
-        "title": "לראשונה מספטמבר: איראן טוענת שתקפה מכ\"ם אמריקני בבחרין",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-9b90f4349f1d1a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-11-13T05:40:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/08/01/irantkifa0108_autoOrient_i.jpg"
+        "id": "c18301bf78",
+        "title": "Third US aircraft carrier said to arrive in Mideast as Washington shores up troops",
+        "url": "https://www.timesofisrael.com/liveblog-november-16-2026/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-15T23:49:03+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AFP__20260721__C2T99ZR__v1__HighRes__UsMilitaryRimpacArmament-e1794786511798-1024x640.jpg"
       },
       {
-        "id": "3511ab5e20",
-        "title": "איראן הודיעה שתקפה מכ\"ם אמריקאי בבחריין, ארה\"ב הכחישה",
-        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-11-13/ty-article/.premium/000001a1-d42e-d292-abf9-fd7fe48e0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-11-13T09:49:17+00:00",
+        "id": "cab5782288",
+        "title": "טראמפ נערך להתלקחות: שובר השוויון מול איראן כבר נכנס לעמדת קרב במזרח התיכון בזמן שטראמפ נערך לפגישות עם מנהיגי רוסיה וסין, ארה\"ב מתגברת את כוחותיה מול איראן. בישראל מעריכים כי יידרש סבב לחימה נוסף, ובצה\"ל מעדיפים פעולה משותפת עם האמריקאים",
+        "url": "https://www.maariv.co.il/news/world/article-1388883",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
         "image_url": null
       },
       {
-        "id": "639be458bc",
-        "title": "ליברמן: אהיה יו\"ר ועדת החוץ והביטחון כדי למנוע מהלכים צבאיים לצורך פוליטי",
-        "url": "https://www.haaretz.co.il/news/elections/2026-11-13/ty-article/.premium/000001a1-d492-ddc9-abb7-ddd2618b0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-11-13T11:43:59+00:00",
-        "image_url": null
+        "id": "f036b5b23b",
+        "title": "Yashar, Likud hold unity talks as Eisenkot bloc moves to assert control over Knesset",
+        "url": "https://www.timesofisrael.com/yashar-likud-meet-for-unity-talks-as-eisenkot-bloc-moves-to-assert-control-over-knesset/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-15T16:09:44+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261115AVS63-1024x640.jpg"
       },
       {
-        "id": "7245c91e5c",
-        "title": "השיג נשק, צילם את עצמו - וחיכה ליום הפעולה: זה בנו של בכיר חמאס שהואשם בתכנון פיגועים",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-fdf2367a0f4d1a1027.htm",
+        "id": "1f4e3174c0",
+        "title": "11 הרוגים בשרפה שפרצה בעסק באי הנופש פוקט שבתאילנד",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-2c6ae6d3542e1a1026.htm",
         "source": "mako",
         "source_label": "N12",
         "source_label_he": "N12",
-        "published_at": "2026-11-13T13:29:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/11/13/GettyImages-1719480021_re_autoOrient_i.jpg"
+        "published_at": "2026-11-16T04:28:00+00:00",
+        "image_url": "https://img.mako.co.il/2024/05/16/AP20238209639158_re_autoOrient_i.jpg"
       },
       {
-        "id": "6112c371b1",
-        "title": "על רקע לחצי נתניהו לחדש את המלחמה באיראן: ראש המוסד מבקר בוושינגטון | פרסום ראשון",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-24c5367a0f4d1a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-11-13T14:05:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/06/06/gofibb66261_autoOrient_i.jpg"
-      },
-      {
-        "id": "441f37eda7",
-        "title": "דיווח: ראש המוסד נפגש עם בכירים בממשל טראמפ - ולוחץ לחדש את המלחמה באיראן",
-        "url": "https://www.ynet.co.il/news/article/rjmwtqeagx",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-11-13T14:11:24+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/13/H1N0li4Czg/H1N0li4Czg_0_0_850_479_0_medium.jpg"
-      },
-      {
-        "id": "ab240a1f40",
-        "title": "ראש המוסד גופמן נועד בארה\"ב עם בכירי ממשל טראמפ בנוגע לאיראן",
-        "url": "https://www.haaretz.co.il/news/politics/2026-11-13/ty-article/000001a1-d542-d59b-a1f3-ddd6228a0000",
+        "id": "727040e3f6",
+        "title": "אסטוניה תסגור את מעברי הגבול עם רוסיה בעקבות ניסיון תקיפה על מפעל כטב\"מים בשטחה",
+        "url": "https://www.haaretz.co.il/news/world/europe/2026-11-16/ty-article/000001a1-e1c4-d292-abf9-fdfd60520000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-11-13T14:16:44+00:00",
-        "image_url": null
-      },
-      {
-        "id": "b1d6a7038e",
-        "title": "דיווחים פלסטיניים: שלושה נהרגו בתקיפה ישראלית במרכז הרצועה; תינוק מת מהיפותרמיה",
-        "url": "https://www.haaretz.co.il/news/politics/2026-11-13/ty-article/.premium/000001a1-d5f6-d1ce-a9a3-f5f7fe2d0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-11-13T19:14:02+00:00",
+        "published_at": "2026-11-16T02:12:16+00:00",
         "image_url": null
       }
     ]
   },
   "security_war": {
-    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
-    "headlines": []
+    "summary_he": "המתיחות מול איראן מחריפה: דיווחים על פגיעת מוקשים בשתי מכליות נפט במצר הורמוז, ונתניהו משדר כי תקיפה באיראן עשויה להידרש, אם כי שלושה גורמים עדיין חוסמים מהלך כזה. במקביל נחשף תחקיר על חטיפת שני גנרלים איראנים בניסיון לאתר את רון ארד, חמאס משקם מנהרות בעזה, והכוחות הישראליים ממשיכים להיערך לאפשרות של חידוש הלחימה בדרום לבנון.",
+    "headlines": [
+      {
+        "id": "1b39869682",
+        "title": "דיווח באיראן: שתי מכליות נפט נפגעו ממוקשים במצר הורמוז",
+        "url": "https://13tv.co.il/item/news/politics/security/rwubt-905463312/?pid=62&refc=902992386",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "8d6514f128",
+        "title": "נתניהו משדר שביטחון העולם מחייב תקיפה באיראן. לעת עתה, שלושה גורמים חוסמים אותו",
+        "url": "https://www.haaretz.co.il/news/politics/2026-11-16/ty-article/.highlight/000001a1-e0c8-d59b-a1f3-f8dcbf070000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-16T04:01:34+00:00",
+        "image_url": null
+      },
+      {
+        "id": "427d963393",
+        "title": "ישראל חטפה שני גנרלים איראנים כדי לחקור על רון ארד, והרגה אחד מהם",
+        "url": "https://www.haaretz.co.il/news/politics/2026-11-15/ty-article/000001a1-def3-ddc9-abb7-dff30c030000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-15T11:50:19+00:00",
+        "image_url": null
+      },
+      {
+        "id": "49c4d60c5a",
+        "title": "האזהרה החריפה של גורמי הביטחון: העיניים על איראן - וחמאס משקם את המנהרות",
+        "url": "https://www.ynet.co.il/news/article/yokra14959434",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-16T05:00:56+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/09/13/SJcpKlMpC/SJcpKlMpC_0_227_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "b0369195c4",
+        "title": "השקט שלפני: עם הכוחות שנערכים לחידוש הלחימה בדרום לבנון",
+        "url": "https://13tv.co.il/item/news/politics/security/lebanon-905462700/?pid=62&refc=902992386",
+        "source": "reshet13",
+        "source_label": "חדשות 13",
+        "source_label_he": "חדשות 13",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "1caf45f37c",
+        "title": "מתכוננים לחידוש הלחימה? נושאת מטוסים שלישית הגיעה לאזור",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-a730e6d3542e1a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-16T05:29:00+00:00",
+        "image_url": "https://img.mako.co.il/2024/08/01/noset0108_autoOrient_i.jpg"
+      }
+    ]
   },
-  "subjects": [],
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "ועדות הכספים, החוץ והביטחון בכנסת יתכנסו למינוי יושבי ראש, בעוד המגעים להקמת ממשלת אחדות נמשכים בין יש״ר, הליכוד וגוש איזנקוט. בד בבד נחקרת האפשרות שמשרד ראש הממשלה עמד מאחורי פרשת קניית קולות ערביים כדי לערער את לגיטימיות הבחירות.",
+      "headlines": [
+        {
+          "id": "69edd9114c",
+          "title": "ועדות הכספים והחוץ והביטחון יתכנסו הבוקר למינוי יושבי הראש שלהן",
+          "url": "https://www.haaretz.co.il/news/elections/2026-11-16/ty-article/000001a1-e2d9-d1ce-a9a3-e2db460a0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-16T06:06:40+00:00",
+          "image_url": null
+        },
+        {
+          "id": "8b7880c951",
+          "title": "מקורות ביהדות התורה: \"התקדמות משמעותית\" במגעים עם גוש איזנקוט",
+          "url": "https://www.haaretz.co.il/news/elections/2026-11-15/ty-article/.premium/000001a1-e05d-d59b-a1f3-f8dd12d70000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-15T19:27:47+00:00",
+          "image_url": null
+        },
+        {
+          "id": "634b35a58b",
+          "title": "איזנקוט לא יפול למלכודת האחדות המזויפת. הפגישה יכולה לשרת אותו ואת בנט",
+          "url": "https://www.haaretz.co.il/news/elections/2026-11-16/ty-article/.highlight/000001a1-e0df-d292-abf9-fdff4ad60000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-16T04:01:27+00:00",
+          "image_url": null
+        },
+        {
+          "id": "706d83bd00",
+          "title": "Police, AG said probing whether PM’s office orchestrated Arab vote-buying scandal to delegitimize election",
+          "url": "https://www.timesofisrael.com/police-said-to-probe-whether-pms-office-faked-arab-vote-buying-scandal-to-undermine-election/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-15T21:39:20+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AFP__20261110__D7393NZ__v1__HighRes__IsraelPoliticsParliament-1-1024x640.jpg"
+        },
+        {
+          "id": "a4256f1360",
+          "title": "No progress reported in Yashar-Likud unity talks; Netanyahu said open to excluding Ben Gvir",
+          "url": "https://www.timesofisrael.com/no-progress-reported-in-yashar-likud-unity-talks-netanyahu-said-open-to-excluding-ben-gvir/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-15T21:56:09+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26314584993919-1024x640.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "מדד המחירים לצרכן של אוקטובר הפתיע בירידה שהפילה את האינפלציה ל-1.1%, ומחירי הדירות ממשיכים לרדת ברוב הארץ. בעולם העסקים, ישראכרט מכריזה על פיטורי מאות עובדים, ובנק הפועלים מדווח על ירידה ברווח לצד חלוקת דיבידנד גדולה.",
+      "headlines": [
+        {
+          "id": "90a0284074",
+          "title": "הפתעה במדד אוקטובר: ירד ב-0.1% והפיל את האינפלציה ל-1.1%; ירידה גם במדד במחירי הדירות",
+          "url": "https://www.themarker.com/news/macroeconomics/2026-11-15/ty-article/000001a1-dee6-d59b-a1f3-def6175a0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-15T16:30:11+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-e002-da30-a7fb-f8bf679a0000/e4/ad/ba950ebd48b2812c74ce99537047/133073.jpg?width=108&height=81"
+        },
+        {
+          "id": "11a5392f43",
+          "title": "מחירי הדירות יורדים בכל הארץ חוץ מבחיפה. זו הסיבה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001563503",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-16T05:35:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1684164480/COT_Pic/800_rgh2ot.jpg"
+        },
+        {
+          "id": "63d47687db",
+          "title": "דוחות ישראכרט חושפים פיטורים נרחבים: עד 370 משרות",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001563516",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-16T06:07:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1761157892/direct/62154588-8c90-4606-8356-0bbbe650dffd_ehbly1.png"
+        },
+        {
+          "id": "d919bcedb1",
+          "title": "רווחי הפועלים ירדו ב–11% ל–2.4 מיליארד שקל; יחלק חצי מהרווח כדיווידנד",
+          "url": "https://www.themarker.com/markets/2026-11-16/ty-article/000001a1-e309-d59b-a1f3-fb9d71810000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-16T06:31:05+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-e310-ddc9-abb7-efd2852e0000/b2/77/0cbed5f840d59a6fad396cbd71be/023521.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "מנכ\"ל אנבידיה לשעבר שוקל לחזור לתפקידו ימים אחרי שהתפטר בעקבות פרשת רומן, ובכירים בחברה בוחנים את ההשלכות הכלכליות. בנוסף, חברות הייטק הישראליות מתמודדות עם עלויות השימוש בבינה מלאכותית ובוחנות דרכים להתנתק מהענקיות הגלובליות.",
+      "headlines": [
+        {
+          "id": "78d224e1fb",
+          "title": "דיווח: הואנג דן באפשרות לחזור לאנבידיה ימים לאחר ההתפטרות",
+          "url": "https://www.themarker.com/wallstreet/2026-11-15/ty-article/000001a1-e0bc-d1ce-a9a3-e0bf23bf0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-15T19:49:35+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a0-3444-d02f-a9ed-7c6f3a610000/d7/fe/4792067d45e4a2048d8220206ad9/856348.jpg?width=108&height=81"
+        },
+        {
+          "id": "08825d043d",
+          "title": "מנכ\"ל אנבידיה לשעבר שוקל לשוב לתפקידו - ימים אחרי שהתפטר בעקבות חשיפת הרומן שניהל | דיווח",
+          "url": "https://www.mako.co.il/news-world/2026_q4/Article-1eaa62f97a0e1a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-11-15T19:28:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/11/09/AP26288329066065_autoOrient_i.jpg"
+        },
+        {
+          "id": "a44e22b218",
+          "title": "מלכוד העלויות דוחף את חברות ההייטק להתנתק מענקיות ה–AI",
+          "url": "https://www.themarker.com/technation/2026-11-16/ty-article/.highlight/000001a1-cfe5-d608-a1a7-eff518fc0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-16T04:01:22+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-d04b-ddc9-abb7-ddcb29e90000/76/c9/0f040708408ebdf055f7ea807d4f/342839.jpg?width=108&height=81"
+        },
+        {
+          "id": "72df3dd8d4",
+          "title": "\"מפעל המיליונרים\" בסכנה? כאב הראש הכפול של עובדי אנבידיה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001563484",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-16T05:43:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1794237465/AP26210716468930_zc9x31.jpg"
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "מחירי הדירות ממשיכים לרדת ברוב הארץ, למעט בחיפה, והקבלנים מאטים את קצב הפעילות מתוך חשש להתקררות השוק.",
+      "headlines": [
+        {
+          "id": "b641175cf6",
+          "title": "מחירי הדירות ממשיכים לרדת, הקבלנים מאטים פעילות — ומרימים דגל אדום",
+          "url": "https://www.themarker.com/realestate/2026-11-15/ty-article/.highlight/000001a1-e01c-d1ce-a9a3-e01f4b420000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-15T17:29:13+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-e04a-d59b-a1f3-f8de39da0000/89/d2/9593c9cb4e6c99fc26add42a8288/376182.jpg?width=108&height=81"
+        },
+        {
+          "id": "11a5392f43",
+          "title": "מחירי הדירות יורדים בכל הארץ חוץ מבחיפה. זו הסיבה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001563503",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-16T05:35:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1684164480/COT_Pic/800_rgh2ot.jpg"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "נועה קירל תובעת חברה שמייצרת מוצרי שיער תחת שמה ללא רשות, ובתעשיית המוזיקה מתרבות התחזיות לקראת טקס הגראמי.",
+      "headlines": [
+        {
+          "id": "287da96cd8",
+          "title": "מלחמה שערה: נועה קירל תובעת את החברה שמייצרת מוצרים לשיער תחת שמה",
+          "url": "https://www.themarker.com/consumer/2026-11-15/ty-article/.premium/000001a1-e03d-ddc9-abb7-edff6beb0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-15T18:58:23+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-e062-d59b-a1f3-f8f6bcad0001/7c/03/9167c0c543c1829f53cee0e0c7b3/231226.jpg?width=108&height=81"
+        },
+        {
+          "id": "1b340113fe",
+          "title": "ההפתעה והקאמבק הגדול של הכוכב: תחזית לקראת הגראמי",
+          "url": "https://www.walla.co.il/entertainment/music/383961397",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-16T05:38:37+00:00",
+          "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/2/images/1794677947973_walla-media-picture_1536x1024.webp?width=500"
+        }
+      ]
+    }
+  ],
   "sources_fetched": [
     "haaretz",
     "ynet",
+    "israel_hayom",
     "kan",
     "mako",
     "walla",
@@ -102,91 +340,223 @@
     "themarker",
     "times_of_israel",
     "maariv",
-    "makor_rishon",
     "reshet13",
     "i24"
   ],
   "sources_failed": [
-    "israel_hayom"
+    "makor_rishon"
   ],
   "world": {
     "israel_jewish": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
+      "summary_en": "Israel faces international criticism over its humanitarian record in Gaza, accused of failing to adhere to aid agreements and of using facial recognition technology to track Palestinians, while the UK and allied nations call for improved humanitarian access. Regional security concerns are highlighted by reports of Iran's substantial military arsenal of up to 2,500 rockets and the deployment of a third U.S. aircraft carrier to the Middle East. Meanwhile, Jewish communities in Michigan are closely watching the political rise of Senator Elissa Slotkin.",
       "headlines": [
         {
-          "id": "9cdc2144f0",
-          "title": "Politiek LIVEBLOG Top van regering komt zondag opnieuw bijeen, vanaf 14 uur 2 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/top-van-regering-komt-zondag-opnieuw-bijeen-vanaf-14-uur~1793247532380/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
+          "id": "f1b7d67871",
+          "title": "Israel does not adhere to agreements on aid to Gaza: its own figures speak volumes",
+          "url": "https://www.hln.be/buitenland/israel-houdt-zich-niet-aan-afspraken-over-hulp-voor-gaza-eigen-cijfers-spreken-boekdelen~a2abaca5/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-16T11:08:38+00:00",
+          "image_url": "https://images.hln.be/MmQzODkzYmQzNTg1Y2RjNjczMzQvZGlvLzI4MDE5MTY3NC9maXQtd2lkdGgvNDAw/displaced-palestinians-gather-to-receive-meals-being-distributed-by-a-charity-kitchen-at-the-nuseirat-camp-for-refugees-in-central-gaza-strip-on-november-10-2026-photo-by-eyad-baba-afp"
+        },
+        {
+          "id": "d686c1c7ce",
+          "title": "Revealed: Israel uploaded millions of photos to Amazon's facial recognition platform to track Palestinians",
+          "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-16T11:00:56+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/bc01b369b562e3e2bf256cd5482bab9f368d5175/1_0_2999_2400/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=27730105fa134de0e0a5b3912f39ec79"
+        },
+        {
+          "id": "a50a2c56e0",
+          "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-16T08:56:04+00:00",
           "image_url": null
         },
         {
-          "id": "e2606f2d41",
-          "title": "Technologie & Wetenschap Primeur: SpaceX vangt Starship-raket opnieuw op, belangrijke stap richting herbruikbare raket 22 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/spacex-vangt-bovenste-trap-starship-op/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
+          "id": "9a8f33012a",
+          "title": "American intelligence: Iran still has up to 2,500 rockets in arsenal • Third American aircraft carrier reported in Middle East",
+          "url": "https://www.demorgen.be/snelnieuws/live-amerikaanse-inlichtingendiensten-iran-heeft-nog-tot-2-500-raketten-in-arsenaal-derde-amerikaans-vliegdekschip-zou-aangekomen-zijn-in-midden-oosten~be9c4f82/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-16T08:25:00+00:00",
+          "image_url": "https://image.demorgen.be/280173872/roi/320/320/2805/1918.28/afbeelding"
         },
         {
-          "id": "a8a1bb4b92",
-          "title": "00:53 Europa Italiaanse delegatie brengt dag voor duel met Rode Duivels hulde aan 39 dodelijke slachtoffers Heizeldrama 54 minuten geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/11/14/italiaanse-delegatie-legt-bloemenkrans-naar-voor-heizeldrama/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "1de4d22de1",
-          "title": "Cultuur & Media Danseres Nora Monsecour, inspiratie voor de film 'Girl', wint belangrijke Duitse theaterprijs 1 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/danseres-nora-monsecour-wint-belangrijke-duitse-theaterprijs/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "ac1c1db437",
-          "title": "Mobiliteit Hoe kwetsbaar is het Belgische luchtverkeer? \"We zijn niet afhankelijk van diskettes\" 7 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/vliegverkeer-vs-kan-dat-ook-in-belgie-skeyes-luchtverkeer-expert/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "6500b1f99e",
-          "title": "Verenigde Staten \"Helft van onze muzikanten gestrand\": luchtvaartproblemen verstoren Amerikaanse tour Belgisch muziekensemble 4 uur geleden",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/vox-luminis-luchtvaartproblemen-vs/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
+          "id": "f4f54998fc",
+          "title": "Michigan Sen. Elissa Slotkin is having a moment. Are Michigan's Jews happy about it?",
+          "url": "https://www.jta.org/2026/11/16/politics/michigan-sen-elissa-slotkin-is-having-a-moment-are-michigans-jews-happy-about-it",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-16T11:00:00+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-10-26-slotkin-aes-1.jpg"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
+      "summary_en": "Belgium's government faces a critical budget impasse after Premier De Wever returned to negotiations with the king without reaching an agreement, with tensions exacerbated by press leaks and political obstruction from coalition partners. The government is pursuing stricter immigration policies, with plans to link asylum seekers' living allowances to their demonstrated integration efforts. Local security concerns continue to dominate headlines, while sports officials remain optimistic about Belgian athletes' Olympic prospects, including multiple qualifying pathways for distance runner Bashir Abdi to reach the Los Angeles Games.",
+      "headlines": [
+        {
+          "id": "cf7bf29a7f",
+          "title": "Political LIVEBLOG: Premier De Wever arrived again at the king, without budget agreement",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/premier-de-wever-opnieuw-aangekomen-bij-de-koning-zonder-begrot~1793247532380/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "0f22955cde",
+          "title": "'De Wever reacted emotionally': how stubbornness of Vooruit and press leaks drive premier to the limit",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/begrotingsonderhandelingen-federale-regering-waar-liggen-de-bree/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "cce0dc579e",
+          "title": "Minister Van Bossuyt wants to link asylum seekers' living allowance to integration willingness: those insufficiently integrated receive less",
+          "url": "https://www.hln.be/binnenland/minister-van-bossuyt-wil-leefloon-asielzoekers-koppelen-aan-integratiebereidheid-wie-onvoldoende-integreert-krijgt-minder~a3a9f4de/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-16T11:06:00+00:00",
+          "image_url": "https://images.hln.be/YTZhMDZjY2E2NzRlNzc3ZDVkYWYvZGlvLzI4MDQwMTczNC9maXQtd2lkdGgvNDAw/brussels-belgium-october-25-the-old-venue-located-at-pacheco-boulevard-44-has-been-abandonned-the-new-hub-is-located-on-brussels-busy-connection-road-beliard-street-68-small-groups-of-refugees-pictured-queuing-and-being-clueless-on-october-25-2024-in-brussels-belgium-25-10-2024-photo-by-philip-reynaers-photonews-inzet-minister-of-asylum-and-migration-social-integration-and-major-cities-anneleen-van-bossuyt-pictured-during-the-yearly-family-day-of-conservative-flemish-nationalist-party-n-va-on-sunday-20-september-2026-at-the-plopsaland-theme-park-in-adinkerke-de-panne-belga-photo-nicolas-maeterlinck"
+        },
+        {
+          "id": "5479af6ed5",
+          "title": "Dutch cousins before court after attack against drug criminal 'Panda' in Edegem: 'These two were cannon fodder'",
+          "url": "https://www.hln.be/antwerpen/nederlandse-neven-voor-rechter-na-aanslag-tegen-drugscrimineel-panda-in-edegem-deze-twee-zijn-kanonnenvlees-geweest~ae9af954/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-16T10:40:00+00:00",
+          "image_url": "https://images.hln.be/MzdhMjFmMTViNzRmZDE1YjdiZjkvZGlvLzI4MDQwMTQyMC9maXQtd2lkdGgvNDAw/20250902-belgie-in-de-drie-eikenstraat-in-edegem-kreeg-de-politie-rond-5-30-melding-van-een-explosie-onze-ploegen-zijn-ter-plaatse-gekomen-en-hebben-meteen-een-perimeter-ingesteld-zegt-de-woordvoerder-van-politiezone-hekla-dovo-en-het-labo-werden-opgeroepen-en-voeren-momenteel-de-nodige-vaststellingen-uit-volgens-de-buurt-is-dit-al-de-tweede-aanslag-in-twee-dagen-tijd-op-hetzelfde-gebouw-in-de-nacht-van-zondag-op-maandag-werd-er-al-een-projectiel-gegooid-tegen-de-voordeur-wat-zorgde-voor-een-inslag-nu-vond-de-ontploffing-plaats-aan-de-andere-hoek-van-het-gebouw-inzet-20260421-antwerpen-interview-met-slachtoffer-van-pesterijen-en-advocaat-interview-met-slachtoffer-van-pesterijen-en-advocaat-christian-clement-christian-clement-advocaat-anoniem-interview-pesterijen-portret-portretten-slachtoffer-202604211606-id-jeffrey-torremans"
+        },
+        {
+          "id": "7d714da02a",
+          "title": "Hans Vandeweghe finds panic about Olympic athletics limits typically Belgian: for Bashir Abdi multiple paths lead to L.A.",
+          "url": "https://www.demorgen.be/sport/hans-vandeweghe-vindt-paniek-om-olympische-atletieklimieten-typisch-belgisch-voor-bashir-abdi-leiden-meerdere-wegen-naar-l-a~be731085/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-16T02:00:00+00:00",
+          "image_url": "https://image.demorgen.be/280372916/feature-crop/320/320/afbeelding"
+        }
+      ]
     },
     "europe": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
+      "summary_en": "Europe faces growing concerns over democratic freedoms, as demonstrated by a historic protest of 350,000 people in the Czech Republic demanding a free press and an open society. The Ukraine-Russia conflict continues to intensify, with reports of attacks on the Crimean bridge and international support for Ukrainian forces, including a visit by Britain's Prince Harry to honor war veterans. France faces domestic political challenges as President Macron becomes increasingly isolated ahead of the presidential elections, while the UK signals willingness to renegotiate its post-Brexit relationship with the European Union.",
+      "headlines": [
+        {
+          "id": "622ddb7305",
+          "title": "Europe: Largest protest in Czech history: 350,000 people take to streets for free press and society",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/honderdduizenden-tsjechen-komen-op-straat-voor-openbare-omroep/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "1d5f884f7e",
+          "title": "Russia says Ukraine attacked Crimean bridge",
+          "url": "https://www.politico.eu/article/russia-claims-ukraine-attacked-crimean-bridge-moscow/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-16T10:36:44+00:00",
+          "image_url": null
+        },
+        {
+          "id": "c9c9a3f6cb",
+          "title": "'He hasn't answered my messages for weeks, though I see he reads them': Macron becomes increasingly isolated ahead of presidential elections",
+          "url": "https://www.hln.be/buitenland/hij-antwoordt-al-weken-niet-meer-op-mijn-berichten-hoewel-ik-zie-dat-hij-ze-leest-macron-raakt-steeds-meer-geisoleerd-in-aanloop-naar-presidentsverkiezingen~aaa135fee/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-16T10:41:00+00:00",
+          "image_url": "https://images.hln.be/ZmZlNzEwODgzM2UyYzlmYjY2M2EvZGlvLzI4MDM2MDE5Ny9maXQtd2lkdGgvNDAw/french-president-emmanuel-macron-participates-in-a-wreath-laying-ceremony-at-the-independence-monument-during-the-20th-francophonie-summit-marking-the-first-trip-to-cambodia-by-a-french-president-since-1993-in-phnom-penh-cambodia-november-15-2026-reuters-chalinee-thirasupa"
+        },
+        {
+          "id": "bca39723b9",
+          "title": "Andy Burnham to say Brexit 'has not worked' and he will sign new deal with EU",
+          "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-16T07:00:38+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/a9167ab535ad3f6ea97ad5092601ebdb54f5d261/247_0_6155_4927/master/6155.jpg?width=700&quality=85&auto=format&fit=max&s=028c02653091abcb6fbb27728fc7ab65"
+        },
+        {
+          "id": "5b9aec90bc",
+          "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
+          "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-16T09:21:31+00:00",
+          "image_url": null
+        }
+      ]
     },
     "world_top": {
-      "summary_en": "Automatic summary unavailable — raw headlines shown below.",
-      "headlines": []
+      "summary_en": "The Democratic Party achieved a stronger-than-expected performance in recent U.S. midterm elections, contrary to predictions of a Republican landslide, with foreign policy debates — including positions on Iran and Ukraine — playing a significant role. South Africa is experiencing a severe security crisis after two mass shootings resulted in 17 deaths. Australia's Prime Minister is navigating complex geopolitical positioning ahead of meetings with the Trump administration, seeking to advance Indo-Pacific interests while advocating for de-escalation in Iran and Ukraine. The United States experienced a rare November tornado in Delaware.",
+      "headlines": [
+        {
+          "id": "21bd7b8b77",
+          "title": "Suddenly American Democrats are hot and sexy: blue wave at midterms was no accident",
+          "url": "https://www.demorgen.be/nieuws/ineens-zijn-de-amerikaanse-democraten-hot-en-sexy-blauwe-golf-bij-de-midterms-was-geen-toeval~b66ed53c/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-16T02:00:00+00:00",
+          "image_url": "https://image.demorgen.be/280262055/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "745d5e7a5c",
+          "title": "Two mass shootings in South Africa leave 17 dead",
+          "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-16T10:57:48+00:00",
+          "image_url": null
+        },
+        {
+          "id": "db43089f31",
+          "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-16T09:40:29+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=700&quality=85&auto=format&fit=max&s=fe86b6044b3302a726aa13e51c1062e8"
+        },
+        {
+          "id": "b171e60ed8",
+          "title": "Delaware hit by rare November tornado",
+          "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-16T09:27:06+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/e86938f808aacaed63529ffbd461f2de4ff10c74/500_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=78184b010821c5df4ace431aa735ff51"
+        }
+      ]
     },
-    "degraded": true
+    "degraded": false
   }
 }
