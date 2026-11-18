@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-11-17T08:12:30.246513+00:00",
-  "date": "2026-11-17",
+  "generated_at": "2026-11-18T08:55:17.194843+00:00",
+  "date": "2026-11-18",
   "degraded": false,
   "top_general": {
-    "summary_he": "בימים אלה מתרחש דיון פוליטי מתוח על הקמת ממשלה על רקע חילוקי דעות בנוגע לגבולות ישוב. בחזית הביטחון, צה\"ל פתח מבצע בעומק הטריטוריה הלבנונית נגד חיזבאללה כדי למנוע התחמשות ארוכת טווח. בהמשך, ארצות הברית מרכזת כוחות צבאיים משמעותיים בים - עשרות ספינות מלחמה וכמאות מטוסים במזרח התיכון.",
+    "summary_he": "הממשלה החדשה מתגבשת: הכנסת בחרה במתן כהנא ליו\"ר בתמיכת 66 חברי כנסת, בצעד משמעותי בהקמת ממשלה בחסות גוש אייזנקוט. בחזית הביטחון התחדדו המתיחויות, כשארצות הברית תקפה מתקנים צבאיים איראניים בתגובה להתקפות על בסיסים אמריקניים בחצי האי. בנוסף, אישרה איטליה חוק חדש להגנה על יהודים מפני אנטישמיות, באמצעות אימוץ הגדרה בינלאומית.",
     "headlines": [
       {
-        "id": "ccda46a18d",
-        "title": "בין קווי 48 לגבולות 67: המבצע להקמת ממשלה",
-        "url": "https://www.walla.co.il/news/opinions/383961719",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-11-17T06:28:03+00:00",
-        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/3/9/6/4/3964591-46.jpg"
+        "id": "0662de615d",
+        "title": "Knesset votes 66-52 to elect Yashar’s Matan Kahana as speaker, in boost to Eisenkot bloc",
+        "url": "https://www.timesofisrael.com/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-in-boost-to-eisenkot-bloc/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-17T22:56:40+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261117CG843-1024x640.jpg"
       },
       {
-        "id": "812c806154",
-        "title": "צה\"ל תקף באופן חריג בעומק לבנון, כדי למנוע מחיזבאללה להתחמש לקראת סבב עם איראן",
-        "url": "https://www.haaretz.co.il/news/politics/2026-11-16/ty-article/.premium/000001a1-e4d9-ddc3-a7ff-e5df018c0000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-11-16T18:12:22+00:00",
-        "image_url": null
+        "id": "6ba77fee09",
+        "title": "US strikes Iran’s Qeshm Island after Tehran attacks American radar site in Bahrain",
+        "url": "https://www.timesofisrael.com/us-strikes-irans-qeshm-island-after-tehran-attacks-american-radar-site-in-bahrain/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-17T21:04:03+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/Screenshot-2026-11-17-at-18.00.02-1024x640.jpeg"
       },
       {
-        "id": "d36355f195",
-        "title": "17 ספינות מלחמה, מאות מטוסים ועשרות אלפי חיילים: צבירת הכוחות הגדולה של צבא ארצות הברית במזרח התיכון",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-5c69dff3843e1a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-11-16T08:06:00+00:00",
-        "image_url": "https://img.mako.co.il/2026/11/16/n20-1611-trump-ibud-1-1_re_autoOrient_i.jpg"
+        "id": "31df163071",
+        "title": "Italy approves law against antisemitism that incorporates IHRA definition of term",
+        "url": "https://www.timesofisrael.com/italy-approves-law-against-antisemitism-that-incorporates-ihra-definition-of-term/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-18T03:48:09+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/01/AP26027340679574-1024x640.jpg"
       }
     ]
   },
   "security_war": {
-    "summary_he": "בחזית הביטחון נחשפה קריסה משמעותית במערך ההגנה של חיזבאללה. בהמשך, דוחות מעידים על תכניות איראניות פוטנציאליות לביצוע התקפה. בתוך הטריטוריה, בוצע פיגוע בירוחו שגרם לפציעה קלה, בעוד שבעזה צה\"ל הרג שלושה אנשי חמאס בתקיפה על מתקן חיוני.",
+    "summary_he": "בחזית הביטחון המתוחה, הגדיר צה\"ל את ההתרחשות ביריחו כפיגוע, בעקבות דיווחים כי ירי של אזרח ישראלי גרם למותה של פלסטינית. איראן הקשיחה את עמדותיה בשיחות דיפלומטיות עם ארצות הברית לאחר הפסד פוליטי של הרפובליקנים בבחירות. צה\"ל וגופים ביטחוניים סיכלו ניסיון הברחת כלי נשק דרך הגבול עם ירדן, בעוד צפון מקדוניה ויוון שיתפו פעולה בעצירת חשודים שתכננו התנקשות בהכוונה איראנית.",
     "headlines": [
       {
-        "id": "67289d0f61",
-        "title": "אחרי קריסת קו ההגנה של חיזבאללה: האיום החדש שצה\"ל נערך אליו - והתקיפה בעומק לבנון",
-        "url": "https://www.maariv.co.il/news/military/article-1389213",
+        "id": "2e62cfceb9",
+        "title": "צה\"ל הגדיר את העימות ביריחו פיגוע: \"מות הפלסטינית - כנראה מירי אזרח ישראלי\"",
+        "url": "https://www.ynet.co.il/news/article/rj11rig9rzg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-17T22:31:36+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/17/Ske0Oz2YAfe/Ske0Oz2YAfe_0_263_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "06861d69bd",
+        "title": "דיווח: איראן הקשיחה את עמדותיה במו\"מ עם ארה\"ב מאז ההפסד של הרפובליקנים בבחירות האמצע",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001563868",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-11-18T06:02:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/v1781534853/direct/2-3-800_hih9km.png"
+      },
+      {
+        "id": "de788fa835",
+        "title": "לפני 48 דקות גבול ירדן פרוץ: צה\"ל והמשטרה סיכלו הברחה של כלי נשק ומחסניות",
+        "url": "https://www.maariv.co.il/breaking-news/article-1389699",
         "source": "maariv",
         "source_label": "מעריב",
         "source_label_he": "מעריב",
         "published_at": null,
-        "image_url": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_881,h_494/902701"
+        "image_url": null
       },
       {
-        "id": "7a3128494b",
-        "title": "דיווח: איראן מתכננת לפגוע בבכירי ממשל טראמפ באמצעות פצצה רדיואקטיבית קרא עוד..",
-        "url": "https://www.i24news.tv/he/news/international/usa-canada/artc-abfc55e1",
-        "source": "i24",
-        "source_label": "i24NEWS",
-        "source_label_he": "i24NEWS",
-        "published_at": null,
-        "image_url": "https://cdn.i24news.tv/uploads/18/ac/63/ca/cf/b1/93/f1/64/cd/31/1f/a7/74/58/b0/18ac63cacfb193f164cd311fa77458b0.jpg?width=750"
-      },
-      {
-        "id": "fe030c2e77",
-        "title": "פיגוע ביריחו: שני פצועים קל מדריסה ותקיפה בגרזנים ואלות, מצוד אחר מחבלים",
-        "url": "https://www.ynet.co.il/news/article/h158wbf0ge",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-11-16T22:54:21+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/17/r1w00bYCzg/r1w00bYCzg_1_425_720_406_0_medium.jpg"
-      },
-      {
-        "id": "299db23ac5",
-        "title": "IDF: 3 Hamas men, including Oct. 7 terrorist, killed in last week’s Gaza hospital strike",
-        "url": "https://www.timesofisrael.com/idf-3-hamas-men-including-oct-7-terrorist-killed-in-last-weeks-gaza-hospital-strike/",
-        "source": "times_of_israel",
-        "source_label": "Times of Israel",
-        "source_label_he": "Times of Israel",
-        "published_at": "2026-11-16T19:06:35+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AFP__20261112__D78Z44E__v1__HighRes__PalestinianIsraelConflictGaza-1024x640.jpg"
+        "id": "488648c3a5",
+        "title": "צפון מקדוניה ויוון: עצרנו יחד חמישה חשודים שתכננו התנקשות בהכוונת איראן",
+        "url": "https://www.haaretz.co.il/news/politics/2026-11-17/ty-article/000001a1-ea7a-d1e2-a7b7-fafb8d6e0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-17T18:16:13+00:00",
+        "image_url": null
       }
     ]
   },
@@ -86,192 +86,185 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בזירה הפוליטית מתנהלת חקירה בנוגע להעברת מידע בחירות מלשכת ראש הממשלה למשטרה. מטעם גורמים אחרים הוכרז כי אין סיכוי לממשלה מאוחדת בעת הקרובה. לאחר הצלחת הרשימות הערביות בבחירות, התפשטה רטוריקה בעלת טון גזעי בשיח הציבורי.",
+      "summary_he": "בדינמיקת הקואליציה החדשה עולות מתיחויות פנימיות משמעותיות. הממשלה המתהווה עלולה להיות מוכתבת על ידי דאגות אודות שלטון קרוב, בעוד סכסוכים פוליטיים גדלים סביב דרישות הפטור מגיוס למפלגות החרדיות. הממונה על המשפטים הקפיא באופן משמעותי תהליכים הקשורים להתיישבויות בהסדר E1 עד להשבעת הממשלה החדשה.",
       "headlines": [
         {
-          "id": "6a493bc758",
-          "title": "בהרב־מיארה ואיסמן ידונו אם לחקור את הגורמים בלשכת נתניהו שהעבירו מידע סמוך לבחירות",
-          "url": "https://www.haaretz.co.il/news/elections/2026-11-16/ty-article/.premium/000001a1-e557-d9ff-a7b5-f5ff8ac80000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-11-16T17:14:29+00:00",
-          "image_url": null
+          "id": "4a43290255",
+          "title": "הממשלה המתהווה: שלטון הפחד",
+          "url": "https://www.ynet.co.il/news/article/yokra14962041",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-17T22:11:27+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/17/B1eb979RMe/B1eb979RMe_0_0_2560_1627_0_medium.jpg"
         },
         {
-          "id": "9025adcb33",
-          "title": "Senior Eisenkot bloc official said to see no chance for unity government after PM’s ‘attempted coup’",
-          "url": "https://www.timesofisrael.com/senior-eisenkot-bloc-official-said-to-see-no-chance-for-unity-government-after-pms-attempted-coup/",
+          "id": "a07c8f1ce5",
+          "title": "לשון המאזניים: כך המפלגות החרדיות ינצלו את מעמדן - עד השגת הפטור מגיוס",
+          "url": "https://www.ynet.co.il/news/article/bkex00h5czg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-18T06:19:57+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/16/SJXZ6YuCfl/SJXZ6YuCfl_0_116_2560_1440_0_medium.jpg"
+        },
+        {
+          "id": "8e2514a5da",
+          "title": "AG freezes controversial E1 settlement tender process until new government sworn in",
+          "url": "https://www.timesofisrael.com/ag-freezes-controversial-e1-settlement-tender-process-until-new-government-sworn-in/",
           "source": "times_of_israel",
           "source_label": "Times of Israel",
           "source_label_he": "Times of Israel",
-          "published_at": "2026-11-17T04:11:34+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26314588862578-e1794613122595-1024x640.jpg"
-        },
-        {
-          "id": "cd1030b5ec",
-          "title": "After Arabs’ historic election returns, a pox of racist rhetoric infects Israel’s airwaves",
-          "url": "https://www.timesofisrael.com/after-arabs-historic-election-returns-a-pox-of-racist-rhetoric-infects-israels-airwaves/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-11-17T04:05:20+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261105YS62-1024x640.jpg"
-        },
-        {
-          "id": "eade20fa85",
-          "title": "AG, state attorney to look into PMO’s feeding of Arab vote fraud tip-off to police on election eve",
-          "url": "https://www.timesofisrael.com/ag-state-attorney-to-examine-transfer-of-election-fraud-claims-from-pmo-to-police/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-11-16T20:33:18+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2024/10/Untitled-design-2-e1729649970507-1024x640.jpg"
+          "published_at": "2026-11-18T01:21:43+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/09/F250821JA19-1024x640.jpg"
         }
       ]
     },
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "בשוק ההון ובכלכלה, השקל פוחת בערכו עם הדולר המגיע לשיא שנתי. בחברות גדולות, מזרחי טפחות מדווחת על ירידה בהרווחים, בעוד שחברות כמו אלביט מדווחות על הצלחות. בתעשיית הטלקום, פלאפון מעלה עלויות מנויים סלולריים.",
+      "summary_he": "השוק הכלכלי מתמודד עם לחצים רבים על צרכנים. בעוד חברות בנקאיות חוגגות ברווחים מלחצי השוק, יצוא גז עלול להעלות מחירים עבור הצרכנים המקומיים. פעילות בינלאומית כמו חזרה אפשרית של פליי דובאי לישראל מציעה הזדמנויות כלכליות, בעוד ביצועי השוק הגלובלי נמשכים בעוצמתם.",
       "headlines": [
         {
-          "id": "63bd4c0c66",
-          "title": "השקל ממשיך להיחלש: שער הדולר מגיע לשיא של שנה",
-          "url": "https://finance.walla.co.il/item/3876560",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-11-17T06:35:10+00:00",
-          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/0/6/4/4064451-46.jpg"
-        },
-        {
-          "id": "e35fa725f8",
-          "title": "הרווח הנקי של מזרחי טפחות ירד ברבעון השלישי",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001563702",
+          "id": "7bfd79a27c",
+          "title": "פליי דובאי תחזור לישראל? התאריך המסתמן ונקודות המחלוקת",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001563818",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-11-17T06:15:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1763477601/direct/%D7%9E%D7%A9%D7%94_%D7%9C%D7%90%D7%A8%D7%99_%D7%9E%D7%A0%D7%9B%D7%9C_%D7%9E%D7%96%D7%A8%D7%97%D7%99_%D7%98%D7%A4%D7%97%D7%95%D7%AA_ajay8y-1_ty49tk.jpg"
+          "published_at": "2026-11-18T06:20:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790753217/shutterstock_2154617393_g7thjz.jpg"
         },
         {
-          "id": "6575a77a66",
-          "title": "אלביט עקפה את צפי האנליסטים; צבר ההזמנות טיפס לשיא חדש",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001563703",
+          "id": "994b3e53db",
+          "title": "מריחים התייקרות: יצוא הגז עלול לגרום להעלאת מחירים ללקוחות מקומיים",
+          "url": "https://www.themarker.com/news/energy/2026-11-18/ty-article/.premium/000001a1-e8f0-d848-abeb-faf857430000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-18T04:31:03+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-e924-d848-abeb-fbac03010000/97/0f/fb01470c4e93af760636a730c275/327463.jpg?width=108&height=81"
+        },
+        {
+          "id": "0ea72e14af",
+          "title": "רווחי שיא: למרות פרשת ג'פניקה — כך עקפה לאומי פרטנרס את פועלים אקוויטי",
+          "url": "https://www.themarker.com/markets/2026-11-17/ty-article/.premium/000001a1-e9fb-dad7-a9fd-ebfb44150000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-17T16:47:16+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-eabd-d3e7-a9ff-eeff18fe0001/2e/79/ab2c309e4cd69069214577787ea4/mfutzelt111.jpg?width=108&height=81"
+        },
+        {
+          "id": "b78a888fa1",
+          "title": "ה־S&P 500 ניצח לאורך זמן. האם זה מספיק כדי להשקיע רק בארה\"ב?",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001563812",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-11-17T06:57:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1660725066/COT_Pic/800_xalfbz.jpg"
-        },
-        {
-          "id": "95834316f1",
-          "title": "שתי עסקות, פערי שיא: למה פלאפון מוכנה לשלם יותר מ–1,000 שקל לכל מנוי סלולר",
-          "url": "https://www.themarker.com/markets/2026-11-17/ty-article/.highlight/000001a1-e4d8-d848-abeb-fed839b80000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-11-17T04:09:14+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-e586-dad7-a9fd-e7cf62ad0001/2b/fe/e85fd22e4503ae3b5a812a2951c0/mefuzelet-homepage-3.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "tech",
-      "label_he": "טכנולוגיה והייטק",
-      "summary_he": "בתחום הטכנולוגיה, בוצעה מתקפה סייברנטית רחבה על 178 אתרים, כולל אתרים לדרכונות ואייפון. בשוק ההון, דוחות של חברות גדולות כמו אנבידיה גורמים לתנודות משמעותיות בבורסה. בתחום הגלובלי, חברות אסיאתיות סובלות מנפילות בערך מניות הטכנולוגיה.",
-      "headlines": [
-        {
-          "id": "45caca7485",
-          "title": "מתקפת סייבר על 178 אתרים - ונגד אייפונים: האם גם אתם נפגעתם?",
-          "url": "https://tech.walla.co.il/item/3876574",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-11-17T07:30:00+00:00",
-          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/1/1/9/4119952-46.png"
-        },
-        {
-          "id": "2fd9663d8a",
-          "title": "גילויים חדשים: כך הסתבכה אנבידיה עם \"המרגלת הסינית\"",
-          "url": "https://finance.walla.co.il/item/3876552",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-11-17T06:07:30+00:00",
-          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/1/1/9/4119928-46.jpeg"
-        },
-        {
-          "id": "9f510a5621",
-          "title": "מניות הטכנולוגיה גוררות את אסיה לירידות; באידו נופלת ב-6%",
-          "url": "https://www.themarker.com/wallstreet/2026-11-17/ty-article-live/000001a1-e2bb-da30-a7fb-fabf3a770000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-11-17T05:19:00+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a1-e562-d9ff-a7b5-f5ee21510000/91/37/611b449946d4bdd3513f5d4b546f/191218.jpg?width=108&height=81"
+          "published_at": "2026-11-18T03:48:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1739696896/COT_Pic/800_moqnh8.jpg"
         }
       ]
     },
     {
       "key": "health",
       "label_he": "בריאות ורפואה",
-      "summary_he": "משרד הבריאות מבטיח הגדלה בכמות הרופאים המועסקים, אך קיימים מכשולים בדרך ליישום התוכנית.",
+      "summary_he": "משרד הבריאות הוציא אזהרה לציבור מפני צריכת מוצרי טחינה מסוימים לאור תוצאות בדיקות בטיחות.",
       "headlines": [
         {
-          "id": "4c5c4e1587",
-          "title": "משרד הבריאות מבטיח עוד רופאים, אך יש כמה מכשולים בדרך ליישום התוכנית",
-          "url": "https://www.haaretz.co.il/news/magazine/2026-11-17/ty-article-magazine/.premium/000001a1-e3ce-defb-a9b9-ffef94b40000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-11-17T04:00:56+00:00",
-          "image_url": null
+          "id": "c149652232",
+          "title": "משרד הבריאות מזהיר: אל תצרכו את מוצרי הטחינה האלה",
+          "url": "https://www.walla.co.il/news/israel/383961905",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-18T05:58:33+00:00",
+          "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/3/images/1794981024214_walla-media-picture_1198x1570.webp?width=500"
         }
       ]
     },
     {
-      "key": "culture_entertainment",
-      "label_he": "תרבות ובידור",
-      "summary_he": "בתחום התרבות והבידור נחשפו סיפורים אפלים - מחדשות על קומדיאן שהואשם בתקיפה מינית, ועד לחשיפות בנוגע לצד האפל של מדענים מפורסמים.",
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "מערכות טכנולוגיה גדולות מתמודדות עם אתגרים מתמשכים: משתמשים דיווחו על תקלות בג'ימייל ובשירותי אפל. חברת אנבידיה מדווחת על אמות מידה חזקות בדוחותיה, בעוד בתו של הממונה עליה מביעה ביטחון בתפקידה הניהולי. קליפורניה הגבילה באופן משמעותי את פעילות רכבים ללא נהג מחברת ווימו בכבישים ציבוריים.",
       "headlines": [
         {
-          "id": "70479ebb79",
-          "title": "מ' \"יצא למלחמה\" - ורק אחרי 5 שנים נחשף שם המורה שאנס אותו | קשה לקריאה",
-          "url": "https://www.ynet.co.il/news/article/bkigstoczl",
-          "source": "ynet",
-          "source_label": "Ynet",
-          "source_label_he": "Ynet",
-          "published_at": "2026-11-16T23:33:52+00:00",
-          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/16/S1nQDJKAMg/S1nQDJKAMg_0_0_1280_721_0_medium.jpg"
+          "id": "ac68e455c2",
+          "title": "משתמשים מדווחים על תקלות בג'ימייל ובשירותי אפל",
+          "url": "https://www.themarker.com/news/2026-11-17/ty-article/000001a1-eae2-d381-ade5-ebe3cc870000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-17T19:01:35+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-eaec-dad7-a9fd-eaef306f0000/62/c0/307b43d94ed38d88c24a061f8aad/569198.jpg?width=108&height=81"
         },
         {
-          "id": "24b893f4ea",
-          "title": "חשפניות, בגידות וג'פרי אפשטיין: הצד האפל של סטיבן הוקינג",
-          "url": "https://www.walla.co.il/news/donotmiss/383961748",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-11-17T07:06:20+00:00",
-          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/0/2/2/4022157-46.jpg"
+          "id": "5b44836dfb",
+          "title": "המספר החשוב בדוחות אנבידיה ומה אמרה המנכ\"לית החדשה?",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001563900",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-18T05:05:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1689842784/direct/Colette_Kress_jjru1x.jpg"
+        },
+        {
+          "id": "3604805ec9",
+          "title": "צברה עוצמה יוצאת דופן בחברה: בתו של ג'נסן הואנג היא אתגר לכל מנכ\"ל עתידי",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001563738",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-17T18:58:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1794911588/2026-08-19T095344Z_1723550394_RC2L1NAEFMEA_RTRMADP_3_CHINA-TECH-ROBOT_efthsc.jpg"
+        },
+        {
+          "id": "e338cfd75d",
+          "title": "\"סכנה ממשית\": קליפורניה אוסרת על רכבי ווימו לעלות לכביש",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21877598",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
         }
       ]
     },
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "בשוק הנדל\"ן פורסמה הצעה לרכישת דירה בעיר חיפה בהנחה משמעותית של יותר מ-50 אחוזים מהמחיר הרגיל.",
+      "summary_he": "השוק הנדל\"ני מתמודד עם אתגרים עמוקים למוכרים ולקונים. קונים מדווחים על דרישות דמוגרפיות קשות מחלקי הפיתוח, וחלק מהם גילו שבניינם עובר לתוכניות בנייה מחודשות כמו תמ\"א. נתונים כלכליים אחרונים מראים פעילות בנייה רבה בשווי 8.1 מיליארד שקל ברבעון האחרון.",
       "headlines": [
         {
-          "id": "c9aed9bf60",
-          "title": "הפרצה שמאפשרת לקנות דירה בחיפה בהנחה של יותר מ־50%",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001563639",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-11-17T04:10:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1662539118/direct/%D7%93%D7%A8%D7%9A_%D7%90%D7%A8%D7%A5_%D7%97%D7%A8%D7%99%D7%A9__6_o3zjfx.jpg"
+          "id": "512e008192",
+          "title": "היזם דורש שתוותרו על חלק מהדירה בפינוי-בינוי? שבע בדיקות שכדאי לעשות לפני שמסכימים",
+          "url": "https://www.themarker.com/agents/2026-11-17/ty-article/000001a1-eb04-dad7-a9fd-eb4f29030000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-17T20:08:11+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-eb15-d9ff-a7b5-fbbf5ee00000/e7/f7/7be99cf845958fd6f7d8a146804f/820866.jpg?width=108&height=81"
+        },
+        {
+          "id": "d7143e4c0f",
+          "title": "\"קנינו דירה במצב נוראי. שבוע אחרי שחתמנו על החוזה, קיבלנו מייל שהבניין יעבור תמ\"א\"",
+          "url": "https://www.themarker.com/realestate/2026-11-18/ty-article-magazine/.premium/000001a1-e5dd-d9ff-a7b5-f5ff4c8c0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-18T04:00:01+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-e5e8-d9ff-a7b5-f5ee26e70000/95/bd/8efb5da5403499fa6b5e6be095e1/168850.jpg?width=108&height=81"
+        },
+        {
+          "id": "e3d65ce7a3",
+          "title": "8.1 מיליארד שקל ברבעון: הקבלנים מתקשים למכור דירות, והחגיגה בבנקים נמשכת",
+          "url": "https://www.themarker.com/markets/2026-11-18/ty-article/.highlight/000001a1-e9bb-d848-abeb-fbbb63750000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-18T04:06:19+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-e9fa-d381-ade5-ebfb194f0001/c5/07/a28bd52f4d64bc98697095443ec3/tm-3-split.jpg?width=108&height=81"
         }
       ]
     }
@@ -288,73 +281,64 @@
     "times_of_israel",
     "maariv",
     "makor_rishon",
-    "reshet13",
+    "reshet13"
+  ],
+  "sources_failed": [
     "i24"
   ],
-  "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israel's own figures reveal that less than half of humanitarian aid supplies are permitted into Gaza, highlighting concerns about access restrictions. Jewish communities worldwide face antisemitism, as demonstrated by a prominent Sydney doctor's departure from his position following related accusations. Within Israel, a Reform synagogue in Jerusalem has become central to discussions about religious pluralism and inclusion.",
+      "summary_en": "Israeli politics saw a significant shift as the Knesset elected a speaker from the opposition \"change\" bloc, signaling resistance to Netanyahu's coalition leadership. Violence escalated in the West Bank with the killing of a 72-year-old Palestinian woman by Israeli settlers near Jericho. Britain imposed sanctions on Israeli aid-blocking groups and settlement construction companies in response to their activities. A report revealed that anti-Arab hate speech surged significantly on social media during Israel's recent election period.",
       "headlines": [
         {
-          "id": "373e44776b",
-          "title": "Israeli-Palestinian conflict: Israel's figures reveal not even half of aid supplies are allowed into Gaza",
-          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/11/16/video-inge-vrancken-legt-uit-hulpmiddelen-tekort-in-gaza/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
+          "id": "3e3b4f6b46",
+          "title": "Knesset elects speaker from the 'change' bloc opposing Netanyahu",
+          "url": "https://www.jta.org/2026/11/17/israel/knesset-elects-speaker-from-the-change-bloc-opposing-netanyahu",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-18T01:17:40+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-17-2026-Matan-Kahana-scaled.jpg"
+        },
+        {
+          "id": "5162c18f71",
+          "title": "Britain sanctions Israeli aid-blocking group and settlement construction companies",
+          "url": "https://www.jta.org/2026/11/17/israel/britain-sanctions-israeli-aid-blocking-group-and-settlement-construction-companies",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-17T23:21:03+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-17-2026-David-Miliband-scaled.jpg"
+        },
+        {
+          "id": "43de0c327b",
+          "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+          "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-17T20:30:20+00:00",
           "image_url": null
         },
         {
-          "id": "e038e76fc5",
-          "title": "'Zio Doctors got butthurt': Sydney doctor leaves prominent position amid antisemitism accusations",
-          "url": "https://www.jta.org/2026/11/16/global/zio-doctors-got-butthurt-sydney-doctor-leaves-prominent-position-amid-accusations-of-antisemitism",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-11-17T01:07:16+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-16-Royal-Prince-Alfred-Hospital.jpg"
-        },
-        {
-          "id": "fd0fc8114d",
-          "title": "Hunter College group cancels arts night involving Hillel",
-          "url": "https://www.jta.org/2026/11/16/ny/hunter-college-group-cancels-arts-night-that-involved-hillel",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-11-16T22:47:55+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-16-2026-Hunter-College-scaled.jpg"
-        },
-        {
-          "id": "386b74ae49",
-          "title": "At Jerusalem AI summit, Nas Daily asks Herzog if defending Israel was 'stupid or genius'",
-          "url": "https://www.jta.org/2026/11/16/israel/at-jerusalem-ai-summit-nas-daily-asks-herzog-if-defending-israel-was-stupid-or-genius",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-11-16T21:39:25+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-16-2026-Nas-AI.jpg"
-        },
-        {
-          "id": "b12261722c",
-          "title": "How one Reform synagogue became a test of religious pluralism in Jerusalem",
-          "url": "https://www.jta.org/2026/11/16/israel/how-one-reform-synagogue-became-a-test-of-religious-pluralism-in-jerusalem",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-11-16T20:17:40+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/09/Kol-Haneshama-.jpg"
+          "id": "33ff49f4c6",
+          "title": "Anti-Arab hate speech surged on social media during Israel's election, report finds",
+          "url": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-17T17:44:07+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/37a63870b9fe724abae273c0715e0d2f5e30e2f4/375_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=ca117f3b67a5a3234b9823d4df8c8171"
         }
       ]
     },
     "belgium": {
-      "summary_en": "Belgium grapples with regional political tensions and education costs as Flemish students protest rising tuition fees. A planned attack on Leuven's Pride has raised safety concerns for the LGBTQ+ community, while a government policy decision raised au pair wages to 1,000 euros a month. VUB's research park in Zellik unveiled new advanced scanning technology for improved disease imaging.",
+      "summary_en": "Belgium's climate commitment was highlighted as the new director of the Belgian Climate Centre called for strengthened action on climate science at international conferences. Public health figures showed 603 new HIV diagnoses in Belgium last year, with a notable decline among men who have sex with men. The country's football sector faced turbulence, with seven coaching changes at professional clubs within two weeks prompting questions about managerial stability. Cyclist Jasper De Buyst suffered a serious crash in his final race, requiring hospitalization amid concerns over a potential neck injury. Flanders also distinguished itself linguistically, with research showing Flemish speakers rank among the world's best in English language proficiency.",
       "headlines": [
         {
-          "id": "775ed421ba",
-          "title": "Politics: Vandenbroucke on comparing effectiveness between different political approaches in Belgian politics",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/vandenbroucke-oubollig-belgicistische-franssprekende-man-die-n~1793247532380/",
+          "id": "1107fe8f22",
+          "title": "Environment & Climate: New director Belgian Climate Centre calls on 'Belgium, fight for climate science at COP'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/odile-vekemans-belgian-climate-centre-klimaatwetenschap/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
@@ -362,89 +346,129 @@
           "image_url": null
         },
         {
-          "id": "9a538decb0",
-          "title": "Flemish students join protest against rising costs of higher education",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/vlaamse-en-franstalige-studenten-betogen-samen-in-brussel-tegen/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
+          "id": "034e4d1009",
+          "title": "603 people received HIV diagnosis last year in Belgium: decline mainly among men who have sex with men",
+          "url": "https://www.hln.be/binnenland/603-mensen-kregen-vorig-jaar-hiv-diagnose-in-belgie-daling-vooral-bij-mannen-die-seks-hebben-met-mannen~a27f0d0a/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-18T05:50:00+00:00",
+          "image_url": "https://images.hln.be/OGE5Nzc4YjYyNGM3OWY0Nzk1YmUvZGlvLzE3NDgyNDc3MC9maXQtd2lkdGgvNDAw/laymis-alvarez-r-takes-blood-samples-from-heather-lieberman-28-as-she-participates-in-a-covid-19-vaccine-study-at-the-research-centers-of-america-rca-in-hollywood-florida-on-august-13-2020-so-called-phase-three-vaccine-clinical-trials-in-which-thousands-of-people-take-part-in-the-final-stages-are-gaining-traction-in-florida-with-more-than-half-a-million-cases-and-over-9-000-deaths-florida-ranks-second-in-the-us-in-total-cases-behind-california-making-it-an-ideal-place-to-carry-out-the-trials-that-has-led-to-a-flurry-of-activity-at-the-rca-a-private-center-carrying-out-clinical-trials-in-hollywood-25-miles-40kms-north-of-miami-photo-by-chandan-khanna-afp"
         },
         {
-          "id": "4de5b72073",
-          "title": "Young man who planned attack on Leuven Pride appears in court: how safe do queer people feel in the city?",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/09/17/leuven-pride-veiligheidsgevoel-uitgaansleven-lgbt/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
+          "id": "4507357265",
+          "title": "Seven coaching changes in two weeks: Why do Belgian clubs replace their coaches so frequently?",
+          "url": "https://www.hln.be/jupiler-pro-league/zeven-trainerswissels-op-twee-weken-tijd-waarom-vervangen-belgische-clubs-hun-coaches-aan-de-lopende-band~a0befd65/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-18T06:07:09+00:00",
+          "image_url": "https://images.hln.be/ODFmOTE5ZmQyNGI3MTMyZjIyNmEvZGlvLzI4MDQzMTEwNy9maXQtd2lkdGgvNDAw/sint-truiden-belgium-november-01-ot1-simons-timmy-head-coach-of-oh-leuven-before-the-jupiler-pro-league-match-between-sint-truidense-vv-and-oh-leuven-on-november-1-2026-in-sint-truiden-belgium-1-11-26-photo-by-jeffrey-gaens-photonews-genk-s-head-coach-jess-thorup-pictured-during-a-soccer-match-between-royale-union-saint-gilloise-and-krc-genk-monday-9-november-2026-in-brussels-on-day-11-of-the-2026-2027-jupiler-pro-league-first-division-of-the-belgian-championship-belga-photo-emile-windal-charleroi-belgium-november-01-still-edward-head-coach-of-raal-la-louviere-during-the-jupiler-pro-league-match-between-sporting-charleroi-and-raal-la-louviere-on-november-1-2026-in-charleroi-belgium-01-11-2026-photo-by-vincent-kalut-photonews"
         },
         {
-          "id": "3b9cf5a1cc",
-          "title": "Minimum pocket money for au pairs rises from 450 to 1,000 euros per month",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/minimumzakgeld-voor-au-pairs-stijgt-van-450-naar-1-000-euro-per/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
+          "id": "2a7bdb566a",
+          "title": "\"Hopefully it's just a collarbone fracture and not a neck injury\": Retiring Jasper De Buyst taken off after serious crash",
+          "url": "https://www.hln.be/wielrennen/hopelijk-is-het-enkel-een-sleutelbeenbreuk-en-geen-nekblessure-afscheidnemende-jasper-de-buyst-afgevoerd-na-zware-crash~aa39aecc/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-18T07:06:00+00:00",
+          "image_url": "https://images.hln.be/NTMzNjg4MmY2MjRkOTljNjI2OTQvZGlvLzI4MDQ2NDc3MS9maXQtd2lkdGgvNDAw/val-jasper-de-buyst-op-zesdaagse-gent"
         },
         {
-          "id": "696996af0a",
-          "title": "New 'superscanner' at VUB Research Park in Zellik provides much clearer imaging of diseases and conditions",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/ultrakrachtige-scanner-researchpark-vub-zellik/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
+          "id": "55bd6bb1dc",
+          "title": "Flemish person is champion in English learning, research shows",
+          "url": "https://www.hln.be/binnenland/vlaming-is-kampioen-in-engels-leren-blijkt-uit-onderzoek~a420a833/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-18T06:30:00+00:00",
+          "image_url": "https://images.hln.be/MGRkMDg0YzVkMjA2OWI0ZTUyODAvZGlvLzI4MDQ2NTc0OS9maXQtd2lkdGgvNDAw/small-school-girl-writing-do-you-speak-english-inscription-on-the-blackboard"
         }
       ]
     },
     "europe": {
-      "summary_en": "A tragic car accident in Germany claimed the life of a 13-year-old girl during a police pursuit, raising concerns about law enforcement operations. Spain's parliamentary elections are marked by unusual campaign tactics, including deepfake videos and superhero themes deployed by political parties. The European Union is deliberating on the effectiveness of additional sanctions against Russia amid ongoing geopolitical tensions.",
+      "summary_en": "Europe faces multiple challenges spanning health, diplomacy, and economics. Drug-resistant infections are surging dangerously in European hospitals, posing a significant public health threat. European leaders have expressed concern that Vladimir Putin may be manipulating President Trump regarding potential Ukraine peace negotiations. Ukraine's military attack on the Crimea bridge dealt a psychological blow to Russian morale in the ongoing conflict. The UK-EU youth mobility scheme continues to face implementation delays and may not fully launch until 2030. Additionally, UK inflation climbed to 3.6% following record-high petrol and diesel prices.",
       "headlines": [
         {
-          "id": "91d83c114c",
-          "title": "13-year-old girl dies in car accident during police chase in Germany",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/meisje-van-13-komt-om-bij-aanrijding-tijdens-politieachtervolgin/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
+          "id": "2e8a2735ef",
+          "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
+          "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-17T22:55:06+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=700&quality=85&auto=format&fit=max&s=5051fe3c0bac3b4fa355085a74dc1c1d"
         },
         {
-          "id": "8b5067f3c2",
-          "title": "Superheroes and deepfake videos: Spanish parties pull out all the stops ahead of parliamentary elections",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/spaanse-verkiezingscampagne-krijgt-vaart-en-sanchez-gokt-opnieuw/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
-        },
-        {
-          "id": "17fcd2574f",
-          "title": "Will the EU's next Russia sanctions bite?",
-          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/will-the-eus-next-russia-sanctions-bite/",
+          "id": "db442f3dbf",
+          "title": "Deadly drug-resistant infections are surging in European hospitals",
+          "url": "https://www.politico.eu/article/drug-resistant-infections-superbug-europe-hospitals/",
           "source": "politico_eu",
           "source_label": "Politico Europe",
           "source_label_en": "Politico Europe",
-          "published_at": "2026-11-17T05:05:00+00:00",
+          "published_at": "2026-11-18T05:07:14+00:00",
           "image_url": null
+        },
+        {
+          "id": "86a8adbd7a",
+          "title": "Europe fears Putin is stringing Trump along on Ukraine",
+          "url": "https://www.politico.eu/article/europe-vladimir-putin-not-serious-about-ukraine-peace-talks/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-18T03:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "54149a69e8",
+          "title": "Russia-Ukraine War: Ukraine's attack on Crimea bridge is 'massive psychological blow' for Russia, timing is no coincidence",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/aanval-krimbrug-symbolische-impact/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "9593143581",
+          "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
+          "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-18T07:44:21+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/8ae5d123fc8871ebf2d020abb219f5c9483c3014/969_14_6501_5202/master/6501.jpg?width=700&quality=85&auto=format&fit=max&s=f5d2e12ce8d93c328a70837b7aac1a8c"
         }
       ]
     },
     "world_top": {
-      "summary_en": "The Ukraine-Russia conflict continues, with both nations targeting critical infrastructure, including renewed attacks on the strategically important Crimean Bridge. U.S. political tensions persist, as evidenced by former President Biden's new book, which contains striking remarks comparing Trump to \"an old friend.\" Russian military incursions into foreign airspace continue, with two suspected Russian fighter jets violating Japanese airspace, drawing international criticism.",
+      "summary_en": "Globally, the US midterm elections concluded with Democrats defeating Republicans and capturing the final Senate seat in Alaska. At the geopolitical level, China, Russia, and the United States held a historic trilateral meeting being compared to the Cold War-era Yalta Conference. Russian President Putin expressed optimism about the talks, emphasizing partnership over isolation. Japan and Russia remain in dispute over the Kuril Islands, which Japan has never formally accepted as Russian territory. Ghana sparked public controversy with the purchase of a $60 million presidential jet, drawing widespread criticism over government spending priorities.",
       "headlines": [
         {
-          "id": "f84edbe66b",
-          "title": "Ukraine-Russia War: Ukraine and Russia fire on bridges; strategic Crimean Bridge attacked again",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/oekraine-en-rusland-nemen-bruggen-onder-vuur-ook-strategische-k~1793644191149/",
+          "id": "ca3ebf4081",
+          "title": "Live - Final Senate results announced after US midterms: Democrats beat Republicans also in Alaska",
+          "url": "https://www.demorgen.be/snelnieuws/live-netwerk-interne-communicatie-geheime-dienst-vs-uitgevallen-vance-beslist-ergens-volgend-jaar-over-deelname-presidentsrace~b13cc951/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-18T05:38:00+00:00",
+          "image_url": "https://image.demorgen.be/280463505/roi/320/320/3180/1640.4099999999999/afbeelding"
+        },
+        {
+          "id": "1cff134a98",
+          "title": "Ghana's new $60m presidential jet sparks public outrage",
+          "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-18T08:08:20+00:00",
+          "image_url": null
+        },
+        {
+          "id": "cc1d6300ea",
+          "title": "Analysis: Historic meeting between China, Russia and US: a new 'Yalta Conference'?",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/historische-ontmoeting-tussen-china-rusland-en-de-verenigde-sta/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
@@ -452,9 +476,9 @@
           "image_url": null
         },
         {
-          "id": "6940f82fdf",
-          "title": "'Trump sounded like an old friend with his warm words': striking passages from Joe Biden's new book",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/boek-biden-beloof-mij-amerika/",
+          "id": "4ecd9b9f75",
+          "title": "Asia: 'Japan has never accepted that Russia took islands': How both countries dispute the Kurils",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/spanningen-rusland-japan-relatie-koerilen-eilanden/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
@@ -462,14 +486,14 @@
           "image_url": null
         },
         {
-          "id": "59971b081e",
-          "title": "Two suspected Russian fighter jets violate Japanese airspace: 'Completely unacceptable'",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/twee-vermoedelijk-russische-straaljagers-schenden-japans-luchtru/",
-          "source": "vrt",
-          "source_label": "VRT NWS",
-          "source_label_en": "VRT NWS",
-          "published_at": null,
-          "image_url": null
+          "id": "607870a9ea",
+          "title": "Putin sees great opportunities in first trilateral talks with Trump and Xi: 'Partnership instead of isolation'",
+          "url": "https://www.hln.be/buitenland/poetin-ziet-grote-kansen-in-eerste-trilaterale-gesprekken-met-trump-en-xi-partnerschap-in-plaats-van-isolatie~ae8fd4d3/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-18T07:26:00+00:00",
+          "image_url": "https://images.hln.be/MDU4ZWIxN2EzN2IzNzRmODBiNjAvZGlvLzI4MDQ2NTAwOS9maXQtd2lkdGgvNDAw/russian-president-vladimir-putin-delivers-a-speech-at-the-asia-pacific-economic-cooperation-apec-ceo-summit-in-shenzhen-guangdong-province-china-november-18-2026-sputnik-dmitry-azarov-pool-via-reuters-attention-editors-this-image-was-provided-by-a-third-party"
         }
       ]
     },
