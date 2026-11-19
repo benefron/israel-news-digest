@@ -1,0 +1,533 @@
+{
+  "generated_at": "2026-11-19T08:59:53.388954+00:00",
+  "date": "2026-11-19",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "פגישה צפויה היום בין טראמפ, שי ופוטין בעיר שנג'ן שבסין, על רקע מתיחות גוברת מול איראן. במקביל, גל תקלות טכנולוגיות עולמי ממשיך להטריד מערכות ענק, בעוד שוקי ההון עוקבים בציפייה אחרי הנפקת הענק של אנתרופיק בנאסד\"ק שגייסה כ-68 מיליארד דולר.",
+    "headlines": [
+      {
+        "id": "11b4137d2c",
+        "title": "טראמפ, שי ופוטין צפויים להיפגש הבוקר בעיר שנג'ן שבסין",
+        "url": "https://www.haaretz.co.il/news/world/america/2026-11-19/ty-article/.premium/000001a1-f01a-d175-abf5-fe3e444b0000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-19T04:01:35+00:00",
+        "image_url": null
+      },
+      {
+        "id": "e2a935aac7",
+        "title": "מערכות ענק טכנולוגיות קורסות בזו אחר זו: מה עומד מאחורי רצף התקלות העולמי",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001563990",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-11-19T03:31:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/c_auto,h_392,w_800/v1795009704/_RC2DNOARXD4D_RTRMADP_3_3HARRIS-TECH-SHUTDOWN_w612ey.jpg"
+      },
+      {
+        "id": "cd2c11634b",
+        "title": "היום תתרחש ההנפקה הגדולה בהיסטוריה. איך זה ישפיע על השוק?",
+        "url": "https://finance.walla.co.il/item/3876838",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-11-19T05:49:52+00:00",
+        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/1/0/9/4109227-46.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "טראמפ מאיים באיראן ומזהיר מפני שימוש אפשרי בנשק כימי וביולוגי, בעוד דיווחים מצביעים על הקשחת עמדות איראנית מולו ועל תסכול שלו מוואנס סביב המלחמה. בישראל מדווחים על שחיקה בכוח האדם ובציוד בצה\"ל לקראת סבב נוסף מול איראן, ולבנון מעמידה לדין חמישה פעילי חיזבאללה.",
+    "headlines": [
+      {
+        "id": "dc03369531",
+        "title": "טראמפ מאיים: אם איראן תפגע בנו - נמחק אותם",
+        "url": "https://www.kan.org.il/content/kan-news/defense/live-1120879/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "74d42d4d44",
+        "title": "טראמפ חשף: \"איראן בוחנת שימוש בנשק כימי וביולוגי\"",
+        "url": "https://www.walla.co.il/news/world/383962070",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-11-19T00:47:05+00:00",
+        "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/2/images/1794378834164_walla-media-picture_4000x2851.webp?width=500"
+      },
+      {
+        "id": "4829d125ab",
+        "title": "כל הרוחות נושבות לכיוון אחד: סוף השבוע הקרוב עשוי להיות דרמטי במיוחד צה\"ל מתמודד עם שחיקה בכוח האדם ובציוד אחרי שלוש שנות מלחמה, בעוד איראן ממשיכה להתחמש ולהיערך לסבב נוסף. במקביל, גובר החשש שהמערכה הבאה תחריף את המשבר הצבאי בישראל",
+        "url": "https://www.maariv.co.il/news/military/article-1389963",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "bb8b73c322",
+        "title": "טראמפ מתוסכל מוואנס על רקע הביקורת שלו על המלחמה באיראן | דיווח",
+        "url": "https://www.ynet.co.il/news/article/h1qaetsafg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-18T19:54:29+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/28/Bkd8fdIrfe/Bkd8fdIrfe_0_108_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "0b02b52943",
+        "title": "דיווח: אחרי המפלה בבחירות האמצע, איראן מקשיחה עמדות מול טראמפ",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-c6349e0f6abe1a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-18T06:24:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/06/13/1306_ibud_c3_autoOrient_i.jpg"
+      },
+      {
+        "id": "496f7129af",
+        "title": "Lebanon charges five Hezbollah members with recruiting, arming others",
+        "url": "https://www.timesofisrael.com/lebanon-charges-five-hezbollah-members-with-recruiting-arming-others/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-18T21:09:01+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26277622175504-e1793376225415-1024x640.jpg"
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "אוסטרליה הטילה סנקציות על גופים ואישים ישראלים הקשורים לבנייה ביהודה ושומרון, והרצוג יצא נגד פעולת משטרה נגד רופא בדואי ללא צו בית משפט. בנוסף, מדווח כי מצביעים ערבים מרגישים מודרים מהמערכת הפוליטית חרף הצבעה חזקה בבחירות האחרונות.",
+      "headlines": [
+        {
+          "id": "43ef1b12b0",
+          "title": "אוסטרליה מטילה סנקציות נגד גופים ואישים ישראלים שמקדמים בנייה ביהודה ושומרון",
+          "url": "https://www.mako.co.il/news-world/2026_q4/Article-bfa7bd06bbce1a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-11-18T04:40:00+00:00",
+          "image_url": "https://img.mako.co.il/2025/12/19/albanese22_re_autoOrient_i.jpg"
+        },
+        {
+          "id": "0bd2ac0e3f",
+          "title": "הרצוג נגד המשטרה: לא ניתן להיכנס לבית של רופא בדואי בלי צו בית משפט",
+          "url": "https://www.haaretz.co.il/news/politi/2026-11-18/ty-article/.premium/000001a1-ef6a-d175-abf5-ff7ef3e20000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-18T16:13:54+00:00",
+          "image_url": null
+        },
+        {
+          "id": "276d5f106c",
+          "title": "Discarded despite show of electoral muscle, Arab voters seek way out of political exile",
+          "url": "https://www.timesofisrael.com/discarded-despite-show-of-electoral-muscle-arab-voters-seek-way-out-of-political-exile/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-18T22:25:51+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261031SL09-1024x640.jpg"
+        },
+        {
+          "id": "6524d678c7",
+          "title": "בידיים של ליברמן",
+          "url": "https://www.ynet.co.il/news/article/yokra14963695",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-18T22:02:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/18/Hk1IcNi0fl/Hk1IcNi0fl_0_0_1280_822_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "רצף תקלות גלובלי במערכות ענק טכנולוגיות ממשיך לעורר דאגה, בעוד אנבידיה מדווחת כי עסקי הרשתות שלה בישראל חצו 21 מיליארד דולר למרות שערורייה. בינתיים אנתרופיק משלימה הנפקה היסטורית בנאסד\"ק.",
+      "headlines": [
+        {
+          "id": "5e6ab844d8",
+          "title": "יום אחרי יום: כך נראה שבוע הבלהות של התקלות בארה\"ב, והאזרחים בפאניקה",
+          "url": "https://www.mako.co.il/news-world/2026_q4/Article-321e4af5e5ee1a1026.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-11-18T11:20:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/11/13/AP100504111194_autoOrient_i.jpg"
+        },
+        {
+          "id": "a04a43f14f",
+          "title": "Amid scandal, Nvidia’s Israel networking business tops $21 billion as revenue doubles",
+          "url": "https://www.timesofisrael.com/amid-scandal-nvidias-israel-networking-business-tops-21-billion-as-revenue-doubles/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-18T19:54:00+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/01/NVIDIA_Yokneam_SIte-1024x640.jpg"
+        },
+        {
+          "id": "f4274255ae",
+          "title": "00:21 גיוס של כ-68 מיליארד דולר: אנתרופיק קבעה את מחיר ההנפקה בנאסד\"ק",
+          "url": "https://www.maariv.co.il/breaking-news/article-1390021",
+          "source": "maariv",
+          "source_label": "מעריב",
+          "source_label_he": "מעריב",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "לקראת יום המסחר, גלובס מציג חמישה דברים שכדאי לדעת על רקע עליות בחוזים בוול סטריט בעקבות הנפקת אנתרופיק.",
+      "headlines": [
+        {
+          "id": "23ab2b0fd6",
+          "title": "חמישה דברים שכדאי לדעת לקראת יום המסחר",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001564030",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-19T06:10:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg3_x3c4yv.jpg"
+        },
+        {
+          "id": "5329a4c39f",
+          "title": "אסיה במגמה מעורבת; החוזים בוול סטריט עולים בעקבות הנפקת הענק של אנתרופיק",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001564061",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-19T04:55:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1658985975/direct/shutterstock_554756017_sjbszv.jpg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "התחזית לסוף השבוע מצביעה על מגמת התחממות ועלייה הדרגתית בטמפרטורות.",
+      "headlines": [
+        {
+          "id": "cd5ef0a0e6",
+          "title": "מגמת התחממות: עלייה בטמפרטורות לאורך כל הסופ\"ש | התחזית",
+          "url": "https://www.ynet.co.il/news/article/2r20z0ktk",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-19T04:05:33+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/S1SKwI11izl/S1SKwI11izl_0_171_1200_676_0_medium.jpg"
+        },
+        {
+          "id": "b02483e6c1",
+          "title": "התחזית ליום חמישי: עלייה קלה בטמפרטורות",
+          "url": "https://www.haaretz.co.il/news/weather/2026-11-18/ty-article/.premium/000001a1-f041-d175-abf5-fe756c4b0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-18T18:13:00+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "real_estate",
+      "label_he": "נדל\"ן ודיור",
+      "summary_he": "המחסום בקלנדיה הפך לקשה במיוחד למעבר, בעוד שנשאלת השאלה מדוע מלונות היוקרה בישראל יקרים משמעותית מאלו שבחו\"ל.",
+      "headlines": [
+        {
+          "id": "a20f74ea21",
+          "title": "המעבר במחסום קלנדיה נהפך מקשה לבלתי נסבל",
+          "url": "https://www.haaretz.co.il/news/politics/2026-11-19/ty-article-magazine/.premium/000001a1-ef35-d9ff-a7b5-ffbf6f4e0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-19T04:01:48+00:00",
+          "image_url": null
+        },
+        {
+          "id": "4d9d2ae1d0",
+          "title": "למה מלונות היוקרה בארץ הרבה יותר יקרים מבחו״ל?",
+          "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s1/1120456/",
+          "source": "kan",
+          "source_label": "כאן 11",
+          "source_label_he": "כאן 11",
+          "published_at": null,
+          "image_url": "https://www.kan.org.il/media/g25ndhmi/3-לאתר.jpg?width=490&height=272&v=1dd76dad0918a10"
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "כתובת \"נקמה\" רוססה על מסגד בעפולה, והשב\"כ מעורב כעת בחקירת האירוע.",
+      "headlines": [
+        {
+          "id": "8676650b14",
+          "title": "כתובת \"נקמה\" רוססה על מסגד בעפולה, שב\"כ מעורב בחקירה",
+          "url": "https://www.walla.co.il/news/israel/383962077",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-19T05:21:30+00:00",
+          "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/3/images/1795066073225_walla-media-picture_1600x900.webp?width=500"
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "מאות אנשים, בהם כוכבי פופ ופוליטיקאים, התכנסו למחווה שמחה לכבוד גלוריה סטיינם.",
+      "headlines": [
+        {
+          "id": "6842dd1430",
+          "title": "From pop stars to politicians, hundreds gather for joyful tribute to Gloria Steinem",
+          "url": "https://www.timesofisrael.com/from-pop-stars-to-politicians-hundreds-gather-for-joyful-tribute-to-gloria-steinem/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-18T22:27:52+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26322755291731-1024x640.jpg"
+        }
+      ]
+    },
+    {
+      "key": "education",
+      "label_he": "חינוך",
+      "summary_he": "כתבה בוחנת את תופעת הסטודנטים הלוקחים זמן ארוך במיוחד להשלמת התואר - עד 11 שנים.",
+      "headlines": [
+        {
+          "id": "5064d6af81",
+          "title": "11 שנים לתעודה: הסטודנטים שלוקחים את הזמן עם התואר",
+          "url": "https://www.themarker.com/career/2026-11-19/ty-article-magazine/.highlight/000001a1-e9ca-d9ff-a7b5-f9ee8b170000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-19T04:11:08+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-e9f2-d381-ade5-ebf3fa220000/0a/74/f6f7c8ae4bff8785b47321f2ebab/005593.jpg?width=108&height=81"
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13"
+  ],
+  "sources_failed": [
+    "israel_hayom",
+    "i24"
+  ],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israeli military operations in Gaza have intensified despite ceasefire agreements, with troops advancing further and residents of the Nuseirat refugee camp forced to flee. Israeli tanks have crossed the \"yellow line\" boundary into Hamas-controlled central Gaza, marking a significant escalation in ground operations. Beyond the Gaza conflict, Italy has passed a new antisemitism law amid debate over criticizing Israel, while Australia has announced sanctions against West Bank settlers and organizations. Today's verdict in Myanmar's International Court of Justice genocide case could have implications for a parallel case being brought against Israel.",
+      "headlines": [
+        {
+          "id": "51b17ad06d",
+          "title": "Live – Israeli troops advance further in Gaza despite ceasefire, residents of Nuseirat refugee camp forced to flee again",
+          "url": "https://www.demorgen.be/snelnieuws/live-israel-voert-militaire-operatie-uit-voorbij-gele-lijn-in-gaza-vertrouweling-formateur-eisenkot-verkozen-tot-nieuwe-voorzitter-israelisch-parlement~ba7f8873/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-19T06:23:00+00:00",
+          "image_url": "https://image.demorgen.be/280486352/roi/320/320/691.1999999999999/529.2/afbeelding"
+        },
+        {
+          "id": "a2c3574e4f",
+          "title": "Israeli tanks cross 'yellow line' boundary into Hamas-controlled central Gaza",
+          "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-18T23:25:25+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/d94406113e8bb1466134873bf0554edf8a0ac2a7/340_0_3588_2871/master/3588.jpg?width=700&quality=85&auto=format&fit=max&s=4dc4559243f5b830ca95e17c91e4d419"
+        },
+        {
+          "id": "c3261a1d08",
+          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-18T22:34:56+00:00",
+          "image_url": null
+        },
+        {
+          "id": "225e363167",
+          "title": "Italy passes antisemitism law amid flaring debate over criticizing Israel",
+          "url": "https://www.jta.org/2026/11/18/global/italy-passes-antisemitism-law-amid-flaring-debate-over-criticizing-israel",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-18T21:46:07+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/GettyImages-2289329233.jpg"
+        },
+        {
+          "id": "bf97ce556c",
+          "title": "Australia announces new sanctions on West Bank settlers and organizations",
+          "url": "https://www.jta.org/2026/11/18/israel/australia-announces-new-sanctions-on-west-bank-settlers-and-organizations",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-18T19:11:20+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-18-Penny-Wong.jpg"
+        },
+        {
+          "id": "22ab45efda",
+          "title": "Myanmar hears today whether it is guilty of genocide: verdict could also have consequences for case against Israel",
+          "url": "https://www.demorgen.be/nieuws/myanmar-hoort-vandaag-of-het-schuldig-is-aan-genocide-uitspraak-kan-ook-gevolgen-hebben-voor-zaak-tegen-israel~bf70bf05/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-19T06:56:31+00:00",
+          "image_url": "https://image.demorgen.be/154765445/feature-crop/320/320/afbeelding"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "A quarter of Belgium's workforce could be displaced by artificial intelligence and robots within four years, raising significant concerns about economic disruption and labor market transformation. Belgian unions are preparing to march through Brussels on Monday, demanding increased pressure on the government over employment and labor policies. Meanwhile, the Royal Meteorological Institute has issued yellow-code weather alerts due to intense and prolonged rainfall expected to persist through Friday night.",
+      "headlines": [
+        {
+          "id": "475a830a14",
+          "title": "A quarter of all work in Belgium replaceable by AI and robots in four years",
+          "url": "https://www.hln.be/binnenland/kwart-van-al-het-werk-in-belgie-in-vier-jaar-vervangbaar-door-ai-en-robots~a9d6d62c/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-19T07:59:00+00:00",
+          "image_url": "https://images.hln.be/NjQ4ZjQ3ZGQ4MTlmMjgyZTgyZjMvZGlvLzIxNjYxMzU5MS9maXQtd2lkdGgvNDAw/vrouw-kantoor-zetel-werk-gsm-contracten-facturen-enkel-gebruiken-in-neutrale-en-positieve-context"
+        },
+        {
+          "id": "c884cba66e",
+          "title": "Unions march again through Brussels on Monday: 'Pressure on government must increase'",
+          "url": "https://www.hln.be/binnenland/vakbonden-trekken-maandag-opnieuw-door-brussel-druk-op-regering-moet-omhoog~aeda01c4/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-19T06:57:00+00:00",
+          "image_url": "https://images.hln.be/ZTUxNWYyZjZmNmNkYmUyMGJjYjUvZGlvLzI3ODY4OTI2Ni9maXQtd2lkdGgvNDAw/protesters-pictured-during-a-national-manifestation-against-the-federal-government-s-budgetary-measures-under-the-keep-your-hands-out-of-our-pockets-blijf-uit-onze-zakken-pas-dans-nos-poches-moniker-organised-by-the-trade-unions-on-friday-9-october-2026-in-brussels-belga-photo-emile-windal"
+        },
+        {
+          "id": "6d1175db16",
+          "title": "Royal Meteorological Institute warns of intense and prolonged rain in coming hours, yellow code alert until Friday night",
+          "url": "https://www.hln.be/weernieuws/weerbericht~ac484c3e/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-19T07:09:00+00:00",
+          "image_url": "https://images.hln.be/YTVhYjlhYzhkOGFiZDQ3N2Q0YTgvZGlvLzI4MDQ3NzAzMi9maXQtd2lkdGgvNDAw/18112026-antwerpen-regen-regen-buien-ook-in-antwerpen-niet-altijd-een-pretje-zo-te-zien"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "The Middle East crisis is expected to permanently reshape Europe's energy sector and supply chains, creating long-term disruptions. European leaders are debating how to approach dialogue with Russia while ensuring their response remains robust against political challenges, with Germany pushing to make Ukraine aid provisions resistant to potential disruption. Europe's automotive sector faces pressure to develop a competitive industrial base during its ongoing transition toward new technologies.",
+      "headlines": [
+        {
+          "id": "bd686848c7",
+          "title": "Middle East crisis will permanently change energy sector",
+          "url": "https://www.hln.be/economie/crisis-in-midden-oosten-zal-energiesector-blijvend-veranderen~a634e96a/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-19T07:47:00+00:00",
+          "image_url": "https://images.hln.be/MjEyN2JhZjI5ZTgyYTgyZGY5NTIvZGlvLzI4MDQ0OTQ2Mi9maXQtd2lkdGgvNDAw/a-still-image-obtained-from-a-social-media-video-released-on-november-17-2026-shows-a-tanker-on-fire-in-the-strait-of-hormuz-off-the-coast-of-oman-social-media-via-reuters-this-image-has-been-supplied-by-a-third-party-no-resales-no-archives-new-use-only"
+        },
+        {
+          "id": "31f070bfeb",
+          "title": "Europe's automotive transition needs a competitive industrial base",
+          "url": "https://www.politico.eu/sponsored-content/europes-automotive-transition-needs-a-competitive-industrial-base/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-19T04:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "d770ad27d1",
+          "title": "Europe argued over who would talk to Russia. Agreeing what to say is even tougher.",
+          "url": "https://www.politico.eu/article/europe-argued-over-who-would-talk-to-russia-agreeing-what-to-say-is-even-tougher/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-19T03:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "b281a39e1e",
+          "title": "Germany presses to make Ukraine aid Le Pen-proof",
+          "url": "https://www.politico.eu/article/germany-presses-to-make-ukraine-aid-marine-le-pen-proof/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-19T03:00:00+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "A Russian national has been arrested in the United States for allegedly spying on the defense contractor Palantir, targeting information about the company's support for Ukraine. Major international leaders, including Presidents Xi Jinping, Donald Trump, and Vladimir Putin, are meeting at the APEC summit. Bangladesh is experiencing violent protests and killings ahead of exiled former Prime Minister Sheikh Hasina's planned return, while Fiji has declared a state of emergency due to severe drought conditions attributed to El Niño.",
+      "headlines": [
+        {
+          "id": "1431aa957f",
+          "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+          "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-18T23:28:03+00:00",
+          "image_url": null
+        },
+        {
+          "id": "ab25df176a",
+          "title": "APEC summit: Historic meeting between Presidents Xi, Trump and Putin",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/historische-ontmoeting-tussen-presidenten-xi-trump-en-poetin-is~1794988099032/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "cd01ccb73b",
+          "title": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina's planned return",
+          "url": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-19T06:58:33+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/3f69b15ea7c8c18c019e40efbed19bad36e75bf3/28_0_3330_2664/master/3330.jpg?width=700&quality=85&auto=format&fit=max&s=32f5a108d5b095bc8a22b87968d41896"
+        },
+        {
+          "id": "ba606d1212",
+          "title": "Fiji declares state of emergency due to drought caused by El Niño",
+          "url": "https://www.demorgen.be/snelnieuws/fiji-roept-noodtoestand-uit-vanwege-droogte-door-el-nino~b18a671e/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-19T03:39:00+00:00",
+          "image_url": "https://image.demorgen.be/280498801/feature-crop/320/320/afbeelding"
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
