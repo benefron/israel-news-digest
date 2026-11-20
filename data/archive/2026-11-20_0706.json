@@ -1,0 +1,315 @@
+{
+  "generated_at": "2026-11-20T09:07:24.500971+00:00",
+  "date": "2026-11-20",
+  "degraded": true,
+  "top_general": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": [
+      {
+        "id": "aae3f640d0",
+        "title": "בריכת שחייה בבונקר ומסכת גז של צה\"ל: כך המיליארדרים נערכים לסוף העולם",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-07cf0e7d57be1a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-19T15:43:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/11/19/tzuk_wife_I_autoOrient_i.jpg"
+      },
+      {
+        "id": "9b793c0479",
+        "title": "\"המפקד העליון של צבא ארה\"ב\": שר החוץ האיראני הדהד את שגריר ישראל",
+        "url": "https://www.ynet.co.il/news/article/bjywewa0gg",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-20T06:30:45+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/SyA00kwfcMl/SyA00kwfcMl_0_0_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "1f53b8edfd",
+        "title": "מתרחבת באמריקה: שיתוף הפעולה החדש של ישראייר וצפי ההכנסות",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001564308",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-11-20T07:17:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781092071/direct/WhatsApp_Image_2026-06-10_at_11.49.51_t59mh6.jpg"
+      },
+      {
+        "id": "1b7ff270f1",
+        "title": "ה\"תרגיל\" לפני 7.10 - שחייב להיחקר מיד",
+        "url": "https://www.israelhayom.co.il/magazine/shishabat/article/21887101",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "dcb11ff377",
+        "title": "07:30 כאוס באום אל פאחם: לאחר שגבר נורה למוות, אירוע ירי נוסף בעיר",
+        "url": "https://www.maariv.co.il/breaking-news/article-1390439",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "e97e314c8e",
+        "title": "\"וושינגטון של מחר נמצאת בפלורידה ומונטנה\": משפיענים מארה\"ב ביקרו בישראל",
+        "url": "https://www.ynet.co.il/news/article/rksqjcnagx",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-20T06:43:28+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/19/HJ11DdgAhCMe/HJ11DdgAhCMe_0_0_1280_721_0_medium.jpg"
+      },
+      {
+        "id": "dd98bf3cc3",
+        "title": "\"לא זוכר את שמה, אבל היא שברה את לבי\"",
+        "url": "https://www.israelhayom.co.il/magazine/shishabat/article/21864670",
+        "source": "israel_hayom",
+        "source_label": "ישראל היום",
+        "source_label_he": "ישראל היום",
+        "published_at": null,
+        "image_url": null
+      },
+      {
+        "id": "525961b96b",
+        "title": "07:08 גבר חולץ ללא רוח חיים משריפה שפרצה בראש פינה",
+        "url": "https://www.maariv.co.il/breaking-news/article-1390437",
+        "source": "maariv",
+        "source_label": "מעריב",
+        "source_label_he": "מעריב",
+        "published_at": null,
+        "image_url": null
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "לא הצלחנו להפיק סיכום אוטומטי הפעם — הנה הכותרות הגולמיות.",
+    "headlines": []
+  },
+  "subjects": [],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13"
+  ],
+  "sources_failed": [
+    "kan",
+    "i24"
+  ],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israel's military completed a ground operation in Gaza beyond the Yellow Line, while tensions escalated domestically following a suspected arson attack on a mosque in northern Israel, with Arab lawmakers criticizing incitement. Jewish communities and history gained international prominence through a major museum exhibition detailing Caribbean Jews' contributions to the American Revolution and a record-breaking Van Gogh auction fetching $190.4 million for a painting with significant Jewish provenance. Jewish lawmakers in the United States raised concerns about defense bill provisions that could lead to religious proselytizing.",
+      "headlines": [
+        {
+          "id": "c3261a1d08",
+          "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-19T17:03:23+00:00",
+          "image_url": null
+        },
+        {
+          "id": "6abedc3a0d",
+          "title": "Suspected arson attack on mosque in northern Israel; Arab lawmakers blame incitement",
+          "url": "https://www.jta.org/2026/11/19/israel/suspected-arson-attack-on-mosque-in-northern-israel-arab-lawmakers-blame-incitement",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-19T21:27:00+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-19-2026-3d-dahi.jpg"
+        },
+        {
+          "id": "79889e0ddd",
+          "title": "A fascinating exhibit details how Caribbean Jews helped the American Revolution — and built a thriving Jewish world",
+          "url": "https://www.jta.org/2026/11/19/united-states/a-fascinating-exhibit-details-how-caribbean-jews-helped-the-american-revolution-and-built-a-thriving-jewish-world",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-19T20:11:23+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-19-26-_DSC1927.jpg"
+        },
+        {
+          "id": "dc6094749a",
+          "title": "Van Gogh painting with a complex Jewish history sells for record $190.4 million at auction",
+          "url": "https://www.jta.org/2026/11/19/ny/van-gogh-painting-with-a-complex-jewish-history-sells-for-record-190-4-million-at-auction",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-19T18:38:58+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-19-Van-gogh-resized.jpg"
+        },
+        {
+          "id": "fd15b43607",
+          "title": "Jewish lawmakers warn that defense bill provision could cause proselytizing",
+          "url": "https://www.jta.org/2026/11/19/politics/jewish-lawmakers-warn-that-defense-bill-provision-could-cause-proselytizing",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-19T22:27:50+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/Nadler.jpeg"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium faced significant infrastructure and labor disruptions this week. A water pipe leak in Brussels's Schaarbeek district caused road subsidence, flooding multiple basements and suspending tram traffic, which prompted a municipal emergency response. UPS staff in Machelen blockaded three distribution depots, affecting up to 45,000 packages in a labor action. Belgian officials announced new safety initiatives to assist local governments, while the national football team expressed support for the country's U17 squad competing in the World Cup.",
+      "headlines": [
+        {
+          "id": "51c9f02e92",
+          "title": "Road subsidence and multiple basements flooded after water pipe leak in Schaarbeek: municipal emergency plan activated",
+          "url": "https://www.hln.be/brussel/wegverzakking-en-verschillende-kelders-onder-water-na-lek-in-waterleiding-in-schaarbeek-gemeentelijk-noodplan-afgekondigd~aa72a263/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-20T06:37:00+00:00",
+          "image_url": "https://images.hln.be/YTRjZjI4YjJhMjYxY2ZlODdhZGQvZGlvLzI4MDU0MzY1MC9maXQtd2lkdGgvNDAw/colruyt-ondergelopen-inzet-waterlek-schaarbeek"
+        },
+        {
+          "id": "b63feee039",
+          "title": "UPS staff blocks three depots in Machelen: up to 45,000 packages affected",
+          "url": "https://www.hln.be/machelen/ups-personeel-blokkeert-drie-depots-in-machelen-tot-45-000-pakjes-getroffen~a0f6c3a03/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-20T06:20:00+00:00",
+          "image_url": "https://images.hln.be/NWQ3MDgxODk4NDM1YTRjYTQ1NjIvZGlvLzI4MDU0MDYwNC9maXQtd2lkdGgvNDAw/ups-staking"
+        },
+        {
+          "id": "9ece8690c3",
+          "title": "Crevits establishes safety team to help local authorities with security problems",
+          "url": "https://www.hln.be/binnenland/crevits-richt-veiligheidsteam-op-om-lokale-besturen-te-helpen-bij-veiligheidsproblemen~a9d8bf53/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-20T07:52:00+00:00",
+          "image_url": "https://images.hln.be/MDQ2NTE5MTE3YzRjNmIyNmM3YjcvZGlvLzI4MDMwODE4My9maXQtd2lkdGgvNDAw/flemish-minister-for-domestic-governance-and-integration-hilde-crevits-delivers-a-speech-at-the-oath-taking-ceremony-for-the-new-governor-of-west-flanders-province-on-friday-13-november-2026-in-brugge-belga-photo-kurt-desplenter"
+        },
+        {
+          "id": "4e4b7ca489",
+          "title": "\"Make our country proud. We stand behind you\": Red Devils wish Belgian U17 success at World Cup in Qatar",
+          "url": "https://www.hln.be/voetbal/maak-ons-land-trots-wij-staan-achter-jullie-rode-duivels-wensen-belgische-u17-succes-op-wk-in-qatar~a6dc6cae0/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-20T08:27:00+00:00",
+          "image_url": "https://images.hln.be/OGEzOTM0NjI2MjAxNGYyZWFkYTcvZGlvLzI4MDU0Mjg4MC9maXQtd2lkdGgvNDAw/u17-charles-de-ketelaere"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "European leaders signaled readiness for diplomatic engagement on multiple fronts, with Europe expressing openness to talks with Russia on resolving the Ukraine conflict. The UK and EU advanced negotiations on a youth mobility scheme as part of their broader relationship reset, with talks expected to continue through a critical summit. Germany's Lufthansa announced 1,000 job cuts following substantial financial losses. A serious apartment fire near Paris claimed one life and injured 15 firefighters.",
+      "headlines": [
+        {
+          "id": "42a9728713",
+          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-20T00:50:24+00:00",
+          "image_url": null
+        },
+        {
+          "id": "5107e59575",
+          "title": "UK-EU reset talks will go 'down to the wire' as crunch summit approaches",
+          "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-20T08:19:28+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/a336fb77a4aa4c7e47ea3fc416e63babf551e1e9/649_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=495f02aa84d577d7f96d0fe34e616732"
+        },
+        {
+          "id": "e3a5c10bd4",
+          "title": "UK and EU to agree youth mobility scheme, BBC understands",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-20T07:14:46+00:00",
+          "image_url": null
+        },
+        {
+          "id": "c63b91073a",
+          "title": "Airline Lufthansa cuts 1,000 jobs in Germany after 180 million euro loss",
+          "url": "https://www.demorgen.be/nieuws/luchtvaartmaatschappij-lufthansa-schrapt-1-000-banen-in-duitsland-na-verlies-van-180-miljoen-euro~b355e86f/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-20T07:46:00+00:00",
+          "image_url": "https://image.demorgen.be/280228351/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "2d7aab5258",
+          "title": "Heavy fire in apartment building near Paris claims one life, 15 firefighters injured",
+          "url": "https://www.demorgen.be/nieuws/zware-brand-in-appartementsgebouw-nabij-parijs-eist-een-leven-15-brandweerlieden-raken-gewond~b5634286/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-20T06:01:00+00:00",
+          "image_url": "https://image.demorgen.be/280528401/feature-crop/320/320/afbeelding"
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Anthropic's stock market debut marked a significant milestone in artificial intelligence, as the company became one of the world's most valuable public enterprises. Climate finance negotiations continued, with Europe signaling that African nations should maximize existing pledges rather than seek new commitments. Australia's New South Wales issued a public health warning after vape users were hospitalized following a loss of consciousness. The week also marked the death of Fiona, a beloved social media celebrity hippo at Cincinnati Zoo, who died after accidentally swallowing a hat.",
+      "headlines": [
+        {
+          "id": "779c3aaa13",
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-19T23:33:51+00:00",
+          "image_url": null
+        },
+        {
+          "id": "fddde9ec8f",
+          "title": "More climate money for Africa? Europe says use what's already pledged",
+          "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-20T05:03:43+00:00",
+          "image_url": null
+        },
+        {
+          "id": "667188f0eb",
+          "title": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-20T07:17:01+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/a8c083df952ff966868d4c06e9dd4da0fa335d1a/481_0_3661_2929/master/3661.jpg?width=700&quality=85&auto=format&fit=max&s=5b5510a6f03b5243e14305f205e9a389"
+        },
+        {
+          "id": "57e3e1ab7f",
+          "title": "Hippo Fiona (9), social media star after premature birth, dies in Cincinnati Zoo after swallowing a hat",
+          "url": "https://www.hln.be/buitenland/nijlpaard-fiona-9-socialemediaster-na-vroeggeboorte-overleden-in-zoo-van-cincinnati-na-inslikken-van-muts~a5b656c2/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-20T08:05:00+00:00",
+          "image_url": "https://images.hln.be/YTkxNjY0Y2I5OGUyODc3MDViMjMvZGlvLzI4MDUzMjU4My9maXQtd2lkdGgvNDAw/fiona-the-hippo-enjoys-the-sunshine-with-tucker-in-hippo-cove-at-the-cincinnati-zoo-in-cincinnati-ohio-us-april-18-2025-liz-dufour-usa-today-network-via-imagn-images-via-reuters-this-image-has-been-supplied-by-a-third-party-no-resales-no-archives"
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
