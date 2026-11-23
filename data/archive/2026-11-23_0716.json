@@ -1,0 +1,512 @@
+{
+  "generated_at": "2026-11-23T09:54:50.873716+00:00",
+  "date": "2026-11-23",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "המלחמה בין ישראל ללבנון מחמירה, עם כמה מקרים שנויים במחלוקת בנוגע לביקורים של דוברת צה״ל בבתי ספר בלבנון, וראשי מדינות רבים מגנים את ההתנהלות. במישור אחר, נראה בעולם ירידה בשוקי ההון הכלליים, כאשר הבורסות בעולם נופלות באופן משמעותי, דבר המשפיע גם על המשק הישראלי. במישור המדיני בישראל, איזנקוט מתכנן להכריז על הקואליציה שלו בעיתוי מפתיע, בעודו מפעיל לחץ על כל הצדדים. המתחים גדלים גם מעבר לכך, בהקשר של היחסים בין ישראל לאיראן.",
+    "headlines": [
+      {
+        "id": "11328ca702",
+        "title": "איראן מאיימת לפרוץ את המצור הימי, ובישראל חוששים מהסלמה ומלחמה רחבה",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-c34d560ca4202a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-22T08:12:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/11/22/MAPIRAN5_221126_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "26a03e515d",
+        "title": "דוברת צה\"ל בערבית ביקרה בבית ספר בלבנון - ועוררה זעם: \"גררו את התלמידים למפגן צבאי\"",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-17ed40f0fc402a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-22T19:59:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/02/03/ptnela_autoOrient_i.jpg"
+      },
+      {
+        "id": "0b8dfcd236",
+        "title": "Shekel is world’s 3rd-worst performer as investors fret over Israel’s political paralysis",
+        "url": "https://www.timesofisrael.com/shekel-is-worlds-3rd-worst-performer-as-investors-fret-over-israels-political-paralysis/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-23T00:49:23+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/montage-2up-20261122-f022f1-1024x640.jpg"
+      },
+      {
+        "id": "4896dfb820",
+        "title": "Report: Eisenkot plans to declare coalition at surprise timing, call vote quickly to up pressure on allies",
+        "url": "https://www.timesofisrael.com/liveblog-november-23-2026/",
+        "source": "times_of_israel",
+        "source_label": "Times of Israel",
+        "source_label_he": "Times of Israel",
+        "published_at": "2026-11-23T04:54:48+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261117YS315-1024x640.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "איראן מאיימת לפרוץ את המצור הימי וישראל חוששת מהסלמה ומלחמה רחבה, בעוד שמערכת הביטחון מזהירה מפני הסלמה משמעותית ביהודה ושומרון. בנוסף, טילים וכטב״ם רוסיים פגעו בפולין, כאשר בנאט״ו חוששים ממהלך מכוון והסלמה מדורגת, וספינות רוסיות אחדות נפגעו בים התיכון ובים הבלטי. בגבול הצפוני, המחסום בין ישראל ללבנון נותר תקוע — רק 50 קילומטרים מתוך 140 הושלמו לאחר 15 שנות עבודה.",
+    "headlines": [
+      {
+        "id": "11328ca702",
+        "title": "איראן מאיימת לפרוץ את המצור הימי, ובישראל חוששים מהסלמה ומלחמה רחבה",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-c34d560ca4202a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-22T08:12:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/11/22/MAPIRAN5_221126_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "5304bba64f",
+        "title": "טילים וכטב\"ם רוסיים פגעו בפולין: בנאט\"ו חוששים ממהלך מכוון והסלמה מדורגת",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-b762dc920b202a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-22T10:04:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/11/22/POLANDNOWE_re_autoOrient_i.jpg"
+      },
+      {
+        "id": "6b847ce555",
+        "title": "במערכת הביטחון מזהירים מפני הסלמה ביהודה ושומרון",
+        "url": "https://www.kan.org.il/content/kan-news/defense/1122203/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
+        "published_at": null,
+        "image_url": "https://www.kan.org.il/media/x0ibbifh/f261122fff005.jpg?width=490&height=272&v=1dd7af753a8dff0"
+      },
+      {
+        "id": "db0ca08be1",
+        "title": "רק 50 מתוך כ–140 ק\"מ: 15 שנה אחרי שיצאה לדרך, החומה בין ישראל ללבנון תקועה",
+        "url": "https://www.themarker.com/news/security/2026-11-23/ty-article/.premium/000001a2-0379-d9ff-a7b6-93ffc2590000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-11-23T04:03:08+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a2-03eb-d02c-a7ea-9febb3a90000/52/c6/09006e984b70932836c6212f6308/455444-2.jpg?width=108&height=81"
+      },
+      {
+        "id": "9f0b76c77b",
+        "title": "בתוך פחות מיממה: שלוש ספינות רוסיות נפגעו בים התיכון ובים הבלטי",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-38ff563116302a1026.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-22T17:00:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/11/22/2026-11-22T134606Z_16-RUSSIA-VESSEL_autoOrient_i.jpg"
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "איזנקוט מתכנן להכריז על הקואליציה שלו בעיתוי מפתיע, וקורא לבהירות משאר הקבוצות כדי ללחוץ על שותפי הברית, בעוד שהחרדים מחכים לאפשרות של קריסת המו״מ. בנוסף, הכנסת הנוכחית מתחילה בביטול חוקי המהפכה המשפטית שחוקקה ממשלת נתניהו, וכן נפתחים מחדש כיווני חקירה בנוגע לקבלת מתנות.",
+      "headlines": [
+        {
+          "id": "4896dfb820",
+          "title": "Report: Eisenkot plans to declare coalition at surprise timing, call vote quickly to up pressure on allies",
+          "url": "https://www.timesofisrael.com/liveblog-november-23-2026/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-23T04:54:48+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261117YS315-1024x640.jpg"
+        },
+        {
+          "id": "2d5ba1c6d0",
+          "title": "חברי ישר! שעל הכוונת - ולמה החרדים מחכים לקריסת המו\"מ בין נתניהו לאיזנקוט",
+          "url": "https://www.ynet.co.il/news/article/b100qppl1xg",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-22T22:26:49+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/22/Hyt7ECe1Ql/Hyt7ECe1Ql_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "4f62a7cdbc",
+          "title": "New Knesset panels to begin repealing Netanyahu government’s judicial, media overhauls",
+          "url": "https://www.timesofisrael.com/new-knesset-panels-to-begin-repealing-netanyahu-governments-judicial-media-overhauls/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-22T22:02:44+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261118YS24-1024x640.jpg"
+        },
+        {
+          "id": "daa436729e",
+          "title": "המרוץ לביטול חוקי המהפכה המשפטית",
+          "url": "https://www.ynet.co.il/news/theheadline/article/hitykfpxm",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-23T03:00:00+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/22/ByNlePeJ7e/ByNlePeJ7e_0_0_850_479_0_medium.jpg"
+        },
+        {
+          "id": "e16aa700e4",
+          "title": "מנדלבליט במשפט נתניהו: כיווני החקירה של קבלת המתנות קיבלו אישור",
+          "url": "https://www.haaretz.co.il/news/law/netanyahutrial/2026-11-22/ty-article/.premium/000001a2-04af-d02c-a7ea-9def24770000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-22T20:59:44+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "השוק הגלובלי נותר בחוסר יציבות — הבורסה בסיאול נופלת בכמעט 3.5 אחוז, והשקל הוא אחד המטבעות עם הביצועים הגרועים ביותר בעולם, עקב דאגות המשקיעים מקיפאון פוליטי בישראל. בעוד שהמצב הכלכלי של הציבור חוזר להתאושש בהדרגה, קיים פער עמוק בין שכבות החברה בהקשר זה.",
+      "headlines": [
+        {
+          "id": "4b7f85d627",
+          "title": "הבורסה בסיאול נופלת בכמעט 3.5%; החוזים על נאסד\"ק מזנקים בקרוב ל–3%",
+          "url": "https://www.themarker.com/wallstreet/2026-11-23/ty-article-live/000001a1-fcb1-d381-ade5-fff18e090000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-23T05:05:00+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a2-040e-d9ff-a7b6-95ae77e20000/2a/85/63b311714bb1904496953a412f04/861986.jpg?width=108&height=81"
+        },
+        {
+          "id": "0b8dfcd236",
+          "title": "Shekel is world’s 3rd-worst performer as investors fret over Israel’s political paralysis",
+          "url": "https://www.timesofisrael.com/shekel-is-worlds-3rd-worst-performer-as-investors-fret-over-israels-political-paralysis/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-23T00:49:23+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/montage-2up-20261122-f022f1-1024x640.jpg"
+        },
+        {
+          "id": "181c841866",
+          "title": "החזרה לשגרה הקפיצה את האשראי הצרכני — אך חשפה פער עמוק בין החברות",
+          "url": "https://www.themarker.com/markets/2026-11-23/ty-article/.highlight/000001a2-034b-dad7-a9ff-434b5dfa0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-23T04:01:45+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a2-0382-d381-ade7-6be32d9b0001/2a/3f/3bc733cd4f42826be0ee3470f5bc/mefuzelet-homepage-2.jpg?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "משהו חדש עלה לאור בעניין הקשור למנכ״ל אנבידיה — המאהבת שלו הייתה בקשר גם עם מנהלי מודיעין סיניים, דבר שעלול להעלות שאלות ביטחוניות חמורות לגבי כמה צדדים.",
+      "headlines": [
+        {
+          "id": "df0aafd827",
+          "title": "בזמן הרומן עם מנכ\"ל אנבידיה: אליס הואנג הייתה בקשר עם המודיעין הסיני | דיווח",
+          "url": "https://www.mako.co.il/news-world/2026_q4/Article-cc6fba002e502a1026.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-11-23T01:59:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/11/13/aliceee1311_autoOrient_i.jpg"
+        },
+        {
+          "id": "398dd423d7",
+          "title": "במקביל לרומן עם מנכ\"ל אנבידיה, המאהבת הייתה בקשר עם בכיר בשירות הביון של סין",
+          "url": "https://www.haaretz.co.il/news/world/america/2026-11-23/ty-article/.premium/000001a2-0615-dad7-a9ff-465f2c560000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-23T02:02:21+00:00",
+          "image_url": null
+        },
+        {
+          "id": "ca3f55d82f",
+          "title": "פרשת השבבים מסתבכת: החשד נגד המאהבת של מנכ\"ל אנבידיה",
+          "url": "https://www.walla.co.il/tech/tech-news/3877275",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-23T05:14:40+00:00",
+          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/1/1/7/4117762-46.jpg"
+        }
+      ]
+    },
+    {
+      "key": "health",
+      "label_he": "בריאות ורפואה",
+      "summary_he": "משרד הבריאות בוחן הקמת פיילוט להנפקת גלולות למניעת הריון ללא צורך במרשם, וכן נעצרה מטפלת בחשד שתקפה פעוטה ברעננה.",
+      "headlines": [
+        {
+          "id": "180603f48e",
+          "title": "משרד הבריאות ישקול להתחיל פיילוט לרכישת גלולות למניעת היריון בלי מרשם",
+          "url": "https://www.haaretz.co.il/health/2026-11-22/ty-article/.premium/000001a1-f307-d175-abf5-ff37d1c30000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-22T18:40:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "254a72d1cc",
+          "title": "מטפלת נעצרה בחשד שתקפה פעוטה ברעננה; מאות בהפגנת \"זעקת התינוקות\"",
+          "url": "https://www.ynet.co.il/news/article/sk00tuneymx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-22T21:08:33+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/22/rJzpZQpeJQe/rJzpZQpeJQe_1_123_3000_1689_0_medium.jpg"
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label_he": "סביבה ואקלים",
+      "summary_he": "התחזית למזג האוויר בישראל היום צופה חום רב יותר מהרגיל לעונה, ואילו מהורמוז מדווחים על נזק סביבתי כתוצאה מהמלחמה. בתל אביב משתוללת מכת תנים וכן מכת מכרסמים אחרים.",
+      "headlines": [
+        {
+          "id": "c913626a11",
+          "title": "התחזית ליום שני: חם מהרגיל לעונה, לקראת התקררות בהמשך השבוע",
+          "url": "https://www.haaretz.co.il/news/weather/2026-11-22/ty-article/000001a2-03c6-d5a8-a5f6-efd7260b0000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-22T18:32:34+00:00",
+          "image_url": null
+        },
+        {
+          "id": "81013cb7ea",
+          "title": "השחיין שחצה את הורמוז: \"המלחמה מחריבה את הטבע\"",
+          "url": "https://13tv.co.il/item/news/abroad/ypubs-905476803/?pid=62&refc=902992386",
+          "source": "reshet13",
+          "source_label": "חדשות 13",
+          "source_label_he": "חדשות 13",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "ec5445b17d",
+          "title": "\"פחד אלוהים לצאת בערב\": מכת התנים בצפון תל אביב מחריפה",
+          "url": "https://www.walla.co.il/news/israel/383962620",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-23T04:00:00+00:00",
+          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/2/9/8/8/2988268-46.jpg"
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13"
+  ],
+  "sources_failed": [
+    "i24"
+  ],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Israel's military operations in Gaza have caused extensive environmental damage, with environmental experts and organizations including Oxfam warning that the destruction has created a \"toxic wasteland\" and poses severe threats to human survival in the territory. Israeli domestic politics continue to grapple with accountability issues as Netanyahu's political rivals condemn settler attacks on Palestinian villages, characterizing them as \"Jewish terrorism.\" The Jewish diaspora maintains active engagement with Israel through programs like Birthright, which continues to shape the lives and identities of Jewish youth around the world.",
+      "headlines": [
+        {
+          "id": "83aa240cb8",
+          "title": "Israel's destruction of Gaza has created a 'toxic wasteland', experts find",
+          "url": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-23T04:00:45+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/3f84cee4d3a31ab236a50a7d425bc2b6fc6b6fe8/237_0_2475_1980/master/2475.jpg?width=700&quality=85&auto=format&fit=max&s=873b46859e7ba138a353a21c6b0e6d7d"
+        },
+        {
+          "id": "5318b8b13e",
+          "title": "Israeli attacks have caused ecological disaster in Gaza, Oxfam reports",
+          "url": "https://www.demorgen.be/nieuws/israelische-aanvallen-hebben-ecologische-ramp-veroorzaakt-in-gaza-meldt-oxfam~bd917220/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-23T02:00:00+00:00",
+          "image_url": "https://image.demorgen.be/263764160/feature-crop/320/320/topshot-in-this-aerial-view-people-walk-amid-the-destruction"
+        },
+        {
+          "id": "d4bb76db92",
+          "title": "Netanyahu rival condemns 'Jewish terrorism' after settler attacks on Palestinian villages",
+          "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-22T15:22:38+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=02cd87d09d705f7a50460fa0fe12f59e"
+        },
+        {
+          "id": "92a86a6465",
+          "title": "How Birthright Israel changed these couples' lives in dramatic ways",
+          "url": "https://www.jta.org/2026/11/22/israel/how-birthright-israel-changed-these-couples-lives-in-dramatic-ways",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-22T19:00:00+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-19-26-collage-jta.jpg"
+        },
+        {
+          "id": "1c28f45e7b",
+          "title": "50 years on, Jewish bestseller 'World of Our Fathers' finds a new audience",
+          "url": "https://www.jta.org/2026/11/22/ideas/50-years-on-jewish-bestseller-world-of-our-fathers-finds-a-new-audience",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-22T11:45:00+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/Untitled-Design-27.jpg"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium is experiencing significant disruption from widespread industrial action, with thousands of protesters gathering at Brussels North station during a national strike that has led to cancelled flights and reduced public transport services. Political tensions have intensified as government ministers engage in heated disputes during crucial budget negotiations. Security concerns have emerged with investigations into suspicious fires at military companies near Liège, while the Belgian military strengthens its defense capabilities with newly developed anti-drone rockets on F-16 fighters. The automotive sector is undergoing restructuring, with D'Ieteren announcing 312 job cuts.",
+      "headlines": [
+        {
+          "id": "8f56aa694a",
+          "title": "Thousands of protesters gather at Brussels North station for national action day - Police ready with water cannons",
+          "url": "https://www.hln.be/binnenland/duizenden-betogers-verzamelen-aan-station-brussel-noord-voor-nationale-actiedag-politie-staat-klaar-met-waterkanonnen~af72f38b/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-23T09:38:00+00:00",
+          "image_url": "https://images.hln.be/NzcxODFkZTkzMDg2ODBmZjUyYTgvZGlvLzI4MDY1MzA0OC9maXQtd2lkdGgvNDAw/demonstrators-join-a-nationwide-protest-against-the-belgian-government-s-austerity-measures-and-budget-cuts-in-brussels-belgium-november-23-2026-reuters-nicolas-economou"
+        },
+        {
+          "id": "948cda84fd",
+          "title": "Belgian F-16s equipped for the first time with new, self-developed anti-drone rockets",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/f-16-s-belgische-anti-drone-raketten/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "5d5fef2642",
+          "title": "Prévot accuses Vandenbroucke online of lies during crucial budget negotiations",
+          "url": "https://www.hln.be/binnenland/prevot-beschuldigt-vandenbroucke-online-van-leugens-midden-in-cruciaal-begrotingsoverleg~a9cb0fe2/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-23T09:26:00+00:00",
+          "image_url": "https://images.hln.be/MzViNjRjZjI2NGM3NzY1NTc5NmIvZGlvLzI4MDY1Mjk2OC9maXQtd2lkdGgvNDAw/begroting"
+        },
+        {
+          "id": "eb4ade7c0d",
+          "title": "Far-left violence or Russian sabotage? Intelligence services investigate three suspicious fires at military companies near Liège",
+          "url": "https://www.hln.be/binnenland/extreemlinks-geweld-of-russische-sabotage-inlichtingendiensten-onderzoeken-drie-verdachte-branden-bij-militaire-bedrijven-rond-luik~addb6d85a/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-23T07:00:03+00:00",
+          "image_url": "https://images.hln.be/N2QzMTUzMGFhNGVjMzdmNjcyMTQvZGlvLzI4MDU1ODQ4NC9maXQtd2lkdGgvNDAw/er-is-brand-uitgebroken-op-het-industrieterrein-plenesses-in-dison-twee-voertuigen-van-reul-sport-zijn-in-brand-gevlogen-het-laboratorium-bevindt-zich-op-het-terrein"
+        },
+        {
+          "id": "ec6368b684",
+          "title": "D'Ieteren Automotive confirms restructuring: 312 jobs disappearing",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/d-ieteren-automotive-bevestigt-herstructurering-312-banen-verdw/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "European defense capabilities are being reinforced through increased industrial cooperation among member states, as geopolitical tensions mount across the continent. Energy security concerns have heightened as gas prices surge across Europe amid forecasts of a severe cold winter that could strain supply. The question of the United Kingdom's relationship with the European Union remains contentious, with former Prime Minister Theresa May expressing skepticism about recent moves toward closer UK-EU ties following the Brexit decision.",
+      "headlines": [
+        {
+          "id": "b6d4378a3a",
+          "title": "How industrial cooperation strengthens Europe's defense readiness",
+          "url": "https://www.politico.eu/sponsored-content/how-industrial-cooperation-strengthens-europes-defense-readiness/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-23T09:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "2316ea321b",
+          "title": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
+          "url": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-23T08:45:13+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/7b5bb0d2c3b48dfdbcdd7ecb7881b1b008a94717/0_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=057891b38393b1beba63c1760ed5f5f1"
+        },
+        {
+          "id": "0effd56152",
+          "title": "Theresa May 'shocked' over rapprochement between UK and EU: 'just accept Brexit and move on'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/theresa-may-verbijsterd-over-overweging-van-premier-burnham-om-o/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Ukraine continues military operations against Russia, highlighted by the sinking of a Russian warship, while humanitarian workers conduct rescue operations for survivors of Russian attacks, including a seven-year-old boy pulled from rubble after fourteen hours. International climate negotiations at COP31 in Antalya have concluded without reaching consensus, drawing widespread criticism from climate experts and advocates. Meanwhile, in the United States, Democrats have strengthened their House majority through additional seat gains in the North Carolina recount, and Kenya and the Democratic Republic of Congo have restored diplomatic ties after resolving regional tensions.",
+      "headlines": [
+        {
+          "id": "034df8a44f",
+          "title": "7-year-old boy rescued alive from rubble after 14 hours following Russian attack - Ukraine behind attack on Russian warship",
+          "url": "https://www.hln.be/buitenland/7-jarige-jongen-na-14-uur-levend-van-onder-het-puin-gered-na-russische-aanval-oekraine-zit-achter-aanval-op-russisch-oorlogsschip~a93df6b5/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-23T09:22:00+00:00",
+          "image_url": "https://images.hln.be/OTAwMDhiNDFiZWM2ZjMxNmExYWQvZGlvLzI4MDY1MjQyMC9maXQtd2lkdGgvNDAw/in-this-photo-provided-by-the-ukrainian-emergency-service-rescue-workers-carry-a-body-recovered-from-the-rubble-of-a-residential-building-damaged-in-a-russian-strike-on-dymer-kyiv-region-ukraine-monday-nov-23-2026-ukrainian-emergency-service-via-ap"
+        },
+        {
+          "id": "ea869718bb",
+          "title": "Five takeaways from the failed climate talks COP31",
+          "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-23T06:33:50+00:00",
+          "image_url": null
+        },
+        {
+          "id": "31aafc3443",
+          "title": "Extra seat for Democrats in House after recount in North Carolina, largest majority for party since 1992",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/extra-zetel-voor-democraten-in-het-huis-na-hertelling-in-north-c~1792770744209/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "3d2af44c86",
+          "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-23T08:53:01+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
