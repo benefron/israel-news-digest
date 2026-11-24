@@ -1,0 +1,407 @@
+{
+  "generated_at": "2026-11-24T08:07:56.074781+00:00",
+  "date": "2026-11-24",
+  "degraded": false,
+  "top_general": {
+    "summary_he": "יועץ הבית הלבן קושנר הזהיר כי ישראל עומדת בצומת דרכים ועלולה להפוך למדינה מנודה בעולם, במקביל להסלמה צפויה עם איראן תוך לחץ אמריקאי הולך וגדל. בתחום הטכנולוגיה, מנכ\"ל אנבידיה חזר לתפקידו לאחר סיום הסכסוך עם המשקיעים. בחזית הצבאית בעולם, אוקראינה קיבלה אחריות על תקיפה בליביה כאשר רוסיה מאיימת בהסלמה אזורית.",
+    "headlines": [
+      {
+        "id": "c7ec579fbb",
+        "title": "קושנר: אם ישראל תמשיך במסלולה הנוכחי היא תהפוך למדינה מנודה",
+        "url": "https://www.haaretz.co.il/news/world/middle-east/2026-11-23/ty-article/.premium/000001a2-08d0-d564-abaa-1ddd09f10000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-23T20:06:47+00:00",
+        "image_url": null
+      },
+      {
+        "id": "50a6a73fc4",
+        "title": "הסבלנות האמריקאית פוקעת: בישראל נערכים להסלמה עם איראן",
+        "url": "https://www.globes.co.il/news/article.aspx?did=1001564603",
+        "source": "globes",
+        "source_label": "גלובס",
+        "source_label_he": "גלובס",
+        "published_at": "2026-11-24T04:27:00+00:00",
+        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781697046/direct/AP26168422564376_kt31aq.jpg"
+      },
+      {
+        "id": "1b7e97e088",
+        "title": "ג׳נסן הואנג סיפר על רומנים נוספים – והוחזר לראשות אנבידיה",
+        "url": "https://www.walla.co.il/news/world/383962818",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-11-24T02:44:48+00:00",
+        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/1/1/8/4118493-46.jpg"
+      },
+      {
+        "id": "a858a1e859",
+        "title": "אוקראינה קיבלה אחריות לתקיפה החריגה בלוב; ברוסיה מאיימים בהסלמה אזורית",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-dad4f1fdf6702a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-23T08:14:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/11/23/100858_autoOrient_i.jpg"
+      }
+    ]
+  },
+  "security_war": {
+    "summary_he": "בחזית צה\"ל קיימת דאגה משמעותית בשל כ-30% מכלי המלחמה היבשתיים המושבתים. בצבא הרוסי גל התאבדויות מתרחב בקרב החיילים בחזית אוקראינה. מתקפות סייבר המיוחסות לאיראן נגד מכליות נפט הצביעו על איום גדל, כאשר ממשלת ישראל משתמשת בחשש מאיום כימי לצרכים פוליטיים.",
+    "headlines": [
+      {
+        "id": "8ee8ea8e94",
+        "title": "הנתון שמדאיג את צה\"ל: כ-30% מכלי המלחמה היבשתיים מושבתים",
+        "url": "https://www.ynet.co.il/news/article/yokra14967619",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-23T22:00:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/08/19/SJPu611MMKlg/SJPu611MMKlg_0_139_3000_1689_0_medium.jpg"
+      },
+      {
+        "id": "c26b3568ee",
+        "title": "התעללות ופחד ממוות: גל ההתאבדויות בצבא הרוסי",
+        "url": "https://www.walla.co.il/news/world/383962804",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-11-24T03:19:01+00:00",
+        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/0/4/8/4048219-46.jpg"
+      },
+      {
+        "id": "a6a9e63b72",
+        "title": "חשד בארה\"ב: איראן עומדת מאחורי מתקפות סייבר על עשרות מכליות",
+        "url": "https://www.walla.co.il/news/world/383962830",
+        "source": "walla",
+        "source_label": "וואלה",
+        "source_label_he": "וואלה",
+        "published_at": "2026-11-24T06:02:56+00:00",
+        "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/4/0/4/8/4048112-46.jpg"
+      },
+      {
+        "id": "de5ecbe02f",
+        "title": "נתניהו ממנף את האיום הכימי מאיראן לצרכים פוליטיים, אבל הסכנה כלל אינה מיידית",
+        "url": "https://www.haaretz.co.il/news/politics/2026-11-23/ty-article/.highlight/000001a2-07d9-d1da-a3fb-4fdf1c980000",
+        "source": "haaretz",
+        "source_label": "הארץ",
+        "source_label_he": "הארץ",
+        "published_at": "2026-11-23T18:08:39+00:00",
+        "image_url": null
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "key": "politics",
+      "label_he": "פוליטיקה וממשל",
+      "summary_he": "שר הביטחון אליהו נשא נאום נוקב נגד החברה הערבית. בחו\"ל, סנאטור אמריקאי בכיר דרש מישראל לעמוד בהתחייבויותיה כלפי מועצת השלום. בנוסף, בגרמניה הועלו דרישות בפרלמנט למעצרו של ראש המוסד לשעבר.",
+      "headlines": [
+        {
+          "id": "62f879a3d1",
+          "title": "\"ברברים, צריך לחנך אתכם\": הנאום של אליהו נגד החברה הערבית",
+          "url": "https://www.walla.co.il/news/politics/383962810",
+          "source": "walla",
+          "source_label": "וואלה",
+          "source_label_he": "וואלה",
+          "published_at": "2026-11-24T05:10:00+00:00",
+          "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/2/images/1794116928127_walla-media-picture_2200x1429.webp?width=500"
+        },
+        {
+          "id": "713f037072",
+          "title": "סנאטור בכיר: \"במועצת השלום צודקים, ישראל חייבת לעמוד בהתחייבויותיה\"",
+          "url": "https://www.ynet.co.il/news/article/rkj8uqfymx",
+          "source": "ynet",
+          "source_label": "Ynet",
+          "source_label_he": "Ynet",
+          "published_at": "2026-11-24T05:14:04+00:00",
+          "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/19/HknaVE3RMx/HknaVE3RMx_0_41_3000_1688_0_medium.jpg"
+        },
+        {
+          "id": "a494f623de",
+          "title": "שפל ביחסים: דרישות לעצור את ראש המוסד לשעבר ולמנוע תדרוך בפרלמנט הגרמני",
+          "url": "https://www.mako.co.il/news-world/2026_q4/Article-82fc4cc8b8702a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-11-23T08:38:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/08/27/193503_autoOrient_i.jpg"
+        }
+      ]
+    },
+    {
+      "key": "cost_of_living",
+      "label_he": "יוקר המחיה וכלכלה",
+      "summary_he": "בוול סטריט, הדולר ירד ב-1.2% לרמה של כ-3.3 שקלים לאחר עליות של אתמול. בשוק ההון הישראלי, מניה ישראלית נהנתה מהתאוששות של אנבידיה. בנוסף, חברותיו של צחי אבו קנו נכסים בשנה זו בכ-1.4 מיליארד שקל.",
+      "headlines": [
+        {
+          "id": "cc19dee1b9",
+          "title": "בעקבות העליות אמש בוול סטריט: הדולר יורד ב-1.2% לרמה של 3.3 שקלים",
+          "url": "https://www.themarker.com/markets/2026-11-24/ty-article-live/000001a2-0c54-d7ca-abf6-6e5c4afa0000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-24T06:58:46+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a1-c97a-df80-a9e3-effe74710000/83/93/f39cb7654c818ebbdcb762e4bbff/017162.jpg?width=108&height=81"
+        },
+        {
+          "id": "6d557227d4",
+          "title": "המניה הישראלית שהרוויחה בגדול מהקאמבק באנבידיה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001564584",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-24T05:43:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1710854994/direct/030A8246_yngqyt.jpg"
+        },
+        {
+          "id": "5d324b2e97",
+          "title": "החברות הציבוריות של צחי אבו קנו השנה נכסים בכ–1.4 מיליארד שקל",
+          "url": "https://www.themarker.com/markets/2026-11-24/ty-article/.premium/000001a2-0c27-d9e4-ada3-9d27a2660000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-24T06:29:30+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a2-0c2f-d221-a3e3-0d3f5f0b0001/11/c5/648ae6324088aedb4f589cdd14a5/zachi-abu.JPG?width=108&height=81"
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "label_he": "טכנולוגיה והייטק",
+      "summary_he": "חברת גילת ממשיכה להטיל אתגר על חברות אינטרנט וותיקות ובוחנת כניסה לתחום הטלוויזיה. אנבידיה עוררה עליות בוול סטריט אך גם חשש כלפי עתיד השוק. דקארט עברה תקבול קצר-מועד אך משמעותי לחשבון הבנק.",
+      "headlines": [
+        {
+          "id": "2dd92f3d7d",
+          "title": "גילת גורמת לכאב ראש לחברות האינטרנט הוותיקות. כעת היא בוחנת כניסה גם לתחום הטלוויזיה",
+          "url": "https://www.themarker.com/markets/2026-11-24/ty-article/.highlight/000001a2-092c-d9e4-ada3-9d2ed2190000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-24T03:59:47+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a2-0bf5-d9e4-ada3-9ff7b8a00001/c8/bb/4ee0bfde4b38baa8f2cb41b9e877/1795495724870.jpg?width=108&height=81"
+        },
+        {
+          "id": "7b5cac40b3",
+          "title": "אנבידיה סחפה את השווקים, אבל הציתה מחדש חשש אחר: חמישה דברים לקראת יום המסחר",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001564573",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-24T07:35:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg3_x3c4yv.jpg"
+        },
+        {
+          "id": "f1f6930b2a",
+          "title": "תהילת העולם של דקארט נמשכה רבע שעה. לפחות הם מתנחמים בחשבון בנק מרופד",
+          "url": "https://www.themarker.com/markets/2026-11-24/ty-article/.premium/000001a2-0c04-d0d9-a9f6-bcf775b10000",
+          "source": "themarker",
+          "source_label": "TheMarker",
+          "source_label_he": "TheMarker",
+          "published_at": "2026-11-24T06:37:43+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a2-0c33-d7ca-abf6-6e7f89a60000/e8/c4/6ab3d50d47af9da84a6f9277537f/275928-3.jpg?width=108&height=81"
+        }
+      ]
+    }
+  ],
+  "sources_fetched": [
+    "haaretz",
+    "ynet",
+    "israel_hayom",
+    "kan",
+    "mako",
+    "walla",
+    "globes",
+    "themarker",
+    "times_of_israel",
+    "maariv",
+    "makor_rishon",
+    "reshet13",
+    "i24"
+  ],
+  "sources_failed": [],
+  "world": {
+    "israel_jewish": {
+      "summary_en": "Gaza faces an acute humanitarian crisis, with famine threatening the population as Israeli military operations continue; international observers describe Gaza as a \"toxic wasteland.\" Israel is pursuing the detention of Palestinian activists without trial. Meanwhile, international figures including Jared Kushner are debating Israel's future trajectory as a nation-state, with warnings of potential global diplomatic isolation should security priorities continue to dominate policy.",
+      "headlines": [
+        {
+          "id": "c9ad7187d1",
+          "title": "Famine threatens again in Gaza: 'Sometimes we feel forgotten in this camp'",
+          "url": "https://www.demorgen.be/nieuws/hongersnood-dreigt-opnieuw-in-gaza-soms-hebben-we-het-gevoel-dat-we-in-dit-kamp-vergeten-worden~b9db1b2d7/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-24T02:00:07+00:00",
+          "image_url": "https://image.demorgen.be/280515256/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "46321de4fe",
+          "title": "Jared Kushner sees two paths for Israel: Security or 'global pariah status'",
+          "url": "https://www.jta.org/2026/11/23/israel/jared-kushner-israel-fork-in-the-road-gaza",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-23T23:55:52+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-23-Kushner.jpg"
+        },
+        {
+          "id": "c9e70c1602",
+          "title": "Abdul El-Sayed insists that Israel should not be a Jewish 'ethno-state'",
+          "url": "https://www.jta.org/2026/11/23/politics/abdul-el-sayed-insists-that-israel-should-not-be-a-jewish-ethno-state",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-23T22:05:40+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-23-Abdul-El-Sayed.jpg"
+        },
+        {
+          "id": "11329ed350",
+          "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
+          "url": "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-23T19:48:58+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/3b697e211fd94382a4c76bc1361873d607c3ea2d/0_41_1200_960/master/1200.jpg?width=700&quality=85&auto=format&fit=max&s=ee95f67836c53353ebe83916accdea4b"
+        },
+        {
+          "id": "796612a75a",
+          "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+          "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-23T17:07:25+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgian politics remain contentious, as CD&V politician Sammy Mahdi criticizes the extended pre-campaign period driven by coalition partners, describing it as the longest in Belgian political history. Opposition parties in Antwerp have protested proposed budget cuts, arguing that residents cannot absorb further financial burdens. Football club Anderlecht has announced plans to invest over 30 million euros in a new training facility, signaling confidence in domestic sports infrastructure.",
+      "headlines": [
+        {
+          "id": "0dd3f7e0f4",
+          "title": "Politics LIVEBLOG Sammy Mahdi (CD&V) fed up with 'campaign language' from Vooruit: 'Longest pre-campaign in history of Belgian politics'",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/sammy-mahdi-cdv-is-campagnetaal-van-vooruit-beu-langste-p~1793247532380/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "b2905a4918",
+          "title": "Region Antwerp (City) Opposition parties unhappy with Antwerp budget cuts: 'Residents really can't pay any more'",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/reacties-oppositie-besparingen-stad-antwerpen/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "1f3e7f7476",
+          "title": "Anderlecht wants to invest over 30 million euros in new training complex",
+          "url": "https://www.hln.be/anderlecht/anderlecht-wil-ruim-30-miljoen-euro-investeren-in-nieuw-oefencomplex~aed14e5f0/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-24T06:07:47+00:00",
+          "image_url": "https://images.hln.be/ZTczMWRlNGE1NjI2NzFlZTBmN2QvZGlvLzIyNjk2NDM4Mi9maXQtd2lkdGgvNDAw/neerpede-belgium-january-30-gespot-aan-de-rsca-belfius-academy-in-neerpede-pictured-on-january-30-2023-in-neerpede-belgium-30-01-2023-photo-by-joel-hoylaerts-photo-news"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "European security faces mounting pressure from multiple directions. Ukraine continues to endure Russian military aggression, while unmanned Russian aircraft have repeatedly violated Polish airspace, triggering civilian alerts. Estonia has closed its border with Russia amid regional instability, and NATO leadership has warned of emerging space-based threats from reported Russian nuclear satellites. EU socialist parties are holding formal discussions on migration policy, particularly regarding Denmark's approach.",
+      "headlines": [
+        {
+          "id": "e917bce2a2",
+          "title": "Ukraine-Russia War LIVEBLOG: Unmanned Russian aircraft violates Polish airspace, civilians called to shelter 7 minutes ago",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/onbemand-russisch-toestel-dringt-pools-luchtruim-binnen-burgers~1793644191149/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "b7a1b66428",
+          "title": "Estonian foreign minister: Why we're closing our border with Russia",
+          "url": "https://www.politico.eu/article/estonia-foreign-minister-margus-tsahkna-close-border-russia/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-24T03:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "30bb89e947",
+          "title": "EU's Socialists to hold formal discussion on Frederiksen's migration stance",
+          "url": "https://www.politico.eu/article/eu-socialists-formal-discussion-mette-frederiksen-migration-stance-concerns-denmark/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-24T03:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "9e8a6a2e3d",
+          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-24T02:15:59+00:00",
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Global tensions and humanitarian crises span multiple regions. Russian military aircraft have again violated South Korean airspace, prompting a diplomatic response from Seoul. Bangladesh's former Prime Minister Sheikh Hasina plans to return on December 16, potentially reshaping the country's political future. Malaysia is committing to deport thousands of migrants back to Myanmar following the Malaysian PM's acknowledgment of the junta's documented atrocities. China has executed a government official convicted of espionage on behalf of a foreign power.",
+      "headlines": [
+        {
+          "id": "404d4d1b57",
+          "title": "Russian aircraft violate South Korean air defense zone again, country calls military attaché to account",
+          "url": "https://www.hln.be/buitenland/russische-vliegtuigen-dringen-opnieuw-luchtverdedigingszone-zuid-korea-binnen-land-roept-attache-op-het-matje~a66dc7666/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-24T06:00:13+00:00",
+          "image_url": "https://images.hln.be/OGViM2M4YjZiZTVlY2VmNGVlZmYvZGlvLzI4MDQ2NTYwNy9maXQtd2lkdGgvNDAw/epa13388274-south-korean-defense-minister-kang-shin-chul-speaks-during-a-launching-ceremony-for-the-3-600-ton-pyeongtaek-frigate-at-a-shipyard-operated-by-hanwha-ocean-co-in-geoje-south-gyeongsang-province-south-korea-18-november-2026-measuring-130-meters-long-and-15-meters-wide-the-vessel-is-equipped-with-a-5-inch-main-gun-vertical-missile-launch-tubes-for-anti-ship-ship-to-ship-guided-and-tactical-ship-to-surface-missiles-as-well-as-long-range-anti-submarine-torpedoes-epa-yonhap-south-korea-out"
+        },
+        {
+          "id": "d446c5f807",
+          "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+          "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-24T06:23:01+00:00",
+          "image_url": null
+        },
+        {
+          "id": "21d99b6d79",
+          "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta's 'atrocities'",
+          "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-24T05:54:14+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/d6322487e65959fb8cbf133843b8295362b0ce38/0_0_3825_3061/master/3825.jpg?width=700&quality=85&auto=format&fit=max&s=f2d71b6b0cba679108c7fd32aff1a106"
+        },
+        {
+          "id": "7aebfbd15f",
+          "title": "China sentences official to death for spying for foreign country",
+          "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-24T02:37:36+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/5d7028c1f7418b6df67a8b82c97cfc5563385eba/154_0_2536_2029/master/2536.jpg?width=700&quality=85&auto=format&fit=max&s=a8334ba7ee5504ed586b8b567e4ab1e0"
+        }
+      ]
+    },
+    "degraded": false
+  }
+}
