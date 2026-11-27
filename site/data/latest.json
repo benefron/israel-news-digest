@@ -1,94 +1,84 @@
 {
-  "generated_at": "2026-11-26T07:33:10.563515+00:00",
-  "date": "2026-11-26",
+  "generated_at": "2026-11-27T08:02:56.099838+00:00",
+  "date": "2026-11-27",
   "degraded": false,
   "top_general": {
-    "summary_he": "היום עלו לכותרות הראשיות: משפט ראש הממשלה עם הצעה מהשופטים להסדר טיעון, איומי טילים ופעילות גרעינית איראנית, פעילות ביטחונית נגד חמאס בעזה, וביטול חוק בנוגע להשתלטות על התקשורת בכנסת.",
+    "summary_he": "המתחים עם איראן מתעמקים כשצה\"ל נערך להתקפה משוערת, ובחזית לבנון ישראל עומדת בפני החלטה דחופה שעלולה להכריע את גורל הפתרון הביטחוני. בתוך כך, שווקי ההון מגיבים בחיוב — השקל מתחזק ויורד ל־3.29 מול הדולר על רקע הציפיות הפוליטיות.",
     "headlines": [
       {
-        "id": "ba8a7e7b6d",
-        "title": "מה רואים שופטי נתניהו בכל אחד משלושת התיקים, ומה ההשלכות הצפויות?",
-        "url": "https://www.haaretz.co.il/news/law/netanyahutrial/2026-11-25/ty-article/.premium/000001a2-13c9-d22a-a1bb-17eb26e60000",
+        "id": "2155b992b8",
+        "title": "\"היו חידונים בקוקפיט בדרך מאיראן\": ביקור בבסיס שממנו אולי תצא התקיפה הבאה",
+        "url": "https://www.ynet.co.il/news/article/yokra14970166",
+        "source": "ynet",
+        "source_label": "Ynet",
+        "source_label_he": "Ynet",
+        "published_at": "2026-11-26T22:00:00+00:00",
+        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/26/yk14971073/yk14971073_0_16_474_267_0_medium.jpg"
+      },
+      {
+        "id": "80efd30851",
+        "title": "אם ישראל לא תחליט בקרוב, הפתרון בלבנון עלול להישמט מידיה",
+        "url": "https://www.haaretz.co.il/news/politics/2026-11-27/ty-article/.premium/000001a2-196d-d62f-a5ff-df6df8f00000",
         "source": "haaretz",
         "source_label": "הארץ",
         "source_label_he": "הארץ",
-        "published_at": "2026-11-25T18:22:02+00:00",
+        "published_at": "2026-11-27T04:00:28+00:00",
         "image_url": null
       },
       {
-        "id": "acead3a8a0",
-        "title": "מהירים, מדויקים וקשים יותר ליירוט: היכולות החדשות של הטילים האיראניים",
-        "url": "https://www.mako.co.il/news-world/2026_q4/Article-eafbe88b41212a1027.htm",
-        "source": "mako",
-        "source_label": "N12",
-        "source_label_he": "N12",
-        "published_at": "2026-11-25T09:43:00+00:00",
-        "image_url": "https://img.mako.co.il/2024/10/08/til_asaf08107_autoOrient_i.jpg"
-      },
-      {
-        "id": "ac66160fa2",
-        "title": "צה\"ל התנקש בבכיר בזרוע המדינית של חמאס",
-        "url": "https://www.walla.co.il/news/military/383963179",
-        "source": "walla",
-        "source_label": "וואלה",
-        "source_label_he": "וואלה",
-        "published_at": "2026-11-26T05:17:25+00:00",
-        "image_url": "https://image-resizer-walla.walla.cloud/image/2026/11/4/images/1795675079635_walla-media-picture_679x452.webp?width=500"
-      },
-      {
-        "id": "23c29e8777",
-        "title": "הכנסת אישרה בקריאה ראשונה את ביטול חוק ההשתלטות על התקשורת",
-        "url": "https://www.haaretz.co.il/news/elections/2026-11-26/ty-article/000001a2-14c9-d809-adef-7fed2d880000",
-        "source": "haaretz",
-        "source_label": "הארץ",
-        "source_label_he": "הארץ",
-        "published_at": "2026-11-25T22:21:23+00:00",
-        "image_url": null
+        "id": "d4b1d3e540",
+        "title": "שער הדולר יורד ל–3.29 שקלים על רקע האופטימיות בזירה הפוליטית",
+        "url": "https://www.themarker.com/markets/2026-11-27/ty-article-live/000001a2-1bc7-d809-adef-7befd78a0000",
+        "source": "themarker",
+        "source_label": "TheMarker",
+        "source_label_he": "TheMarker",
+        "published_at": "2026-11-27T07:11:48+00:00",
+        "image_url": "https://img.haarets.co.il/bs/000001a2-1bd7-ded0-a5b6-dff76a6c0000/3e/4c/a08e01a347c68b1174a6dbf3ac76/293290.jpg?width=108&height=81"
       }
     ]
   },
   "security_war": {
-    "summary_he": "במישור הביטחון: איראן בונה מתקן גרעיני חדש בקצב מהיר בין נתנז לאיספהאן, צה\"ל ממטיר תקיפות על עזה, החות'ים תקפו שוב נמלים סעודיים, וערן חייא הוסגר מארה\"ב לישראל תחת חשד לניסיון רצח.",
+    "summary_he": "באיראן גדלות החשדות גם לתוכנית גרעינית וגם לתוכנית כימית, כשמתקן תת־קרקעי חדש עלול להוות חלק מתוכנית הנשק של טהרן, במקביל למבצע צפוי של המוסד. חיל האוויר הישראלי תקף טילים ומטרות חיזבאללה בלבנון. צה\"ל סיים תכנית ביטחונית לתרחיש מורכב שתוכננה במשך שנתיים.",
     "headlines": [
       {
-        "id": "60eb9e3ce2",
-        "title": "\"נבנה במהירות מחשידה\": המתקן המבוצר החדש באיראן - בין נתנז לאיספהאן",
-        "url": "https://www.ynet.co.il/news/article/rkcfuq4yql",
-        "source": "ynet",
-        "source_label": "Ynet",
-        "source_label_he": "Ynet",
-        "published_at": "2026-11-25T17:55:08+00:00",
-        "image_url": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/25/B1eRWY54yXx/B1eRWY54yXx_0_176_2048_1153_0_medium.jpg"
+        "id": "bef1f3dc8b",
+        "title": "המתקן התת-קרקעי החדש באיראן: חוקרים בארה\"ב לא שוללים שישמש לתוכנית הגרעין",
+        "url": "https://www.mako.co.il/news-world/2026_q4/Article-52e9b5986e612a1027.htm",
+        "source": "mako",
+        "source_label": "N12",
+        "source_label_he": "N12",
+        "published_at": "2026-11-26T08:09:00+00:00",
+        "image_url": "https://img.mako.co.il/2026/11/26/HX-uYlhX0AArukQ_autoOrient_i.jpg"
       },
       {
-        "id": "5f8b4d7d89",
-        "title": "23:40 דיווחים בעזה: 3 הרוגים בתקיפה בשכונת א-תופאח",
-        "url": "https://www.maariv.co.il/breaking-news/article-1392333",
-        "source": "maariv",
-        "source_label": "מעריב",
-        "source_label_he": "מעריב",
+        "id": "d38e395357",
+        "title": "בדרך לפיצוץ עם איראן? תוכנית הנשק הכימי והמבצע של המוסד",
+        "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s1/1123369/",
+        "source": "kan",
+        "source_label": "כאן 11",
+        "source_label_he": "כאן 11",
         "published_at": null,
-        "image_url": null
+        "image_url": "https://www.kan.org.il/media/xmcdbwhp/איראן-מחסני-נשק.png?rxy=0.5141108466507991,0.5271277341728688&width=490&height=272&v=1dd7d1c0e07c750"
       },
       {
-        "id": "a5fb40cb6c",
-        "title": "Yemen’s Houthis say they hit two Saudi ports in response to coalition strikes",
-        "url": "https://www.timesofisrael.com/yemens-houthis-say-they-hit-two-saudi-ports-in-response-to-coalition-strikes/",
+        "id": "cf2ee650b8",
+        "title": "Air Force strikes Hezbollah rockets, launchers in eastern Lebanon — IDF",
+        "url": "https://www.timesofisrael.com/air-force-strikes-hezbollah-rockets-launchers-in-eastern-lebanon-idf/",
         "source": "times_of_israel",
         "source_label": "Times of Israel",
         "source_label_he": "Times of Israel",
-        "published_at": "2026-11-25T21:14:05+00:00",
-        "image_url": "https://static-cdn.toi-media.com/www/uploads/2025/05/AFP__20240728__36648F9__v1__HighRes__YemenIsraelPalestinianConflict-1024x640.jpg"
+        "published_at": "2026-11-26T21:38:06+00:00",
+        "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/photo_2026-11-26_21-19-06-e1795723967643-1024x640.jpg"
       },
       {
-        "id": "9f542b9be9",
-        "title": "ערן חייא, החשוד בניסיון רצח אלי מוסלי, הוסגר מארה\"ב לישראל",
-        "url": "https://www.globes.co.il/news/article.aspx?did=1001565077",
-        "source": "globes",
-        "source_label": "גלובס",
-        "source_label_he": "גלובס",
-        "published_at": "2026-11-26T07:14:00+00:00",
-        "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1599095681/old/133660.jpg"
+        "id": "003cad11b6",
+        "title": "אחרי שנתיים של עבודה: לצה\"ל יש תוכנית לתרחיש של היפוך קנים",
+        "url": "https://www.makorrishon.co.il/news/defence/article/397448",
+        "source": "makor_rishon",
+        "source_label": "מקור ראשון",
+        "source_label_he": "מקור ראשון",
+        "published_at": null,
+        "image_url": null
       }
     ]
   },
@@ -96,36 +86,46 @@
     {
       "key": "politics",
       "label_he": "פוליטיקה וממשל",
-      "summary_he": "בנוגע לפוליטיקה: הליכוד הגיש ערר על תוצאות בחירות מ-120 קלפי, שופטים העלו הצעה במשפט ראש הממשלה, וחברי כנסת ערבים חתומים על הצעה לוועדת חקירה על אירועי 7.10.",
+      "summary_he": "בזמן שנתניהו מנסה להתאים את עמדתו בנושא איראן לאינטרס הפוליטי, נשיא טראמפ הצהיר כי בפעם הבאה הוא יפעל בעוצמה. משפטו בגין שחיתות ממשיך, כאשר בית המשפט פוגע בעמדת התביעה, בעוד שלוש שנות מלחמה משפיעות על דפוסי ההצבעה בצפון.",
       "headlines": [
         {
-          "id": "7a3f4146dc",
-          "title": "Likud appeals election results from 120 ballot boxes, seeks revote at those locations",
-          "url": "https://www.timesofisrael.com/likud-appeals-election-results-from-120-ballot-boxes-seeks-revote-at-those-locations/",
-          "source": "times_of_israel",
-          "source_label": "Times of Israel",
-          "source_label_he": "Times of Israel",
-          "published_at": "2026-11-25T21:13:35+00:00",
-          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26300198390829-e1793284043216-1024x640.jpg"
-        },
-        {
-          "id": "50ad30fd60",
-          "title": "שופטי נתניהו הציעו לבהרב־מיארה הצעה שחובה לסרב לה",
-          "url": "https://www.haaretz.co.il/news/law/netanyahutrial/2026-11-25/ty-article/.highlight/000001a2-12bc-dbd9-abeb-feffe2c20000",
+          "id": "4a53b8b814",
+          "title": "עמדת נתניהו לגבי איראן משתלבת להפליא באינטרס הפוליטי שלו. יריביו מסתמכים על זמיר",
+          "url": "https://www.haaretz.co.il/news/politics/2026-11-27/ty-article/.highlight/000001a2-1989-d62f-a5ff-dfc9dbaf0000",
           "source": "haaretz",
           "source_label": "הארץ",
           "source_label_he": "הארץ",
-          "published_at": "2026-11-25T13:15:27+00:00",
+          "published_at": "2026-11-27T04:00:42+00:00",
           "image_url": null
         },
         {
-          "id": "542b25727d",
-          "title": "ח\"כים ערבים חתומים על הצעה לוועדת חקירה ל־7.10, חמאס מוגדר במסמך ארגון טרור",
-          "url": "https://www.haaretz.co.il/news/elections/2026-11-25/ty-article/000001a2-11e0-d76d-a7aa-73f4b4550000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-11-25T12:55:39+00:00",
+          "id": "61a160bef9",
+          "title": "07:16 טראמפ נשאל על נתניהו, וענה על איראן: \"אם היינו פועלים שוב, היינו פועלים בעוצמה\"",
+          "url": "https://www.maariv.co.il/breaking-news/article-1392728",
+          "source": "maariv",
+          "source_label": "מעריב",
+          "source_label_he": "מעריב",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "a41712351e",
+          "title": "After court undercut prosecution, end to Netanyahu’s trial might be further away, not closer",
+          "url": "https://www.timesofisrael.com/after-court-undercut-prosecution-end-to-netanyahus-trial-might-be-further-away-not-closer/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-26T21:28:13+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261125CG247-1024x640.jpg"
+        },
+        {
+          "id": "c0402fd042",
+          "title": "\"זו לא נאמנות עיוורת\": האם 3 שנות מלחמה השפיעו על ההצבעה בצפון?",
+          "url": "https://13tv.co.il/item/news/politics/politics/elections-905358725/?pid=62&refc=902992425",
+          "source": "reshet13",
+          "source_label": "חדשות 13",
+          "source_label_he": "חדשות 13",
+          "published_at": null,
           "image_url": null
         }
       ]
@@ -133,108 +133,155 @@
     {
       "key": "cost_of_living",
       "label_he": "יוקר המחיה וכלכלה",
-      "summary_he": "במישור הכלכלה: הממשלה הורידה מסים בצורה דרמטית, מה שהעניק הטבות בעיקר לעשירונים העליונים; מתפתח דור אבוד של צעירים ללא תעסוקה; ויעדי אנרגיה מתחדשת תקועים בגלל ויכוח על סובסידיות.",
+      "summary_he": "שווקי המניות מציגים אופטימיות עם צפיות ל\"ראלי של 25%\" ב-S&P 500, בעוד המטבע הישראלי נתון לתנודות חדות בחוזים בניו יורק ובאסיה. עם זאת, מחירי המזון נשארים גבוהים, לרבות משולש פיצה ענק במחיר 22 שקלים.",
       "headlines": [
         {
-          "id": "25f797075e",
-          "title": "הטבת המס הדרמטית שנהנים ממנה בעיקר בעשירונים העליונים",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001564996",
+          "id": "14a6ea362f",
+          "title": "\"ראלי של 25%\" - התחזית האופטימית ל-S&P 500: חמישה דברים לקראת יום המסחר",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001565247",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-11-26T03:29:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1761114732/direct/shutterstock_2589462211_xgh1nw.jpg"
+          "published_at": "2026-11-27T06:42:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1677662936/COT_Pic/5-%D7%93%D7%91%D7%A8%D7%99%D7%9D.jpg4_epj1sj.jpg"
         },
         {
-          "id": "c06a6f6e40",
-          "title": "האבטלה הנמוכה היא מסך עשן. בישראל מתפתח דור אבוד של צעירים ללא תעסוקה",
-          "url": "https://www.themarker.com/career/2026-11-26/ty-article-magazine/.premium/000001a2-12f6-dc94-abf2-36f7bf970000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-11-26T04:23:32+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a2-136c-dba9-a9b7-dbfdd54b0000/1f/9c/ecd177894639af9b803d6281fcb1/384693.jpg?width=108&height=81"
+          "id": "c883485c67",
+          "title": "עליות שערים חדות בחוזים בניו יורק ובאסיה. הדולר מתחת ל-3.3 שקלים",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001565316",
+          "source": "globes",
+          "source_label": "גלובס",
+          "source_label_he": "גלובס",
+          "published_at": "2026-11-27T06:21:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1708619124/direct/shutterstock_629368055_bxlyic_wefga1.jpg"
         },
         {
-          "id": "1d4aaa1ac6",
-          "title": "יעדי האנרגיה המתחדשת תקועים כבר חצי שנה — בגלל ויכוח על סובסידיות",
-          "url": "https://www.themarker.com/news/energy/2026-11-26/ty-article/.premium/000001a2-0d45-d4ba-a5a3-1f5790650000",
-          "source": "themarker",
-          "source_label": "TheMarker",
-          "source_label_he": "TheMarker",
-          "published_at": "2026-11-26T04:08:10+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a2-0d89-d48b-adaf-0dbfc0d40000/ac/63/b89201694db39452dae41d9c8f92/229985.jpg?width=108&height=81"
+          "id": "99cbdfc58b",
+          "title": "22 שקלים למשולש ענק: בשביל פיצה כזאת לא צריך לטוס לניו יורק",
+          "url": "https://www.israelhayom.co.il/food/restaurant-reviews/article/21759899",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
         }
       ]
     },
     {
       "key": "tech",
       "label_he": "טכנולוגיה והייטק",
-      "summary_he": "בתחום הטכנולוגיה: אנבידיה מתמודדת עם אתגרים מצד משקיעים, וטסלה מתמודדת עם בעיות במערכות עזר לנהג.",
+      "summary_he": "AI מטלטל את עולם המתמטיקה עם גילויים שהושגו בתוך שבוע, בעוד שבעבר דרשו מאות שנות מחקר. בעולם הסייבר, מתברר כי האקרים מנצלים מחשבי המוסכים כדי לפרוץ לרכבים.",
       "headlines": [
         {
-          "id": "e4a9e79732",
-          "title": "השבר של אנבידיה, השיעור שלכם: מה קורה כשדירקטוריון מפחד לאתגר את המייסד",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001564998",
+          "id": "d228eb41a3",
+          "title": "מאות שנות מחקר, שבוע של תגליות: ה־AI מטלטל את עולם המתמטיקה",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001565267",
           "source": "globes",
           "source_label": "גלובס",
           "source_label_he": "גלובס",
-          "published_at": "2026-11-26T03:35:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1795617875/AP26328305143614_vbe0ts.jpg"
+          "published_at": "2026-11-27T04:59:00+00:00",
+          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1795702675/%D7%A8%D7%99%D7%9E%D7%9F-%D7%9C%D7%A9%D7%A2%D7%A8-%D7%97%D7%9E%D7%99%D7%A9%D7%99_uba7aa.jpg"
         },
         {
-          "id": "d98a211b4b",
-          "title": "הסינים וטסלה בתחתית: מבחן חדש חושף בעיות במערכות העזר לנהג",
-          "url": "https://cars.walla.co.il/item/3877659",
-          "source": "walla",
-          "source_label": "וואלה",
-          "source_label_he": "וואלה",
-          "published_at": "2026-11-25T19:06:39+00:00",
-          "image_url": "https://img.wcdn.co.il/f_auto,q_auto,w_500/3/8/4/6/3846262-46.jpg"
+          "id": "742373394a",
+          "title": "כך האקרים פורצים לרכב שלכם - דרך מחשב המוסך",
+          "url": "https://www.israelhayom.co.il/tech/tech-news/article/21943238",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "culture_entertainment",
+      "label_he": "תרבות ובידור",
+      "summary_he": "בהוליווד, הוגשה תביעה נגד במאי בגין פגיעה גופנית וביטוי אנטישמי. בתוך כך, צלם אמן תיעד את הירח כמעט במקרה, בעוד ההיסטוריה העתיקה משכה עניין עם גילוי קללות כתובות על קברים מצריים.",
+      "headlines": [
+        {
+          "id": "98eb762be3",
+          "title": "Hollywood filmmaker Antoine Fuqua accused in lawsuit of assault, using antisemitic slur",
+          "url": "https://www.timesofisrael.com/hollywood-filmmaker-antoine-fuqua-accused-in-lawsuit-of-assault-using-antisemitic-slur/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-27T02:15:23+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26111288198866-1024x640.jpg"
+        },
+        {
+          "id": "8f4ad60751",
+          "title": "אני אוהב לרדוף אחר הירח. הפעם צילמתי אותו כמעט במקרה",
+          "url": "https://www.haaretz.co.il/news/picofweek/2026-11-26/ty-article-magazine/.premium/000001a2-1790-d8fe-afaa-b7fd51530000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-26T16:59:29+00:00",
+          "image_url": null
+        },
+        {
+          "id": "73bd1f0b06",
+          "title": "קללה על הקבר: הסוד ממצרים העתיקה נחשף",
+          "url": "https://www.israelhayom.co.il/magazine/shishabat/article/21937337",
+          "source": "israel_hayom",
+          "source_label": "ישראל היום",
+          "source_label_he": "ישראל היום",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "key": "religion_society",
+      "label_he": "דת וחברה",
+      "summary_he": "בחו\"ל גדלות ההתבטאויות האנטישמיות — מנהיג הימין בצרפת השמיע התבטאויות פוגעניות על הציונים והבנקים, בעוד בלגיה סגרה פרצה בחוק שאפשרה צלחות רישום אנטישמיות. בחזית הפנימית, מתנחלים מילאו מקווה עתיק ביריחו בלא היתר וסיכנו את המבנה.",
+      "headlines": [
+        {
+          "id": "67a7eb8fd3",
+          "title": "התבטאויות אנטישמיות של מנהיג הימין בצרפת: \"הציונים עומדים בראש הבנקים\"",
+          "url": "https://www.mako.co.il/news-world/2026_q4/Article-0e87cb8ab7712a1027.htm",
+          "source": "mako",
+          "source_label": "N12",
+          "source_label_he": "N12",
+          "published_at": "2026-11-26T11:04:00+00:00",
+          "image_url": "https://img.mako.co.il/2026/11/26/BARDELA_re_autoOrient_i.jpg"
+        },
+        {
+          "id": "baf3c881c3",
+          "title": "Belgium closes loophole that allowed antisemitic license plates to stay on road",
+          "url": "https://www.timesofisrael.com/belgium-closes-loophole-that-allowed-antisemitic-license-plates-to-stay-on-road/",
+          "source": "times_of_israel",
+          "source_label": "Times of Israel",
+          "source_label_he": "Times of Israel",
+          "published_at": "2026-11-26T23:56:32+00:00",
+          "image_url": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP793157030173-1024x640.jpg"
+        },
+        {
+          "id": "50f01b129c",
+          "title": "מתנחלים מילאו מקווה עתיק ביריחו בלי היתר וסיכנו את המבנה",
+          "url": "https://www.haaretz.co.il/news/politics/2026-11-26/ty-article/.premium/000001a2-1870-d62f-a5ff-df7923a30000",
+          "source": "haaretz",
+          "source_label": "הארץ",
+          "source_label_he": "הארץ",
+          "published_at": "2026-11-26T16:55:50+00:00",
+          "image_url": null
         }
       ]
     },
     {
       "key": "real_estate",
       "label_he": "נדל\"ן ודיור",
-      "summary_he": "בשוק הנדל\"ן: דמרי דיווחה על ירידה של 37 אחוזים במכירות דירות וגידול במלאי גדול על המדף, עם תזרים שלילי של חצי מיליארד שקל.",
+      "summary_he": "שתי דירות בירושלים נמכרו בהצעות גבוהות של 3.5 מיליון שקל, כשאחת כללה שלושה חדרים והשנייה ארבעה וחצי חדרים.",
       "headlines": [
         {
-          "id": "0c64514289",
-          "title": "דמרי מציגה ירידה של 37% במכירות ומלאי גדול של דירות על המדף",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001565073",
-          "source": "globes",
-          "source_label": "גלובס",
-          "source_label_he": "גלובס",
-          "published_at": "2026-11-26T07:06:00+00:00",
-          "image_url": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1784563792/WhatsApp_Image_2026-07-20_at_19.06.10_l3iymt.jpg"
-        },
-        {
-          "id": "2ca8aec5d5",
-          "title": "דו\"חות דמרי: ירידה במספר הדירות שנמכרו - ותזרים שלילי של חצי מיליארד שקל",
-          "url": "https://www.themarker.com/markets/2026-11-26/ty-article/.premium/000001a2-1665-ded0-a5b6-d665904b0000",
+          "id": "5b25dcfe58",
+          "title": "שתי דירות בירושלים נמכרו ב–3.5 מיליון שקל: באחת 3 חדרים ובשנייה 4.5 חדרים",
+          "url": "https://www.themarker.com/realestate/2026-11-27/ty-article/.premium/000001a2-190f-d809-adef-7bef62cb0000",
           "source": "themarker",
           "source_label": "TheMarker",
           "source_label_he": "TheMarker",
-          "published_at": "2026-11-26T05:52:23+00:00",
-          "image_url": "https://img.haarets.co.il/bs/000001a2-1687-d0a2-afb7-569f5a5d0000/9e/da/2d9063cb4603819ef956abbc862f/369405.jpg?width=108&height=81"
-        }
-      ]
-    },
-    {
-      "key": "environment",
-      "label_he": "סביבה ואקלים",
-      "summary_he": "במישור הסביבה: תחזית מזג האוויר מדווחת שהגשם עדיין לא חזר לישראל.",
-      "headlines": [
-        {
-          "id": "83c18b5704",
-          "title": "תחזית מזג האוויר: הגשם עוד לא חזר, אבל אני כן",
-          "url": "https://www.haaretz.co.il/news/weather/2026-11-25/ty-article/.premium/000001a2-1339-d205-afa3-3f7f47900000",
-          "source": "haaretz",
-          "source_label": "הארץ",
-          "source_label_he": "הארץ",
-          "published_at": "2026-11-25T17:56:06+00:00",
-          "image_url": null
+          "published_at": "2026-11-27T04:43:04+00:00",
+          "image_url": "https://img.haarets.co.il/bs/000001a2-1960-ded0-a5b6-dd601af30000/b6/44/435001a8432e81cebc453510ee42/burla-desk.jpg?width=108&height=81"
         }
       ]
     }
@@ -257,177 +304,12 @@
   "sources_failed": [],
   "world": {
     "israel_jewish": {
-      "summary_en": "Israeli political developments dominate headlines, with the Knesset advancing legislation for an October 7 inquiry commission and Israeli judges recommending the dismissal of most serious criminal charges against Prime Minister Netanyahu. An IDF strike in Gaza City killed a senior Hamas security official and family members. U.S. political figures, including Governor Josh Shapiro, have criticized both the Biden and Trump administrations for insufficient pressure on Netanyahu's policies. Jewish communities in Belgium also feature prominently, including a profile of an individual who left the ultra-Orthodox community in Antwerp after decades of belonging.",
+      "summary_en": "Israeli military operations in Gaza have resulted in the deaths of 16 schoolchildren this month, according to Palestinian health authorities. Belgium's highest court ruled that the country is not legally obligated to evacuate the family of a terminally ill doctor from Gaza. Belgian humanitarian workers continue operating in Palestine, with officials witnessing firsthand the destruction of civilian homes and communities. Meanwhile, TikTok faces ongoing scrutiny for failing to adequately combat antisemitic content circulating on its platform.",
       "headlines": [
         {
-          "id": "011256b110",
-          "title": "Knesset advances bill to create Oct. 7 inquiry commission",
-          "url": "https://www.jta.org/2026/11/25/israel/knesset-advances-bill-to-create-oct-7-inquiry-commission",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-11-25T23:38:10+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-25-Orit-Farkash-Hacohen.jpg"
-        },
-        {
-          "id": "01c5afa572",
-          "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-11-25T19:47:39+00:00",
-          "image_url": null
-        },
-        {
-          "id": "a26799995f",
-          "title": "What are the criminal cases against Netanyahu now coming into question?",
-          "url": "https://www.jta.org/2026/11/25/israel/what-are-the-criminal-cases-against-netanyahu-now-coming-into-question",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-11-25T21:15:40+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-25-2026-Netanyahu-scaled.jpg"
-        },
-        {
-          "id": "27aa41ea10",
-          "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-          "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
-          "source": "bbc_world",
-          "source_label": "BBC World",
-          "source_label_en": "BBC World",
-          "published_at": "2026-11-25T14:06:13+00:00",
-          "image_url": null
-        },
-        {
-          "id": "9083662cc7",
-          "title": "Josh Shapiro slams Biden, Trump for failing to put the brakes on Netanyahu",
-          "url": "https://www.jta.org/2026/11/25/politics/josh-shapiro-slams-biden-trump-for-failing-to-put-the-brakes-on-netanyahu",
-          "source": "jta",
-          "source_label": "JTA",
-          "source_label_en": "JTA",
-          "published_at": "2026-11-26T03:10:23+00:00",
-          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/11-25-Josh-Shapiro.jpg"
-        },
-        {
-          "id": "6fbf70ec43",
-          "title": "\"Physically I've left, but my spirit is still trapped\": Avi (36) fled the ultra-Orthodox Jewish community in Antwerp",
-          "url": "https://www.hln.be/binnenland/fysiek-ben-ik-eruit-gestapt-maar-mijn-geest-zit-nog-gevangen-avi-36-ontvluchtte-de-ultraorthodoxe-joodse-gemeenschap-in-antwerpen~ab34a47e/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-11-26T06:00:00+00:00",
-          "image_url": "https://images.hln.be/MWZlYWM4NTRjMDY4ZjRhZjA0OGIvZGlvLzI4MDcxODQ1NC9maXQtd2lkdGgvNDAw/kopfoto-jood-avi-getuigeniss"
-        }
-      ]
-    },
-    "belgium": {
-      "summary_en": "Belgium faces significant health and infrastructure challenges. Belgium's measles vaccination rate ranks second-lowest in the entire EU, with French-speaking regions showing particularly low vaccination levels. In local incidents, a house collapsed in Strépy-Bracquegnies, hospitalizing a 12-year-old girl, with possibly two additional people trapped in the rubble. Data security concerns emerged after energy supplier Eneco reported a possible customer data breach by hackers. Academic news from KU Leuven stirred controversy with the awarding of an honorary doctorate to Anthony Fauci, architect of U.S. COVID policy.",
-      "headlines": [
-        {
-          "id": "4f8398060c",
-          "title": "Belgian measles vaccination rate second-lowest in entire EU, with dramatically low numbers in French-speaking Belgium",
-          "url": "https://www.demorgen.be/nieuws/belgische-vaccinatiegraad-tegen-mazelen-op-een-na-laagste-van-hele-eu-vooral-dramatisch-laag-aantal-gevaccineerden-in-franstalig-belgie~be9b5c64/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-11-26T06:05:00+00:00",
-          "image_url": "https://image.demorgen.be/280724741/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "c5dceb19e4",
-          "title": "House collapsed in Strépy-Bracquegnies: 12-year-old girl hospitalized, possibly two more people under the rubble",
-          "url": "https://www.hln.be/binnenland/huis-ingestort-in-strepy-bracquegnies-meisje-12-naar-ziekenhuis-mogelijk-nog-twee-mensen-onder-het-puin~afb1365f/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-11-26T06:22:00+00:00",
-          "image_url": "https://images.hln.be/NGI4YzdiYzU3N2I3Y2IyYzM1ZWYvZGlvLzI4MDczOTk4NS9maXQtd2lkdGgvNDAw/hautes-fagnes-belgium-august-17-firefighting-crews-continue-to-intervene-in-areas-that-can-be-reached-by-land-as-a-forest-fire-continues-to-burn-in-the-hautes-fagnes-region-of-eastern-belgium-on-august-17-2026-the-fire-which-broke-out-on-friday-has-affected-approximately-3-000-hectares-while-its-spread-has-slowed-compared-with-previous-days-photo-by-dursun-aydemir-anadolu-via-getty-images"
-        },
-        {
-          "id": "fa25596709",
-          "title": "Possible customer data stolen from energy supplier Eneco by hackers",
-          "url": "https://www.demorgen.be/tech-ai/mogelijk-gegevens-van-klanten-gestolen-bij-energieleverancier-eneco-door-hackers~bc1c242c/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-11-26T02:30:00+00:00",
-          "image_url": "https://image.demorgen.be/159463762/feature-crop/320/320/afbeelding"
-        },
-        {
-          "id": "44115d3869",
-          "title": "Honorary doctorate for Anthony Fauci, architect of American COVID policy, causes controversy at KU Leuven",
-          "url": "https://www.demorgen.be/nieuws/eredoctoraat-voor-anthony-fauci-architect-van-amerikaans-covidbeleid-zorgt-voor-controverse-aan-ku-leuven~b74da04c/",
-          "source": "de_morgen",
-          "source_label": "De Morgen",
-          "source_label_en": "De Morgen",
-          "published_at": "2026-11-26T02:00:49+00:00",
-          "image_url": "https://image.demorgen.be/280717573/feature-crop/320/320/afbeelding"
-        }
-      ]
-    },
-    "europe": {
-      "summary_en": "European institutions and politics remain turbulent amid multiple crises. Poland's Tusk government faces mounting legal pressure as European courts resume cases against the country. France-Germany relations are strained, with French politician Jean-Luc Mélenchon intensifying his criticism of Germany. Germany is debating significant policy changes regarding prostitution. EU leaders are preparing for a contentious summit described as a potential \"bloodbath,\" while climate policy criticism mounts following the failed COP summit in Antalya. Meanwhile, post-Brexit tensions continue as EU nationals face higher university tuition fees in the UK than British students.",
-      "headlines": [
-        {
-          "id": "403262e276",
-          "title": "Tusk government 'facing armageddon' as European court resumes cases against Poland",
-          "url": "https://www.politico.eu/article/donald-tusk-government-facing-armageddon-as-european-court-resumes-cases-against-poland/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-11-25T20:45:59+00:00",
-          "image_url": null
-        },
-        {
-          "id": "54d5730996",
-          "title": "Why Jean-Luc Mélenchon has it in for Germany",
-          "url": "https://www.politico.eu/article/why-jean-luc-melenchon-has-it-in-for-germany/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-11-26T03:00:00+00:00",
-          "image_url": null
-        },
-        {
-          "id": "484add440a",
-          "title": "Prostitution in Germany facing the end?",
-          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/prostitution-in-deutschland-vor-dem-aus/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-11-26T04:01:00+00:00",
-          "image_url": null
-        },
-        {
-          "id": "f4851332a2",
-          "title": "EU leaders brace for a summit 'bloodbath'",
-          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/eu-leaders-brace-for-a-summit-bloodbath/",
-          "source": "politico_eu",
-          "source_label": "Politico Europe",
-          "source_label_en": "Politico Europe",
-          "published_at": "2026-11-26T05:05:00+00:00",
-          "image_url": null
-        }
-      ]
-    },
-    "world_top": {
-      "summary_en": "Global headlines span technology, geopolitics, and infrastructure disruptions. SpaceX received approval to launch one million satellites around Earth that will function as solar-powered data centers. In China, a man attacked a government building with an excavator, raising questions about citizens' willingness to engage in protest despite government restrictions. Russia's detention of a Japanese journalist has prompted pleas from his wife for his release. Bangladesh raised minimum wages for clothing workers, though the increase represents the smallest rise in nearly four decades. A FedEx plane overshot a Miami runway, briefly suspending airport operations.",
-      "headlines": [
-        {
-          "id": "04720385c6",
-          "title": "SpaceX allowed to launch million satellites around Earth that serve as solar-powered data centers",
-          "url": "https://www.hln.be/buitenland/spacex-mag-miljoen-satellieten-rond-aarde-lanceren-die-dienstdoen-als-datacenters-op-zonne-energie~a6f76a4b/",
-          "source": "hln",
-          "source_label": "HLN",
-          "source_label_en": "HLN",
-          "published_at": "2026-11-26T05:44:00+00:00",
-          "image_url": "https://images.hln.be/ZWU2NjczMDEyYjFlYjhhNmVmYTAvZGlvLzI3NTEwMzU1OS9maXQtd2lkdGgvNDAw/space-x"
-        },
-        {
-          "id": "710d7798a2",
-          "title": "Man attacks government building with excavator in China: why do Chinese still dare protest?",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/man-valt-overheidsgebouw-aan-met-graafmachine-in-china-waarom-w/",
+          "id": "effab91984",
+          "title": "Israel-Palestine conflict: Belgium not obligated to evacuate terminally ill doctor's family from Gaza, court rules",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/palestijnse-arts-vraag-afgewezen/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
@@ -435,19 +317,194 @@
           "image_url": null
         },
         {
-          "id": "9a38e3655c",
-          "title": "'Trapped in grief': wife of Japanese journalist detained by Russia pleads for his release",
-          "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+          "id": "9fc728089f",
+          "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+          "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
           "source": "guardian_world",
           "source_label": "The Guardian",
           "source_label_en": "The Guardian",
-          "published_at": "2026-11-26T05:16:17+00:00",
-          "image_url": "https://i.guim.co.uk/img/media/f7349b5a0198586f19bc4822b8a0fa79befc8a06/321_0_1567_1254/master/1567.jpg?width=700&quality=85&auto=format&fit=max&s=278f2eab3eb8c427ea22278ff54c9e9a"
+          "published_at": "2026-11-26T20:33:07+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/fb6f93363b44e1d9e8b27377c45da23d0f007ce4/215_0_5200_4160/master/5200.jpg?width=700&quality=85&auto=format&fit=max&s=752df2701d031f168c15e2990f3a389a"
         },
         {
-          "id": "ea2332fc66",
-          "title": "Bangladesh raises minimum wage for clothing workers, but it is the smallest increase in nearly 40 years",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/bangladesh-verhoogt-het-minimumloon-voor-kledingarbeiders-na-wek/",
+          "id": "1dff249071",
+          "title": "Heidi De Pauw leads Belgian aid in Palestine: 'Suddenly you're looking at the destroyed home of a colleague and his family'",
+          "url": "https://www.demorgen.be/nieuws/heidi-de-pauw-leidt-de-belgische-hulp-in-palestina-plots-sta-je-te-kijken-naar-het-vernielde-huis-van-een-collega-en-zijn-gezin~b66d0158/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-26T16:52:00+00:00",
+          "image_url": "https://image.demorgen.be/280748880/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "6c9d12a968",
+          "title": "TikTok has taken steps to combat antisemitism. So why is it still so easy to find?",
+          "url": "https://www.jta.org/2026/11/26/ideas/tiktok-has-taken-steps-to-combat-antisemitism-so-why-is-it-still-so-easy-to-find",
+          "source": "jta",
+          "source_label": "JTA",
+          "source_label_en": "JTA",
+          "published_at": "2026-11-26T16:00:00+00:00",
+          "image_url": "https://www.jta.org/wp-content/uploads/2026/11/Untitled-Design-30.jpg"
+        }
+      ]
+    },
+    "belgium": {
+      "summary_en": "Belgium faces declining measles vaccination rates, performing worse than most European peer nations in immunization coverage. The closure of Don Bosco school in Genk has renewed concerns about student violence in Belgian educational institutions. As national elections approach, Belgian political parties are intensifying their campaigns to mobilize voters. King Philippe honored the last living witnesses of World War II in a ceremony at Laken Palace, recognizing their historical testimony. Authorities conducted a search at a public figure's residence, with multiple complaints also having been filed.",
+      "headlines": [
+        {
+          "id": "2633f5d9a9",
+          "title": "Terzake: 'Let's have a beer together and get things settled': VRT polls voters as Belgian elections approach",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/11/26/terzake-verkiezingen-stemhokje/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "2782fb3cac",
+          "title": "One of Europe's worst performers: why is Belgium struggling so badly with measles vaccination?",
+          "url": "https://www.demorgen.be/nieuws/een-van-de-slechtste-leerlingen-van-de-europese-klas-waarom-doet-belgie-het-zo-slecht-met-vaccineren-tegen-de-mazelen~b6e847d9/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-27T02:00:00+00:00",
+          "image_url": "https://image.demorgen.be/280761509/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "267ffe29bc",
+          "title": "After Don Bosco Genk's closure: understanding why student violence persists in Belgian schools",
+          "url": "https://www.demorgen.be/meningen/na-de-sluiting-van-don-bosco-genk-de-sleutel-ligt-bij-de-vraag-waarom-leerlingen-elkaar-op-school-de-kop-inslaan~b04e708e/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-26T18:00:00+00:00",
+          "image_url": "https://image.demorgen.be/280758228/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "0c5b8c28c1",
+          "title": "11 centenarians at Laken Palace: King honors the last living WWII witnesses",
+          "url": "https://www.vrt.be/vrtnws/nl/kijk/2026/11/26/video-koning-filip-ontmoet-oudstrijders/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        },
+        {
+          "id": "041de2f308",
+          "title": "Search conducted at BruineMehdi's residence; sixth complaint also filed",
+          "url": "https://www.demorgen.be/nieuws/huiszoeking-uitgevoerd-bij-bruinemehdi-er-zou-ook-zesde-klacht-ingediend-zijn~b3ffada8/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-27T06:06:00+00:00",
+          "image_url": "https://image.demorgen.be/280164726/feature-crop/320/320/afbeelding"
+        }
+      ]
+    },
+    "europe": {
+      "summary_en": "Spain faces a critical general election with housing affordability emerging as a central campaign issue, while polls suggest a possible rightward shift toward a PP-Vox coalition government. Germany's governing coalition faces internal tensions over pension reform proposals that threaten to split the alliance. The UK and EU have concluded a new treaty that includes a 10-year termination clause, reflecting ongoing post-Brexit relationship negotiations. Europe continues managing migration pressures, with sustained challenges at the Spanish-North African border in Ceuta.",
+      "headlines": [
+        {
+          "id": "b69c72f7a3",
+          "title": "How Germany's pension dispute threatens to split the coalition",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-26T15:23:17+00:00",
+          "image_url": null
+        },
+        {
+          "id": "346abff310",
+          "title": "Could housing decide Spain's general election?",
+          "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-27T06:09:31+00:00",
+          "image_url": null
+        },
+        {
+          "id": "6c1bff4fa8",
+          "title": "Spain's right turn: What a PP-Vox government would mean for Madrid — and Brussels",
+          "url": "https://www.politico.eu/article/spain-right-turn-what-pp-vox-government-would-mean-for-madrid-brussels/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-27T03:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "b69c72f7a3",
+          "title": "New UK-EU treaty has 10-year termination clause",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+          "source": "bbc_world",
+          "source_label": "BBC World",
+          "source_label_en": "BBC World",
+          "published_at": "2026-11-26T15:23:17+00:00",
+          "image_url": null
+        },
+        {
+          "id": "f19e559b51",
+          "title": "Europe: VRT returns to Ceuta, where the migration crisis remains an open wound",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/ceuta-de-migratiecrisis-die-een-etterende-wonde-werd/",
+          "source": "vrt",
+          "source_label": "VRT NWS",
+          "source_label_en": "VRT NWS",
+          "published_at": null,
+          "image_url": null
+        }
+      ]
+    },
+    "world_top": {
+      "summary_en": "Ukrainian President Zelensky sharply criticized U.S. President-elect Trump's stated friendship with Vladimir Putin, drawing a stark historical comparison to the appeasement of Hitler during World War II. Ukraine is pressing its international allies to exclude Russian athletes from international competitions. North Korean leader Kim Jong-un's daughter drew international attention by displaying European luxury brands typically forbidden to North Korean elites during a skiing vacation. Australian broadcaster Alan Jones concluded his defense in his indecent assault trial, as the case nears its conclusion.",
+      "headlines": [
+        {
+          "id": "a084662897",
+          "title": "Zelensky attacks Trump over his 'friendship' with Putin: 'As if during WWII you'd said Hitler was your friend'",
+          "url": "https://www.hln.be/buitenland/zelensky-haalt-fors-uit-naar-trump-en-zijn-vriendschap-met-poetin-alsof-je-tijdens-wo-ii-gezegd-had-dat-hitler-goede-vriend-was~a03c2d481/",
+          "source": "hln",
+          "source_label": "HLN",
+          "source_label_en": "HLN",
+          "published_at": "2026-11-27T06:32:00+00:00",
+          "image_url": "https://images.hln.be/MTk0MTlkMDRlMDA0NzIyMDU1MGMvZGlvLzI4MDc3MjY5NS9maXQtd2lkdGgvNDAw/epa13368111-ukraine-s-president-volodymyr-zelensky-holds-a-press-briefing-in-copenhagen-denmark-10-november-2026-epa-emil-nicolai-helms-denmark-out-inzet-president-donald-trump-speaks-with-reporters-after-calling-troops-from-mar-a-lago-on-thanksgiving-thursday-nov-26-2026-in-palm-beach-fla-ap-photo-julia-demaree-nikhinson"
+        },
+        {
+          "id": "233e2802dd",
+          "title": "Ukraine cajoles allies to keep Putin's athletes out",
+          "url": "https://www.politico.eu/article/ukraine-pushes-allies-keep-russian-athletes-out-putin-international-sport-restrictions/",
+          "source": "politico_eu",
+          "source_label": "Politico Europe",
+          "source_label_en": "Politico Europe",
+          "published_at": "2026-11-27T03:00:00+00:00",
+          "image_url": null
+        },
+        {
+          "id": "ccd891d19a",
+          "title": "Kim Jong-un's daughter sparks controversy with ski trip: how did she obtain those banned European luxury brands?",
+          "url": "https://www.demorgen.be/nieuws/dochter-kim-jong-un-veroorzaakt-ophef-met-skitrip-hoe-komt-ze-aan-die-verboden-europese-luxemerken~b9dc6cf8/",
+          "source": "de_morgen",
+          "source_label": "De Morgen",
+          "source_label_en": "De Morgen",
+          "published_at": "2026-11-26T14:06:00+00:00",
+          "image_url": "https://image.demorgen.be/280425137/feature-crop/320/320/afbeelding"
+        },
+        {
+          "id": "6fad8c983f",
+          "title": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+          "source": "guardian_world",
+          "source_label": "The Guardian",
+          "source_label_en": "The Guardian",
+          "published_at": "2026-11-27T05:02:40+00:00",
+          "image_url": "https://i.guim.co.uk/img/media/9a14f73bf85c82ca8d5e453d06c96c43a6951725/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=6f97aad1563aa035da4404c2eae9a898"
+        },
+        {
+          "id": "cdbe9d55a9",
+          "title": "Ukraine-Russia war liveblog: 'Zelensky has increasingly less to lose,' says Russia expert after Zelensky's sharp criticism of Trump",
+          "url": "https://www.vrt.be/vrtnws/nl/liveblog/zelensky-heeft-steeds-minder-te-verliezen-ruslandkenner-marij~1793644191149/",
           "source": "vrt",
           "source_label": "VRT NWS",
           "source_label_en": "VRT NWS",
